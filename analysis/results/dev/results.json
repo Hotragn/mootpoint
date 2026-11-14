@@ -1,0 +1,1050 @@
+{
+  "meta": {
+    "split": "dev",
+    "n_boot": 10000,
+    "seed": 20261114,
+    "alpha": 0.05,
+    "tost_margin": 0.03,
+    "files": {
+      "claims": {
+        "path": "runs/dev/claims.jsonl",
+        "sha256": "78bbe8fe602cf33f71591e7da2ee241278a046aceee43af7887e197421ffc76c"
+      },
+      "descriptions": {
+        "path": "runs/dev/descriptions.jsonl",
+        "sha256": "9f598622ac79f8e598d6302e024415715203e53c17b61e2f0bdc8903e5289289"
+      },
+      "presence": {
+        "path": "runs/dev/presence.jsonl",
+        "sha256": "a047ddc6be2199357746d0e5a5b2988fe153cc40dd724a5cf23cb7ba26446c4b"
+      },
+      "verifiers": {
+        "path": "runs/dev/verifiers.jsonl",
+        "sha256": "1109cfa26421dfe7f9f337fc5edbcd064dbad9a27e7e75996778d533d5af079e"
+      },
+      "judge2": {
+        "path": "runs/dev/judge2.jsonl",
+        "sha256": "3fa8ba7a31665ca31ddf7e00bbdc0df530de8c5962a573b4292f448d3cae968b"
+      }
+    },
+    "analyze_py_sha256": "8135fa2c52e5bcd013595769a4c0201aab2efd028f2bdf376ffc1fa1e7eef1e3",
+    "score": "suspicion = 2 - k_X, k_X = number of ASSERTS in pair X; AUROC ties count 1/2",
+    "ci_method": "percentile, dossier-cluster bootstrap (dossiers resampled with all models and claims)",
+    "p_method": "one-sided bootstrap p = (1 + #{stat* <= 0}) / (B_valid + 1)",
+    "decision": "supported iff Holm-adjusted one-sided p < 0.05 over {H1a, H2, H3}"
+  },
+  "n": {
+    "dossiers_in_split": 24,
+    "dossiers_analysed": 24,
+    "models": [
+      "deepseek-v4-flash",
+      "gemma-4-31b-it",
+      "glm-53-flash"
+    ],
+    "cells_expected": 72,
+    "cells_complete": 69,
+    "cells_excluded": 3,
+    "claims_total": 4093,
+    "claims_in_complete_cells": 3994,
+    "N1_claims": 1341,
+    "N1_unwarranted": 86,
+    "N1_warranted": 1255,
+    "N1_by_label": {
+      "GOLD": 916,
+      "SUPPORTED_OTHER": 256,
+      "NEUTRAL_INFERENCE": 83,
+      "SIDE_TAKING": 78,
+      "UNSUPPORTED_FACT": 8
+    },
+    "side_taking_claims_with_side": {
+      "A": 115,
+      "B": 75,
+      "N1": 65
+    },
+    "repaired_in_complete_cells": {
+      "side_missing": {
+        "A": 15,
+        "B": 6,
+        "N1": 13
+      },
+      "gold_id_missing": {
+        "A": 65,
+        "B": 67,
+        "N1": 53
+      }
+    },
+    "repaired_in_file": {
+      "side_missing": {
+        "A": 15,
+        "B": 6,
+        "N1": 13
+      },
+      "gold_id_missing": {
+        "A": 69,
+        "B": 69,
+        "N1": 53
+      }
+    },
+    "H1b_cells": 69,
+    "N1_with_v_closed": 1116,
+    "N1_with_v_file": 1116,
+    "N1_with_label2": 1341
+  },
+  "exclusions": {
+    "cells": [
+      {
+        "dossier_id": "protest-06",
+        "model": "glm-53-flash",
+        "reason": "no labelled claims for: B"
+      },
+      {
+        "dossier_id": "protest-09",
+        "model": "gemma-4-31b-it",
+        "reason": "missing or excluded descriptions: N2,N3; 7 N1 claim(s) lack presence rows for all 7 framings"
+      },
+      {
+        "dossier_id": "workplace-06",
+        "model": "glm-53-flash",
+        "reason": "no labelled claims for: N1"
+      }
+    ],
+    "max_rate_model_x_framing": 0.041666666666666664,
+    "over_10pct": []
+  },
+  "auroc": {
+    "OPP": {
+      "estimate": 0.6633836746039099,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.5762436548268698,
+      "ci95_high": 0.7643580224765949
+    },
+    "SC": {
+      "estimate": 0.7112758269248587,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.622523362826856,
+      "ci95_high": 0.8117034442448677
+    },
+    "DIV": {
+      "estimate": 0.7271333271564904,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.6683766060565025,
+      "ci95_high": 0.8031503273499198
+    },
+    "SAME": {
+      "estimate": 0.6509218938200686,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.5703458206059124,
+      "ci95_high": 0.7467293673388253
+    }
+  },
+  "delta_auroc": {
+    "OPP_SC": {
+      "estimate": -0.04789215232094879,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.10711961492963598,
+      "ci95_high": 0.015780633779585215,
+      "ci90_low": -0.09645607967293077,
+      "ci90_high": 0.003784172979951839,
+      "p_one_sided": 0.9377062293770623
+    },
+    "OPP_DIV": {
+      "estimate": -0.06374965255258047,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.12568428367446274,
+      "ci95_high": 0.004996130282839915,
+      "ci90_low": -0.1162453003986,
+      "ci90_high": -0.005674893034376075,
+      "p_one_sided": 0.966003399660034
+    },
+    "OPP_SAME": {
+      "estimate": 0.012461780783841303,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.01747748940925582,
+      "ci95_high": 0.04876809857079401,
+      "ci90_low": -0.012168427731957603,
+      "ci90_high": 0.04163547841890894,
+      "p_one_sided": 0.20137986201379862
+    },
+    "DIV_SC": {
+      "estimate": 0.015857500231631683,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.03313882023088438,
+      "ci95_high": 0.06495623334017504,
+      "ci90_low": -0.025601382644555807,
+      "ci90_high": 0.056891604211185956,
+      "p_one_sided": 0.28477152284771523
+    }
+  },
+  "confirmatory": {
+    "H1a": {
+      "estimate": 0.15043478260869567,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.034011109158272296,
+      "ci95_high": 0.2832875718580546,
+      "ci90_low": 0.05097633518686156,
+      "ci90_high": 0.26105313243457573,
+      "p_one_sided": 0.0046995300469953,
+      "p_holm": 0.014098590140985901,
+      "holm_rank": 1,
+      "holm_alpha": 0.016666666666666666,
+      "holm_one_sided_lower": 0.02456356095679009,
+      "holm_one_sided_level": 0.9833333333333333,
+      "supported": true,
+      "n_side_taking": {
+        "A": 115,
+        "B": 75,
+        "N1": 65
+      },
+      "n_side_missing_excluded": {
+        "A": 15,
+        "B": 6,
+        "N1": 13
+      }
+    },
+    "H2": {
+      "estimate": -0.04789215232094879,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.10711961492963598,
+      "ci95_high": 0.015780633779585215,
+      "ci90_low": -0.09645607967293077,
+      "ci90_high": 0.003784172979951839,
+      "p_one_sided": 0.9377062293770623,
+      "p_holm": 1.0,
+      "holm_rank": 2,
+      "holm_alpha": 0.025,
+      "holm_one_sided_lower": -0.10711961492963598,
+      "holm_one_sided_level": 0.975,
+      "supported": false,
+      "tost_equivalent_within_0.03": false
+    },
+    "H3": {
+      "estimate": -0.06374965255258047,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.12568428367446274,
+      "ci95_high": 0.004996130282839915,
+      "ci90_low": -0.1162453003986,
+      "ci90_high": -0.005674893034376075,
+      "p_one_sided": 0.966003399660034,
+      "p_holm": 1.0,
+      "holm_rank": 3,
+      "holm_alpha": 0.05,
+      "holm_one_sided_lower": -0.1162453003986,
+      "holm_one_sided_level": 0.95,
+      "supported": false,
+      "tost_equivalent_within_0.03": false
+    }
+  },
+  "secondary": {
+    "and_rule": {
+      "OPP": {
+        "BA": {
+          "estimate": 0.6447049013249329,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5666071604941022,
+          "ci95_high": 0.7334111094428463
+        },
+        "retention": {
+          "estimate": 0.6196868008948546,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5864378138390909,
+          "ci95_high": 0.6536112389196029
+        },
+        "precision": {
+          "estimate": 0.9638989169675091,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.9353163762270756,
+          "ci95_high": 0.9874383651675146
+        }
+      },
+      "SC": {
+        "BA": {
+          "estimate": 0.6872602612804596,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6088104842235584,
+          "ci95_high": 0.7753953644795721
+        },
+        "retention": {
+          "estimate": 0.7225950782997763,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.689705830498631,
+          "ci95_high": 0.7579279158469217
+        },
+        "precision": {
+          "estimate": 0.9669762641898865,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.941173481587757,
+          "ci95_high": 0.9872068850101652
+        }
+      },
+      "DIV": {
+        "BA": {
+          "estimate": 0.7019873992402483,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.651597464461101,
+          "ci95_high": 0.7669789666409931
+        },
+        "retention": {
+          "estimate": 0.692020879940343,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6492998791211221,
+          "ci95_high": 0.7327488675456484
+        },
+        "precision": {
+          "estimate": 0.9709051724137931,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.9514255543822597,
+          "ci95_high": 0.9880304678998912
+        }
+      },
+      "SAME": {
+        "BA": {
+          "estimate": 0.62177337162976,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5527667030810766,
+          "ci95_high": 0.7041658877897529
+        },
+        "retention": {
+          "estimate": 0.6465324384787472,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6022252356668212,
+          "ci95_high": 0.6924913546857454
+        },
+        "precision": {
+          "estimate": 0.9584775086505191,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.9297816774235345,
+          "ci95_high": 0.9822490452809602
+        }
+      }
+    },
+    "matched_retention_precision": {
+      "retention_target": {
+        "estimate": 0.6196868008948546,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5864378138390909,
+        "ci95_high": 0.6536112389196029
+      },
+      "OPP": {
+        "estimate": 0.9638989169675091,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.9353163762270756,
+        "ci95_high": 0.9874383651675146
+      },
+      "SC": {
+        "estimate": 0.9699157641395909,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.9434405013282474,
+        "ci95_high": 0.9872615516766341
+      },
+      "DIV": {
+        "estimate": 0.9723225030084236,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.9537361129774037,
+        "ci95_high": 0.98875
+      },
+      "SAME": {
+        "estimate": 0.9590854392298436,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.9326482539569877,
+        "ci95_high": 0.9820838344053271
+      },
+      "delta_OPP_SC": {
+        "estimate": -0.006016847172081841,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.01573873710701422,
+        "ci95_high": 0.0069046867791253295,
+        "p_one_sided": 0.8178182181781822
+      },
+      "delta_OPP_DIV": {
+        "estimate": -0.008423586040914532,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.022032072235301448,
+        "ci95_high": 0.0035335689045936647,
+        "p_one_sided": 0.926907309269073
+      }
+    },
+    "verifiers": {
+      "n_v_closed": 1116,
+      "n_v_file": 1116,
+      "auroc_v_closed": {
+        "estimate": 0.8281958481289265,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.742311047628136,
+        "ci95_high": 0.9054692501220529
+      },
+      "auroc_v_file": {
+        "estimate": 0.7976440863152144,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.6866556078767123,
+        "ci95_high": 0.8853133047256757
+      },
+      "auroc_combo": {
+        "estimate": 0.8146954384048074,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.7159494328266719,
+        "ci95_high": 0.9086080105059772
+      },
+      "auroc_OPP_same_claims": {
+        "estimate": 0.6696121278339252,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5734396789517912,
+        "ci95_high": 0.7756250725064721
+      },
+      "delta_combo_minus_v_closed": {
+        "estimate": -0.013500409724119145,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.06421059473852099,
+        "ci95_high": 0.05114834283114161,
+        "p_one_sided": 0.6755324467553244
+      },
+      "delta_OPP_minus_v_closed": {
+        "estimate": -0.15858372029500134,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.23788723691945918,
+        "ci95_high": -0.05071313553124615,
+        "p_one_sided": 0.9976002399760024
+      },
+      "gap_recovered_OPP": -0.7800246843254517
+    },
+    "per_model": {
+      "deepseek-v4-flash": {
+        "N1_claims": 513,
+        "N1_unwarranted": 38,
+        "auroc_OPP": {
+          "estimate": 0.5604986149584488,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.455428732090156,
+          "ci95_high": 0.6926293164867815
+        },
+        "auroc_SC": {
+          "estimate": 0.6603047091412743,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5253857132722665,
+          "ci95_high": 0.8357580606233435
+        },
+        "auroc_DIV": {
+          "estimate": 0.6637119113573408,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5683501152035202,
+          "ci95_high": 0.7819597271144659
+        },
+        "auroc_SAME": {
+          "estimate": 0.5613573407202216,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.4566566889657022,
+          "ci95_high": 0.6827514165834364
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.09980609418282549,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.1826347626544345,
+          "ci95_high": -0.02549486532615209,
+          "p_one_sided": 0.9949005099490051
+        },
+        "delta_OPP_DIV": {
+          "estimate": -0.10321329639889198,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.17018811468760137,
+          "ci95_high": -0.029572599120925625,
+          "p_one_sided": 0.9957004299570043
+        }
+      },
+      "gemma-4-31b-it": {
+        "N1_claims": 423,
+        "N1_unwarranted": 20,
+        "auroc_OPP": {
+          "estimate": 0.6011166253101737,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.4792894378914116,
+          "ci95_high": 0.7323851553878618
+        },
+        "auroc_SC": {
+          "estimate": 0.6820719602977667,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5548700964602421,
+          "ci95_high": 0.7973222266774272
+        },
+        "auroc_DIV": {
+          "estimate": 0.7423697270471464,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6176353101232626,
+          "ci95_high": 0.859597841064764
+        },
+        "auroc_SAME": {
+          "estimate": 0.544727047146402,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.4264012388107417,
+          "ci95_high": 0.6924725719684552
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.080955334987593,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.19262948223215437,
+          "ci95_high": 0.07879125332017124,
+          "p_one_sided": 0.8673132686731326
+        },
+        "delta_OPP_DIV": {
+          "estimate": -0.1412531017369727,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.26191843956297384,
+          "ci95_high": 0.01217754371881679,
+          "p_one_sided": 0.9661033896610339
+        }
+      },
+      "glm-53-flash": {
+        "N1_claims": 405,
+        "N1_unwarranted": 28,
+        "auroc_OPP": {
+          "estimate": 0.8411803713527851,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.7509273285071604,
+          "ci95_high": 0.9545724819842466
+        },
+        "auroc_SC": {
+          "estimate": 0.7922034861690034,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6328014823717949,
+          "ci95_high": 0.919346667177053
+        },
+        "auroc_DIV": {
+          "estimate": 0.7955191360363774,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.7053913300204132,
+          "ci95_high": 0.9416675804093567
+        },
+        "auroc_SAME": {
+          "estimate": 0.8384804850322092,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.7515187959874736,
+          "ci95_high": 0.9519293478260868
+        },
+        "delta_OPP_SC": {
+          "estimate": 0.04897688518378174,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.040051163432001116,
+          "ci95_high": 0.24522029578033488,
+          "p_one_sided": 0.19198080191980801
+        },
+        "delta_OPP_DIV": {
+          "estimate": 0.045661235316407756,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.008064516129032251,
+          "ci95_high": 0.13992833648437142,
+          "p_one_sided": 0.06629337066293371
+        }
+      }
+    },
+    "per_domain": {
+      "product": {
+        "N1_claims": 303,
+        "N1_unwarranted": 24,
+        "auroc_OPP": {
+          "estimate": 0.4746863799283154,
+          "n_boot_valid": 9961,
+          "ci95_low": 0.3512658227848101,
+          "ci95_high": 0.6801418439716312
+        },
+        "auroc_SC": {
+          "estimate": 0.5275537634408602,
+          "n_boot_valid": 9961,
+          "ci95_low": 0.4318681318681319,
+          "ci95_high": 0.7261261261261261
+        },
+        "auroc_DIV": {
+          "estimate": 0.6275388291517324,
+          "n_boot_valid": 9961,
+          "ci95_low": 0.5528756957328386,
+          "ci95_high": 0.723159509202454
+        },
+        "auroc_SAME": {
+          "estimate": 0.51194743130227,
+          "n_boot_valid": 9961,
+          "ci95_low": 0.4197860962566845,
+          "ci95_high": 0.6723404255319149
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.05286738351254483,
+          "n_boot_valid": 9961,
+          "ci95_low": -0.19846491228070173,
+          "ci95_high": 0.13000755857898716,
+          "p_one_sided": 0.884962858863682
+        },
+        "delta_OPP_DIV": {
+          "estimate": -0.152852449223417,
+          "n_boot_valid": 9961,
+          "ci95_low": -0.20248184019370458,
+          "ci95_high": -0.03896713615023473,
+          "p_one_sided": 1.0
+        }
+      },
+      "protest": {
+        "N1_claims": 342,
+        "N1_unwarranted": 23,
+        "auroc_OPP": {
+          "estimate": 0.7022625051110808,
+          "n_boot_valid": 9862,
+          "ci95_low": 0.5903284671532847,
+          "ci95_high": 0.8269230769230769
+        },
+        "auroc_SC": {
+          "estimate": 0.705669892326564,
+          "n_boot_valid": 9862,
+          "ci95_low": 0.41901408450704225,
+          "ci95_high": 0.9026315789473685
+        },
+        "auroc_DIV": {
+          "estimate": 0.6660760528826496,
+          "n_boot_valid": 9862,
+          "ci95_low": 0.41620111731843573,
+          "ci95_high": 0.7828947368421053
+        },
+        "auroc_SAME": {
+          "estimate": 0.671868611148971,
+          "n_boot_valid": 9862,
+          "ci95_low": 0.6199186991869918,
+          "ci95_high": 0.7576923076923077
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.003407387215483171,
+          "n_boot_valid": 9862,
+          "ci95_low": -0.0866902439939184,
+          "ci95_high": 0.3943661971830986,
+          "p_one_sided": 0.5518604886951232
+        },
+        "delta_OPP_DIV": {
+          "estimate": 0.0361864522284312,
+          "n_boot_valid": 9862,
+          "ci95_low": -0.035979976495440456,
+          "ci95_high": 0.2758215962441315,
+          "p_one_sided": 0.2097739024637534
+        }
+      },
+      "tenancy": {
+        "N1_claims": 351,
+        "N1_unwarranted": 22,
+        "auroc_OPP": {
+          "estimate": 0.8191489361702128,
+          "n_boot_valid": 9965,
+          "ci95_low": 0.7551020408163265,
+          "ci95_high": 0.8717914346600674
+        },
+        "auroc_SC": {
+          "estimate": 0.8253661232384637,
+          "n_boot_valid": 9965,
+          "ci95_low": 0.6640773020083365,
+          "ci95_high": 0.9196891191709845
+        },
+        "auroc_DIV": {
+          "estimate": 0.8081652390163029,
+          "n_boot_valid": 9965,
+          "ci95_low": 0.65,
+          "ci95_high": 0.9002050580997949
+        },
+        "auroc_SAME": {
+          "estimate": 0.7701022381873446,
+          "n_boot_valid": 9965,
+          "ci95_low": 0.6045801526717557,
+          "ci95_high": 0.8486786145924314
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.006217187068250918,
+          "n_boot_valid": 9965,
+          "ci95_low": -0.12351190476190477,
+          "ci95_high": 0.15098039215686265,
+          "p_one_sided": 0.5271924543447722
+        },
+        "delta_OPP_DIV": {
+          "estimate": 0.0109836971539099,
+          "n_boot_valid": 9965,
+          "ci95_low": -0.1117690599555885,
+          "ci95_high": 0.15234899328859053,
+          "p_one_sided": 0.41049568533012243
+        }
+      },
+      "workplace": {
+        "N1_claims": 345,
+        "N1_unwarranted": 17,
+        "auroc_OPP": {
+          "estimate": 0.6901004304160688,
+          "n_boot_valid": 9964,
+          "ci95_low": 0.471976401179941,
+          "ci95_high": 0.8852713178294573
+        },
+        "auroc_SC": {
+          "estimate": 0.8429878048780488,
+          "n_boot_valid": 9964,
+          "ci95_low": 0.7246227709190672,
+          "ci95_high": 0.9328358208955224
+        },
+        "auroc_DIV": {
+          "estimate": 0.87275824964132,
+          "n_boot_valid": 9964,
+          "ci95_low": 0.7443291041906959,
+          "ci95_high": 0.9382697604643155
+        },
+        "auroc_SAME": {
+          "estimate": 0.695928981348637,
+          "n_boot_valid": 9964,
+          "ci95_low": 0.48067449791587724,
+          "ci95_high": 0.926829268292683
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.15288737446197997,
+          "n_boot_valid": 9964,
+          "ci95_low": -0.2691740412979351,
+          "ci95_high": -0.03529411764705881,
+          "p_one_sided": 0.9905669844455595
+        },
+        "delta_OPP_DIV": {
+          "estimate": -0.18265781922525115,
+          "n_boot_valid": 9964,
+          "ci95_low": -0.2905115189379149,
+          "ci95_high": -0.04814814814814816,
+          "p_one_sided": 0.9907676869041646
+        }
+      }
+    },
+    "per_error_type": {
+      "SIDE_TAKING": {
+        "N1_claims": 1333,
+        "N1_unwarranted": 78,
+        "auroc_OPP": {
+          "estimate": 0.6477679027479825,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5591187496163055,
+          "ci95_high": 0.7598671543406038
+        },
+        "auroc_SC": {
+          "estimate": 0.7103534579630197,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6191508506319496,
+          "ci95_high": 0.820181462053224
+        },
+        "auroc_DIV": {
+          "estimate": 0.7231841863315966,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.6612111134591621,
+          "ci95_high": 0.8093422025874164
+        },
+        "auroc_SAME": {
+          "estimate": 0.6356982327101849,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.5534699974778899,
+          "ci95_high": 0.7434324811272512
+        },
+        "delta_OPP_SC": {
+          "estimate": -0.06258555521503728,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.1163444975056663,
+          "ci95_high": -0.008023943824295627,
+          "p_one_sided": 0.9865013498650135
+        },
+        "delta_OPP_DIV": {
+          "estimate": -0.07541628358361419,
+          "n_boot_valid": 10000,
+          "ci95_low": -0.13614863218887044,
+          "ci95_high": -0.005815377245848926,
+          "p_one_sided": 0.9823017698230176
+        }
+      },
+      "UNSUPPORTED_FACT": {
+        "N1_claims": 1263,
+        "N1_unwarranted": 8,
+        "auroc_OPP": {
+          "estimate": 0.8156374501992032,
+          "n_boot_valid": 9989,
+          "ci95_low": 0.6031499509735258,
+          "ci95_high": 0.9342975526591487
+        },
+        "auroc_SC": {
+          "estimate": 0.7202689243027889,
+          "n_boot_valid": 9989,
+          "ci95_low": 0.4735762789879807,
+          "ci95_high": 0.9505544400476711
+        },
+        "auroc_DIV": {
+          "estimate": 0.7656374501992032,
+          "n_boot_valid": 9989,
+          "ci95_low": 0.5713483858928904,
+          "ci95_high": 0.942173414231122
+        },
+        "auroc_SAME": {
+          "estimate": 0.7993525896414343,
+          "n_boot_valid": 9989,
+          "ci95_low": 0.6028243689377119,
+          "ci95_high": 0.9351031252112154
+        },
+        "delta_OPP_SC": {
+          "estimate": 0.09536852589641431,
+          "n_boot_valid": 9989,
+          "ci95_low": -0.09659454225037124,
+          "ci95_high": 0.3066202792481193,
+          "p_one_sided": 0.2805805805805806
+        },
+        "delta_OPP_DIV": {
+          "estimate": 0.050000000000000044,
+          "n_boot_valid": 9989,
+          "ci95_low": -0.03684693889654219,
+          "ci95_high": 0.1688543809132043,
+          "p_one_sided": 0.35315315315315315
+        }
+      }
+    },
+    "error_type_interaction_OPP_SC": {
+      "estimate": -0.1579540811114516,
+      "n_boot_valid": 9989,
+      "ci95_low": -0.3742774923257432,
+      "ci95_high": 0.03508166407051658,
+      "p_one_sided": 0.9279279279279279
+    },
+    "H1b_did_exploratory": {
+      "estimate": 0.036509243574460955,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.008717263745728957,
+      "ci95_high": 0.0827985780846696,
+      "p_one_sided": 0.05879412058794121,
+      "n_cells": 69
+    },
+    "SAME": {
+      "auroc": {
+        "estimate": 0.6509218938200686,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5703458206059124,
+        "ci95_high": 0.7467293673388253
+      },
+      "delta_OPP_SAME": {
+        "estimate": 0.012461780783841303,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.01747748940925582,
+        "ci95_high": 0.04876809857079401,
+        "ci90_low": -0.012168427731957603,
+        "ci90_high": 0.04163547841890894,
+        "p_one_sided": 0.20137986201379862
+      },
+      "note": "one-sided-pressure control (A, A2); exploratory"
+    },
+    "contradicts_rate_by_pair": {
+      "OPP": {
+        "rate_all": {
+          "estimate": 0.008575689783743476,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.004615384615384616,
+          "ci95_high": 0.013102112687592416
+        },
+        "rate_y1": {
+          "estimate": 0.05813953488372093,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.021367521367521368,
+          "ci95_high": 0.11363636363636363
+        },
+        "rate_y0": {
+          "estimate": 0.0051792828685258965,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.002398081534772182,
+          "ci95_high": 0.008592532519161656
+        },
+        "n_cells": 2682,
+        "n_contradicts": 23
+      },
+      "SC": {
+        "rate_all": {
+          "estimate": 0.004847129008202834,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0014113828707385354,
+          "ci95_high": 0.009287925696594427
+        },
+        "rate_y1": {
+          "estimate": 0.040697674418604654,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0,
+          "ci95_high": 0.10869565217391304
+        },
+        "rate_y0": {
+          "estimate": 0.002390438247011952,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.00039556962025316455,
+          "ci95_high": 0.004898059223689474
+        },
+        "n_cells": 2682,
+        "n_contradicts": 13
+      },
+      "DIV": {
+        "rate_all": {
+          "estimate": 0.0014914243102162564,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0003538507854425115,
+          "ci95_high": 0.003000750187546887
+        },
+        "rate_y1": {
+          "estimate": 0.005813953488372093,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0,
+          "ci95_high": 0.022727272727272728
+        },
+        "rate_y0": {
+          "estimate": 0.001195219123505976,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0,
+          "ci95_high": 0.002617997431294994
+        },
+        "n_cells": 2682,
+        "n_contradicts": 4
+      },
+      "SAME": {
+        "rate_all": {
+          "estimate": 0.0070842654735272185,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.002700617283950617,
+          "ci95_high": 0.012630114410800305
+        },
+        "rate_y1": {
+          "estimate": 0.046511627906976744,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.009172226855713096,
+          "ci95_high": 0.11340791940018735
+        },
+        "rate_y0": {
+          "estimate": 0.004382470119521913,
+          "n_boot_valid": 10000,
+          "ci95_low": 0.0015735331957701805,
+          "ci95_high": 0.0079232693911593
+        },
+        "n_cells": 2682,
+        "n_contradicts": 19
+      }
+    }
+  },
+  "sensitivity": {
+    "drop_neutral_inference": {
+      "N1_claims": 1258,
+      "N1_unwarranted": 86,
+      "auroc_OPP": {
+        "estimate": 0.6715215493293119,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.584975624097382,
+        "ci95_high": 0.7719493526419817
+      },
+      "auroc_SC": {
+        "estimate": 0.7179835701246131,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.6299349739210894,
+        "ci95_high": 0.8178460796694893
+      },
+      "auroc_DIV": {
+        "estimate": 0.7416114374156679,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.6841559254475121,
+        "ci95_high": 0.8158645316413902
+      },
+      "auroc_SAME": {
+        "estimate": 0.6590999285657592,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5795755126175898,
+        "ci95_high": 0.7545282857582222
+      },
+      "delta_OPP_SC": {
+        "estimate": -0.04646202079530126,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.10462626085483158,
+        "ci95_high": 0.016740280313725184,
+        "ci90_low": -0.09439506345550633,
+        "ci90_high": 0.00478819340529327,
+        "p_one_sided": 0.9356064393560644
+      },
+      "delta_OPP_DIV": {
+        "estimate": -0.07008988808635608,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.13047281592303428,
+        "ci95_high": -0.0025767788469154285,
+        "ci90_low": -0.12157239211585273,
+        "ci90_high": -0.013051428303709036,
+        "p_one_sided": 0.9779022097790221
+      }
+    },
+    "judge2_agrees": {
+      "N1_claims": 1297,
+      "N1_unwarranted": 58,
+      "auroc_OPP": {
+        "estimate": 0.6854248420583897,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5781749869816899,
+        "ci95_high": 0.8053855223312437
+      },
+      "auroc_SC": {
+        "estimate": 0.7402104032729399,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.6133716258090508,
+        "ci95_high": 0.8745082736720138
+      },
+      "auroc_DIV": {
+        "estimate": 0.7412610280816009,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.6696707827402604,
+        "ci95_high": 0.831927749522722
+      },
+      "auroc_SAME": {
+        "estimate": 0.6652333639475662,
+        "n_boot_valid": 10000,
+        "ci95_low": 0.5505837796634075,
+        "ci95_high": 0.7905164362536647
+      },
+      "delta_OPP_SC": {
+        "estimate": -0.05478556121455014,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.1025594794410905,
+        "ci95_high": -0.010353307960472746,
+        "ci90_low": -0.09506849214768748,
+        "ci90_high": -0.017241776876224597,
+        "p_one_sided": 0.9928007199280072
+      },
+      "delta_OPP_DIV": {
+        "estimate": -0.055836186023211165,
+        "n_boot_valid": 10000,
+        "ci95_low": -0.11734165945291154,
+        "ci95_high": 0.00410726908970014,
+        "ci90_low": -0.10602795547593942,
+        "ci90_high": -0.006578011070740376,
+        "p_one_sided": 0.9668033196680332
+      }
+    }
+  },
+  "validation": {
+    "kappa_y": {
+      "overall": {
+        "kappa": 0.7076578540568396,
+        "n": 1341
+      },
+      "per_model": {
+        "deepseek-v4-flash": {
+          "kappa": 0.6313489896231563,
+          "n": 513
+        },
+        "gemma-4-31b-it": {
+          "kappa": 0.672439281942977,
+          "n": 423
+        },
+        "glm-53-flash": {
+          "kappa": 0.835666463785758,
+          "n": 405
+        }
+      },
+      "excluding_qwen3.5-397b": {
+        "kappa": 0.7076578540568396,
+        "n": 1341
+      }
+    },
+    "presence_validity": {
+      "n_pairs": 1832,
+      "agreement": 0.7418122270742358,
+      "kappa": 0.3795086686162578,
+      "both_present": 1069,
+      "matrix_only": 341,
+      "labels_only": 132,
+      "both_absent": 290,
+      "per_framing": {
+        "A": 0.732532751091703,
+        "B": 0.7510917030567685
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+dossier_id,model,st_A_n,st_A_sideA,st_B_n,st_B_sideB,st_N1_n,st_N1_sideA,st_N1_sideB,h1b_did
+smoke-product,deepseek-v4-flash,4,4,2,0,0,0,0,0.14285714285714285
+smoke-product,gemma-4-31b-it,0,0,3,3,0,0,0,0.42857142857142855
+smoke-product,glm-53-flash,0,0,0,0,0,0,0,0.21428571428571427
+smoke-protest,deepseek-v4-flash,2,2,1,0,1,1,0,-0.261904761904762
+smoke-protest,glm-53-flash,6,3,2,1,0,0,0,-0.25
+smoke-tenancy,deepseek-v4-flash,4,4,4,2,1,1,0,0.09523809523809523
+smoke-tenancy,gemma-4-31b-it,1,1,2,2,2,2,0,0.2261904761904762
+smoke-tenancy,glm-53-flash,0,0,2,0,0,0,0,0.0
+smoke-workplace,deepseek-v4-flash,0,0,2,2,4,4,0,-0.02083333333333337
+smoke-workplace,gemma-4-31b-it,1,1,0,0,0,0,0,0.16666666666666666
+smoke-workplace,glm-53-flash,0,0,0,0,0,0,0,0.020833333333333315

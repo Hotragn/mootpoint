@@ -1,0 +1,4 @@
+dossier_id,model,reason
+protest-06,glm-53-flash,no labelled claims for: B
+protest-09,gemma-4-31b-it,"missing or excluded descriptions: N2,N3; 7 N1 claim(s) lack presence rows for all 7 framings"
+workplace-06,glm-53-flash,no labelled claims for: N1

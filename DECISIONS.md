@@ -116,3 +116,6 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Evidence: qwen3.8-27b (v_file) sometimes keyed outputs as "1".."n" or "claim_i" instead of "N1:i" (28+25+25 of 240 sampled keys). Strict validation dropped whole cells, so v_file failures removed all reader rows for 12 dev cells.
 - Fix: If keys are exactly 0..n−1 or 1..n (any prefix), map them to ids by position. Any other mismatch still fails. Tested.
 - Prompts for every stage are now frozen for test. Test description generation starts now. The analysis spec for F2 is fixed in PLAN v4; `readers.py` is frozen before test judging.
+
+## D19: `analysis/readers.py` frozen for F2: sha256 1f1af82090e197755653debce8a53a1781ebadc771a3b8faf8582ce41e8bfa9f
+- Evidence: `analysis/FREEZE-READERS.md`; 85/85 tests pass across the project; dev check only; `runs/test` not opened. analyze.py is unchanged (8135fa2c…). Recorded before any test description was judged.
