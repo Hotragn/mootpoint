@@ -187,7 +187,7 @@ async def main(n_per_domain):
     OUT.mkdir(parents=True, exist_ok=True)
     jobs = []
     for domain in DOMAINS:
-        ps = await premises(llm, domain, n_per_domain + 5)  # 5 spares for replacements
+        ps = await premises(llm, domain, n_per_domain + 15)  # spares: about 20% fail the keep rule
         jobs.append((domain, ps))
     recs = []
 
