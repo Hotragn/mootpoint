@@ -119,7 +119,8 @@ evidence leaves disputed, or it states a factual detail that is wrong. Use any c
 Output JSON: {{"<claim id>": probability between 0 and 1, ...}} covering every claim id."""
 
 # context variants for the closed-book verifier (D14): which other descriptions the reader gets
-VCONTEXTS = {"v_closed": ("A", "B"), "v_closed_div": ("P1", "P2"), "v_closed_sc": ("N2", "N3"), "v_closed_none": ()}
+VCONTEXTS = {"v_closed": ("A", "B"), "v_closed_div": ("P1", "P2"), "v_closed_sc": ("N2", "N3"), "v_closed_none": (),
+             "v_closed_debate": ("DA", "DB")}
 
 
 def requester(d, f):
@@ -130,6 +131,10 @@ def requester(d, f):
         return f'{d["side_B"]["role"]}, who is {d["side_B"]["goal"]}'
     if f in DIVERSE:
         return f"{DIVERSE[f][0]}, who is {DIVERSE[f][1]}"
+    if f in ("DA", "DB"):
+        s = d["side_A"] if f == "DA" else d["side_B"]
+        return f'{s["role"]}, who is {s["goal"]}, and who asked for the strongest case for their side'
+
     return "no stated requester (an independent second draft)"
 
 
@@ -191,6 +196,9 @@ def load(split):
         d = json.loads(p.read_text())
         dossiers[d["dossier_id"]] = d
     descs = [json.loads(l) for l in open(ROOT / "runs" / split / "descriptions.jsonl")]
+    deb = ROOT / "runs" / split / "descriptions_debate.jsonl"
+    if deb.exists():
+        descs += [json.loads(l) for l in open(deb)]
     cells = defaultdict(dict)
     for x in descs:
         if not x["excluded"]:

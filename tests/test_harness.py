@@ -104,3 +104,11 @@ def test_contested_points_only_lists_complete_unsettled_pairs():
                     dict(fact_id="C1b", contested=True, text="wb says y"), dict(fact_id="C2a", contested=True, text="orphan")])
     cids, txt = judge.contested_points(d)
     assert cids == {"C1"} and "wa says x" in txt and "orphan" not in txt
+
+
+def test_debate_arm_argues_and_presence_excludes_it():
+    d = dict(side_A=dict(role="RA", goal="GA"), side_B=dict(role="RB", goal="GB"), documents="DOCS")
+    assert "strongest case" in describe.prompt(d, "DA") and "RA" in describe.prompt(d, "DA")
+    assert "RB" in describe.prompt(d, "DB") and "strongest case" not in describe.prompt(d, "A")
+    assert "DA" not in judge.OTHERS and "DB" not in judge.OTHERS  # frozen analysis expects exactly 7 presence framings
+    assert judge.VCONTEXTS["v_closed_debate"] == ("DA", "DB") and judge.VCONTEXTS["v_closed"] == ("A", "B")
