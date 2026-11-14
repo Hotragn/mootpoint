@@ -4,6 +4,7 @@ Version history (all before any dev or test description was judged):
 - v1 03:30
 - v2 03:50: pilot-driven change of the outcome to side-taking (DECISIONS D8; I mislabelled v2 as 05:00 at the time)
 - v3: applies Critic design review 1 (`../claude/reviews/design-review-1.md`), DECISIONS D9
+- v4 (07:05): adds pre-registered family F2 (reader comparisons) and predictions written from DEV results, before any test description existed; see the "v4 additions" section and DECISIONS D17
 - v3.1 (05:20): model roles reassigned because glm-5.2 became unavailable (504 gateway timeouts from about 04:10). No dev or test data existed. DECISIONS D13. The analysis is unaffected (model-agnostic; hash unchanged)
 
 ## Timeline (EST; internal deadline Sun 20:00; PDF draft due Sun 14:00 to keep a 6 h buffer)
@@ -111,3 +112,31 @@ About $40–60 in total. The code cap is 300 credits.
 - `runs/<split>/presence.jsonl` (one row per N1 claim × other description): {dossier_id, model, claim_id, framing ∈ {A, A2, B, N2, N3, P1, P2}, verdict ∈ {ASSERTS, CONTRADICTS, SILENT}}
 - `runs/<split>/verifiers.jsonl` (one row per N1 claim): {dossier_id, model, claim_id, v_closed: float, v_file: float}
 - `runs/<split>/judge2.jsonl` (one row per N1 claim, test only): {dossier_id, model, claim_id, label2}
+
+
+## v4 additions (Sat 07:05 EST, written after dev and before any test description was generated)
+The confirmatory family F1 (H1a, H2, H3) is unchanged and runs with the frozen v3 file (sha256 8135fa2c…).
+
+**Dev results that motivate v4** (24 dossiers, 69 complete cells, 1,341 N1 claims, 86 unwarranted; `analysis/results/dev/`):
+- H1a +0.150 [0.034, 0.283].
+- H2: ΔAUROC(OPP − SC) −0.048 [−0.107, 0.016]. H3: ΔAUROC(OPP − DIV) −0.064 [−0.126, 0.005].
+- AUROC: OPP 0.663, SC 0.711, DIV 0.727.
+- Closed-book readers (qwen3.5-397b): v_closed (N1+A+B) 0.827, v_closed_none (N1 only) 0.798, v_closed_div 0.849, v_closed_debate 0.852. With-file reader v_file (qwen3.8-27b) 0.798. Cross-family reader (deepseek-v4-flash): xf_none 0.639, xf_opp 0.624.
+- Second-judge κ on y = 0.71.
+
+**Family F2: reading vs counting (confirmatory; one-sided; Holm within F2; same unit, split, bootstrap and seed as F1).**
+- **R1 (reading beats counting).** AUROC(v_closed_none) − AUROC(SC suspicion score) > 0. Dev: +0.087.
+- **R2 (opposed accounts add to reading).** AUROC(v_closed) − AUROC(v_closed_none) > 0. Dev: +0.031 [−0.013, 0.091]. Also report TOST ±0.03.
+- **R3 (opposition-specific in reading).** AUROC(v_closed) − AUROC(v_closed_div) > 0. Dev: −0.022. Also report TOST ±0.03.
+
+**Predictions written now from dev** (test is the replication):
+- H1a supported; H2 and H3 not supported.
+- R1 supported; R2 and R3 not supported.
+- For side-taking positives only, OPP − SC < 0. This is reported two-sided as a secondary.
+
+**Descriptive (not tested):**
+- AUROC of v_closed_sc, v_closed_debate, v_file, xf_none, xf_opp, and xf_opp − xf_none;
+- all reader AUROCs re-scored on judge2 labels and on judge-agreed claims;
+- per generator; H1b.
+
+**Implementation.** `analysis/readers.py`, hashed and logged in DECISIONS before test judging starts. Test description *generation* may start before that hash, because generation does not depend on the analysis. No test labels, signals or reader outputs are viewed before the hash exists.

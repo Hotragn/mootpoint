@@ -119,6 +119,9 @@ evidence leaves disputed, or it states a factual detail that is wrong. Use any c
 Output JSON: {{"<claim id>": probability between 0 and 1, ...}} covering every claim id."""
 
 # context variants for the closed-book verifier (D14): which other descriptions the reader gets
+# cross-family reader (D17): weaker, different family from the judge; reads N1 alone or N1 + A/B
+XF_READER = "deepseek-v4-flash"
+XF_CONTEXTS = {"xf_none": (), "xf_opp": ("A", "B")}
 VCONTEXTS = {"v_closed": ("A", "B"), "v_closed_div": ("P1", "P2"), "v_closed_sc": ("N2", "N3"), "v_closed_none": (),
              "v_closed_debate": ("DA", "DB")}
 
@@ -283,12 +286,15 @@ async def stage_verifiers(llm, split, dossiers, cells, rows):
                                                 (lambda o: valid_probs(o, ids)), 3000, name) for name, ctx in VCONTEXTS.items()])
         vf = await retry_json(llm, VFILE, MAP_INSTR, VFILE_TMPL.format(docs=d["documents"], claims=ctext),
                               lambda o: valid_probs(o, ids), 3000, "v_file")
+        xf = await asyncio.gather(*[retry_json(llm, XF_READER, MAP_INSTR, vclosed_prompt(d, fr, ctx, ctext),
+                                               (lambda o: valid_probs(o, ids)), 3000, "xf_reader") for ctx in XF_CONTEXTS.values()])
+        res = list(res) + list(xf)
         if vf is None or any(r is None for r in res):
             return []
         out = []
         for cid in ids:
             row = dict(dossier_id=key[0], model=key[1], claim_id=cid, v_file=vf[cid])
-            row.update({name: r[cid] for name, r in zip(VCONTEXTS, res)})
+            row.update({name: r[cid] for name, r in zip(list(VCONTEXTS) + list(XF_CONTEXTS), res)})
             out.append(row)
         return out
 
