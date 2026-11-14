@@ -75,3 +75,7 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 ## D11 (Sat 04:15): Discord collision check, read-only: no collision
 - Evidence: Alignment Jams #projects│teams (4 posts loaded). The closest is "Track 1/2 | Same facts, softer words: does corporate wording change AI fact-checkers' verdicts?" (Abi, 1d ago). It varies the *wording of the claim* shown to a fact-checker. We vary the *requester* of a description of fixed evidence and use opposed agreement as a verification signal. Others: an Epistemics/Decision-making evals megaproject (Jimmm), "Clarity", a swarm-alignment leftover. No posts on persona framing, against-interest agreement or consistency-based verification.
 - Residue: The forum lazy-loads, so I may have missed posts. Discord is reference only per the brief.
+
+## D12 (Sat 04:20): Analysis frozen for PLAN v3: `analysis/analyze.py` sha256 8135fa2c52e5bcd013595769a4c0201aab2efd028f2bdf376ffc1fa1e7eef1e3
+- Evidence: `analysis/FREEZE.md`; 55/55 tests pass (planted effect recovered, null calibrated, hand-computed AUROC toy, TOST, exclusions, loud validation). Synthetic data only. No dev or test claims existed.
+- Rule: The test analysis runs this exact file. Any change after this point is a new hash logged here with a reason. Results produced by a changed file are labelled exploratory unless the change is a bug fix that does not alter the specification.
