@@ -62,38 +62,41 @@ def test_side_and_neutral_prompts_differ_only_by_requester():
     assert describe.SAMPLE["A"] != describe.SAMPLE["A2"] and len({describe.SAMPLE[f] for f in ["N1", "N2", "N3"]}) == 3
 
 
-def test_valid_map_rejects_unknown_labels_and_gold_ids():
+def test_valid_map_rejects_unknown_labels_and_repairs_bad_gold_ids():
     ok = {"claims": [{"text": "x", "label": "GOLD", "gold_id": "F1"}, {"text": "y", "label": "UNSUPPORTED_FACT", "gold_id": None}]}
     assert len(judge.valid_map(ok, {"F1"})) == 2
     with pytest.raises(AssertionError):
         judge.valid_map({"claims": [{"text": "x", "label": "MAYBE"}]}, {"F1"})
-    with pytest.raises(AssertionError):
-        judge.valid_map({"claims": [{"text": "x", "label": "GOLD", "gold_id": "F9"}]}, {"F1"})
+    rep = judge.valid_map({"claims": [{"text": "x", "label": "GOLD", "gold_id": "F9"}]}, {"F1"})
+    assert rep[0]["label"] == "SUPPORTED_OTHER" and rep[0]["repaired"] == "gold_id_missing"
     with pytest.raises(AssertionError):
         judge.valid_map({"claims": []}, {"F1"})
 
 
-def test_cluster_covers_every_id_exactly_once_even_if_judge_drops_or_duplicates():
-    items = [("A:0", "a"), ("B:1", "b"), ("N1:2", "c")]
-    fake = FakeLLM(['{"groups": [["A:0", "N1:2"], ["A:0"], ["ZZ"]]}'])
-    assign = asyncio.run(judge.cluster(fake, items))
-    assert set(assign) == {"A:0", "B:1", "N1:2"}
-    assert assign["A:0"] == assign["N1:2"] and assign["B:1"] != assign["A:0"]
+def test_side_taking_with_bad_side_is_kept_unwarranted_but_side_nulled():
+    ok = judge.valid_map({"claims": [{"text": "x", "label": "SIDE_TAKING", "contested_id": "C1", "side": "A"}]}, {"F1"}, frozenset({"C1"}))
+    assert ok[0]["side"] == "A" and ok[0]["repaired"] is None
+    for bad in [{"contested_id": "C9", "side": "A"}, {"contested_id": "C1", "side": None}]:
+        r = judge.valid_map({"claims": [{"text": "x", "label": "SIDE_TAKING", **bad}]}, {"F1"}, frozenset({"C1"}))
+        assert r[0]["label"] == "SIDE_TAKING" and r[0]["side"] is None and r[0]["repaired"] == "side_missing"
 
 
-def test_cluster_falls_back_to_singletons_on_garbage():
-    fake = FakeLLM(["nope", "nope", "nope"])
-    assign = asyncio.run(judge.cluster(fake, [("A:0", "a"), ("B:0", "b")]))
-    assert len(set(assign.values())) == 2
-
-
-def test_side_taking_needs_valid_contested_id_and_side():
-    ok = {"claims": [{"text": "x", "label": "SIDE_TAKING", "contested_id": "C1", "side": "A"}]}
-    assert judge.valid_map(ok, {"F1"}, frozenset({"C1"}))
+def test_presence_and_prob_validators():
+    assert judge.valid_presence({"N1:0": {"D1": "ASSERTS", "D2": "SILENT"}}, ["N1:0"], 2)
     with pytest.raises(AssertionError):
-        judge.valid_map({"claims": [{"text": "x", "label": "SIDE_TAKING", "contested_id": "C9", "side": "A"}]}, {"F1"}, frozenset({"C1"}))
+        judge.valid_presence({"N1:0": {"D1": "MAYBE", "D2": "SILENT"}}, ["N1:0"], 2)
+    with pytest.raises(KeyError):
+        judge.valid_presence({"N1:0": {"D1": "ASSERTS"}}, ["N1:0"], 2)
+    assert judge.valid_probs({"N1:0": "0.3"}, ["N1:0"]) == {"N1:0": 0.3}
     with pytest.raises(AssertionError):
-        judge.valid_map({"claims": [{"text": "x", "label": "SIDE_TAKING", "contested_id": "C1", "side": None}]}, {"F1"}, frozenset({"C1"}))
+        judge.valid_probs({"N1:0": 1.5}, ["N1:0"])
+
+
+def test_diverse_framings_are_non_stakeholders():
+    d = dict(side_A=dict(role="RA", goal="GA"), side_B=dict(role="RB", goal="GB"), documents="DOCS")
+    for f in ["P1", "P2"]:
+        p = describe.prompt(d, f)
+        assert "RA" not in p and "RB" not in p and describe.DIVERSE[f][0] in p
 
 
 def test_contested_points_only_lists_complete_unsettled_pairs():

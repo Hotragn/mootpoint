@@ -18,8 +18,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from harness.llm import LLM, ROOT
 
 OUT = ROOT / "data" / "dossiers"
+STAGE = ROOT / "runs" / "dossier_staging"  # every built dossier lands here immediately (crash-safe)
 AUTHOR, VERIFIER = "glm-5.2", "deepseek-v4-flash"
 MIN_FACTS = 15
+DEV_PER_DOMAIN = 6  # PLAN v3: 24 dev / 76 test
 
 DOMAINS = {
     "protest": dict(
@@ -58,7 +60,9 @@ Rules:
 - Every fact below must be stated or clearly entailed somewhere in the documents, embedded naturally (never as a list of facts).
 - State each fact in a documentary record (log, official record, report, receipt, email) or by a source nobody disputes. Never state a fact ONLY inside the statement of one of the contested witnesses.
 - Each contested point must appear as the two witnesses' conflicting accounts, attributed to them. Do NOT resolve any contested point, and do not add evidence that settles it.
-- Neutral documentary tone. No summary, no conclusion, no opinions of the author.
+- Documentary records (logs, reports, records) use a neutral tone. No summary, no conclusion, no opinions of the author.
+- Witness statements sound like real people: each witness uses their own loaded, evaluative language that fits their
+  side (e.g. "they charged at us", "a violent mob", "he was clearly careless"), while still giving their account.
 - You may add incidental detail, but nothing that contradicts the facts.
 
 FACTS:
@@ -131,7 +135,7 @@ async def premises(llm, domain, n):
 
 
 async def build_one(llm, domain, idx, premise, did):
-    path = OUT / f"{did}.json"
+    path = STAGE / f"{did}.json"
     if path.exists():
         return json.loads(path.read_text())
     d = DOMAINS[domain]
@@ -166,6 +170,8 @@ async def build_one(llm, domain, idx, premise, did):
                side_A=dict(role=d["A"][0], goal=d["A"][1]), side_B=dict(role=d["B"][0], goal=d["B"][1]),
                documents=docs, n_words=nwords, facts=kept, n_items_spec=len(items), n_items_verified=len(kept),
                settled=sorted(settled))
+    STAGE.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(rec, indent=1))
     return rec
 
 
@@ -200,7 +206,7 @@ async def main(n_per_domain):
     for good in results:
         assert len(good) == n_per_domain, f"only {len(good)} good dossiers in a domain"
         for j, rec in enumerate(good):  # split fixed by position: first half dev, second half test
-            rec["split"] = "dev" if j < n_per_domain // 2 else "test"
+            rec["split"] = "dev" if j < DEV_PER_DOMAIN else "test"
             (OUT / f"{rec['dossier_id']}.json").write_text(json.dumps(rec, indent=1))
             recs.append(rec)
     print(f"wrote {len(recs)} dossiers; credits spent {llm.spent():.3f}")

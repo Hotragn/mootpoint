@@ -57,3 +57,21 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Mechanism: Strong models attribute contested testimony carefully and rarely fabricate facts from a 2–3k-word file. Drift appears as inference and characterisation that resolves contested points. That has a ground truth here, because the contested points are known by construction.
 - Alternative: Keep v1 and report the null. Rejected because v1's outcome was invalid (label noise plus a type confound), so a null would be uninformative. The risk that v2 was chosen to get a positive result is controlled: the change uses pilot data only, dev and test are untouched, and v2 is frozen before any dev description is judged.
 - Residue: NEUTRAL_INFERENCE vs SIDE_TAKING is still a judge call. That makes judge validation (κ against a second judge and a manual read) more important.
+
+## D9 (Sat 04:05): PLAN v3 applies the Critic's design review (`../claude/reviews/design-review-1.md`)
+- Claim: Adopted #1 (framing-blind, label-blind presence matrix replaces clustering), #2 (DIV non-stakeholder control; H3 = OPP vs DIV), #3 (paired ΔAUROC primary; AND-rule BA secondary; matched retention), #4 (closed-book equal-information verifier V_closed; with-file ceiling V_file), #5 (second judge on 100% of test N1), #6 (split 24/76; TOST ±0.03; 4% gate), #11 (Holm-adjusted one-sided decisions), #13 (witnesses use their own evaluative language in rendering). #7a and #12 were already covered by v2. #7b (side-claim analysis) is deferred as first to cut. #9 is already satisfied (identical instruction body; requester line only). #10: authorship is stated in PLAN.
+- Evidence: The review's #1 shows the clustering procedure differed by label class, a measurement asymmetry that would bias every signal and favour H2. #2 shows OPP vs SC confounds opposition with prompt diversity.
+- Mechanism: Each fix removes a way H2 could pass or fail for reasons other than opposition.
+- Alternative: Keep v2 and save about 2,400 calls. Rejected because cost is not binding (D6) and Execution ≤ 2 was predicted without #1.
+- Residue: Pilot signals under v2 (old clustering, n = 10 positives) favoured SC: BA OPP 0.562 vs SC 0.687. B-framing also leaned A (12 A-side vs 7 B-side side-taking claims), so the models seem to have an intrinsic lean that opposition may not cancel. H2 may fail; H3 and the error-type analysis then carry the paper.
+
+## D10 (Sat 04:08): Logged repair of label formatting slips instead of discarding descriptions
+- Claim: GOLD with a missing or unknown id becomes SUPPORTED_OTHER. SIDE_TAKING without a valid side or contested id keeps its label with side = null. Both are flagged in `repaired`.
+- Evidence: Pilot: 11 of 72 descriptions failed strict validation (8 GOLD without id, 2 side missing, 1 contested_id missing).
+- Mechanism: Dropping a whole description because of one slip would bias the sample toward simpler descriptions.
+- Alternative: Retry at a higher temperature. Already done (3 attempts), and it still failed.
+- Residue: Repairs slightly undercount gold mentions for H1b, equally across framings. Repair counts will be reported.
+
+## D11 (Sat 04:15): Discord collision check, read-only: no collision
+- Evidence: Alignment Jams #projects│teams (4 posts loaded). The closest is "Track 1/2 | Same facts, softer words: does corporate wording change AI fact-checkers' verdicts?" (Abi, 1d ago). It varies the *wording of the claim* shown to a fact-checker. We vary the *requester* of a description of fixed evidence and use opposed agreement as a verification signal. Others: an Epistemics/Decision-making evals megaproject (Jimmm), "Clarity", a swarm-alignment leftover. No posts on persona framing, against-interest agreement or consistency-based verification.
+- Residue: The forum lazy-loads, so I may have missed posts. Discord is reference only per the brief.

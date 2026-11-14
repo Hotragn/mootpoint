@@ -30,18 +30,23 @@ def test_planted_effect_recovered(effect_res):
     conf = effect_res["confirmatory"]
     for k in ["H1a", "H2", "H3"]:
         assert conf[k]["estimate"] > 0 and conf[k]["ci_lower_gt_0"] and conf[k]["reject_holm_0.05"], k
-    # analytic expectation of Delta_OPP-SC under the generator is about 0.075
-    assert 0.03 < conf["H2"]["estimate"] < 0.12
+    # analytic expectation of Delta_OPP-SC under the generator is about 0.05
+    assert 0.02 < conf["H2"]["estimate"] < 0.10
+    assert effect_res["H1b_exploratory"]["estimate"] == pytest.approx(0.4, abs=0.05)  # planted DiD = 0.4
     assert effect_res["H1b_exploratory"]["ci95_low"] > 0
     assert effect_res["secondary"]["auroc_count"]["estimate"] > 0.5
+    sens = effect_res["sensitivity_drop_neutral_inference"]
+    assert sens["delta_OPP_SC"]["ci95_low"] > 0
+    assert sens["N1_claims"] == effect_res["n"]["N1_claims"] - effect_res["n"]["N1_by_label"]["NEUTRAL_INFERENCE"]
 
 
 def test_null_gives_zero(null_res):
+    # point estimates on one fixed null dataset (null SD of Delta is about 0.012 at 48 dossiers). CI coverage is
+    # checked over many null datasets below, because any single null dataset excludes 0 about 5% of the time.
     conf = null_res["confirmatory"]
-    for k in ["H2", "H3"]:  # the primary Deltas on one fixed null dataset
-        assert conf[k]["ci95_low"] <= 0 <= conf[k]["ci95_high"], k
-        assert not conf[k]["reject_holm_0.05"], k
-    assert abs(conf["H2"]["estimate"]) < 0.04 and abs(conf["H3"]["estimate"]) < 0.04
+    for k in ["H1a", "H2", "H3"]:
+        assert abs(conf[k]["estimate"]) < 0.05, k
+    assert abs(null_res["H1b_exploratory"]["estimate"]) < 0.05
 
 
 def test_null_coverage_over_seeds(tmp_path):
@@ -62,15 +67,18 @@ def test_null_coverage_over_seeds(tmp_path):
 
 # ---------------------------------------------------------------- toy example, hand-computed
 
-def _row(fr, cid, label, gold=None, did="t1", model="m"):
+def _row(fr, cid, label, gold=None, con=None, side=None, did="t1", model="m"):
     return dict(dossier_id=did, split="test", domain="d", model=model, framing=fr, claim_id=f"{did}-{model}-{fr}-{cid}",
-                text="x", label=label, gold_id=gold, cluster_id=cid)
+                text="x", label=label, gold_id=gold, contested_id=con, side=side, evidence=None, cluster_id=cid)
 
 
-def _write(tmp, rows, facts=None, did="t1"):
+FACTS = [{"fact_id": "F1", "text": "a", "favors": "A", "contested": False},
+         {"fact_id": "F2", "text": "b", "favors": "B", "contested": False},
+         {"fact_id": "C1a", "text": "c", "favors": "A", "contested": True}]
+
+
+def _write(tmp, rows, facts=FACTS, did="t1"):
     (tmp / "dossiers").mkdir(exist_ok=True)
-    facts = facts or [{"fact_id": "g1", "text": "a", "favors": "A", "contested": False},
-                      {"fact_id": "g2", "text": "b", "favors": "B", "contested": False}]
     (tmp / "dossiers" / f"{did}.json").write_text(json.dumps(dict(
         dossier_id=did, split="test", domain="d", side_A="a", side_B="b", documents="doc", facts=facts)))
     with open(tmp / "claims.jsonl", "w") as f:
@@ -79,16 +87,24 @@ def _write(tmp, rows, facts=None, did="t1"):
     return tmp / "claims.jsonl", tmp / "dossiers"
 
 
+ST = "SIDE_TAKING"
 TOY = (
-    # N1 claims (y, s_OPP, s_SC, count):  c1 U (0,1,2)  c2 U (1,0,2)  c3 U (0,0,0)  c4 G (1,1,4)  c5 S (0,1,3)
-    [_row("N1", "u1", "UNSUPPORTED"), _row("N2", "u1", "UNSUPPORTED"), _row("N3", "u1", "UNSUPPORTED"),
-     _row("N1", "u2", "UNSUPPORTED"), _row("A", "u2", "UNSUPPORTED"), _row("B", "u2", "UNSUPPORTED"),
-     _row("N1", "u3", "UNSUPPORTED"),
-     _row("N1", "g1", "GOLD", "g1"), _row("A", "g1", "GOLD", "g1"), _row("B", "g1", "GOLD", "g1"),
-     _row("N2", "g1", "GOLD", "g1"), _row("N3", "g1", "GOLD", "g1"),
+    # N1 claims (y, s_OPP, s_SC, count): u1 ST-A (1,0,1,2)  u2 UF (1,1,0,2)  u3 ST-B (1,0,0,0)
+    #                                    g1 GOLD F1 (0,1,1,4)  s5 SO (0,0,1,3)  n6 NI (0,0,0,0)
+    [_row("N1", "u1", ST, con="C1", side="A"), _row("N2", "u1", ST, con="C1", side="A"),
+     _row("N3", "u1", ST, con="C1", side="A"),
+     _row("N1", "u2", "UNSUPPORTED_FACT"), _row("A", "u2", "UNSUPPORTED_FACT"), _row("B", "u2", "UNSUPPORTED_FACT"),
+     _row("N1", "u3", ST, con="C1", side="B"),
+     _row("N1", "g1", "GOLD", "F1"), _row("A", "g1", "GOLD", "F1"), _row("B", "g1", "GOLD", "F1"),
+     _row("N2", "g1", "GOLD", "F1"), _row("N3", "g1", "GOLD", "F1"),
      _row("N1", "s5", "SUPPORTED_OTHER"), _row("A", "s5", "SUPPORTED_OTHER"), _row("N2", "s5", "SUPPORTED_OTHER"),
      _row("N3", "s5", "SUPPORTED_OTHER"),
-     _row("A2", "x", "SUPPORTED_OTHER")]
+     _row("N1", "n6", "NEUTRAL_INFERENCE"),
+     _row("A2", "x", "SUPPORTED_OTHER"),
+     # side-taking outside N1 (H1a) and gold mentions outside N1 (H1b; C1a is contested and must be ignored)
+     _row("A", "t1", ST, con="C2", side="A"), _row("B", "t2", ST, con="C2", side="A"),
+     _row("B", "t3", ST, con="C2", side="B"),
+     _row("B", "g2", "GOLD", "F2"), _row("A", "c1", "GOLD", "C1a")]
 )
 
 
@@ -96,26 +112,31 @@ def test_toy_hand_computed(tmp_path):
     c, d = _write(tmp_path, TOY)
     r = A.analyze(c, d, n_boot=200, make_figure=False)
     p = r["primary"]
-    # OPP: flagged unsupported {c1,c3} = 2/3; kept supported {c4} = 1/2  -> BA = 7/12
-    assert p["BA_OPP"]["estimate"] == pytest.approx(7 / 12)
-    # SC: flagged unsupported {c2,c3} = 2/3; kept supported {c4,c5} = 1 -> BA = 5/6
-    assert p["BA_SC"]["estimate"] == pytest.approx(5 / 6)
+    # OPP: flagged unwarranted {u1,u3} = 2/3; kept warranted {g1} of {g1,s5,n6} = 1/3 -> BA = 1/2
+    assert p["BA_OPP"]["estimate"] == pytest.approx(1 / 2)
+    # SC: flagged unwarranted {u2,u3} = 2/3; kept warranted {g1,s5} = 2/3 -> BA = 2/3
+    assert p["BA_SC"]["estimate"] == pytest.approx(2 / 3)
     # SAME (A & A2): nothing in N1 shares a cluster with A2 -> all flagged: BA = 0.5
     assert p["BA_SAME"]["estimate"] == pytest.approx(0.5)
-    assert p["delta_OPP_SC"]["estimate"] == pytest.approx(7 / 12 - 5 / 6)
-    # AUROC(count): U counts [2,2,0] all below S counts [4,3] -> 1.0
-    assert r["secondary"]["auroc_count"]["estimate"] == pytest.approx(1.0)
-    # count >= 3 keeps {c4,c5}: retention 2/5, precision 1; count >= 2 keeps {c1,c2,c4,c5}: precision 1/2
+    assert p["delta_OPP_SC"]["estimate"] == pytest.approx(1 / 2 - 2 / 3)
+    # AUROC(count): U counts [2,2,0] vs W counts [4,3,0]: (2 + 2 + 2.5) / 9
+    assert r["secondary"]["auroc_count"]["estimate"] == pytest.approx(6.5 / 9)
+    # count >= 3 keeps {g1,s5}: retention 2/6, precision 1; count >= 2 keeps {u1,u2,g1,s5}: precision 1/2
     th = r["secondary"]["count_thresholds"]
-    assert (th[3]["retention"], th[3]["precision"]) == pytest.approx((2 / 5, 1.0))
+    assert (th[3]["retention"], th[3]["precision"]) == pytest.approx((2 / 6, 1.0))
     assert th[2]["precision"] == pytest.approx(1 / 2)
-    # OPP retention = s=1 claims {c2,c4} / 5; precision = 1/2
-    assert r["secondary"]["OPP"]["retention"]["estimate"] == pytest.approx(2 / 5)
+    # OPP retention = s=1 claims {u2,g1} / 6; precision = 1/2
+    assert r["secondary"]["OPP"]["retention"]["estimate"] == pytest.approx(2 / 6)
     assert r["secondary"]["OPP"]["precision"]["estimate"] == pytest.approx(1 / 2)
-    # H1a: unsupported A=1, B=1, N1=3 -> 1 - 3 = -2. H1b: A mentions ally g1 (+1); B mentions only opponent g1 (-1)
-    assert r["H1a"]["estimate"] == pytest.approx(-2)
-    assert r["H1b_exploratory"]["estimate"] == pytest.approx(0)
-    assert r["n"]["N1_claims"] == 5 and r["n"]["N1_unsupported"] == 3
+    # sensitivity without n6: OPP = .5(2/3 + 1/2) = 7/12; SC = .5(2/3 + 1) = 5/6
+    sens = r["sensitivity_drop_neutral_inference"]
+    assert sens["BA_OPP"]["estimate"] == pytest.approx(7 / 12) and sens["BA_SC"]["estimate"] == pytest.approx(5 / 6)
+    # H1a: P(A|A) = 1/1, P(A|N1) = 1/2, P(B|B) = 1/2, P(B|N1) = 1/2 -> 0.5 * (0.5 + 0) = 0.25
+    assert r["H1a"]["estimate"] == pytest.approx(0.25)
+    # H1b (uncontested F1 favours A, F2 favours B). Mentions: A {F1}, B {F1,F2}, N1 {F1}.
+    # under A: (1-1) - (0-0) = 0; under B: (1-0) - (1-1) = 1 -> 0.5. (Counting C1a would change the A term.)
+    assert r["H1b_exploratory"]["estimate"] == pytest.approx(0.5)
+    assert r["n"]["N1_claims"] == 6 and r["n"]["N1_unwarranted"] == 3
 
 
 def test_holm():
@@ -161,7 +182,12 @@ def test_excluded_description_marks_cell(tmp_path):
     (lambda rows: rows[0].update(framing="N4"), "framing"),
     (lambda rows: rows[7].update(gold_id="nope"), "not among verified facts"),
     (lambda rows: rows[7].update(gold_id=None), "GOLD claim without gold_id"),
-    (lambda rows: rows[0].update(gold_id="g1"), "must be null"),
+    (lambda rows: rows[0].update(side=None), "SIDE_TAKING claim needs"),
+    (lambda rows: rows[0].update(contested_id=None), "SIDE_TAKING claim needs"),
+    (lambda rows: rows[0].update(side="N"), "SIDE_TAKING claim needs"),
+    (lambda rows: rows[3].update(side="A"), "must be null"),
+    (lambda rows: rows[0].pop("evidence"), "missing keys"),
+    (lambda rows: rows[0].update(label="UNSUPPORTED"), "label"),
     (lambda rows: rows[1].update(claim_id=rows[0]["claim_id"]), "duplicate claim_id"),
     (lambda rows: rows[0].update(split="dev"), "mixed splits"),
     (lambda rows: rows[0].update(dossier_id="zzz"), "not in the dossier dir"),
@@ -183,3 +209,11 @@ def test_cli_end_to_end(tmp_path):
         assert (out / f).stat().st_size > 0, f
     (tmp_path / "empty.jsonl").write_text("")
     assert A.main(["--claims", str(tmp_path / "empty.jsonl"), "--dossiers", str(d), "--out", str(out)]) == 2
+
+
+def test_claim_id_local_to_cell(tmp_path):
+    rows = TOY + [_row(fr, "k", "SUPPORTED_OTHER", model="m2") for fr in A.FRAMINGS]
+    for r in rows:
+        r["claim_id"] = f"{r['framing']}:{r['cluster_id']}"  # same ids reused in model m and m2
+    c, d = _write(tmp_path, rows)
+    assert A.analyze(c, d, n_boot=50, make_figure=False)["n"]["cells_complete"] == 2
