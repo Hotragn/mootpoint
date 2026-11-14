@@ -112,3 +112,11 @@ def test_debate_arm_argues_and_presence_excludes_it():
     assert "RB" in describe.prompt(d, "DB") and "strongest case" not in describe.prompt(d, "A")
     assert "DA" not in judge.OTHERS and "DB" not in judge.OTHERS  # frozen analysis expects exactly 7 presence framings
     assert judge.VCONTEXTS["v_closed_debate"] == ("DA", "DB") and judge.VCONTEXTS["v_closed"] == ("A", "B")
+
+
+def test_valid_probs_positional_fallback_only_for_exact_index_sets():
+    ids = ["N1:0", "N1:1", "N1:2"]
+    assert judge.valid_probs({"1": 0.1, "2": 0.2, "3": 0.3}, ids) == {"N1:0": 0.1, "N1:1": 0.2, "N1:2": 0.3}
+    assert judge.valid_probs({"claim_0": 0.5, "claim_1": 0.6, "claim_2": 0.7}, ids)["N1:2"] == 0.7
+    with pytest.raises(KeyError):
+        judge.valid_probs({"1": 0.1, "2": 0.2}, ids)  # wrong count: never guess

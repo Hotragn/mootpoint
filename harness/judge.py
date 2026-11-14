@@ -6,6 +6,7 @@ import argparse
 import asyncio
 import json
 import random
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -174,6 +175,18 @@ def valid_presence(obj, claim_ids, k):
 
 
 def valid_probs(obj, claim_ids):
+    """Exact ids, or (fallback) keys that are exactly 0..n-1 or 1..n (bare, 'claim_i', 'N1:i'-like) mapped by position."""
+    if not all(cid in obj for cid in claim_ids):
+        nums = {}
+        for k in obj:
+            digits = re.findall(r"\d+", str(k))
+            if digits:
+                nums[int(digits[-1])] = obj[k]
+        n = len(claim_ids)
+        for base in (0, 1):
+            if set(nums) == set(range(base, base + n)):
+                obj = {cid: nums[base + i] for i, cid in enumerate(claim_ids)}
+                break
     out = {}
     for cid in claim_ids:
         v = float(obj[cid])

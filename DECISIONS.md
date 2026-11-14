@@ -111,3 +111,8 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Claim: The study's honest headline is negative for the original idea. Opposed framings measurably shift side-taking (H1a). Agreement across them is a *worse* detector than resampling, because the omission of inconvenient true facts penalises warranted claims. Reading opposed accounts adds little over reading the neutral text alone with a strong model.
 - Alternative: Change the outcome or the signals to rescue H2. Rejected: that would be test-hunting. F1 stays as frozen. F2 is added with predictions written from dev before test, and test is a replication.
 - Residue: The reader that labels is the same model as the main reader; this is mitigated by the judge2 and agreed-label checks. Presence-matrix validity is moderate (agreement 0.74, κ 0.38 against gold co-occurrence). Gold mentions are undercounted by about 5% because of repaired ids.
+
+## D18 (Sat 07:15): Verifier id fallback; dev verifier coverage rises from 59 to 70 of 71 cells; test generation starts
+- Evidence: qwen3.8-27b (v_file) sometimes keyed outputs as "1".."n" or "claim_i" instead of "N1:i" (28+25+25 of 240 sampled keys). Strict validation dropped whole cells, so v_file failures removed all reader rows for 12 dev cells.
+- Fix: If keys are exactly 0..n−1 or 1..n (any prefix), map them to ids by position. Any other mismatch still fails. Tested.
+- Prompts for every stage are now frozen for test. Test description generation starts now. The analysis spec for F2 is fixed in PLAN v4; `readers.py` is frozen before test judging.
