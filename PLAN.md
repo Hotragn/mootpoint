@@ -1,4 +1,6 @@
-# PLAN: Against-interest agreement (pre-registration v1, Sat Nov 14 03:45 EST)
+# PLAN: Against-interest agreement (pre-registration v2, Sat Nov 14 05:00 EST; v1 03:45)
+
+> **v2 change log (from 4-dossier PILOT data only; no dev or test data existed).** The v1 outcome "UNSUPPORTED" was 334/340 evaluations and only 6 factual errors, and about 30% of a 40-claim hand-read were judge errors (e.g. "accounts conflict" labelled unsupported). v2 replaces it with an outcome anchored to the known contested points: SIDE_TAKING (asserts or presupposes one witness's version) or UNSUPPORTED_FACT. H1 is redefined relative to the neutral baseline because N1 itself mentions A-favouring facts more. Pilot BA (v1 outcome): OPP 0.724, SC 0.723. Recorded in DECISIONS D8.
 
 ## Timeline (EST; internal deadline Sun 20:00; PDF draft due Sun 14:00 to keep a 6 h buffer)
 | Phase | Window | Gate |
@@ -15,8 +17,8 @@ Slip rules: if the pilot (09:00) shows the signals cannot be computed (no unsupp
 When the same evidence is described for opposed requesters, is a claim's survival in *both* opposed descriptions a better unsupervised signal of whether it is supported than its survival in independent neutral resamples (self-consistency) at the same call budget?
 
 ## Hypotheses (directional, written before any data)
-- **H1 (drift against gold).** (a) Commission (unsupported claims per description) is higher under side framings (A, B) than neutral (N1). (b) Omission asymmetry: under a side framing, gold facts favouring the requester's side are mentioned more often than facts favouring the opposing side.
-- **H2 (primary).** For claims in a neutral description N1, the balanced accuracy of flagging unsupported claims with the opposed-agreement signal exceeds that of the self-consistency signal: BA_OPP − BA_SC > 0.
+- **H1 (drift against gold, relative to neutral).** (a) Requester-aligned side-taking: the share of side-taking claims that favour the requester's side is higher under side framings than the corresponding share under N1 (e.g. P(side = A | A framing) − P(side = A | N1) > 0, pooled symmetrically with B). (b) Omission difference-in-differences: [mention rate of ally facts (side vs N1)] − [mention rate of opponent facts (side vs N1)] > 0.
+- **H2 (primary).** For claims in a neutral description N1, the balanced accuracy of flagging unwarranted claims (SIDE_TAKING or UNSUPPORTED_FACT) with the opposed-agreement signal exceeds that of the self-consistency signal: BA_OPP − BA_SC > 0. Mechanism: self-consistency cannot catch a systematic lean, which recurs across neutral samples; opposed framings push against it.
 - **H3 (mechanism).** Opposition matters, not just persona diversity: BA_OPP − BA_SAME > 0, where SAME uses two independent samples under the same side framing.
 
 ## Design
@@ -25,14 +27,14 @@ When the same evidence is described for opposed requesters, is a claim's surviva
   - Split: dev = dossiers 1–50, test = 51–100, stratified by domain, fixed by id before generation.
 - **Framings per dossier × model (6 descriptions, temperature 0.7, 200–300 words).** A, A2 (second independent sample of A), B, N1, N2, N3. The side prompt states the requester's role and goal. The neutral prompt omits them. Instructions are otherwise identical.
 - **Generator models (3 families).** qwen3.5-397b, gemma-4-31b-it, deepseek-v4-flash. Reasoning off.
-- **Claim mapping (judge glm-5.2, temperature 0; not a generator).** Each description is decomposed into atomic claims. Each claim is labelled with a gold fact id, SUPPORTED_OTHER (entailed by the file but not in the gold list), or UNSUPPORTED (not entailed; this includes asserting a contested point as fact without attribution, and evaluative characterisations the file does not support).
+- **Claim mapping (judge glm-5.2, temperature 0; not a generator).** The judge receives the file, the verified facts and the unsettled contested points. It labels each atomic claim as GOLD (+id; attributed testimony matches a/b ids), SUPPORTED_OTHER (strictly entailed, including "accounts disagree"), NEUTRAL_INFERENCE (goes beyond the file but holds whichever contested version is true), SIDE_TAKING (+contested_id, +side: asserts, presupposes, or only follows from one witness's version), or UNSUPPORTED_FACT (wrong or absent factual detail).
 - **Clustering (glm-5.2).** Per dossier × model, claims sharing a gold id form one cluster. Non-gold claims are clustered by semantic equivalence in one call. Labels are not merged.
 - **Signals for each claim c in N1:**
   - s_OPP = 1 iff c's cluster contains a claim from A and a claim from B;
   - s_SC = 1 iff it contains a claim from N2 and from N3;
   - s_SAME = 1 iff it contains a claim from A and from A2.
   - Each signal costs 2 extra descriptions.
-- **Outcome.** y = 1 iff c is UNSUPPORTED. Flag rule: s = 0 means flagged.
+- **Outcome.** y = 1 iff c is SIDE_TAKING or UNSUPPORTED_FACT ("unwarranted"). NEUTRAL_INFERENCE counts as y = 0 in the primary analysis; a sensitivity analysis drops NEUTRAL_INFERENCE claims. Flag rule: s = 0 means flagged.
 
 ## Metrics and analysis (frozen in `analysis/analyze.py`, hash recorded in DECISIONS.md before test generation)
 - **Primary.** BA = ½[P(s=0 | y=1) + P(s=1 | y=0)], micro-averaged over N1 claims on the **test** split, pooled across the 3 generators.
@@ -40,8 +42,8 @@ When the same evidence is described for opposed requesters, is a claim's surviva
   - One-sided bootstrap p.
   - H2 is supported iff the CI lower bound is > 0.
 - **H3.** The same for Δ_OPP−SAME.
-- **H1a.** Paired difference in unsupported claims per description (side mean of A and B, minus N1), with a dossier-cluster bootstrap CI.
-- **H1b.** Omission asymmetry = mean over side descriptions of [mention rate of ally-favouring gold facts − mention rate of opponent-favouring gold facts], with a bootstrap CI.
+- **H1a.** Aligned side-taking = ½{[P(side=A | A) − P(side=A | N1)] + [P(side=B | B) − P(side=B | N1)]}, over side-taking claims, with a dossier-cluster bootstrap CI.
+- **H1b.** Omission DiD = ½{[(ally − N1) − (opp − N1)] under A, plus the same under B}, with ally and opponent mention rates of uncontested gold facts per description, and a dossier-cluster bootstrap CI.
 - **Secondary (descriptive).** Per-model Δ; for each signal, retained precision (supported share among s=1) and retention (share of claims with s=1); AUROC of the count-based score (number of other descriptions containing c, from 0 to 5); per-domain results; a precision–retention frontier figure.
 - **Holm correction** across the three confirmatory tests (H1a, H2, H3). H1b is exploratory.
 - **Validation.**
@@ -60,5 +62,5 @@ About 4,200 calls: 300 dossier, 1,800 description, 1,800 mapping, 300 clustering
 
 ## Data schemas (contract between harness and analysis)
 - `data/dossiers/<id>.json`: {dossier_id, split, domain, side_A, side_B, documents: str, facts: [{fact_id, text, favors: "A"|"B"|"N", contested: bool}]}. Only verified facts are kept.
-- `runs/<split>/claims.jsonl`, one row per claim: {dossier_id, split, domain, model, framing: "A"|"A2"|"B"|"N1"|"N2"|"N3", claim_id, text, label: "GOLD"|"SUPPORTED_OTHER"|"UNSUPPORTED", gold_id: str|null, cluster_id: str}.
+- `runs/<split>/claims.jsonl`, one row per claim: {dossier_id, split, domain, model, framing: "A"|"A2"|"B"|"N1"|"N2"|"N3", claim_id, text, label: "GOLD"|"SUPPORTED_OTHER"|"NEUTRAL_INFERENCE"|"SIDE_TAKING"|"UNSUPPORTED_FACT", gold_id: str|null, contested_id: str|null, side: "A"|"B"|null, evidence: str|null, cluster_id: str}.
 - `runs/<split>/descriptions.jsonl`: {dossier_id, model, framing, text, excluded: bool}.

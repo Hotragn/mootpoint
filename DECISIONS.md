@@ -50,3 +50,10 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Mechanism: The Analyst owns only `analysis/`, the Critic only `../claude/reviews/`, the PI owns `harness/` and `data/`. The PLAN.md schemas are the contract.
 - Alternative: A separate Builder session. Ruled out because a brief round-trip on every pipeline bug costs more than it saves.
 - Residue: Less independence on the build. This is offset by unit tests and the Critic's review of the code before the test run.
+
+## D8 (Sat 05:00): Pre-registration v2 changes the outcome to side-taking (pilot-driven, before dev/test)
+- Claim: v1's "UNSUPPORTED" outcome measured claim type, not truth. v2 anchors the outcome to the known contested points.
+- Evidence: Pilot (4 dossiers × 3 models × 6 framings, `runs/pilot/`): 334 of 340 unsupported labels were evaluations and 6 were facts. In a hand-read of 40 unsupported claims, about 12 were actually supported (meta "accounts conflict" statements and plain facts). Pilot BA was OPP 0.724 vs SC 0.723; within evaluations 0.521 vs 0.576. Mention rates: N1 covers A facts 0.409 vs B facts 0.226, so asymmetry needs a neutral baseline.
+- Mechanism: Strong models attribute contested testimony carefully and rarely fabricate facts from a 2–3k-word file. Drift appears as inference and characterisation that resolves contested points. That has a ground truth here, because the contested points are known by construction.
+- Alternative: Keep v1 and report the null. Rejected because v1's outcome was invalid (label noise plus a type confound), so a null would be uninformative. The risk that v2 was chosen to get a positive result is controlled: the change uses pilot data only, dev and test are untouched, and v2 is frozen before any dev description is judged.
+- Residue: NEUTRAL_INFERENCE vs SIDE_TAKING is still a judge call. That makes judge validation (κ against a second judge and a manual read) more important.
