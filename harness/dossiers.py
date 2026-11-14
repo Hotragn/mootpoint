@@ -124,14 +124,21 @@ def check_spec(spec):
 
 
 async def premises(llm, domain, n):
-    d = DOMAINS[domain]
-    out = await llm.call(AUTHOR, "Output ONLY a JSON object.",
-                         f'List {n} distinct, specific incident premises for case files about {d["topic"]}. '
-                         f'Vary setting, scale, people and circumstances. One sentence each. '
-                         f'Output {{"premises": [..{n} strings..]}}', temperature=0.9, max_tokens=3000, tag="premises")
-    ps = parse_json(out)["premises"]
-    assert len(ps) >= n and all(p.strip() for p in ps), f"premises short for {domain}"
-    return ps[:n]
+    """Collect distinct premises in batches of 10 (one big list was truncated by the author model)."""
+    d, got = DOMAINS[domain], []
+    for k in range(12):
+        if len(got) >= n:
+            break
+        try:
+            out = await llm.call(AUTHOR, "Output ONLY a JSON object.",
+                                 f'List 10 distinct, specific incident premises for case files about {d["topic"]}. '
+                                 f'Vary setting, scale, people and circumstances. One sentence each. '
+                                 f'Output {{"premises": [..10 strings..]}}', temperature=1.0, max_tokens=2000, sample=k, tag="premises")
+            got += [p.strip() for p in parse_json(out)["premises"] if isinstance(p, str) and p.strip() and p.strip() not in got]
+        except (ValueError, KeyError, json.JSONDecodeError):
+            continue
+    assert len(got) >= n, f"premises short for {domain}: {len(got)}"
+    return got[:n]
 
 
 async def build_one(llm, domain, idx, premise, did):
