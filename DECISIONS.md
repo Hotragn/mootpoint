@@ -100,3 +100,8 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Mechanism: Comparing v_closed (uninstructed stakeholders) with v_closed_debate (instructed advocates) shows whether naturally occurring stakeholder descriptions give a judge as much as purpose-built debate.
 - Alternative: Cite debate and skip the arm. Rejected because it costs about 1,350 calls and answers the reviewer's first question with data.
 - Residue: The Scout read the 2025–26 debate papers at abstract plus key-passage level. Carro et al. 2026 (no debate gains for weaker AI judges) and Radharapu et al. 2025 (judges take stances) must be discussed.
+
+## D16 (Sat 06:35): glm-53-flash errors under load are handled by retrying; incomplete cells no longer crash a stage
+- Evidence: The first dev run logged 277 server errors from glm-53-flash (247× 504, 30× 502), so 37 of its descriptions were excluded. A probe at 06:32 returned 200 in under 1 s. The rerun recovered all 37 (2 gemma empty outputs remain excluded). The verifiers stage crashed on a cell missing N2, and the crash also stopped presence.
+- Fix: The verifiers stage skips cells missing a needed framing; analysis reports incomplete cells. Excluded descriptions are retried once before judging (cache makes this free for successes).
+- Residue: GLM-family availability is fragile. For the test run I will retry exclusions in the same way and report the final exclusion counts per model × framing.

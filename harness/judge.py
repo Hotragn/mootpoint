@@ -274,6 +274,9 @@ async def stage_verifiers(llm, split, dossiers, cells, rows):
 
     async def one(key, claims):
         d, fr = dossiers[key[0]], cells[key]
+        needed = {f for ctx in VCONTEXTS.values() for f in ctx} | {"N1"}
+        if not needed <= set(fr):  # incomplete cell: skip (reported via row counts), never crash the stage
+            return []
         ids = [c["claim_id"] for c in claims]
         ctext = "\n".join(f'{c["claim_id"]}: {c["text"]}' for c in claims)
         res = await asyncio.gather(*[retry_json(llm, JUDGE, MAP_INSTR, vclosed_prompt(d, fr, ctx, ctext),
