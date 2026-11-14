@@ -19,7 +19,7 @@ from harness.llm import LLM, ROOT
 
 OUT = ROOT / "data" / "dossiers"
 STAGE = ROOT / "runs" / "dossier_staging"  # every built dossier lands here immediately (crash-safe)
-AUTHOR, VERIFIER = "glm-5.2", "deepseek-v4-flash"
+AUTHOR, VERIFIER = "qwen3.8-27b", "deepseek-v4-flash"  # glm-5.2 unavailable (504s) since ~04:10, D13
 MIN_FACTS = 15
 DEV_PER_DOMAIN = 6  # PLAN v3: 24 dev / 76 test
 
@@ -82,7 +82,7 @@ For each statement id, answer true if the documents state it or clearly entail i
 Output JSON: {{"<id>": true|false, ...}} covering every id."""
 
 
-SETTLER = "qwen3.5-397b"
+SETTLER = "deepseek-v4-flash"  # family differs from the author (Qwen)
 SETTLE_TMPL = """DOCUMENTS:
 {docs}
 

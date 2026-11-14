@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from harness.dossiers import parse_json
 from harness.llm import LLM, ROOT
 
-JUDGE = "glm-5.2"
+JUDGE = "qwen3.5-397b"  # glm-5.2 unavailable (504s), D13; not a generator
 LABELS = {"GOLD", "SUPPORTED_OTHER", "NEUTRAL_INFERENCE", "SIDE_TAKING", "UNSUPPORTED_FACT"}
 UNWARRANTED = {"SIDE_TAKING", "UNSUPPORTED_FACT"}  # primary outcome y = 1
 
@@ -85,7 +85,7 @@ async def map_desc(llm, d, desc):
             out = await llm.call(JUDGE, MAP_INSTR, MAP_TMPL.format(docs=d["documents"], gold=gold, contested=contested, desc=desc["text"]),
                                  temperature=0.0 if attempt == 0 else 0.3, max_tokens=5000, sample=attempt, tag="map")
             return valid_map(parse_json(out), gold_ids, cids)
-        except (ValueError, KeyError, AssertionError, TypeError, json.JSONDecodeError):
+        except (ValueError, KeyError, AssertionError, TypeError, json.JSONDecodeError, RuntimeError):
             continue
     return None
 
@@ -134,7 +134,8 @@ not in the file. Output JSON: {{"<claim id>": probability between 0 and 1, ...}}
 
 VERDICTS = {"ASSERTS", "CONTRADICTS", "SILENT"}
 OTHERS = ["A", "A2", "B", "N2", "N3", "P1", "P2"]
-JUDGE2 = "qwen3.8-27b"
+JUDGE2 = "deepseek-v4-flash"  # different family from the judge; kappa also reported excluding its own descriptions
+VFILE = "qwen3.8-27b"
 
 
 def valid_presence(obj, claim_ids, k):
@@ -162,7 +163,7 @@ async def retry_json(llm, model, instr, prompt, validate, max_tokens, tag):
             out = await llm.call(model, instr, prompt, temperature=0.0 if attempt == 0 else 0.3,
                                  max_tokens=max_tokens, sample=attempt, tag=tag)
             return validate(parse_json(out))
-        except (ValueError, KeyError, AssertionError, TypeError, json.JSONDecodeError):
+        except (ValueError, KeyError, AssertionError, TypeError, json.JSONDecodeError, RuntimeError):
             continue
     return None
 
@@ -253,7 +254,7 @@ async def stage_verifiers(llm, split, dossiers, cells, rows):
         vc = await retry_json(llm, JUDGE, MAP_INSTR, VCLOSED_TMPL.format(
             n1=fr["N1"]["text"], a=fr["A"]["text"], b=fr["B"]["text"], a_role=d["side_A"]["role"], a_goal=d["side_A"]["goal"],
             b_role=d["side_B"]["role"], b_goal=d["side_B"]["goal"], claims=ctext), lambda o: valid_probs(o, ids), 3000, "v_closed")
-        vf = await retry_json(llm, "gemma-4-31b-it", MAP_INSTR, VFILE_TMPL.format(docs=d["documents"], claims=ctext),
+        vf = await retry_json(llm, VFILE, MAP_INSTR, VFILE_TMPL.format(docs=d["documents"], claims=ctext),
                               lambda o: valid_probs(o, ids), 3000, "v_file")
         if vc is None or vf is None:
             return []

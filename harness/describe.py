@@ -12,7 +12,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from harness.llm import LLM, ROOT
 
-GENERATORS = ["qwen3.5-397b", "gemma-4-31b-it", "deepseek-v4-flash"]
+GENERATORS = ["gemma-4-31b-it", "deepseek-v4-flash", "glm-53-flash"]  # D13: qwen3.5-397b became the judge
 FRAMINGS = ["A", "A2", "B", "N1", "N2", "N3", "P1", "P2"]
 # diverse NON-stakeholder requesters (DIV control, Critic review #2)
 DIVERSE = {"P1": ("a court clerk", "preparing a neutral case summary for the record"),

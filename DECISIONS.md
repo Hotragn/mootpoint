@@ -79,3 +79,10 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 ## D12 (Sat 04:20): Analysis frozen for PLAN v3: `analysis/analyze.py` sha256 8135fa2c52e5bcd013595769a4c0201aab2efd028f2bdf376ffc1fa1e7eef1e3
 - Evidence: `analysis/FREEZE.md`; 55/55 tests pass (planted effect recovered, null calibrated, hand-computed AUROC toy, TOST, exclusions, loud validation). Synthetic data only. No dev or test claims existed.
 - Rule: The test analysis runs this exact file. Any change after this point is a new hash logged here with a reason. Results produced by a changed file are labelled exploratory unless the change is a bug fix that does not alter the specification.
+
+## D13 (Sat 05:20): glm-5.2 is unavailable, so model roles are reassigned (PLAN v3.1)
+- Claim: Judge = qwen3.5-397b. Generators = gemma-4-31b-it, deepseek-v4-flash, glm-53-flash. Dossier author = qwen3.8-27b. Fact check and settle check = deepseek-v4-flash. V_file = qwen3.8-27b. Second judge = deepseek-v4-flash.
+- Evidence: From about 04:10, glm-5.2 calls hung: no call completed for an hour; the build produced 0 renders. Probe at 05:12 with a 20-token request: ReadTimeout at 60 s, then three 504 Gateway Time-outs after all my jobs were stopped. The other 6 models returned 200 in 0.4–0.7 s. The old client retried 5xx silently up to 40 times, which hid the outage for about an hour. The client now fails after 6 server errors and logs each one to stderr.
+- Mechanism: The judge must be strong and outside the generator families. qwen3.5-397b is the strongest model that responds. The generators then cover 3 families (Gemma, DeepSeek, GLM) with no family overlap with the judge. The author (Qwen) shares a family with the judge, as glm did before; this is disclosed.
+- Alternative: Wait for glm-5.2 to recover. Rejected because the recovery time is unknown, and switching mid-run would mix judges.
+- Residue: glm-53-flash is a weaker generator. The second judge (deepseek) is also a generator, so κ is reported excluding its own descriptions. Lost about 1 h of wall clock. The schedule still holds (dev by 13:00).

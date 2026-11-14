@@ -12,6 +12,7 @@ import json
 import os
 import random
 import sqlite3
+import sys
 import time
 from pathlib import Path
 
@@ -85,20 +86,27 @@ class LLM:
         self.db.commit()
 
     async def _post(self, payload) -> dict:
+        """429: patient retry (up to ~15 min). 5xx/timeouts: at most 6 attempts, then raise (fail fast, visibly)."""
         headers = {"Authorization": f"Bearer {os.environ['ADAPTION_API_KEY']}"}
-        for attempt in range(40):
+        n429 = n5xx = 0
+        while True:
             try:
-                async with httpx.AsyncClient(timeout=300) as c:
+                async with httpx.AsyncClient(timeout=240) as c:
                     r = await c.post(URL, json=payload, headers=headers)
                 if r.status_code == 429:
+                    n429 += 1
+                    if n429 > 40:
+                        raise RuntimeError(f"{payload['model']}: 429 x{n429}")
                     await asyncio.sleep(15 + random.random() * 10)
                     continue
                 if r.status_code >= 500:
-                    await asyncio.sleep(min(60, 2 ** attempt))
-                    continue
+                    raise httpx.TransportError(f"HTTP {r.status_code}")
                 if r.status_code >= 400:  # body may echo the request, never the key; truncate anyway
                     raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
                 return r.json()
-            except httpx.TransportError:
-                await asyncio.sleep(min(60, 2 ** attempt))
-        raise RuntimeError("gave up after 40 attempts")
+            except httpx.TransportError as e:
+                n5xx += 1
+                print(f"[llm] {payload['model']}: {type(e).__name__} {str(e)[:60]} (attempt {n5xx})", file=sys.stderr, flush=True)
+                if n5xx >= 6:
+                    raise RuntimeError(f"{payload['model']}: gave up after {n5xx} server/transport errors")
+                await asyncio.sleep(min(60, 5 * 2 ** n5xx))
