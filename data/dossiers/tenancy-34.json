@@ -1,0 +1,178 @@
+{
+ "dossier_id": "tenancy-34",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Marine Life v. Coastal Holdings LLC",
+ "premise": "An elderly retiree in a coastal condo in Miami disputes a forced move-out order based on alleged lease violations, counter-claiming that the landlord failed to repair hurricane damage that flooded his unit.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Residential Lease Agreement and Initial Waiver ===\n\n**LEASE AGREEMENT**\n**Property:** Unit 402, 1200 Ocean Breeze Drive\n**Landlord:** Coastal Holdings LLC\n**Tenant:** Arthur Pines\n**Effective Date:** May 1, 2022\n\n**1. Term of Tenancy**\nThis lease commences on May 1, 2022, and continues on a month-to-month basis unless terminated in accordance with Section 9. The monthly rent is set at $2,400.00, payable on the first day of each calendar month.\n\n**2. Maintenance Responsibilities**\nThe Landlord shall be responsible for all structural repairs to the building, including the roof, exterior walls, and foundation. The Tenant shall be responsible for cosmetic maintenance, including the upkeep of interior paint, minor hardware, and general cleanliness.\n\n**3. Reporting Requirements**\nTenant agrees to report any visible water damage, structural defects, or safety hazards to the Landlord within twenty-four (24) hours of discovery. Failure to report such damage within this timeframe may result in the Landlord\u2019s refusal to cover repair costs associated with the delay.\n\n**4.2 Termination for Property Damage**\nLandlord reserves the right to terminate this lease if the Tenant fails to remedy significant property damage caused by the Tenant\u2019s negligence or failure to report required damage within the stipulated timeframes.\n\n**5. Insurance and Deductibles**\nLandlord maintains a comprehensive property insurance policy effective from January 1, 2023. The policy includes a deductible of $10,000.00. Costs below this threshold are the sole responsibility of the Landlord unless otherwise specified in this agreement.\n\n**SIGNATURES**\nArthur Pines, Tenant: ____________________ Date: May 1, 2022\nCoastal Holdings LLC, Landlord: ____________________ Date: May 1, 2022\n\n**ATTACHMENT A: WAIVER OF PRE-EXISTING CONDITIONS**\nI, Arthur Pines, acknowledge that the exterior paint of the building at 1200 Ocean Breeze Drive shows signs of weathering and peeling. I waive any claims regarding the pre-existing condition of the exterior paint as of the date of this lease.\nSigned: Arthur Pines, May 1, 2022\n\n=== DOCUMENT 2: Incident Log and Correspondence Record ===\n\n**DATE:** August 28, 2023\n**EVENT:** Hurricane Zeta Landfall\n**RECORD:** National Weather Service data confirms Hurricane Zeta made landfall near Miami on August 28, 2023. Sustained winds were recorded at 105 mph. The storm was classified as a Category 2 hurricane for the specific coastal zone containing 1200 Ocean Breeze Drive.\n\n**DATE:** August 29, 2023\n**LOG ENTRY:**\n- 14:00: Building Supervisor on duty. No emergency calls received regarding Unit 402.\n- 18:00: Log notes state \"No verbal or written notification of water damage received from Unit 402.\"\n- 22:00: End of shift.\n\n**DATE:** August 30, 2023\n**FINANCIAL RECORD:**\n- Payment of $12,500.00 issued to \"AquaRest Restoration Co.\"\n- Invoice Description: \"Initial emergency water extraction services, Unit 402.\"\n- Note: This payment was made by Coastal Holdings LLC to address immediate flooding reported by the restoration team upon their arrival.\n\n**DATE:** August 31, 2023\n**EVIDENCE SUBMISSION:**\n- Arthur Pines submitted a digital package containing photographs dated August 31, 2023.\n- Image descriptions: \"Water stains on ceiling, master bedroom,\" \"Visible dampness on wall, living area.\"\n\n**DATE:** September 2, 2023\n**CORRESPONDENCE LOG:**\n- 09:15: First written repair request received from Arthur Pines via email. Subject: \"Urgent: Water Damage in Unit 402.\"\n- 09:16: Forwarded to David Ross (Property Manager).\n- Note: David Ross is on vacation from August 25 to September 2, 2023. Email auto-reply sent.\n\n**DATE:** September 4, 2023\n**CORRESPONDENCE LOG:**\n- 11:30: Second written repair request received from Arthur Pines.\n- 14:20: Third written repair request received from Arthur Pines.\n\n**DATE:** September 10, 2023\n**VISIT RECORD:**\n- Maria Soto, Tenants' Union Representative, visited Unit 402.\n- Purpose: Document conditions for member Arthur Pines.\n- Duration: 45 minutes.\n- Photos taken: 12.\n\n**DATE:** September 15, 2023\n**LEGAL NOTICE:**\n- Formal notice of intent to terminate lease delivered to Unit 402.\n- Cited Clause: Section 4.2 (Property Damage).\n- Reason: Alleged failure to report damage timely and negligence regarding property condition.\n\n**DATE:** September 20, 2023\n**LEGAL CORRESPONDENCE:**\n- Certified letter sent by Landlord\u2019s Attorney to Arthur Pines.\n- Demand: Vacate premises by October 1, 2023.\n\n**DATE:** October 2, 2023\n**SCHEDULED EVENT:**\n- Municipal building code inspection scheduled for Unit 402.\n- Requested by: Landlord (Coastal Holdings LLC).\n\n=== DOCUMENT 3: Witness Statement of Maria Soto ===\n\n**STATEMENT OF WITNESS**\n**Name:** Maria Soto\n**Role:** Tenants' Union Organizer\n**Date of Statement:** September 12, 2023\n\nI visited Unit 402 on September 10, 2023, to assess the living conditions for my member, Arthur Pines. What I witnessed was a complete disaster, a total neglect of the tenant's basic right to safety. The air was thick with the smell of mildew; it was suffocating. It was clear that the water entered the unit exclusively through the roof, which was compromised by the hurricane. This constitutes a structural failure for which the landlord is solely liable. The roof was not just \"damaged\"; it was torn open, allowing the rain to pour directly into the living spaces.\n\nWhen I entered the master bedroom, the ceiling was sagging and black with mold. The floor was buckled and wet. I spoke with Arthur, and he showed me his photos from August 31. He has been living in this toxic environment for weeks. The unit was uninhabitable from August 30, 2023, to September 15, 2023, due to pervasive mold growth and standing water in the living area. It was not just damp; it was a health hazard. Arthur has chronic respiratory issues, and this mold exposure has exacerbated his condition significantly.\n\nI also want to note the timeline. Arthur told me he had called the building supervisor on August 29. He was trying to get help. The water was already rising. The landlord\u2019s claim that they didn't know until September 2 is absurd. They have a property manager, David Ross, who was conveniently on vacation right when the storm hit. They knew, or they should have known. The distance from the nearest storm drain to the unit's entrance is 450 feet, so this was not a simple drainage issue from the street; it was internal structural failure.\n\nThe damage to the drywall and flooring in the master bedroom was caused by prolonged moisture exposure from that roof leak. It required full replacement of the subfloor, not just a patch-up. The landlord is trying to blame the tenant for a catastrophic failure of their own building. This is a violation of the lease, which states the landlord is responsible for structural repairs. They are evicting him because they don't want to pay for the roof they failed to maintain.\n\n=== DOCUMENT 4: Witness Statement of David Ross ===\n\n**STATEMENT OF WITNESS**\n**Name:** David Ross\n**Role:** Property Manager, Coastal Holdings LLC\n**Date of Statement:** September 18, 2023\n\nI am providing this statement to clarify the sequence of events regarding Unit 402 and to correct the false narratives put forth by the tenant and his union representative. I was on vacation from August 25 to September 2, 2023, but the building\u2019s standard operating procedures were in effect.\n\nRegarding the source of water ingress: The water entered the unit primarily through the tenant's sliding glass door, which was left open by the tenant during the storm. This makes the tenant responsible for the resulting damage. The roof of the building has been inspected and maintained; the hurricane winds were high, but the structural integrity of the roof was not the primary point of failure in this specific unit. The tenant failed to secure the sliding glass door, a basic duty of care, and allowed rain to flood the interior.\n\nRegarding the timeliness of repair requests: No verbal or written notification of water damage was received until September 2, 2023. This violates the lease requirement to report damage within 24 hours of discovery. The lease is explicit: \"Tenant agrees to report any visible water damage... within twenty-four (24) hours.\" Arthur Pines resided in Unit 402 continuously since May 2022, totaling 16 months of occupancy. He knows the rules. He paid his rent of $2,400 on time for all 16 months, so he is familiar with the obligations. He waited three days after the storm to send the first email.\n\nThe damage to the drywall and flooring was minor and limited to surface staining caused by the initial emergency water extraction, which did not penetrate to the subfloor. We hired a licensed restoration contractor, Mr. James Kline, to assess this. The unit remained habitable throughout the period, with only localized dampness in the master bedroom that did not affect the overall livability of the apartment. The tenant\u2019s claim of \"uninhabitability\" is an exaggeration to force a free rent.\n\nWe did pay $12,500 to a restoration contractor on August 30, 2023, for initial emergency water extraction services. This was done to mitigate further damage, but it does not absolve the tenant of his failure to report and secure the unit. The municipal inspection scheduled for October 2, 2023, requested by the landlord, will provide an official, neutral assessment of the condition. We are standing by the lease terms. The tenant signed a waiver acknowledging the pre-existing condition of the building's exterior paint on May 1, 2022, but that is unrelated to the interior water damage. The electrical panel was inspected by a licensed electrician on June 15, 2023, and found to be in good working order, so there is no electrical hazard involved.\n\n=== DOCUMENT 5: Inspection and Medical Records ===\n\n**INDEPENDENT STRUCTURAL ENGINEERING REPORT**\n**Engineer:** Dr. Elena Rostova\n**Date:** September 14, 2023\n**Subject:** Assessment of Unit 402, 1200 Ocean Breeze Drive\n\n**Findings:**\nI was hired by the Tenants' Union to assess the structural condition of Unit 402. Upon inspection, I observed significant moisture damage in the master bedroom. The damage to the drywall and flooring in the master bedroom was caused by prolonged moisture exposure from the roof leak, requiring full replacement of the subfloor. The pattern of the staining and the depth of the moisture saturation are consistent with a top-down water ingress, not a bottom-up or lateral entry. The ceiling joists showed signs of swelling and rot, indicating the water had been present for several days before my inspection.\n\n**RESTORATION CONTRACTOR ASSESSMENT**\n**Contractor:** Mr. James Kline, AquaRest Restoration Co.\n**Date:** September 5, 2023\n\n**Report:**\nI was engaged by Coastal Holdings LLC to perform emergency water extraction on August 30, 2023. Upon arrival, I observed standing water in the living area and dampness in the master bedroom. I performed extraction and dehumidification services. In my professional opinion, the damage to the drywall and flooring was minor and limited to surface staining caused by the initial emergency water extraction, which did not penetrate to the subfloor. The subfloor material appeared dry and stable during my extraction process. I recommend monitoring for any further changes, but no immediate structural replacement is required based on my visual assessment at the time.\n\n**MEDICAL RECORDS EXCERPT**\n**Patient:** Arthur Pines\n**Date:** September 8, 2023\n**Physician:** Dr. Sarah Jenkins, Pulmonology\n\n**Diagnosis:**\nPatient presents with acute exacerbation of chronic respiratory issues. Patient reports increased coughing, wheezing, and shortness of breath over the past two weeks. Patient resides in a unit with reported mold exposure.\n\n**Clinical Note:**\nArthur Pines's medical records indicate he suffers from chronic respiratory issues exacerbated by mold exposure. The environmental conditions in his residence are contributing to the worsening of his symptoms. I recommend immediate remediation of the living environment to prevent further deterioration of his respiratory health.",
+ "n_words": 1880,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 402 at 1200 Ocean Breeze Drive was signed on May 1, 2022, by tenant Arthur Pines and landlord Coastal Holdings LLC.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "A formal notice of intent to terminate the lease was delivered to Arthur Pines's unit on September 15, 2023, citing Section 4.2 regarding property damage.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Hurricane Zeta made landfall near Miami on August 28, 2023, with sustained winds of 105 mph.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Coastal Holdings LLC paid $12,500 to a restoration contractor on August 30, 2023, for initial emergency water extraction services.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The lease agreement contains a clause requiring tenants to report visible water damage within 24 hours of discovery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Arthur Pines has resided in Unit 402 continuously since May 2022, totaling 16 months of occupancy.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The tenants' union representative, Maria Soto, visited the unit on September 10, 2023, to document conditions for the member.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "A municipal building code inspection was scheduled for Unit 402 on October 2, 2023, requested by the landlord.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Arthur Pines's monthly rent for Unit 402 is $2,400, which has been paid on time for all 16 months of the tenancy.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The hurricane force wind rating for the area on August 28, 2023, was classified as Category 2 by the National Weather Service.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Coastal Holdings LLC maintains a comprehensive property insurance policy with a $10,000 deductible, effective from January 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The lease agreement specifies that the landlord is responsible for structural repairs but the tenant is responsible for cosmetic maintenance.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Arthur Pines provided photographs dated August 31, 2023, showing water stains on the ceiling of the master bedroom.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The landlord's attorney sent a certified letter on September 20, 2023, demanding vacating of the premises by October 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The distance from the nearest storm drain to Unit 402's entrance is 450 feet.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Arthur Pines's medical records indicate he suffers from chronic respiratory issues exacerbated by mold exposure.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Coastal Holdings LLC employed a full-time property manager, David Ross, who was on vacation from August 25 to September 2, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The unit's electrical panel was inspected by a licensed electrician on June 15, 2023, and found to be in good working order.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Arthur Pines signed a waiver on May 1, 2022, acknowledging the pre-existing condition of the building's exterior paint.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Maria Soto, Tenants' Union Organizer stated that The water entered the unit exclusively through the roof, which was compromised by the hurricane, constituting a structural failure for which the landlord is solely liable.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Ross, Property Manager for Coastal Holdings LLC stated that The water entered the unit primarily through the tenant's sliding glass door, which was left open by the tenant during the storm, making the tenant responsible for the resulting damage.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "David Ross, Property Manager for Coastal Holdings LLC stated that No verbal or written notification of water damage was received until September 2, 2023, which violates the lease requirement to report damage within 24 hours of discovery.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Elena Rostova, Independent Structural Engineer hired by Tenants' Union stated that The damage to the drywall and flooring in the master bedroom was caused by prolonged moisture exposure from the roof leak, requiring full replacement of the subfloor.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mr. James Kline, Restoration Contractor for Coastal Holdings LLC stated that The damage to the drywall and flooring was minor and limited to surface staining caused by the initial emergency water extraction, which did not penetrate to the subfloor.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Arthur Pines, Tenant stated that The unit was uninhabitable from August 30, 2023, to September 15, 2023, due to pervasive mold growth and standing water in the living area.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Ross, Property Manager for Coastal Holdings LLC stated that The unit remained habitable throughout the period, with only localized dampness in the master bedroom that did not affect the overall livability of the apartment.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

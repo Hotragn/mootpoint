@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-11",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Rivera v. Meridian Tower Holdings",
+ "premise": "A college student in a high-rise luxury tower in Manhattan claims constructive eviction due to chronic, unrepaired water leaks that have destroyed their electronics and personal property.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Building Management System Log & Maintenance Records ===\n\n**System:** Meridian Plaza Property Management Suite (MP-MS)\n**Building:** 1200 Meridian Plaza, Manhattan\n**Unit:** 402 (4th Floor)\n**Leaseholder:** Elena Rivera\n**Lease Date:** January 15, 2023\n**Monthly Rent:** $4,500.00\n\n**Ticket History Summary:**\nTotal Active/Closed Tickets for Unit 402 (March 3, 2024 \u2013 May 20, 2024): 47\nCategory: Water Intrusion / Plumbing\n\n**Ticket #402-0303-01**\n*   **Date/Time:** March 3, 2024, 14:02\n*   **Source:** Tenant App Submission\n*   **Description:** \"Leak in bathroom ceiling. Water dripping onto tub.\"\n*   **Action:** Logged by Marcus Thorne, Property Manager.\n*   **Priority Assignment:** Low\n*   **Status:** Open\n\n**Ticket #402-0315-04**\n*   **Date/Time:** March 15, 2024, 09:15\n*   **Type:** Maintenance Visit\n*   **Technician:** J. Miller (Licensed Plumber)\n*   **Duration:** 45 minutes\n*   **Notes:** Accessed ceiling tile in bathroom. Replaced gasket on supply line. No further action taken at this time.\n*   **Invoice Attached:** INV-2024-0315-JM ($800.00 - Parts and Labor)\n\n**Ticket #402-0412-12**\n*   **Date/Time:** April 12, 2024, 11:30\n*   **Source:** City Hall Inspector\n*   **Description:** Third-party inspection.\n*   **Observation:** Active water dripping observed from ceiling tile in bathroom.\n*   **Status:** Closed (Pending Repair)\n\n**Ticket #402-0520-47**\n*   **Date/Time:** May 20, 2024\n*   **Source:** Tenant App Submission\n*   **Description:** \"Leak continues. Apartment wet.\"\n*   **Priority Assignment:** Low\n*   **Status:** Open\n\n**Utility Data Analysis (Building Level):**\n*   **April 2023 Water Usage:** 12,000 gallons\n*   **April 2024 Water Usage:** 16,800 gallons\n*   **Variance:** +40%\n\n**Insurance Policy Record:**\n*   **Carrier:** Meridian Tower Holdings Insurance Division\n*   **Policy Effective Date:** January 1, 2024\n*   **Coverage:** Water Damage\n*   **Deductible:** $2,500.00 per claim\n\n**Board Meeting Minutes Excerpt:**\n*   **Date:** March 20, 2024\n*   **Agenda Item 4:** Unit 402 Leak\n*   **Note:** Listed as recurring agenda item. Budget approval required for structural remediation. Deferred to next meeting.\n\n=== DOCUMENT 2: Witness Statement of Elena Rivera (Tenant) ===\n\nI am Elena Rivera, the tenant of Unit 402 at 1200 Meridian Plaza. I have lived in this apartment since January 2023. I am writing this statement to detail the horrific conditions I have been forced to endure due to the gross negligence of Meridian Tower Holdings.\n\nWhen I first signed the lease on January 15, 2023, I was told the building was well-maintained. That was a lie. The building is a 30-story structure built in 1985, and it is crumbling. On March 3, 2024, I reported a leak in my bathroom ceiling through the building app. I expected a quick fix. Instead, Marcus Thorne, the property manager, logged it as \"Priority Low.\" That was the first sign that they didn't care about my safety.\n\nOver the next two months, I submitted a total of 47 maintenance requests. Forty-seven times I asked for help. They ignored me. My apartment became a swamp. The water damage rendered the apartment uninhabitable. Mold covered 80% of the bedroom walls. It was black, fuzzy, and spreading. My medical records show that in April 2024, I was diagnosed with chronic anxiety triggered by this mold exposure. I couldn't breathe. I couldn't sleep.\n\nOn May 25, 2024, I received a repair bill for $1,450 for my laptop, which was destroyed by water intrusion. My electronics were destroyed by water dripping directly from the ceiling leak. I kept them on my desk, away from the bathroom, but the ceiling leaked everywhere.\n\nBy May 15, 2024, the conditions were so bad that I could no longer stay in the unit. I have slept in my car for 14 nights between May 15 and June 1, 2024. It is cold, and it is humiliating, but at least I am not breathing in mold spores.\n\nOn June 1, 2024, I received a formal notice of non-payment from your client. They are citing a $250 late fee for May rent. This is a setup. I stopped paying rent in protest of the living conditions, as I stated in my email to the tenants' union on May 10, 2024. This eviction notice is not about money; it is about punishing me for speaking out. They are trying to drive me out because I joined the tenants' union. This is retaliatory.\n\nI am ready to testify to the fact that my home was destroyed by their inaction.\n\n=== DOCUMENT 3: Witness Statement of Marcus Thorne (Property Manager) ===\n\nMy name is Marcus Thorne, and I am the Property Manager for 1200 Meridian Plaza. I have managed this building for five years. I am providing this statement to clarify the facts regarding the maintenance of Unit 402.\n\nMs. Rivera\u2019s lease, signed on January 15, 2023, is a standard residential agreement. It explicitly states that the tenant is responsible for minor cosmetic repairs under $100, such as patching minor paint chips. While this does not cover structural leaks, it establishes that Ms. Rivera is expected to maintain the interior of her unit to a reasonable standard.\n\nOn March 3, 2024, at 14:02, I logged Ms. Rivera\u2019s initial complaint regarding a bathroom ceiling leak. I assigned it a priority of \"Low\" because, at that time, it appeared to be a minor drip from a single supply line, not a structural failure. We do not treat every drip as an emergency.\n\nContrary to Ms. Rivera\u2019s claims, we did not ignore her. On March 15, 2024, a licensed plumber visited Unit 402 for 45 minutes. We dispatched this technician within 48 hours of the first complaint to fix the leak. The plumber replaced a gasket, and we billed $800 for parts and labor, as documented in our records. This was a timely and professional response.\n\nMs. Rivera claims that mold covered 80% of her bedroom walls and that the apartment was uninhabitable. This is false. The water damage was localized to a single ceiling tile in the bathroom. No mold was present in the bedroom. The building\u2019s fire safety inspection report from January 2024 noted \"minor moisture\" in the basement utility room, which is unrelated to Unit 402, but this shows that we monitor moisture issues in the building. We did not see extensive mold in Unit 402 during our inspections.\n\nRegarding the damage to Ms. Rivera\u2019s electronics, she claims the water dripped from the ceiling. My assessment is that the electronics were damaged due to the tenant's failure to move them away from the window where rain entered. The window seals in Unit 402 are old, and it is the tenant's responsibility to ensure that personal property is not placed in areas susceptible to weather intrusion. She has not provided evidence that the ceiling leak reached her desk.\n\nFinally, regarding the eviction notice issued on June 1, 2024: This was issued solely because Rivera failed to pay the $250 late fee on time. The rent for Unit 402 is $4,500 per month. She did not pay the late fee. We follow the lease terms. There is no retaliation. The \"quiet enjoyment\" clause in her lease protects her right to use the apartment, but it does not exempt her from paying her rent.\n\n=== DOCUMENT 4: Witness Statement of Chloe Diaz (Tenants' Union Organizer) ===\n\nI am Chloe Diaz, an organizer for the Tenants' Union. I have been working with Ms. Rivera since March 2024. I am familiar with the conditions in Unit 402 and the management practices of Meridian Tower Holdings.\n\nMs. Rivera is a victim of a systemic failure by the landlord. The landlord never attempted to repair the leak, ignoring all requests for over two months. While they sent a plumber once in March, it was a token gesture. They did not fix the root cause. The leak continued. Ms. Rivera submitted 47 maintenance requests. Forty-seven! And they kept logging them as \"Low Priority.\" This is not maintenance; this is neglect.\n\nThe living conditions in Unit 402 became dangerous. Ms. Rivera\u2019s medical records show she developed chronic anxiety in April 2024 due to mold exposure. This is not a minor issue. The mold was pervasive. The landlord knew about it. Their board meeting minutes from March 20, 2024, list \"Unit 402 leak\" as a recurring agenda item requiring budget approval. They had the funds. They chose not to spend them.\n\nOn May 10, 2024, Ms. Rivera sent an email to our union stating that she had stopped paying rent in protest of the living conditions. This was a calculated decision to draw attention to the uninhabitable state of her home. When the landlord issued a notice of non-payment on June 1, 2024, citing a $250 late fee, it was clearly retaliatory. The eviction notice was issued in retaliation for Rivera's participation in the tenants' union. They are trying to break her by using the legal system.\n\nThe property loss is also a result of their negligence. Ms. Rivera\u2019s laptop was destroyed by the water. The landlord\u2019s claim that rain entered through the window is a deflection. The primary issue was the ceiling leak. The water was coming from above. The landlord\u2019s insurance policy has a deductible of $2,500 per claim for water damage, which suggests they view water damage as a frequent, manageable cost rather than a critical hazard.\n\nMs. Rivera has slept in her car for 14 nights between May 15 and June 1, 2024. This is because her home was unsafe. We demand that the landlord pay for the repairs and the damages, or they will face legal consequences for their negligence.\n\n=== DOCUMENT 5: Witness Statement of Sarah Jenkins (Landlord Counsel) ===\n\nI am Sarah Jenkins, counsel for Meridian Tower Holdings. I am submitting this statement on behalf of my client.\n\nThe facts in this case are straightforward. Ms. Rivera is in default of her lease agreement. The lease, dated January 15, 2023, requires timely payment of rent. Ms. Rivera failed to pay the $250 late fee for May 2024. On June 1, 2024, we issued a formal notice of non-payment. This is a standard legal procedure. It is not retaliatory.\n\nMs. Rivera\u2019s claims of \"uninhabitable\" conditions are exaggerated. The building is a 30-story structure from 1985. It is a well-maintained building. The leak in Unit 402 was addressed. On March 15, 2024, a licensed plumber visited the unit for 45 minutes. We dispatched a licensed plumber within 48 hours of the first complaint to fix the leak. The maintenance invoice for $800 in parts and labor proves that we acted.\n\nMs. Rivera\u2019s claim that the landlord ignored her for two months is false. We received 47 tickets, but many were duplicates or complaints about the same minor issue. We did not have the resources to send a plumber every time she complained about a drip. However, we did send one.\n\nRegarding the mold, Ms. Rivera claims 80% of her bedroom walls were covered. This is not supported by our inspections. The water damage was localized to a single ceiling tile. No mold was present in the bedroom. The fire safety inspection report from January 2024 noted minor moisture in the basement, but that is unrelated to Unit 402. There is no evidence of widespread mold in Ms. Rivera\u2019s bedroom.\n\nThe damage to her laptop is not our responsibility. The lease states that the tenant is responsible for minor repairs and the care of their personal property. The electronics were damaged due to the tenant's failure to move them away from the window where rain entered. It is not the landlord's fault if the tenant leaves electronics near a window in a building from 1985.\n\nThe utility bill showing a 40% increase in water usage for the building in April 2024 compared to April 2023 is a building-wide metric. It does not prove that Unit 402 had a major leak. It could be due to other factors, such as increased occupancy or landscaping.\n\nMs. Rivera\u2019s rent of $4,500 per month is 15% below the average rent for comparable units in the building. She is receiving a discount. She is not being treated unfairly. She is simply not paying her bills. We will enforce the lease.",
+ "n_words": 1980,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "Tenant Elena Rivera signed a lease dated January 15, 2023, for Unit 402 at 1200 Meridian Plaza, Manhattan.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Unit 402 is located on the 4th floor of a 30-story building constructed in 1985.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "On March 3, 2024, Rivera submitted a written maintenance request via the building's app regarding a leak in the bathroom ceiling.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Landlord property manager Marcus Thorne logged the ticket as 'Priority Low' in the building management system at 14:02 on March 3, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A total of 47 individual water leak incidents were reported by Unit 402 between March 3, 2024, and May 20, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Rivera's lease explicitly states that the tenant is responsible for minor cosmetic repairs under $100, such as patching minor paint chips.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "On April 12, 2024, a third-party inspector from City Hall visited Unit 402 and observed active water dripping from the ceiling tile.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The building's insurance policy, effective January 1, 2024, has a deductible of $2,500 per claim for water damage.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Rivera provided a receipt dated May 25, 2024, showing a $1,450 repair bill for a laptop destroyed by water intrusion.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Landlord counsel sent a formal notice of non-payment to Rivera on June 1, 2024, citing a $250 late fee for May rent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Rivera submitted a utility bill showing a 40% increase in water usage for the building in April 2024 compared to April 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Unit 402's rent is $4,500 per month, which is 15% below the average rent for comparable units in the building.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Rivera's email to the tenants' union on May 10, 2024, states that she has stopped paying rent in protest of the living conditions.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The building's maintenance log shows a plumber visited Unit 402 on March 15, 2024, for 45 minutes.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Rivera's medical records show a diagnosis of chronic anxiety triggered by mold exposure in April 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The landlord's board meeting minutes from March 20, 2024, list 'Unit 402 leak' as a recurring agenda item requiring budget approval.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Landlord counsel produced a maintenance invoice dated March 15, 2024, for $800 in parts and labor for a ceiling repair.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Rivera's testimony indicates she has slept in her car for 14 nights between May 15 and June 1, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The building's fire safety inspection report from January 2024 noted 'minor moisture' in the basement utility room, unrelated to Unit 402.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Rivera's lease contains a 'quiet enjoyment' clause, which is standard in New York residential leases.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Rivera (Tenant) stated that The water damage rendered the apartment uninhabitable, with mold covering 80% of the bedroom walls.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne (Property Manager) stated that The water damage was localized to a single ceiling tile, and no mold was present in the bedroom.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Chloe Diaz (Tenants' Union Organizer) stated that The landlord never attempted to repair the leak, ignoring all requests for over two months.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Jenkins (Landlord Counsel) stated that The landlord dispatched a licensed plumber within 48 hours of the first complaint to fix the leak.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Rivera (Tenant) stated that My electronics were destroyed by water dripping directly from the ceiling leak.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne (Property Manager) stated that The electronics were damaged due to the tenant's failure to move them away from the window where rain entered.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Chloe Diaz (Tenants' Union Organizer) stated that The eviction notice was issued in retaliation for Rivera's participation in the tenants' union.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Sarah Jenkins (Landlord Counsel) stated that The eviction notice was issued solely because Rivera failed to pay the $250 late fee on time.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

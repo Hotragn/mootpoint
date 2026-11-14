@@ -1,0 +1,190 @@
+{
+ "dossier_id": "smoke-workplace",
+ "split": "pilot",
+ "domain": "workplace",
+ "title": "Mendez v. Crestline Logistics: Warehouse Forkift Collision",
+ "premise": "A forklift collided with a worker in a warehouse during a night shift.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Crestline Logistics Incident Log ===\n\n**CRESTLINE LOGISTICS \u2014 INCIDENT REPORT LOG**\n**Facility:** Building 7, Trenton Industrial Park\n**Report No.:** CL-2024-0314-007\n**Date of Incident:** March 14, 2024\n**Time of Incident:** 11:47 PM\n**Reported By:** Raymond Tufo, Shift Supervisor\n**Date Filed:** March 15, 2024, 12:34 AM\n\n**INCIDENT TYPE:** Vehicle-pedestrian collision (forklift)\n\n**LOCATION:** Aisle 14, Building 7, Crestline Logistics Distribution Center. Aisle 14 is designated as a shared traffic lane for both forklifts and foot workers.\n\n**INDIVIDUALS INVOLVED:**\n- Juan Mendez, Floor Associate \u2014 injured party. Employee tenure: 3 years, 2 months as of March 14, 2024.\n- David Kowalski, Forklift Operator \u2014 vehicle operator. Forklift operating experience at Crestline Logistics: 6 years. Current OSHA forklift certification, valid through September 2024.\n\n**EQUIPMENT INVOLVED:** 2019 Toyota 8FGCU25 propane forklift, maximum load capacity 5,000 pounds. Unit No. FL-07.\n\n**SHIFT STAFFING:** Night shift, March 14, 2024. Total assigned personnel: 18 workers. Typical daytime complement: 24. Building 7 was staffed at 75% of daytime levels.\n\n**DESCRIPTION OF INCIDENT:**\nAt approximately 11:47 PM on March 14, 2024, a forklift operated by David Kowalski collided with warehouse worker Juan Mendez in Aisle 14 of Building 7. The forklift's event data recorder was downloaded the following morning and logged a travel speed of 6.2 miles per hour at the moment of impact. The data recorder also confirmed that the forklift's strobe light was activated at the time of the collision.\n\nPer Crestline's energy conservation night-shift policy, the warehouse was illuminated at 60% of standard capacity on the evening of the incident.\n\n**POST-INCIDENT ACTIONS:**\n- Emergency medical services were contacted at 11:49 PM.\n- Juan Mendez was transported by ambulance to Mercer County General Hospital, where he was admitted for surgery. He remained hospitalized for 4 days.\n- The backup alarm on the forklift was tested after the incident and found to be fully functional.\n- Post-incident toxicology screening of David Kowalski was conducted at 1:15 AM on March 15, 2024, at Mercer County General Hospital. Results returned negative for alcohol and controlled substances.\n\n**SAFETY EQUIPMENT:** Crestline Logistics requires all warehouse floor workers to wear high-visibility reflective vests during night shifts. Vests were issued to all employees on site that evening.\n\n**SAFETY MANUAL REFERENCE:** Crestline Logistics safety manual specifies a maximum forklift speed of 5 miles per hour in all warehouse aisles.\n\n**PRIOR INCIDENTS:** Crestline Logistics records show 3 documented forklift-related near-miss incidents in Building 7 during the 6 months prior to March 14, 2024.\n\n**REGULATORY NOTIFICATION:** The incident was reported to OSHA on March 15, 2024. An OSHA inspection was conducted on March 19, 2024.\n\n---\n\n=== DOCUMENT 2: Witness Statements ===\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-01\n**Date:** March 15, 2024\n\n**WITNESS:** Maria Sandoval, Floor Associate\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nMaria Sandoval states that she saw Juan Mendez wearing his reflective vest throughout the shift and specifically recalls it on him when they spoke approximately 10 minutes before the collision.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-02\n**Date:** March 15, 2024\n\n**WITNESS:** Raymond Tufo, Shift Supervisor\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nRaymond Tufo states that when he arrived at the collision scene within 90 seconds of impact, he observed Juan Mendez on the ground without a reflective vest, and that the vest was found folded on a pallet 20 feet away.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-03\n**Date:** March 15, 2024\n\n**WITNESS:** James Park, Forklift Operator\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nJames Park states that he was operating a forklift in the adjacent Aisle 13 and clearly heard David Kowalski's horn sound zero times as Kowalski approached the collision point.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-04\n**Date:** March 15, 2024\n\n**WITNESS:** David Kowalski, Forklift Operator\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nDavid Kowalski states that he sounded his horn twice\u2014once approximately 30 feet before the intersection with Aisle 14 and again at 15 feet\u2014as he approached the area where the collision occurred.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-05\n**Date:** March 15, 2024\n\n**WITNESS:** Lisa Tran, Inventory Clerk\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nLisa Tran states that she saw Juan Mendez walking within the marked pedestrian walkway in Aisle 14, at least 3 feet from the forklift travel lane, when the forklift suddenly veered toward him.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-06\n**Date:** March 15, 2024\n\n**WITNESS:** Eric Nolan, Forklift Operator\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nEric Nolan states that he saw Juan Mendez step out from behind a rack directly into the forklift's path, in the center of the travel lane, leaving Kowalski no time to stop.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-07\n**Date:** March 15, 2024\n\n**WITNESS:** Juan Mendez, Injured Worker\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nJuan Mendez states that the overhead lights in Aisle 14 were almost entirely off, creating a dark zone where he could barely see his own hands, and that this had been the case for multiple shifts.\n\n---\n\n**CRESTLINE LOGISTICS \u2014 WITNESS STATEMENT FORM**\n**Statement ID:** WS-2024-0314-08\n**Date:** March 15, 2024\n\n**WITNESS:** Raymond Tufo, Shift Supervisor\n**Re:** Incident of March 14, 2024, Building 7, Aisle 14\n\nRaymond Tufo states that while the warehouse ran at 60% illumination per policy, Aisle 14 specifically had all four of its overhead fixtures functioning properly, providing what he considers adequate visibility for forklift and foot traffic.\n\n---\n\n=== DOCUMENT 3: Medical Report and Billing Summary ===\n\n**MERCER COUNTY GENERAL HOSPITAL \u2014 EMERGENCY DEPARTMENT REPORT**\n**Patient:** Juan Mendez\n**DOB:** [On file]\n**Date of Admission:** March 15, 2024, 12:14 AM\n**Date of Discharge:** March 19, 2024\n**Attending Physician:** Dr. Sarah Whitfield, Orthopedic Surgery\n\n**PRESENTATION:**\nPatient arrived via ambulance following a forklift-pedestrian collision at a warehouse facility. Patient was alert and oriented on arrival. Primary survey revealed significant trauma to the right lower extremity, left thorax, and left forearm.\n\n**INJURIES DOCUMENTED:**\n1. Fractured right tibia \u2014 closed fracture, mid-shaft, requiring open reduction and internal fixation.\n2. Two cracked ribs \u2014 left side, ribs 6 and 7. No pneumothorax observed.\n3. Laceration to left forearm \u2014 measured approximately 9 cm in length, extending through dermis. Repaired in the emergency department with 14 stitches prior to surgery.\n\n**TREATMENT:**\n- Emergency department stabilization and wound closure (left forearm laceration, 14 stitches).\n- Surgical intervention on March 15, 2024, for open reduction and internal fixation of the right tibial fracture. Procedure performed by Dr. Sarah Whitfield. No intraoperative complications.\n- Pain management and monitoring during inpatient stay.\n\n**HOSPITAL COURSE:**\nPatient was admitted to the orthopedic inpatient unit following surgery. Recovery was unremarkable. Patient was discharged on March 19, 2024, after 4 days of hospitalization with instructions for non-weight-bearing on the right lower extremity and follow-up with orthopedics in 2 weeks.\n\n**FOLLOW-UP:**\nPatient was seen for follow-up appointments on April 2, April 16, April 30, May 14, May 28, and June 11, 2024. Progress notes indicate gradual healing of the tibial fracture. Patient remained off work for 11 weeks following the incident and had not returned to work as of June 30, 2024.\n\n---\n\n**MERCER COUNTY GENERAL HOSPITAL \u2014 PATIENT BILLING SUMMARY**\n**Patient:** Juan Mendez\n**Service Dates:** March 15, 2024 \u2013 June 11, 2024\n\n| Service | Amount |\n|---------|--------|\n| Emergency Department Visit | $4,280 |\n| Surgery (ORIF, right tibia) | $32,500 |\n| Hospital Room (4 days) | $18,400 |\n| Anesthesia | $7,200 |\n| Pharmacy/Medications | $3,650 |\n| Imaging (X-rays, CT) | $5,180 |\n| Follow-up Visits (6 visits) | $8,930 |\n| Physical Therapy (through June 2024) | $7,200 |\n| **Total** | **$87,340** |\n\n---\n\n=== DOCUMENT 4: Forklift Event Data Recorder Report ===\n\n**CRESTLINE LOGISTICS \u2014 VEHICLE EVENT DATA RECORDER REPORT**\n**Vehicle:** 2019 Toyota 8FGCU25, Propane Forklift\n**Unit No.:** FL-07\n**Date of Download:** March 15, 2024, 8:30 AM\n**Downloaded By:** Crestline Logistics Maintenance Department\n\n**DATA SUMMARY \u2014 EVENT TIMESTAMP: March 14, 2024, 11:47:12 PM**\n\n| Parameter | Reading |\n|-----------|---------|\n| Travel speed at impact | 6.2 mph |\n| Strobe light status | Activated |\n| Headlights status | On |\n| Backup alarm status (post-incident test) | Fully functional |\n| Load weight at time of impact | 0 lbs (unladen) |\n| Seat belt status | Engaged |\n| Direction of travel | Forward |\n| Brake application | 0.4 seconds before impact |\n| Engine hours | 4,218.7 |\n\n**MAINTENANCE HISTORY:**\nLast inspection: February 28, 2024. No outstanding maintenance items. Propane tank fuel level at time of incident: 42%.\n\n---\n\n=== DOCUMENT 5: Crestline Logistics Safety Training and Incident History ===\n\n**CRESTLINE LOGISTICS \u2014 SAFETY TRAINING RECORD**\n**Facility:** Building 7, Trenton Industrial Park\n**Reporting Period:** March 14, 2023 \u2013 March 14, 2024\n\nCrestline Logistics conducted 12 safety training sessions for warehouse staff in the 12 months preceding the March 14, 2024 incident. Attendance records show Juan Mendez attended all sessions assigned to him.\n\n| Session Date | Topic | Juan Mendez Attendance |\n|--------------|-------|----------------------|\n| April 12, 2023 | Forklift Safety Awareness | Present |\n| May 3, 2023 | Pedestrian Safety in Shared Lanes | Present |\n| May 24, 2023 | Emergency Response Procedures | Present |\n| June 14, 2023 | PPE and High-Visibility Standards | Present |\n| July 5, 2023 | Hazard Identification | Present |\n| August 9, 2023 | Night-Shift Safety Protocols | Present |\n| September 13, 2023 | Forklift Speed Limits | Present |\n| October 18, 2023 | Aisle Safety and Right-of-Way | Present |\n| November 8, 2023 | Incident Reporting Procedures | Present |\n| December 6, 2023 | Winter Safety Review | Present |\n| January 17, 2024 | Annual Refresher Training | Present |\n| February 21, 2024 | Near-Miss Review and Prevention | Present |\n\n---\n\n**CRESTLINE LOGISTICS \u2014 NEAR-MISS INCIDENT LOG**\n**Facility:** Building 7, Trenton Industrial Park\n**Reporting Period:** September 14, 2023 \u2013 March 14, 2024\n\nThree documented forklift-related near-miss incidents were recorded in Building 7 during the 6 months prior to March 14, 2024:\n\n| Date | Description | Aisle |\n|------|-------------|-------|\n| October 22, 2023 | Forklift and pedestrian close call; no contact | Aisle 7 |\n| December 3, 2023 | Two forklifts narrow passage; no collision | Aisle 22 |\n| January 29, 2024 | Forklift near-contact with stationary worker | Aisle 11 |\n\n---\n\n=== DOCUMENT 6: OSHA Inspection Record ===\n\n**U.S. DEPARTMENT OF LABOR \u2014 OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION**\n**Inspection Report**\n**Inspection No.:** 1475209\n**Establishment:** Crestline Logistics Distribution Center, Building 7, Trenton Industrial Park\n**Date Reported:** March 15, 2024\n**Date of Inspection:** March 19, 2024\n**Compliance Officer:** T. Reynolds\n\n**REASON FOR INSPECTION:** Report of a forklift-pedestrian collision resulting in injury to an employee on March 14, 2024, at approximately 11:47 PM in Aisle 14 of Building 7.\n\n**FACILITY INFORMATION:**\n- Employer: Crestline Logistics\n- Site: Building 7, Trenton Industrial Park\n- Nature of operation: Warehouse distribution and logistics\n- Shift at time of incident: Night shift, 18 workers assigned (75% of typical daytime complement of 24)\n\n**EQUIPMENT INSPECTED:** 2019 Toyota 8FGCU25 propane forklift, Unit No. FL-07, maximum load capacity 5,000 pounds. Event data recorder downloaded by employer on March 15, 2024. Data confirmed travel speed of 6.2 mph at impact and strobe light activated.\n\n**SITE CONDITIONS OBSERVED ON MARCH 19:**\n- Warehouse illumination operating at 60% of standard capacity per employer's energy conservation night-shift policy.\n- Aisle 14 designated as shared traffic lane for forklifts and foot workers.\n- High-visibility vests observed on all floor workers present during inspection.\n\n**DOCUMENTS REVIEWED:**\n- Crestline Logistics safety manual, specifying maximum forklift speed of 5 mph in all warehouse aisles.\n- Forklift operator certification for David Kowalski, current through September 2024.\n- Post-incident toxicology screening results for David Kowalski, conducted March 15, 2024, at 1:15 AM \u2014 negative for alcohol and controlled substances.\n- Backup alarm test results for forklift Unit No. FL-07 \u2014 fully functional.\n- Safety training attendance records for Juan Mendez \u2014 12 of 12 assigned sessions attended in the preceding 12 months.\n- Near-miss incident logs for Building 7 \u2014 3 documented forklift-related near-miss incidents in the 6 months prior to March 14, 2024.\n\n**STATUS:** Inspection open. Findings pending.",
+ "n_words": 2065,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On March 14, 2024, at 11:47 PM, a forklift operated by David Kowalski collided with warehouse worker Juan Mendez at the Crestline Logistics distribution center in Building 7 of the Trenton Industrial Park.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Juan Mendez sustained a fractured right tibia, two cracked ribs, and a laceration requiring 14 stitches on his left forearm as a result of the collision.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Juan Mendez was employed as a floor associate and had worked at Crestline Logistics for 3 years and 2 months as of the date of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The collision occurred in Aisle 14 of the warehouse, which is designated as a shared traffic lane for both forklifts and foot workers.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "David Kowalski had operated forklifts at Crestline Logistics for 6 years and held a current OSHA forklift certification valid through September 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The warehouse was illuminated at 60% of standard capacity on the night of the incident, per Crestline's energy conservation night-shift policy.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The forklift involved was a 2019 Toyota 8FGCU25 propane model with a maximum load capacity of 5,000 pounds.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Crestline Logistics requires all warehouse floor workers to wear high-visibility reflective vests during night shifts, and vests were issued to all employees on site that evening.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Post-incident toxicology screening of David Kowalski conducted at 1:15 AM on March 15 returned negative for alcohol and controlled substances.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Juan Mendez was transported by ambulance to Mercer County General Hospital, where he was admitted for surgery and remained hospitalized for 4 days.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The forklift's event data recorder logged a travel speed of 6.2 miles per hour at the moment of impact.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Crestline Logistics' safety manual specifies a maximum forklift speed of 5 miles per hour in all warehouse aisles.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Crestline Logistics conducted 12 safety training sessions for warehouse staff in the 12 months preceding the incident, with attendance records showing Juan Mendez attended all sessions assigned to him.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The backup alarm on the forklift was tested after the incident and found to be fully functional.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Juan Mendez's medical bills, including surgery, hospitalization, and follow-up care through June 2024, totaled $87,340.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The night shift on March 14 had 18 workers assigned to Building 7, which was staffed at 75% of the typical daytime complement of 24.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Juan Mendez had been off work for 11 weeks following the incident and had not returned as of June 30, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The forklift's strobe light was activated at the time of the collision, as confirmed by the vehicle's event data recorder.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Crestline Logistics had 3 documented forklift-related near-miss incidents in Building 7 during the 6 months prior to March 14, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The incident was reported to OSHA on March 15, 2024, and an inspection was conducted on March 19, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Maria Sandoval, Floor Associate stated that Maria Sandoval states that she saw Juan Mendez wearing his reflective vest throughout the shift and specifically recalls it on him when they spoke approximately 10 minutes before the collision.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Raymond Tufo, Shift Supervisor stated that Raymond Tufo states that when he arrived at the collision scene within 90 seconds of impact, he observed Juan Mendez on the ground without a reflective vest, and that the vest was found folded on a pallet 20 feet away.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "James Park, Forklift Operator stated that James Park states that he was operating a forklift in the adjacent Aisle 13 and clearly heard David Kowalski's horn sound zero times as Kowalski approached the collision point.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "David Kowalski, Forklift Operator stated that David Kowalski states that he sounded his horn twice\u2014once approximately 30 feet before the intersection with Aisle 14 and again at 15 feet\u2014as he approached the area where the collision occurred.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Lisa Tran, Inventory Clerk stated that Lisa Tran states that she saw Juan Mendez walking within the marked pedestrian walkway in Aisle 14, at least 3 feet from the forklift travel lane, when the forklift suddenly veered toward him.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Eric Nolan, Forklift Operator stated that Eric Nolan states that he saw Juan Mendez step out from behind a rack directly into the forklift's path, in the center of the travel lane, leaving Kowalski no time to stop.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Juan Mendez, Injured Worker stated that Juan Mendez states that the overhead lights in Aisle 14 were almost entirely off, creating a dark zone where he could barely see his own hands, and that this had been the case for multiple shifts.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Raymond Tufo, Shift Supervisor stated that Raymond Tufo states that while the warehouse ran at 60% illumination per policy, Aisle 14 specifically had all four of its overhead fixtures functioning properly, providing what he considers adequate visibility for forklift and foot traffic.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

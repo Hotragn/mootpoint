@@ -1,0 +1,172 @@
+{
+ "dossier_id": "workplace-20",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Meridian Steel Sling Failure Incident",
+ "premise": "A heavy steel I-beam, suspended by a crane in a high-rise construction zone, snapped its lifting sling while being maneuvered over a crowded scaffold, killing two riggers whose supervisors allegedly ignored visible fraying warnings.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Crane Telemetry Log and Site Environmental Data ===\n**SITE:** Apex Tower Construction Site, Seattle, WA\n**DATE:** October 14, 2023\n**CRANE ID:** LT-884 (Liebherr LTM 1450)\n**OPERATOR:** David Halloway\n**LOAD:** Steel I-beam (12m length, 4,500 kg)\n**SLING ID:** SW-604 (6-strand synthetic webbing, 10,000 kg WLL)\n\n**TIMESTAMP:** 14:30:00\n**ENVIRONMENTAL DATA:**\nWind Speed (Site Anemometer): 12 mph\nDirection: Northwest\nVisibility: Clear\n\n**TIMESTAMP:** 14:32:05\n**EVENT LOG:**\n14:32:05 - Hydraulic pressure spike detected on boom extension circuit.\n14:32:05 - Load weight sensor reading: 4,502 kg (stable).\n14:32:05 - Boom extension status: Maximum rated length (45 meters).\n14:32:05 - Telemetry link lost (Crane to Base Station).\n14:32:06 - Emergency stop engaged by operator interface (manual override).\n14:32:10 - System reboot initiated.\n\n**POST-INCIDENT DATA RECOVERY (14:45:00):**\nCrane boom position: 45m extension, 12-degree angle.\nLine of sight analysis: Unobstructed view from operator cab to scaffold deck (North corner).\nLoad trajectory reconstruction:\n- Initial drop vector: Vertical.\n- Horizontal displacement before rest: 4 meters.\n- Impact velocity with adjacent structure: 18 meters per second.\n- Resting position: Adjacent structural grid, 15 meters below origin point.\n\n**MAINTENANCE RECORDS (Last 30 Days):**\n- Oct 13, 2023: Sling SW-604 inspected by Certified Rigger J. Miller. Result: Fit for service. No defects noted.\n- Usage Log: Sling SW-604 used on 42 previous lifts since last full inspection. No recorded failures or damage reports in log.\n\n=== DOCUMENT 2: Witness Statement of Marcus Lyle, Shift Supervisor ===\n**STATEMENT TAKEN:** October 14, 2023, 16:15\n**LOCATION:** Apex Tower Site Office\n**WITNESS:** Marcus Lyle, Shift Supervisor\n**SUBJECT:** Sling Failure Incident\n\nI was standing on the ground level, approximately thirty meters from the crane base, monitoring the lift of the steel I-beam. The beam was a massive 12-meter section, weighing 4,500 kilograms, and it was being hoisted using the 6-strand synthetic webbing sling, unit SW-604. I have worked on this site for six years, and I know that synthetic slings are deceptively fragile when they start to degrade.\n\nAt 14:25, just before the operator began the final ascent, I looked up at the sling. I saw significant fraying on the webbing near the connection point. It was not subtle; the fibers were splayed out, and the structural integrity was clearly compromised. It was a dangerous, reckless situation. I immediately shouted, \"Stop the lift! The sling is failing!\" I was loud, I was clear, and I was directly in the operator\u2019s line of sight, which was unobstructed by any structures.\n\nI expected the crane to stop. Instead, the operator, David Halloway, continued the maneuver. He was certified for heavy lift operations, and with fifteen years of experience, he should have known better than to push a compromised load. He ignored me. He simply kept raising the beam. The wind was picking up, which I noted was around 12 mph, but that was no excuse to ignore a direct safety warning.\n\nThe beam was already unstable. It started to swing wildly, a chaotic, uncontrolled motion that indicated a total loss of control. It was terrifying to watch a four-and-a-half-ton weight dancing in the air. Then, the sound came\u2014a sharp, loud snap. The sling fractured exactly at the point where it was attached to the beam's lifting eye. The lifting eye itself was a factory-installed component, and I saw no visible external cracks on it, which means the failure was entirely in the sling or the rigging technique.\n\nThe beam swung four meters horizontally before crashing down. It struck the scaffold structure with a velocity that I estimate was extremely high, shattering the deck. Two riggers, Samuel Thorne and Elias Vane, were standing on that deck. The scaffold was fifteen meters high, and the deck was only six meters wide and two meters deep. There was no room to move. The beam came to rest on the adjacent structure, but the damage was done. I screamed for help, but the noise of the wind and the crash drowned it out. This was a preventable disaster caused by ignoring a clear visual warning.\n\n=== DOCUMENT 3: Witness Statement of Sarah Jenkins, Safety Inspector ===\n**STATEMENT TAKEN:** October 14, 2023, 16:45\n**LOCATION:** Apex Tower Site Office\n**WITNESS:** Sarah Jenkins, Safety Inspector\n**SUBJECT:** Sling Failure Incident\n\nI was conducting a routine safety observation from the staging area on the south side of the site. My position was approximately fifty meters from the crane, providing a clear view of the rigging area, which was cordoned off with 1.5-meter high orange barriers. I was monitoring the lift of the 12-meter steel I-beam, which weighed 4,500 kilograms.\n\nAt 14:25, I visually inspected the lifting sling, unit SW-604, a 6-strand synthetic webbing sling rated for 10,000 kilograms. The sling appeared intact and within serviceable limits. I looked for signs of wear, abrasion, or fraying. There was no fraying visible from my position. The webbing looked uniform and sound. I did not see anything that would warrant stopping the lift.\n\nThe crane operator, David Halloway, was performing the lift. The crane's boom was extended to its maximum rated length of 45 meters. The wind speed recorded by the site's anemometer was 12 mph, which is within the operational limits for this crane. The beam's center of gravity was marked with a yellow tag by the fabricator, and the riggers had secured the sling accordingly.\n\nAt 14:32:05, the telemetry log recorded the incident, but from my vantage point, I saw the beam suddenly drop. It swung four meters horizontally before coming to rest on the adjacent structure. The impact was violent. The beam struck the scaffold structure, which was fifteen meters high. I know the scaffold deck was six meters wide and two meters deep, and I know it lacked guardrails on the east and west sides, a deficiency I had noted in a previous report but which had not yet been rectified.\n\nTwo riggers, Samuel Thorne and Elias Vane, were on the deck. The beam struck the scaffold with a velocity that I estimate was approximately 18 meters per second, based on the distance and time of the fall. The lifting eye on the I-beam, a factory-installed component, remained attached to the beam, and I saw no visible external cracks on it after the fall. The sling fractured at the attachment point.\n\nI do not recall hearing any verbal warnings from the shift supervisor, Marcus Lyle, at that time. If he shouted, the wind noise might have masked it, but visually, the sling looked fine. The operator\u2019s line of sight to the scaffold was unobstructed, so he should have been able to see the riggers and the beam\u2019s position. The failure appears to be a mechanical or material issue with the sling, despite its recent inspection.\n\n=== DOCUMENT 4: Witness Statement of David Halloway, Crane Operator ===\n**STATEMENT TAKEN:** October 14, 2023, 18:30\n**LOCATION:** Hospital Waiting Room, Seattle\n**WITNESS:** David Halloway, Crane Operator\n**SUBJECT:** Sling Failure Incident\n\nI was operating the crane, unit LT-884. I have been a crane operator for fifteen years and am certified for heavy lift operations. The load was a 12-meter steel I-beam weighing 4,500 kilograms. We were using a 6-strand synthetic webbing sling, unit SW-604, rated for 10,000 kilograms. The sling had been inspected by a certified rigger on October 13, 2023, and marked as fit for service. It had been used on 42 previous lifts without any recorded failures.\n\nAt 14:25, I was preparing to lift the beam. The wind was blowing at 12 mph, which is within limits, but it was gusty. I remember hearing a shout from the ground, but it was indistinct. I did not hear the supervisor\u2019s warning because the wind noise was too loud. I assumed it was a general instruction or a miscommunication. I continued the maneuver because the beam was stable and centered over the scaffold until the moment of failure.\n\nThe beam was not swinging wildly before the sling snapped. It was stable. The control was firm. The crane\u2019s boom was extended to its maximum rated length of 45 meters. I had a clear line of sight to the scaffold, which was fifteen meters high. The scaffold deck was six meters wide and two meters deep. I could see the two riggers, Samuel Thorne and Elias Vane, standing on the deck.\n\nAt 14:32:05, the sling fractured. It broke exactly at the point where it was attached to the beam's lifting eye. The lifting eye was a factory-installed component with no visible external cracks. The beam swung four meters horizontally before coming to rest on the adjacent structure. The telemetry log recorded the impact velocity at 18 meters per second.\n\nI immediately engaged the emergency stop. I did not ignore any warning. I was focused on the load stability. The wind noise made it difficult to hear specific commands. The rigging area was cordoned off with 1.5-meter high orange barriers, so the ground crew was separated from the immediate drop zone. The beam\u2019s center of gravity was marked with a yellow tag by the fabricator, and we had rigged it according to that mark. I believe the failure was due to a hidden defect in the sling that was not visible during the inspection or during the lift.\n\n=== DOCUMENT 5: Witness Statement of Samuel Thorne, Rigger (Surviving Relative's Account) ===\n**STATEMENT TAKEN:** October 15, 2023, 10:00\n**LOCATION:** Police Precinct, Seattle\n**WITNESS:** Samuel Thorne, Rigger\n**SUBJECT:** Sling Failure Incident\n\nI was standing on the scaffold deck when the beam fell. The scaffold was fifteen meters high, and the deck was six meters wide and two meters deep. It was a small space. I was standing near the center, and Elias Vane was standing near the north corner.\n\nI entered the scaffold via the east side, which was unguarded, because the ladder at the north corner was blocked. There was a pile of lumber and tools right next to the ladder, making it impossible to climb. I had to go around to the east side to get onto the deck. The east side had no guardrails, so it was dangerous, but it was the only way in.\n\nWhen the beam was being lifted, it was already swinging wildly. It was moving back and forth, and it was clear that the operator was not in control. The beam was not stable. It was a chaotic, uncontrolled motion. I shouted to Elias to move, but it was too late.\n\nThe sling snapped at 14:32:05. The beam swung four meters horizontally and struck the scaffold structure with a velocity that I feel was 18 meters per second. The impact shattered the deck. I was thrown off the scaffold, and I landed on the ground. Elias Vane was also thrown, but he was not as lucky. The beam came to rest on the adjacent structure, but the scaffold was destroyed.\n\nI know that the scaffold lacked guardrails on the east and west sides. This is a known issue on this site. The rigging area was cordoned off with 1.5-meter high orange barriers, but that did not stop the beam from hitting us. The crane operator\u2019s line of sight to the scaffold was unobstructed, so he should have seen us and the instability of the beam. The lifting eye on the I-beam was a factory-installed component, and it did not crack. The failure was in the sling.\n\nI believe the operator ignored the warnings because he was trying to meet a deadline. The shift supervisor, Marcus Lyle, shouted to stop the lift, but the operator did not stop. The wind noise was loud, but I think the operator was just careless. The beam was swinging wildly, and he should have stopped the lift immediately.",
+ "n_words": 1935,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 14, 2023, at the Apex Tower construction site in Seattle, Washington.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The suspended load consisted of a 12-meter steel I-beam weighing 4,500 kilograms.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The lifting sling used was a 6-strand synthetic webbing sling rated for 10,000 kilograms.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The crane operator, David Halloway, was certified for heavy lift operations and had 15 years of experience.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Two riggers, Samuel Thorne and Elias Vane, were standing on the scaffold deck when the sling failed.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The sling fractured at the point where it was attached to the beam's lifting eye.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The beam swung 4 meters horizontally before coming to rest on the adjacent structure.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The time of the incident was recorded by the crane's telemetry log as 14:32:05.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The scaffold deck was 6 meters wide and 2 meters deep.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The lifting eye on the I-beam was a factory-installed component with no visible external cracks.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The crane's boom was extended to its maximum rated length of 45 meters at the time of failure.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The wind speed recorded by the site's anemometer was 12 mph at 14:30.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The synthetic webbing sling had been used on 42 previous lifts without recorded failures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The scaffold lacked guardrails on the east and west sides.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The beam's center of gravity was marked with a yellow tag by the fabricator.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The rigging area was cordoned off with 1.5-meter high orange barriers.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The beam struck the scaffold structure with a velocity of 18 meters per second.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The crane operator's line of sight to the scaffold was unobstructed by structures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The lifting sling was inspected by a certified rigger on October 13, 2023, and marked as fit for service.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Marcus Lyle, Shift Supervisor stated that I saw significant fraying on the sling at 14:25 and shouted to stop the lift, but the operator ignored me.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Sarah Jenkins, Safety Inspector stated that The sling appeared intact and within serviceable limits at 14:25; no fraying was visible from my position.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "David Halloway, Crane Operator stated that I did not hear the supervisor's warning because the wind noise was too loud, so I continued the maneuver.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Samuel Thorne, Rigger (Surviving Relative's Account) stated that I entered the scaffold via the east side, which was unguarded, because the ladder was blocked.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elias Vane, Rigger (Witness Statement) stated that The beam was already swinging wildly before the sling snapped, indicating a control failure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Halloway, Crane Operator stated that The beam was stable and centered over the scaffold until the moment of failure.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 25,
+ "settled": []
+}

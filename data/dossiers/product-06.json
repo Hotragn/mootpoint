@@ -1,0 +1,178 @@
+{
+ "dossier_id": "product-06",
+ "split": "test",
+ "domain": "product",
+ "title": "Maternity Band Irrigation Incident",
+ "premise": "A pregnant woman experienced severe skin irritation from a popular organic maternity band that contained an undisclosed preservative, resulting in a private settlement and the brand reformulating its textile treatments.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Customer Support Log ===\n\n**PRODUCT:** TerraSoft Maternity Band\n**BATCH NUMBER:** 8842\n**DATE OF INCIDENT REPORT:** March 14, 2023\n**TIME OF CALL:** 10:15 AM EST\n**AGENT:** Support ID #4492\n**CUSTOMER:** Elara Vance\n**PRODUCT PURCHASE DATE:** January 2, 2023\n**PURCHASE PRICE:** $45.00\n**PLACE OF PURCHASE:** Online Retailer (Order ID: TX-99210)\n\n**INCIDENT DESCRIPTION:**\nCustomer Elara Vance contacted the manufacturer\u2019s support line at 10:15 AM on March 14, 2023, to report skin irritation associated with the use of the TerraSoft Maternity Band. The customer stated that she had been using the band for an average of 6 hours daily between March 1 and March 14, 2023. Upon reporting the issue, the customer described redness and swelling on her abdomen. The customer provided a photograph taken on March 14, 2023, which was attached to this log entry, showing visible erythema and edema in the abdominal region where the band was worn.\n\n**PRODUCT ORIGIN AND LOGISTICS:**\nThe specific unit in question, Batch 8842, was manufactured in a facility in Lyon, France. The facility employs 150 full-time workers. The batch was produced on December 10, 2022. Following production, the inventory was shipped to a warehouse in Detroit, Michigan, for distribution. The Quality Control Manager, David Ross, signed off on Batch 8842 on December 12, 2022, certifying that the batch met internal standards prior to shipment.\n\n**FOLLOW-UP ACTIONS:**\n1. Customer was advised to discontinue use of the product immediately.\n2. Customer was advised to seek medical attention if symptoms persisted.\n3. Case escalated to Legal and Quality Assurance departments.\n\n**SUBSEQUENT MEDICAL RECORDS:**\nMedical records obtained via authorized release indicate that Elara Vance visited a dermatologist on March 15, 2023. The diagnosis recorded was contact dermatitis.\n\n=== DOCUMENT 2: Email Correspondence and Legal Notices ===\n\n**FROM:** Sarah Jenkins, Esq. (Jenkins & Associates)\n**TO:** Legal Department, TerraSoft Industries\n**DATE:** March 16, 2023\n**SUBJECT:** CEASE AND DESIST \u2013 Elara Vance Matter\n\nDear Legal Team,\n\nI represent my client, Elara Vance, regarding the adverse skin reaction she experienced while using your TerraSoft Maternity Band (Batch 8842). My client purchased the product on January 2, 2023, for $45.00. She reported the issue to your support line on March 14, 2023, at 10:15 AM.\n\nThe packaging of the product failed to provide adequate warning regarding potential preservatives, which is a violation of standard consumer protection practices for sensitive skin products. My client\u2019s marketing materials prominently featured the term \"hypoallergenic,\" creating a reasonable expectation of safety that was not met.\n\nI am issuing this cease-and-desist letter to demand that you cease any public statements that mischaracterize the cause of my client\u2019s injury. I further demand that you provide a full accounting of the quality control measures for Batch 8842, which was produced in Lyon, France, on December 10, 2022.\n\nWe reserve all rights to pursue further legal action.\n\nSincerely,\nSarah Jenkins, Esq.\n\n***\n\n**FROM:** Julianne Faye, Head of Communications, TerraSoft Industries\n**TO:** Media Distribution List\n**DATE:** March 20, 2023\n**SUBJECT:** Statement Regarding Product Safety\n\nTerraSoft Industries is committed to the safety of our customers. Following recent inquiries regarding the TerraSoft Maternity Band, we have conducted a thorough review of our manufacturing processes and product integrity.\n\nWe wish to state clearly that the TerraSoft Maternity Band met all FDA textile safety guidelines at the time of manufacture and distribution. The product in question, Batch 8842, was produced in our facility in Lyon, France, and shipped to our warehouse in Detroit, Michigan. Our internal logs confirm that the batch was produced on December 10, 2022, and signed off by our Quality Control Manager, David Ross, on December 12, 2022.\n\nWe stand by the quality of our products. At this time, no recall is necessary, as the product continues to meet all regulatory standards. We are monitoring the situation closely and remain dedicated to supporting our customers.\n\n=== DOCUMENT 3: Regulatory Filing and Public Statements ===\n\n**FILED WITH:** Consumer Product Safety Commission (CPSC)\n**DATE FILED:** March 25, 2023\n**FILED BY:** Marcus Thorne, Representative for Side A (Consumer Safety Coalition)\n**SUBJECT:** Report of Potential Hazardous Product \u2013 TerraSoft Maternity Band, Batch 8842\n\n**I. PRODUCT IDENTIFICATION**\nThe product in question is the TerraSoft Maternity Band. The specific unit involved is from Batch 8842. This batch was manufactured in a facility in Lyon, France, which employs 150 full-time workers. The batch was produced on December 10, 2022, and shipped to a warehouse in Detroit, Michigan. The product was purchased by Elara Vance on January 2, 2023, for $45.00.\n\n**II. NATURE OF COMPLAINT**\nOn March 14, 2023, Elara Vance reported skin irritation to the manufacturer\u2019s support line at 10:15 AM. Medical records indicate a diagnosis of contact dermatitis on March 15, 2023. The consumer reported redness and swelling on her abdomen, documented in a photograph taken on March 14, 2023. The consumer reported using the band for an average of 6 hours daily between March 1 and March 14, 2023.\n\n**III. ADVOCATE\u2019S POSITION**\nMarcus Thorne, acting as the representative for the consumer, argues that the brand\u2019s marketing emphasized 'hypoallergenic' properties, which misled consumers regarding the safety of the product for sensitive skin. Thorne asserts that the temporal link between the start of daily use and the onset of symptoms proves the band caused the dermatitis. Furthermore, Thorne alleges that internal emails from December 2022 show the manufacturer was aware of elevated preservative levels but chose to proceed with shipment.\n\n**IV. MANUFACTURER\u2019S RESPONSE**\nOn March 20, 2023, the manufacturer released a public statement asserting that the product met all FDA textile safety guidelines. Julianne Faye, Head of Communications, stated in a press conference that no recall was necessary. Faye further stated that the user\u2019s medical history shows a pattern of skin reactions unrelated to this specific product, indicating pre-existing conditions were the sole cause.\n\n**V. SETTLEMENT STATUS**\nA private settlement agreement was signed between Elara Vance and the manufacturer on April 2, 2023. The settlement amount was $12,000, paid in a single check. The manufacturer\u2019s legal team reviewed the settlement terms on March 28, 2023.\n\n=== DOCUMENT 4: Witness Statements and Expert Analysis ===\n\n**STATEMENT 1: Dr. Aris Thorne, Toxicologist**\n**Date:** May 10, 2023\n**Context:** Expert Analysis for Side A\n\nI conducted a laboratory analysis of the fabric from the TerraSoft Maternity Band, Batch 8842. The batch was produced in Lyon, France, on December 10, 2022, and shipped to Detroit, Michigan. My analysis confirmed the presence of Formaldehyde at a concentration of 50 ppm. Formaldehyde is an undisclosed preservative that was not listed on the product packaging. The presence of this chemical at this concentration is inconsistent with the \"hypoallergenic\" claims made in the brand\u2019s marketing materials. The manufacturing facility in Lyon employs 150 full-time workers, and the Quality Control Manager, David Ross, signed off on this batch on December 12, 2022. I believe the presence of this undisclosed preservative is the direct cause of the skin irritation reported by the consumer.\n\n**STATEMENT 2: Ms. Elara Vance, Consumer**\n**Date:** May 12, 2023\n**Context:** Consumer Testimony\n\nI purchased the TerraSoft Maternity Band on January 2, 2023, for $45.00. I started using it on March 1, 2023, and used it for an average of 6 hours daily until March 14. I never detected any chemical smell from the band. When I reported the issue to support on March 14 at 10:15 AM, I had redness and swelling on my abdomen, which I photographed that same day. My dermatologist stated that the irritation was caused by my own pre-existing eczema flare-up, not the fabric. I believe the manufacturer is trying to shift the blame to my medical history, but the timing of my symptoms aligns perfectly with my use of the product. I signed a settlement for $12,000 on April 2, 2023, but I maintain that the product was defective.\n\n**STATEMENT 3: Marcus Thorne, Consumer-Safety Advocate**\n**Date:** May 15, 2023\n**Context:** Advocate Testimony\n\nI filed a report with the Consumer Product Safety Commission on March 25, 2023, regarding the TerraSoft Maternity Band. The product was manufactured in Lyon, France, and shipped to a warehouse in Detroit, Michigan. I argue that the temporal link between the start of daily use and the onset of symptoms proves the band caused the dermatitis. The brand\u2019s marketing emphasized 'hypoallergenic' properties, which is misleading if the product contains undisclosed preservatives. I have reviewed internal emails from December 2022 that show the manufacturer was aware of elevated preservative levels but chose to proceed with shipment. The manufacturer\u2019s Quality Control Manager, David Ross, signed off on Batch 8842 on December 12, 2022, despite these known issues. I believe the manufacturer acted with negligence.\n\n**STATEMENT 4: Julianne Faye, Head of Communications, TerraSoft Industries**\n**Date:** May 18, 2023\n**Context:** Corporate Statement\n\nI released a statement on April 5, 2023, noting the brand's commitment to transparency. I stated in a press conference on March 20, 2023, that no recall was necessary because the product met all FDA textile safety guidelines. The user\u2019s medical history shows a pattern of skin reactions unrelated to this specific product, indicating pre-existing conditions were the sole cause. We are committed to supporting our customers, as evidenced by the settlement agreement signed on April 2, 2023, for $12,000. We stand by the integrity of our manufacturing process in Lyon, France, where the facility employs 150 full-time workers.\n\n=== DOCUMENT 5: Post-Incident Actions and Digital Records ===\n\n**WEBSITE CHANGE LOG: TerraSoft Industries FAQ**\n**DATE OF UPDATE:** April 10, 2023\n**SECTION:** Skin Sensitivity\n**CHANGE SUMMARY:**\nThe FAQ section was updated to address user questions about skin sensitivity. The new entry states: \"Some users may experience mild skin reactions. If you have sensitive skin, we recommend performing a patch test before full use. If irritation occurs, discontinue use and consult a healthcare professional.\"\n\n**BLOG POST: Side A Consumer Safety Group**\n**DATE PUBLISHED:** May 1, 2023\n**TITLE:** Timeline of the Elara Vance Complaint\n**EXCERPT:**\nOn January 2, 2023, Elara Vance purchased the TerraSoft Maternity Band for $45.00. The product was from Batch 8842, manufactured in Lyon, France, on December 10, 2022. On March 1, 2023, Vance began using the band for an average of 6 hours daily. On March 14, 2023, at 10:15 AM, Vance reported skin irritation to the manufacturer. Medical records show a diagnosis of contact dermatitis on March 15, 2023. A cease-and-desist letter was sent by her attorney, Sarah Jenkins, on March 16, 2023. The manufacturer issued a public statement on March 20, 2023, claiming compliance with FDA guidelines. A CPSC report was filed by Marcus Thorne on March 25, 2023. The manufacturer\u2019s legal team reviewed settlement terms on March 28, 2023. A settlement of $12,000 was signed on April 2, 2023. The manufacturer updated its FAQ on April 10, 2023. Julianne Faye released a statement on April 5, 2023, regarding transparency.",
+ "n_words": 1785,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On March 14, 2023, user Elara Vance reported skin irritation to the manufacturer's support line at 10:15 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The product was manufactured in a facility in Lyon, France, and shipped to a warehouse in Detroit, Michigan.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Elara Vance purchased the 'TerraSoft' maternity band on January 2, 2023, for $45.00.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The manufacturer's public statement on March 20, 2023, stated that the product met all FDA textile safety guidelines.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Elara Vance's medical records show a diagnosis of contact dermatitis on March 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The manufacturer's internal log shows the batch number 8842 was produced on December 10, 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Side A's representative, Marcus Thorne, filed a report with the Consumer Product Safety Commission on March 25, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The manufacturer's head of communications, Julianne Faye, stated in a press conference that no recall was necessary.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Elara Vance used the band for an average of 6 hours daily between March 1 and March 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "A private settlement agreement was signed between Elara Vance and the manufacturer on April 2, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The settlement amount was $12,000, paid in a single check.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Side A's advocate, Marcus Thorne, argued that the brand's marketing emphasized 'hypoallergenic' properties.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The manufacturer's website updated its FAQ section on April 10, 2023, to address user questions about skin sensitivity.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elara Vance's attorney, Sarah Jenkins, sent a cease-and-desist letter to the manufacturer on March 16, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The manufacturer's quality control manager, David Ross, signed off on batch 8842 on December 12, 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Side B's communications head, Julianne Faye, released a statement on April 5, 2023, noting the brand's commitment to transparency.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elara Vance experienced redness and swelling on her abdomen, as documented in a photo taken on March 14, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The manufacturer's legal team reviewed the settlement terms on March 28, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Side A's group published a blog post on May 1, 2023, detailing the timeline of Elara Vance's complaint.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The manufacturer's factory in Lyon employs 150 full-time workers.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Toxicologist stated that Laboratory analysis of the band's fabric confirmed the presence of Formaldehyde at a concentration of 50 ppm, an undisclosed preservative.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Ms. Elara Vance, Consumer stated that I never detected any chemical smell, and my dermatologist stated that the irritation was caused by my own pre-existing eczema flare-up, not the fabric.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Marcus Thorne, Consumer-Safety Advocate stated that The temporal link between the start of daily use and the onset of symptoms proves the band caused the dermatitis.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Julianne Faye, Head of Communications stated that The user's medical history shows a pattern of skin reactions unrelated to this specific product, indicating pre-existing conditions were the sole cause.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Attorney for Elara Vance stated that The packaging lacked a clear warning about potential preservatives, violating standard consumer protection practices for sensitive skin products.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Thorne, Consumer-Safety Advocate stated that Internal emails from December 2022 show the manufacturer was aware of elevated preservative levels but chose to proceed with shipment.",
+   "favors": "A",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

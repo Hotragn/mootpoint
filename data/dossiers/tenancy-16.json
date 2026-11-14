@@ -1,0 +1,163 @@
+{
+ "dossier_id": "tenancy-16",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Osei v. Meridian Holdings: Elevator Access and Lease Validity",
+ "premise": "Two roommates in a high-density apartment complex in San Francisco claim the lease was voided by the landlord's failure to provide working elevators, which made the fifth-floor unit inaccessible for one disabled roommate.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Maintenance Records, Meridian Heights Complex ===\n\n**Date:** January 15, 2024\n**Subject:** Scheduled Routine Inspection - Elevator 1\n**Status:** Completed / No Action Required\n**Notes:** Technicians arrived at 09:00 for the scheduled routine inspection of Elevator 1 as per the quarterly schedule. Visual checks of the cab, doors, and control panel were performed. No immediate malfunctions observed. No work order was filed for repairs.\n\n**Date:** January 20, 2024\n**Subject:** Vendor Inspection Report - Elevator System\n**Vendor:** Apex Elevator Solutions\n**Summary:** Inspector conducted a general check. Report notes: \"Operational with minor wear.\" No hydraulic issues noted during this specific visit.\n\n**Date:** February 2, 2024\n**Subject:** Emergency Safety Inspection - Both Elevators\n**Technician:** Certified Elevator Technician, ID #8842\n**Findings:** Both Elevator 1 and Elevator 2 failed safety inspections. Primary cause identified as hydraulic pressure leaks in the main cylinders.\n**Action Taken:** Both units shut down immediately to prevent further damage or safety hazards.\n**Quote from Technician:** \"The hydraulic seals are compromised. The pressure drops rapidly, causing the cars to stall. This is a critical failure.\"\n\n**Date:** February 5, 2024\n**Subject:** Tenant Correspondence\n**From:** Amara Osei, Unit 504\n**To:** Property Management Office\n**Method:** Certified Mail\n**Content Summary:** Request for immediate repairs to elevators due to mobility impairment.\n\n**Date:** February 6, 2024\n**Subject:** Receipt of Correspondence\n**Log Entry:** Certified letter from A. Osei received and logged.\n\n**Date:** February 28, 2024\n**Subject:** Security Camera Review - Common Areas\n**Incident ID:** SEC-2024-0228-04\n**Location:** 5th Floor Hallway, near Unit 504\n**Description:** Video footage reviewed by security staff. Footage shows clutter present in the hallway adjacent to Unit 504. No other tenants in the building filed complaints regarding common area maintenance during this period.\n\n**Date:** March 1, 2024\n**Subject:** Notice to Quit Issued\n**Unit:** 504\n**Reason Cited:** \"Failure to maintain common areas.\"\n**Note:** No prior complaints from other tenants regarding common areas were logged in the property management system.\n\n**Date:** March 15, 2024\n**Subject:** Service Attempt\n**Event:** Landlord\u2019s counsel attempted to serve eviction papers.\n**Observation:** A group of individuals identified as the tenants' union gathered outside the building. The gathering was peaceful.\n**Outcome:** Service was delayed for approximately two hours due to the presence of the group.\n\n=== DOCUMENT 2: Witness Statement of Dr. Elena Rostova ===\n\n**Statement of Dr. Elena Rostova, Independent Elevator Engineer**\n**Date:** March 20, 2024\n**Prepared for:** Legal Counsel for Amara Osei\n\nI was hired to review the technical reports and site conditions regarding the elevator failures at Meridian Heights. I must state clearly that the evidence points to a pattern of neglect that is indefensible. When I examined the hydraulic systems, it was obvious that these leaks did not happen overnight. The corrosion on the seals and the degradation of the fluid lines are consistent with years of deferred maintenance. The landlord was negligent in upholding the lease's amenity guarantees. They let the systems rot.\n\nMarcus Vane, the building manager, claims this was caused by a sudden, unforeseeable external water main rupture near the foundation. He calls it an \"act of God.\" I find this explanation ridiculous and disingenuous. A water main rupture would show distinct signs of external water intrusion and specific damage patterns that are not present here. The internal hydraulic failure is a mechanical breakdown due to lack of care. To suggest that a landlord can avoid responsibility by blaming a pipe outside their building when the internal components are clearly worn out is a stretch. The maintenance logs show no work orders filed for repairs after the January 15 inspection, despite the \"minor wear\" noted by their vendor. They ignored the warning signs. This is not an accident; it is a failure of duty.\n\n=== DOCUMENT 3: Witness Statement of Marcus Vane ===\n\n**Statement of Marcus Vane, Building Manager, Meridian Holdings**\n**Date:** March 20, 2024\n**Prepared for:** Legal Counsel for Meridian Holdings\n\nI am the building manager for Meridian Heights. I have managed this property for three years. I am here to correct the false narrative being pushed by the tenant and her hired engineer. Dr. Rostova is speculating. She did not have access to the foundation area or the external infrastructure records.\n\nThe cause of the hydraulic pressure leaks was a sudden, unforeseeable external water main rupture near the building's foundation. This is a fact. The city water authority confirmed a break in the main on January 28, 2024. The water seepage compromised the integrity of the hydraulic housing. This is an act of God beyond the landlord's control. We cannot be held responsible for a municipal infrastructure failure.\n\nFurthermore, we have a strong record of maintenance. Our internal performance metrics show that we respond to elevator outages within 48 hours in 90% of cases over the last five years. We did our best. The tenant, Amara Osei, is trying to use this situation to leverage a lease that was clearly understood. Julian Thorne, her roommate, signed a waiver on November 1, 2023, acknowledging the current state of the building's infrastructure. He knew what he was getting into. The lease was signed, registered with the San Francisco County Recorder on October 20, 2023, and is valid. We are not responsible for the city's pipes.\n\n=== DOCUMENT 4: Medical and Administrative Records ===\n\n**Medical Certification**\n**Issuing Body:** California Medical Board\n**Date:** September 1, 2023\n**Patient:** Amara Osei\n**Certification:** Mobility Impairment Requiring Elevator Access\n**Note:** Patient has a confirmed mobility impairment. Use of stairs for extended periods is contraindicated.\n\n**Medical Records Excerpt - Dr. Alan Pierce, Primary Care Physician**\n**Date:** February 15, 2024\n**Patient:** Amara Osei\n**Note:** Patient reports missing three work days between February 10 and February 14, 2024. Cause: Exhaustion from climbing five flights of stairs daily.\n**Assessment:** Amara's condition requires elevator access as a reasonable accommodation. Her inability to use stairs constitutes a direct threat to her health.\n\n**Statement of Nurse Lydia Grant, Building Health Services Consultant**\n**Date:** March 22, 2024\n**Re:** Amara Osei Mobility Assessment\n\nI have reviewed Amara Osei's history in our building's health services logs. I disagree with the assessment that her condition is unmanageable without an elevator. Amara's mobility impairment is manageable with the use of the accessible stairwells provided in the building. The stairwells are fully compliant with ADA standards for width and handrails. She has previously used them without incident. I have seen her navigate the stairs with the handrails. To claim she cannot use them is an overstatement. The building provides compliant alternatives.\n\n**Lease Agreement Excerpt - Unit 504**\n**Signed:** October 12, 2023\n**Tenants:** Amara Osei, Julian Thorne\n**Landlord:** Meridian Holdings\n**Clause 4.2 (Amenities):** \"Building amenities, including vertical transportation, are maintained by the landlord at no additional cost to tenants.\"\n**Clause 9.1 (Notice of Breach):** \"Tenants must provide 30 days' written notice before claiming a breach of contract.\"\n\n**Waiver of Liability**\n**Signed:** November 1, 2023\n**Signatory:** Julian Thorne\n**Content:** \"I acknowledge the current state of the building's infrastructure and waive any claims related to existing conditions.\"\n\n**Building Compliance Report**\n**Date:** January 5, 2024\n**Authority:** San Francisco Building Code Compliance\n**Findings:**\n1. All residential elevators underwent annual safety inspections for the year 2023. Requirement met.\n2. Fire department access routes are unobstructed.\n3. Stairwells are fully compliant with ADA standards for width and handrails.\n\n**Financial Records**\n**Property Tax Payment:** Meridian Holdings paid $12,500 in property taxes for the building for the year 2023. This amount is 5% above the average for comparable high-density complexes in the district.\n**Insurance Policy:** Effective January 1, 2024. Covers emergency repairs for mechanical failures up to $50,000 per incident.\n\n**Performance Metrics - Property Management Company**\n**Source:** Third-Party Audits (2022, 2023)\n**Stat:** 98% on-time resolution rate for non-critical maintenance requests across the portfolio.\n**Internal Metric:** Landlord's history of responding to elevator outages within 48 hours in 90% of cases over the last five years.\n\n=== DOCUMENT 5: Witness Statements on Lease and Eviction ===\n\n**Statement of Sarah Jenkins, Tenants' Union Legal Counsel**\n**Date:** March 25, 2024\n**Re:** Osei v. Meridian Holdings - Lease Interpretation\n\nI represent the tenants in this matter. The lease agreement is clear. The phrase \"maintained by the landlord\" implies a continuous duty to ensure functionality. It is not a one-time repair obligation. It is a guarantee of access. When essential access is removed, and the landlord fails to uphold this continuous duty, the lease becomes voidable. The landlord cannot simply shut down the elevators and claim they are \"maintained\" if they are broken.\n\nFurthermore, the eviction is retaliatory. The 10-day notice to quit was issued in retaliation for Amara's complaint about the elevators. There were no other tenants with similar issues or complaints. The timing is suspicious. They waited until after her certified letter was received, then issued the notice citing \"failure to maintain common areas,\" a claim that is unsupported by any other tenant complaints. This is a preemptive strike to silence a tenant who is exercising her rights.\n\n**Statement of Robert Hale, Landlord's Senior Attorney**\n**Date:** March 25, 2024\n**Re:** Osei v. Meridian Holdings - Lease Interpretation\n\nI represent Meridian Holdings. The tenants' interpretation of the lease is legally incorrect. The lease only obligates the landlord to repair elevators when notified of specific breakdowns. It does not create a continuous duty to guarantee 24/7 functionality against all possible failures, especially those caused by external factors like the water main rupture.\n\nMoreover, the tenants failed to adhere to the lease terms. The lease states that tenants must provide 30 days' written notice before claiming a breach of contract. Amara Osei did not adhere to this notice period in her February 5 letter. She provided immediate notice, but the lease requires a 30-day period for the landlord to cure. By failing to wait, she breached the procedural requirements of the lease.\n\nRegarding the eviction, it was issued due to a general violation of building rules regarding common area clutter. This was documented by security cameras on February 28, 2024. It is not retaliatory. It is a standard enforcement of building rules. The fact that no other tenants complained is irrelevant to the specific violation in Unit 504's hallway. We have the right to enforce cleanliness and order in common areas.\n\n**Statement of Amara Osei, Tenant**\n**Date:** March 26, 2024\n**Re:** Eviction Justification\n\nI am a tenant in Unit 504. I have a certified mobility impairment. I cannot climb the stairs safely. The elevators are broken. I sent a certified letter on February 5, 2024, asking for repairs. It was received on February 6. On March 1, 2024, the landlord issued a 10-day notice to quit. The reason was \"failure to maintain common areas.\" This is a lie. The 10-day notice to quit was issued in retaliation for her complaint about the elevators. No other tenants had similar issues or complaints. They are targeting me because I am disabled and I asked for what I paid for. I missed work because I was exhausted from climbing the stairs. My health is at risk. This eviction is an attempt to force me out of my home because I am disabled.\n\n**Statement of Julian Thorne, Co-Tenant**\n**Date:** March 26, 2024\n**Re:** Eviction Justification\n\nI am Julian Thorne, Amara's roommate. I signed the lease on October 12, 2023. I also signed a waiver on November 1, 2023, acknowledging the current state of the building's infrastructure. I am not disabled. I can use the stairs. The eviction notice was issued due to a general violation of building rules regarding common area clutter, which was documented by security cameras on February 28, 2024. I have clutter in my hallway. It is my responsibility to clean it up. The landlord is doing their job by enforcing the rules. I do not believe this is retaliatory. It is about keeping the building clean.",
+ "n_words": 1947,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 504 at the Meridian Heights complex was signed by tenants Amara Osei and Julian Thorne on October 12, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Amara Osei holds a California Medical Board certification dated September 1, 2023, confirming a mobility impairment requiring elevator access.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The lease includes a clause stating that 'building amenities, including vertical transportation, are maintained by the landlord at no additional cost to tenants.'",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Meridian Holdings' maintenance logs show that Elevator 1 was scheduled for routine inspection on January 15, 2024, but no work order was filed for repairs.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "On February 2, 2024, a certified elevator technician issued a report stating that both elevators failed safety inspections due to hydraulic pressure leaks.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Meridian Holdings paid $12,500 in property taxes for the building for the year 2023, which is 5% above the average for comparable high-density complexes in the district.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Julian Thorne, a non-disabled roommate, signed a waiver on November 1, 2023, acknowledging the current state of the building's infrastructure.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The San Francisco Building Code requires that all residential elevators undergo annual safety inspections, a requirement met by Meridian Heights for the year 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Amara Osei sent a certified letter to the landlord on February 5, 2024, requesting repairs to the elevators, which was received on February 6, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The landlord's property management company has a 98% on-time resolution rate for non-critical maintenance requests across its portfolio, as verified by third-party audits in 2022 and 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The lease states that tenants must provide 30 days' written notice before claiming a breach of contract, a notice period Amara Osei did not adhere to in her February 5 letter.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "On March 1, 2024, the landlord issued a 10-day notice to quit, citing 'failure to maintain common areas' as the primary reason, despite no prior complaints from other tenants in the building.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The building's fire department access routes remain unobstructed, and the stairwells are fully compliant with ADA standards for width and handrails.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Amara Osei's medical records show she missed three work days between February 10 and February 14, 2024, due to exhaustion from climbing five flights of stairs.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Meridian Holdings has a history of responding to elevator outages within 48 hours in 90% of cases over the last five years, according to their internal performance metrics.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The lease was registered with the San Francisco County Recorder on October 20, 2023, establishing it as a valid legal document under state law.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "On March 15, 2024, the tenants' union organized a peaceful protest outside the building, resulting in a 2-hour delay in the landlord's attempt to serve eviction papers.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The building's insurance policy, effective January 1, 2024, covers emergency repairs for mechanical failures up to $50,000 per incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The landlord's counsel submitted an affidavit stating that the elevators were inspected by a vendor on January 20, 2024, and deemed 'operational with minor wear,' a statement contradicted by the February 2 technician report.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenkins, Tenants' Union Legal Counsel stated that The phrase 'maintained by the landlord' implies a continuous duty to ensure functionality, rendering the lease voidable if essential access is removed.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Robert Hale, Landlord's Senior Attorney stated that The lease only obligates the landlord to repair elevators when notified of specific breakdowns, and the tenants failed to provide the required 30-day notice before claiming breach.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Dr. Alan Pierce, Amara Osei's Primary Care Physician stated that Amara's condition requires elevator access as a reasonable accommodation, and her inability to use stairs constitutes a direct threat to her health.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Nurse Lydia Grant, Building Health Services Consultant stated that Amara's mobility impairment is manageable with the use of the accessible stairwells provided in the building, and she has previously used them without incident.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 23,
+ "settled": [
+  "C1",
+  "C3"
+ ]
+}

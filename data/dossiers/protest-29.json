@@ -1,0 +1,190 @@
+{
+ "dossier_id": "protest-29",
+ "split": "test",
+ "domain": "protest",
+ "title": "State of New Jersey v. Harrison & Doe (Mall Parking Lot Incident)",
+ "premise": "In a suburban New Jersey mall parking lot, a political rally by a national figure is interrupted by a small counter-protest that escalates when police use a mobile sound system to disperse the crowd, causing panic and trampling.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Elmwood Police Department Incident Log and Officer Field Report ===\n\n**Incident Report No.:** EPD-2023-1014-882\n**Date of Incident:** October 14, 2023\n**Location:** Northgate Mall Parking Lot, Elmwood, NJ\n**Reporting Officer:** Officer Sarah Jenkins, Badge #442\n**Supervising Officer:** Chief Linda Miller, Elmwood PD\n\n**I. Summary of Events**\nThis report documents the events surrounding the mass gathering at the Northgate Mall parking lot on October 14, 2023. The event was organized by Mark Davis and held under Permit #2023-882, which was issued to Mr. Davis 48 hours prior to the scheduled start time. The gathering was held in the main parking area, which is officially rated for a capacity of 500 vehicles. At the time of the incident, the main exit gate was secured from the inside by mall security staff to prevent unauthorized entry and protect property.\n\nAt 14:02, I arrived on the scene as the first responding unit. Upon arrival, I observed a large crowd assembled near the podium where a national figure was speaking. The crowd appeared orderly but was densely packed. At 14:03, I received authorization from Chief Linda Miller to utilize the mobile sound system located 50 feet from the main exit gate. The sound system was activated to amplify the official announcement that the event was ending. Mall management later confirmed that the volume was set to maximum level to ensure the announcement was audible over the ambient noise.\n\nAt 14:04, I radioed dispatch, noting that the crowd was \"growing tense.\" At 14:05, body camera footage from my unit shows the crowd beginning to surge. The surge moved at an estimated speed of 20 feet per minute toward the locked exit. Despite the presence of four police officers stationed at the perimeter of the counter-protest zone, the crowd movement was rapid and uncontrolled. The incident lasted a total of 12 minutes from the initial surge to full dispersal.\n\n**II. Personnel and Equipment**\n*   **Officer Sarah Jenkins:** First on scene, 14:02.\n*   **Officer Brian Kowalski:** Stationed near the counter-protest zone.\n*   **Four (4) additional officers:** Perimeter security.\n*   **Mobile Sound System:** Positioned 50 feet from the main exit gate.\n*   **Mall Security:** Locked main exit gate from the inside.\n\n**III. Injuries and Damages**\nNo police officers were physically injured during the confrontation. Three protesters were hospitalized with leg fractures following the crowd movement. Medical records indicate that two of the injured protesters had pre-existing heart conditions. No significant property damage was reported to the police department, though mall security noted minor scuffing on the exit gate mechanism.\n\n**IV. Policy Compliance Note**\nIt is noted for the record that the Elmwood Police Department has a policy requiring 100 feet of clearance for large gatherings. The current setup, with the sound system at 50 feet and the crowd density, did not meet this clearance requirement at the time of the surge. This deviation was a factor in the operational assessment at the time.\n\n=== DOCUMENT 2: Witness Statement of James Lee ===\n\n**STATEMENT OF WITNESS**\n**Witness Name:** James Lee\n**Role:** Leader, Counter-Protest Group\n**Date of Interview:** October 15, 2023\n\nI was leading the counter-protest group, which consisted of approximately 15 individuals. We were positioned at the edge of the main rally area, maintaining a respectful distance from the speakers. Our group remained peaceful and non-violent until the sound system was activated.\n\nBefore 14:03, the atmosphere was calm. The rally was proceeding normally, and the national figure was speaking at the podium. We were simply observing. There was no aggression on our part. We were not throwing anything, and we were not chanting threats. We were standing still, watching the event.\n\nAt 14:03, the police authorized the use of the mobile sound system. It was placed 50 feet from the main exit gate, which was already locked from the inside by mall security. When the sound system turned on, it was deafening. The volume was set to maximum level, as mall management later admitted. It wasn't just an announcement; it was a blast of noise that hit the crowd from the front.\n\nThe crowd didn't just \"surge\" naturally; they panicked because of the sound. The sound system was deliberately used as a psychological weapon to induce panic and force a chaotic dispersal. The crowd moved at an estimated speed of 20 feet per minute, which is incredibly fast for a parking lot. People were trampling each other because they were scared and trying to get out, but the gate was locked.\n\nOfficer Brian Kowalski claims that counter-protesters were throwing eggs at police vehicles and chanting threats before any dispersal measures were taken. This is completely false. We were peaceful. We did not throw eggs. We did not chant threats. We were victims of a police tactic that escalated the situation. The police failed to mitigate the bottleneck created by the locked gate. They let the sound system drive the crowd into a dead end. This was not a stampede caused by the crowd's behavior; it was a stampede caused by police command decisions.\n\n=== DOCUMENT 3: Witness Statement of Mark Davis ===\n\n**STATEMENT OF WITNESS**\n**Witness Name:** Mark Davis\n**Role:** Rally Organizer\n**Date of Interview:** October 15, 2023\n\nI am the organizer of the rally that took place on October 14, 2023. The permit for the rally was issued to me 48 hours prior to the event. I was responsible for the safety and logistics of the gathering.\n\nAt 14:02, Officer Sarah Jenkins arrived on the scene. The crowd was large, but it was under control. The national figure speaking at the rally was present at the podium for the entire duration of the incident, continuing to speak even as the situation escalated.\n\nAt 14:03, Police Chief Linda Miller authorized the use of the sound system. The sound system was placed 50 feet from the main exit gate. This was a critical error. The main exit gate was locked from the inside by mall security staff. Police command ordered the gate locked to control the flow of the crowd, and this decision caused the trampling. They locked the gate to \"control the flow,\" but they did not provide an alternative exit.\n\nAt 14:04, Officer Jenkins radioed that the crowd was \"growing tense.\" This was accurate. The crowd was tense because they knew the gate was locked and the sound was getting louder. At 14:05, the crowd began to surge. The surge moved at an estimated speed of 20 feet per minute. The incident lasted a total of 12 minutes from start to full dispersal.\n\nThree protesters were hospitalized with leg fractures. Medical records indicate that two of the injured protesters had pre-existing heart conditions, which likely exacerbated their injuries during the physical stress of the surge.\n\nOfficer Sarah Jenkins claims that mall security staff locked the gate to protect property, creating a bottleneck that police failed to mitigate. While mall security did lock the gate, it was at the direction of police command to control the crowd. The police had the authority to open the gate, but they chose not to. They chose to use the sound system to push the crowd toward a locked door.\n\nDr. Alan Stone, a crowd dynamics expert, has stated that the crowd was not yet at a dangerous density, and a gradual dispersal would have been sufficient and safe. I agree. The crowd was not at a critical threshold. The police created the crisis by locking the gate and using the sound system as a weapon.\n\n=== DOCUMENT 4: Expert Report on Crowd Dynamics and Medical Assessment ===\n\n**REPORT TO THE DISTRICT ATTORNEY'S OFFICE**\n**Re:** State of New Jersey v. Harrison & Doe (Mall Parking Lot Incident)\n**Prepared by:** Dr. Alan Stone, Crowd Dynamics Expert\n**Date:** October 20, 2023\n\n**I. Crowd Density and Dispersal Analysis**\nBased on the body camera footage from Officer Jenkins and witness video taken from a car window, I have analyzed the crowd dynamics during the incident on October 14, 2023. The witness video shows the sound system being activated before any physical contact occurred. This is a critical detail.\n\nThe crowd was not yet at a dangerous density at the time the sound system was activated. The crowd was dense, but it was stable. A gradual dispersal would have been sufficient and safe. The crowd was not at a critical threshold where immediate dispersal was necessary to prevent a stampede. The police decision to use the sound system at maximum volume, combined with the locked exit gate, created a \"funnel effect\" that forced the crowd into a narrow space.\n\nThe surge in the crowd moved at an estimated speed of 20 feet per minute. This speed is consistent with a panic response, not a natural dispersal. The incident lasted a total of 12 minutes from start to full dispersal. The three protesters hospitalized with leg fractures were victims of this forced dispersal.\n\n**II. Medical Assessment**\nI have reviewed the medical records for the three injured protesters. The records indicate that two of the injured protesters had pre-existing heart conditions. These conditions likely contributed to their susceptibility to injury during the surge. The leg fractures were consistent with trampling and compression injuries.\n\n**III. Conclusion on Intent**\nThe sound system was deliberately used as a psychological weapon to induce panic and force a chaotic dispersal. The placement of the sound system 50 feet from the main exit gate, combined with the locked gate, created a deadly trap. The police had the option to open the gate or to disperse the crowd gradually, but they chose to use force.\n\n**IV. Counter-Argument Response**\nChief Linda Miller of the Elmwood Police Department states that \"The crowd density had reached a critical threshold where immediate dispersal was necessary to prevent a stampede.\" This is contradicted by the visual evidence. The crowd was stable until the sound system was activated. The \"critical threshold\" was created by the police action, not by the crowd's behavior.\n\n=== DOCUMENT 5: Email Correspondence Between Mall Management and Police Chief ===\n\n**FROM:** Linda Miller, Chief, Elmwood Police Department\n**TO:** Robert Chen, General Manager, Northgate Mall\n**DATE:** October 14, 2023, 13:45\n**SUBJECT:** Security Protocol for Afternoon Rally\n\nRobert,\n\nI am writing to confirm the security protocol for the rally taking place in your parking lot this afternoon. The permit was issued to Mark Davis 48 hours prior to the event.\n\nWe will be using a mobile sound system to manage the crowd. The sound system will be placed 50 feet from the main exit gate. We request that your security staff lock the main exit gate from the inside to prevent unauthorized entry and protect property. This is standard procedure for large gatherings in your parking lot.\n\nPlease ensure that the sound system volume is set to maximum level so that announcements are clearly heard. We will be using the sound system to amplify the official announcement that the event is ending.\n\nLet me know if you have any concerns.\n\nRegards,\nChief Linda Miller\n\n***\n\n**FROM:** Robert Chen, General Manager, Northgate Mall\n**TO:** Linda Miller, Chief, Elmwood Police Department\n**DATE:** October 14, 2023, 13:52\n**SUBJECT:** RE: Security Protocol for Afternoon Rally\n\nChief Miller,\n\nWe will proceed as requested. Our security staff will lock the main exit gate from the inside at 14:00.\n\nHowever, I must express concern about the placement of the sound system. 50 feet from the gate is very close. Our parking lot capacity is officially rated for 500 vehicles, and the crowd today is larger than usual. If the crowd becomes agitated, the locked gate could create a bottleneck.\n\nWe recommend that the sound system be placed further away, or that the gate be kept open until the crowd is fully dispersed.\n\nPlease confirm if you will proceed with the 50-foot placement.\n\nRegards,\nRobert Chen\n\n***\n\n**FROM:** Linda Miller, Chief, Elmwood Police Department\n**TO:** Robert Chen, General Manager, Northgate Mall\n**DATE:** October 14, 2023, 13:55\n**SUBJECT:** RE: Security Protocol for Afternoon Rally\n\nRobert,\n\nWe will proceed with the 50-foot placement. The sound system is necessary to control the crowd. The gate will remain locked to protect property.\n\nWe will monitor the crowd density. If the crowd becomes agitated, we will take appropriate measures.\n\nRegards,\nChief Linda Miller",
+ "n_words": 2030,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 14, 2023, at the Northgate Mall parking lot in Elmwood, New Jersey.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Police Officer Sarah Jenkins was the first officer to arrive on the scene at 14:02.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The mobile sound system was placed 50 feet from the main exit gate.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Three protesters were hospitalized with leg fractures following the crowd movement.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The permit for the rally was issued to the organizer, Mark Davis, 48 hours prior to the event.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Body camera footage from Officer Jenkins shows the crowd beginning to surge at 14:05.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The counter-protest group consisted of approximately 15 individuals.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Police Chief Linda Miller authorized the use of the sound system at 14:03.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Medical records indicate that two of the injured protesters had pre-existing heart conditions.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The parking lot capacity is officially rated for 500 vehicles.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "At 14:04, Officer Jenkins radioed that the crowd was 'growing tense'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The main exit gate was locked from the inside by mall security staff.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The national figure speaking at the rally was present at the podium for the entire duration of the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Witness video taken from a car window shows the sound system being activated before any physical contact occurred.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The Elmwood Police Department has a policy requiring 100 feet of clearance for large gatherings.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Four police officers were stationed at the perimeter of the counter-protest zone.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The surge in the crowd moved at an estimated speed of 20 feet per minute.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The incident lasted a total of 12 minutes from start to full dispersal.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Mall management confirmed that the sound system volume was set to maximum level.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "No police officers were physically injured during the confrontation.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Alan Stone, Crowd Dynamics Expert stated that The sound system was deliberately used as a psychological weapon to induce panic and force a chaotic dispersal.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Chief Linda Miller, Elmwood Police Department stated that The sound system was activated to amplify the official announcement that the event was ending, not to cause panic.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenkins, Police Officer stated that Mall security staff locked the gate to protect property, creating a bottleneck that police failed to mitigate.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mark Davis, Rally Organizer stated that Police command ordered the gate locked to control the flow of the crowd, and this decision caused the trampling.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "James Lee, Counter-Protest Leader stated that The counter-protest remained peaceful and non-violent until the sound system was activated.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Officer Brian Kowalski, Elmwood Police Department stated that Counter-protesters were throwing eggs at police vehicles and chanting threats before any dispersal measures were taken.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Dr. Alan Stone, Crowd Dynamics Expert stated that The crowd was not yet at a dangerous density, and a gradual dispersal would have been sufficient and safe.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Chief Linda Miller, Elmwood Police Department stated that The crowd density had reached a critical threshold where immediate dispersal was necessary to prevent a stampede.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

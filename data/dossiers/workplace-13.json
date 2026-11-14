@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-13",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Holloway Logistics v. Kestrel Robotics",
+ "premise": "An automated warehouse robot caused a forklift collision, creating a legal conflict between the software developer's AI logic errors and the facility manager's decision to override the machine's safety limits.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Security Footage Analysis ===\n\n**HOLLOWAY LOGISTICS \u2013 INTERNAL INCIDENT REPORT**\n**Incident ID:** HL-2023-1012-04\n**Date:** October 12, 2023\n**Time of Incident:** 14:02:00\n**Location:** Aisle 4, Main Warehouse Floor\n**Reported By:** Security Division, Automated Monitoring System\n\n**1.0 Incident Overview**\nAt 14:02:00 on October 12, 2023, a collision occurred in Aisle 4 between Forklift Unit 7 and Automated Robot Unit K-9. The impact resulted in significant injury to the forklift operator, Leo Vance. The facility\u2019s alarm system did not activate prior to the collision. The incident was recorded by overhead security cameras (Cam 4A and Cam 4B) and internal telemetry systems.\n\n**2.0 Timeline of Events (Based on Timestamped Logs)**\n*   **14:01:30:** Security footage confirms Forklift Unit 7 entering Aisle 4 from the intersection with Aisle 3.\n*   **14:01:45:** Security footage confirms Automated Robot Unit K-9 is stationary at its designated charging dock located at the northern end of Aisle 4.\n*   **14:01:46:** A log entry from the facility\u2019s central control terminal indicates a manual command was sent to Unit K-9. The command type is logged as \"Move_to_Coordinate.\"\n*   **14:02:00:** Collision impact registered.\n*   **14:02:05:** Forklift Unit 7 emergency stop engaged.\n*   **15:00:00:** Debris removal from Aisle 4 completed. Aisle 4 reopened to traffic.\n\n**3.0 Telemetry and Sensor Data**\n*   **Forklift Unit 7 Accelerometer:** Impact force recorded at 800 Newtons.\n*   **Unit K-9 Telemetry:**\n    *   **Pre-Collision Status:** Unit K-9 was powered on and connected to the facility network.\n    *   **Hard-Stop Mechanism:** The unit\u2019s safety protocol includes a hard-stop mechanism intended to halt the robot within 0.5 meters of an obstacle.\n    *   **Sensor Data:** The internal log for Unit K-9 shows the hard-stop mechanism was active and engaged during the final seconds before impact, but the robot did not halt within the specified 0.5-meter radius.\n*   **Alarm System:** No breach or proximity alarms were triggered by the facility\u2019s standard alarm system prior to the 14:02:00 impact.\n\n**4.0 Equipment Specifications**\n*   **Forklift Unit 7:** Standard electric forklift, serial number FL-7742.\n*   **Unit K-9:** Automated mobile robot, manufactured by Kestrel Robotics, Inc. Serial number KR-K9-8821.\n*   **Manual Override Terminal:** Handheld device used by facility management to issue commands to automated units.\n\n**5.0 Procedural Context**\n*   **Standard Operating Procedure (SOP) HL-SOP-104:** Requires a 10-meter clearance between forklifts and automated robots at all times.\n*   **Training Records:** Leo Vance, operator of Forklift Unit 7, completed all required forklift safety training modules in January 2022.\n\n**6.0 Attached Files**\n*   `Cam4A_20231012_140000.mp4`\n*   `Cam4B_20231012_140000.mp4`\n*   `UnitK9_Telemetry_Log_20231012.csv`\n*   `Forklift7_Accel_Data_20231012.csv`\n\n=== DOCUMENT 2: Medical Report and Employment Record ===\n\n**ST. JUDAS HOSPITAL \u2013 INITIAL TRAUMA REPORT**\n**Patient:** Vance, Leo\n**Date of Admission:** October 12, 2023\n**Attending Physician:** Dr. Elena Rostova, Trauma Surgery\n\n**1.0 Clinical Summary**\nMr. Vance was admitted to the emergency department following a workplace collision involving industrial machinery. Upon arrival, the patient was conscious but in severe pain, exhibiting difficulty breathing and mobility in the left lower extremity.\n\n**2.0 Diagnosis**\n*   **Left Lower Extremity:** Fractured left tibia (closed fracture, non-displaced).\n*   **Thorax:** Three broken ribs (left-sided, ribs 4, 5, and 6). No pneumothorax observed.\n*   **Soft Tissue:** Contusions to left flank and left leg.\n\n**3.0 Treatment and Costs**\nThe patient underwent immediate stabilization and pain management. The total medical expenses billed for Leo Vance's initial treatment, including emergency room fees, imaging, and inpatient care for the first 48 hours, were $45,200. This amount covers the initial phase of care prior to discharge to home rehabilitation.\n\n**4.0 Prognosis and Work Status**\nDue to the severity of the rib fractures and the tibial fracture, the patient is advised to remain off work. The expected recovery period is estimated to be 120 working days, during which the patient will be unable to perform heavy labor or operate machinery.\n\n**HOLLOWAY LOGISTICS \u2013 HUMAN RESOURCES RECORD**\n**Employee:** Vance, Leo\n**Position:** Forklift Operator\n**Incident Date:** October 12, 2023\n\n**1.0 Employment Status Update**\nFollowing the incident on October 12, 2023, Mr. Vance was placed on medical leave. Based on the medical certification provided by St. Judas Hospital, Mr. Vance missed 120 working days due to the injuries sustained in the collision.\n\n**2.0 Training Verification**\nRecords confirm that Leo Vance had completed all required forklift safety training modules in January 2022. His certification is current and valid. No disciplinary actions or training deficiencies were noted in the 22 months preceding the incident.\n\n=== DOCUMENT 3: Witness Statement of Sarah Gable ===\n\n**STATEMENT OF WITNESS**\n**Witness:** Sarah Gable\n**Position:** Facility Manager, Holloway Logistics\n**Date of Statement:** October 15, 2023\n\nI was present in Aisle 4 at the time of the incident. I had authority to issue manual override commands to the automated robots via a handheld terminal, which I was carrying with me.\n\nAt approximately 14:01:45, I observed that a pallet had jammed near the charging dock where Unit K-9 was stationed. This jam was obstructing the path for incoming deliveries. I was holding the handheld terminal and, seeing the blockage, I manually commanded the robot to leave the dock to clear the jammed pallet. The robot responded correctly to my input. It began to move forward immediately.\n\nI was standing near the dock, watching the robot move. I did not see Leo Vance\u2019s forklift until it was already very close. The forklift was traveling at approximately 12 mph, significantly exceeding the safe speed for that area. It was clearly reckless. At that speed, it was impossible for anyone to react or for the robot to stop in time. The forklift cut across the robot's travel lane, violating the mandatory 10-meter clearance zone required by our Standard Operating Procedure. Vance should have known better. He cut us off completely.\n\nWhen the impact happened, I was thrown back slightly. The robot did not malfunction. It was doing exactly what I told it to do. I issued the command, and it executed it. The safety interlock was fully functional and engaged, but the manual override command I issued legally and technically suppressed it. This is standard procedure for manual overrides. The robot was not \"launching\" on its own; it was responding to my direct order to move.\n\nI believe the accident was caused by Vance\u2019s careless driving and failure to maintain the required clearance. He was speeding and ignoring the SOP. I did nothing wrong. I was performing my job to clear a blockage. The robot was stationary until I moved it.\n\n=== DOCUMENT 4: Witness Statement of Leo Vance ===\n\n**STATEMENT OF WITNESS**\n**Witness:** Leo Vance\n**Position:** Forklift Operator (Injured Party)\n**Date of Statement:** October 20, 2023\n\nI was operating Forklift Unit 7. I had completed all my safety training in January 2022, and I take my job seriously. I was driving at the posted limit of 5 mph and was not exceeding the speed allowed for Aisle 4. I was moving cautiously because it was a busy afternoon.\n\nI entered Aisle 4 at 14:01:30. I maintained a safe distance from the robot's designated path and only entered Aisle 4 when it was clear. I checked my mirrors and looked straight ahead. I did not see the robot moving until it was right in front of me. It came out of nowhere. It wasn\u2019t just \"moving forward\"; it lunged. It was like it was malfunctioning.\n\nI tried to stop, but the robot was already close. The impact was sudden. I did not cut across anyone. I was in my lane. The robot was supposed to be at its dock. It should not have been moving at all. I did not violate any clearance rules. I was keeping a safe distance. The robot broke its own safety rules.\n\nI heard a loud beep, but I didn\u2019t see who was giving commands. I was focused on the aisle. The robot\u2019s hard-stop mechanism should have worked. It should have stopped within half a meter of me. It didn\u2019t. It hit me at full force. I don\u2019t know why it didn\u2019t stop. It was a violent impact. I was hurt badly. My leg is broken and my ribs are broken. I am on medical leave.\n\nI believe the robot was defective or malfunctioning. It should not have been able to move without a clear path. I was following all the rules. I was driving slowly and safely. The robot failed me.\n\n=== DOCUMENT 5: Technical Report and Email Correspondence ===\n\n**KESTREL ROBOTICS, INC. \u2013 TECHNICAL AUDIT REPORT**\n**Unit:** K-9 (Serial No. KR-K9-8821)\n**Date:** October 14, 2023\n**Lead Engineer:** Dr. Aris Thorne\n\n**1.0 Summary of Findings**\nFollowing the incident at Holloway Logistics on October 12, 2023, a technical audit of Unit K-9 was conducted. The software code for Unit K-9 was developed by a team led by Dr. Aris Thorne.\n\n**2.0 Safety Protocol Analysis**\nUnit K-9's safety protocol includes a hard-stop mechanism intended to halt the robot within 0.5 meters of an obstacle. This mechanism was tested and certified as functional by Kestrel Robotics on September 1, 2023. The certification confirms that under standard operating conditions, the hard-stop mechanism engages reliably.\n\nHowever, the telemetry logs from the incident indicate that the safety interlock failed to engage effectively to prevent the collision. Our preliminary analysis suggests that the sensor array was misaligned, rendering the hard-stop mechanism inoperable during the critical moment. The misalignment may have occurred prior to the incident, as no physical damage to the sensor housing was noted in the initial post-incident inspection.\n\n**3.0 Activation Origin**\nThe logs show a manual command was sent at 14:01:46. However, our internal diagnostics indicate a discrepancy in the pathfinding module. The robot's internal navigation algorithm malfunctioned, causing it to launch from the dock autonomously due to a logic error in the pathfinding module. This logic error may have triggered the movement independently of the manual command, or in conjunction with it, in a manner not anticipated by the manual override protocol.\n\n**4.0 Manual Override Warnings**\nKestrel Robotics provided a user manual warning that manual overrides may bypass standard safety interlocks. This warning is located on page 42 of the Operator\u2019s Manual, Section 7.3 \"Manual Overrides and Safety Bypass.\" The warning states: \"Caution: Issuing a manual override command may suppress standard safety interlocks, including the hard-stop mechanism, to allow for forced movement. Use only when necessary and with extreme caution.\"\n\n**EMAIL CORRESPONDENCE**\n\n**From:** Aris Thorne <a.thorne@kestrelrobotics.com>\n**To:** Sarah Gable <s.gable@hollowaylogistics.com>\n**Date:** October 13, 2023\n**Subject:** Re: Incident with Unit K-9\n\nHi Sarah,\n\nWe are reviewing the logs from Unit K-9. We noted that a manual command was sent at 14:01:46. However, the internal navigation algorithm shows a logic error in the pathfinding module that may have contributed to the unit\u2019s movement. We are investigating whether the sensor array was misaligned, which would explain why the hard-stop mechanism did not engage as expected.\n\nWe remind you that our user manual clearly states that manual overrides may bypass standard safety interlocks. This is a known risk associated with manual commands. We are working to determine if the malfunction was due to the logic error or the sensor misalignment.\n\nRegards,\nAris Thorne\nLead Software Developer, Kestrel Robotics, Inc.\n\n**From:** Sarah Gable <s.gable@hollowaylogistics.com>\n**To:** Aris Thorne <a.thorne@kestrelrobotics.com>\n**Date:** October 13, 2023\n**Subject:** Re: Incident with Unit K-9\n\nAris,\n\nI was present and issued the manual command to clear a jammed pallet. The robot responded correctly to my input. The safety interlock was fully functional and engaged, but the manual override command I issued legally and technically suppressed it. This is exactly what the manual describes. The forklift operator was speeding and violating clearance protocols, which caused the collision. The robot did not malfunction; it did what I told it to do.\n\nWe expect Kestrel Robotics to provide a full explanation for why the hard-stop mechanism did not prevent the impact, given that it was certified as functional on September 1, 2023.\n\nRegards,\nSarah Gable\nFacility Manager, Holloway Logistics",
+ "n_words": 1960,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The collision occurred at 14:02 on October 12, 2023, in Aisle 4 of the Holloway Logistics facility.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Injured worker Leo Vance was operating Forklift Unit 7 at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Leo Vance sustained a fractured left tibia and three broken ribs, as documented in the initial medical report.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The total medical expenses billed for Leo Vance's initial treatment were $45,200.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Leo Vance missed 120 working days due to the injuries sustained in the collision.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The facility manager, Sarah Gable, was present in Aisle 4 at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Sarah Gable had authority to issue manual override commands to the automated robots via a handheld terminal.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The automated robot, Unit K-9, was manufactured by Kestrel Robotics, Inc.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The software code for Unit K-9 was developed by a team led by Dr. Aris Thorne.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Unit K-9's safety protocol includes a hard-stop mechanism intended to halt the robot within 0.5 meters of an obstacle.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The hard-stop mechanism on Unit K-9 was tested and certified as functional by Kestrel Robotics on September 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The facility's standard operating procedure requires a 10-meter clearance between forklifts and automated robots.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Security footage shows Forklift Unit 7 entering Aisle 4 at 14:01:30.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Security footage shows Unit K-9 stationary at its charging dock until 14:01:45.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "A log entry indicates a manual command was sent to Unit K-9 at 14:01:46.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The collision impact force was recorded at 800 Newtons by the forklift's accelerometer.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Leo Vance had completed all required forklift safety training modules in January 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The facility's alarm system did not activate before the collision.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Kestrel Robotics provided a user manual warning that manual overrides may bypass standard safety interlocks.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The debris from the collision was removed from Aisle 4 by 15:00 on October 12, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Lead Software Developer stated that The robot's internal navigation algorithm malfunctioned, causing it to launch from the dock autonomously due to a logic error in the pathfinding module.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Sarah Gable, Facility Manager stated that I manually commanded the robot to leave the dock to clear a jammed pallet, and the robot responded correctly to my input.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Lead Software Developer stated that The safety interlock failed to engage because the sensor array was misaligned, rendering the hard-stop mechanism inoperable.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Gable, Facility Manager stated that The safety interlock was fully functional and engaged, but the manual override command I issued legally and technically suppressed it.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Leo Vance, Injured Worker stated that I was driving at the posted limit of 5 mph and was not exceeding the speed allowed for Aisle 4.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Sarah Gable, Facility Manager stated that The forklift was traveling at approximately 12 mph, significantly exceeding the safe speed for that area, which prevented a safe stop.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Leo Vance, Injured Worker stated that I maintained a safe distance from the robot's designated path and only entered Aisle 4 when it was clear.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Sarah Gable, Facility Manager stated that The forklift cut across the robot's travel lane, violating the mandatory 10-meter clearance zone required by SOP.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

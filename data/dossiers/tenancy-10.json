@@ -1,0 +1,166 @@
+{
+ "dossier_id": "tenancy-10",
+ "split": "dev",
+ "domain": "tenancy",
+ "title": "Vance v. Kowalski: The Blackwood Street Mold Dispute",
+ "premise": "An elderly widow in a historic brownstone in Brooklyn, New York, refuses to leave after the landlord fails to remediate black mold in her bedroom, threatening her respiratory health.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Property Maintenance Records ===\n\n**PROPERTY:** 118 Blackwood Street\n**MANAGER:** Robert Halloway\n**DATE RANGE:** January 12, 2024 \u2013 March 20, 2024\n\n**January 12, 2024, 09:15 AM**\nReceived formal written complaint from tenant Elena Vance (Unit 4B). Complaint cites visible mold on the north-facing wall of the bedroom. Complaint forwarded to Landlord, Marcus Kowalski.\n\n**January 15, 2024, 10:00 AM**\nEmail received from Marcus Kowalski to Elena Vance. Subject: \"Re: Maintenance Request.\" Body: \"Acknowledging receipt of your complaint. Maintenance staff will be scheduled within 72 hours.\"\n\n**January 20, 2024, 11:30 AM**\nMaintenance Log Entry #4092. Task: Inspection and sealing of bedroom window. Technician: J. Miller. Notes: \"Window sealant applied. No active leaks observed at time of inspection.\"\n\n**February 1, 2024, 14:00 PM**\nThird-party inspection report attached. Provider: Apex Air Solutions (Certified HVAC). Findings: Leak test conducted on roof above bedroom. Identified 4-inch shingle failure near chimney. Recommendation: Immediate repair of shingle and underlying felt.\n\n**February 10, 2024, 11:00 AM**\nInternal Memo from Building Superintendent to M. Kowalski. Subject: Interior Inspection Unit 4B. \"Inspected bedroom interior. Drywall is intact. No signs of water damage or staining visible from the interior surface.\"\n\n**February 20, 2024, 16:00 PM**\nMaintenance Log Entry #4115. Task: Roof repair completion. Technician: Apex Air Solutions. Notes: \"Shingle failure repaired. Felt replaced. Area sealed. Work completed on time.\"\n\n**March 20, 2024, 11:00 AM**\nRecord submitted by Landlord. Maintenance Log #4092 (referenced above) confirms window inspection and sealing on January 20, 2024.\n\n=== DOCUMENT 2: Witness Statement of Sarah Jenkins ===\n\n**STATEMENT OF SARAH JENKINS**\n**Role:** Representative, Tenants' Union\n**Date:** March 22, 2024\n**Re:** Vance v. Kowalski\n\nI am the organizer for the tenants at 118 Blackwood Street. I have been assigned to assist Elena Vance since March 1, 2024. I am providing this statement regarding the conditions of her unit and the actions of the landlord.\n\nThe mold in Elena\u2019s bedroom is not a result of her carelessness; it is the direct consequence of a long-standing structural defect in the building's foundation. The landlord knew about this issue for years but refused to repair it, prioritizing his rental income over the safety of his tenants. This is a deliberate choice. The water intrusion is systemic, not accidental.\n\nFurthermore, the eviction process initiated by Marcus Kowalski was conducted in bad faith. The eviction notice was issued to pressure Elena into leaving after she began organizing other residents in the building to address these poor living conditions. It was not a genuine response to non-payment, but a retaliatory measure to silence her advocacy. We have seen this tactic before; it is designed to intimidate tenants into abandoning their rights.\n\nThe delay in remediation was unacceptable. While the landlord claims he acted within 72 hours, that was merely a promise in an email. For over 30 days after the initial complaint, the landlord failed to take any meaningful action to remediate the mold. This constitutes a gross neglect of habitability duties. The tenant was left in a hazardous environment while the landlord dithered. The severity of the situation is life-threatening, and the landlord\u2019s inaction directly contributed to Elena\u2019s medical crisis.\n\n=== DOCUMENT 3: Witness Statement of Marcus Kowalski ===\n\n**STATEMENT OF MARCUS KOWALSKI**\n**Role:** Landlord, 118 Blackwood Street\n**Date:** March 22, 2024\n**Re:** Vance v. Kowalski\n\nI am the owner of 118 Blackwood Street. I am providing this statement to clarify the timeline and the reasons for the legal actions taken.\n\nFirst, regarding the mold: The tenant\u2019s respiratory issues are exacerbated by her pre-existing chronic condition and are not significantly worsened by the specific type of mold present. The mold detected is common in old buildings and is classified as allergenic, not toxic. The cause of the mold was the tenant\u2019s failure to ventilate the bedroom properly, which led to trapped humidity after a minor roof leak was promptly repaired. I did not ignore the complaint. I responded within 72 hours as promised in my email on January 15. The delay in full remediation was due to the complexity of the roof repair, which required specialized equipment and was completed within a reasonable timeframe.\n\nSecond, regarding the eviction: The eviction notice was issued in good faith strictly because the rent was not deposited. The bank error was not communicated to the landlord until after the notice was sent. I have no knowledge of any organizing activities by the tenant. My decision was based solely on the ledger, which showed two months of unpaid rent totaling $4,800. I am a responsible landlord who maintains a structurally sound building, as confirmed by the real estate appraisal and the lack of code violations.\n\nI maintain that the tenant\u2019s claims of \"gross neglect\" are false. I acted promptly. The window was inspected and sealed on January 20. The roof was repaired on February 20. The interior drywall was intact. I am not liable for the tenant\u2019s pre-existing health conditions or her failure to manage humidity in her own unit.\n\n=== DOCUMENT 4: Medical and Financial Records ===\n\n**MEDICAL REPORT**\n**Patient:** Elena Vance\n**Physician:** Dr. Aris Thorne\n**Date of Consultation:** February 18, 2024\n**Diagnosis:** Acute asthma exacerbation triggered by environmental factors.\n**Notes:** Patient presents with significant respiratory distress. Air sample analysis indicates presence of mold spores.\n**Statement by Dr. Aris Thorne:** \"The mold in the bedroom is the primary and direct cause of the tenant's severe asthma exacerbations, which are life-threatening.\"\n\n**INVOICE #1**\n**Provider:** Dr. Aris Thorne\n**Date:** February 18, 2024\n**Amount:** $1,200.00\n**Description:** Treatment for acute asthma exacerbation.\n\n**INVOICE #2**\n**Provider:** Dr. Aris Thorne\n**Date:** March 8, 2024\n**Amount:** $450.00\n**Description:** Follow-up appointment. Notes: Continued respiratory distress.\n\n**LETTER FROM PHYSICIAN**\n**Date:** March 22, 2024\n**To:** Elena Vance\n**From:** Dr. Aris Thorne\n**Re:** Health Advisory\n\"Elena, based on your recent tests and history, you are advised to avoid exposure to damp environments for at least six weeks. Continued exposure may result in severe, irreversible lung damage.\"\n\n**BANK STATEMENT EXCERPT**\n**Account Holder:** Elena Vance\n**Transaction Date:** January 30, 2024\n**Description:** Rent Payment - 118 Blackwood Street\n**Amount:** $2,400.00\n**Status:** Reversed/Coding Error\n**Note:** Transaction initiated but reversed by bank due to internal coding error. Funds returned to account.\n\n**LEASE AGREEMENT EXCERPT**\n**Date:** February 5, 2024\n**Tenant:** Elena Vance\n**Landlord:** Marcus Kowalski\n**Monthly Rent:** $2,400.00\n**Context:** This amount is 45% above the median for comparable units in the neighborhood.\n\n**REAL ESTATE APPRAISAL**\n**Date:** January 5, 2024\n**Appraiser:** [Redacted]\n**Property:** 118 Blackwood Street\n**Valuation:** $1.2 Million\n**Conclusion:** Building is structurally sound. No major defects noted in foundation or structural integrity.\n\n**HEALTH DEPARTMENT RECORD**\n**Date:** February 14, 2024\n**Inquiry:** Elena Vance\n**Result:** Air sample submitted. Mold strain identified. Classification: 'Allergenic' (not 'toxic') per federal standards.\n\n**CODE VIOLATION RECORD**\n**Source:** Department of Buildings\n**Property:** 118 Blackwood Street\n**Period:** Past 12 months\n**Status:** No code violations filed.\n\n=== DOCUMENT 5: Court Filing and Mediation Schedule ===\n\n**PETITION FOR EVICTION**\n**Filed:** February 20, 2024\n**Petitioner:** Marcus Kowalski\n**Respondent:** Elena Vance\n**Reason:** Non-payment of rent.\n**Details:** Petitioner issued a 30-day pay-or-quit notice on February 20, 2024, citing two months of unpaid rent totaling $4,800. Petitioner filed petition with New York City Housing Court on February 25, 2024.\n\n**COUNTERCLAIM**\n**Filed:** March 18, 2024\n**Plaintiff:** Elena Vance\n**Defendant:** Marcus Kowalski\n**Allegation:** Breach of the warranty of habitability due to the presence of mold.\n**Evidence Attached:**\n1. Photograph taken February 25, 2024, showing visible black discoloration on the ceiling of the bedroom, 3 feet from the window.\n2. Medical bills from Dr. Aris Thorne.\n3. Bank statements showing reversed rent payment.\n4. Health Department classification of mold.\n\n**NOTICE OF MEDIATION**\n**Court:** New York City Housing Court\n**Date:** March 25, 2024\n**Session Scheduled:** April 15, 2024\n**Purpose:** To resolve the dispute without a trial.\n**Parties:** Elena Vance (Tenant) vs. Marcus Kowalski (Landlord).\n**Representation:**\n- Elena Vance: Sarah Jenkins (Tenants' Union)\n- Marcus Kowalski: Self-represented / Legal Counsel [Redacted]\n\n**EXHIBIT LIST**\n1. Formal written complaint (Jan 12, 2024)\n2. Email acknowledgment (Jan 15, 2024)\n3. Apex Air Solutions inspection report (Feb 1, 2024)\n4. Lease agreement (Feb 5, 2024)\n5. Superintendent memo (Feb 10, 2024)\n6. Health Department report (Feb 14, 2024)\n7. Medical bill #1 (Feb 18, 2024)\n8. Pay-or-quit notice (Feb 20, 2024)\n9. Bank statement (Feb 22, 2024)\n10. Eviction petition (Feb 25, 2024)\n11. Tenants' Union assignment (Mar 1, 2024)\n12. Building manager report on roof repair (Mar 5, 2024)\n13. Medical bill #2 (Mar 8, 2024)\n14. Real estate appraisal (Mar 10, 2024)\n15. Photograph of ceiling discoloration (Mar 12, 2024)\n16. Code violation record (Mar 15, 2024)\n17. Counterclaim (Mar 18, 2024)\n18. Maintenance log for window (Mar 20, 2024)\n19. Physician letter (Mar 22, 2024)",
+ "n_words": 1434,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On January 12, 2024, at 9:15 AM, tenant Elena Vance submitted a formal written complaint to landlord Marcus Kowalski regarding visible mold on the north-facing wall of her bedroom at 118 Blackwood Street.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "On January 15, 2024, at 10:00 AM, Marcus Kowalski replied via email acknowledging receipt of the complaint and stating that maintenance staff would be scheduled within 72 hours.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "On February 1, 2024, at 2:00 PM, a certified HVAC technician from Apex Air Solutions conducted a leak test on the roof above the bedroom, identifying a 4-inch shingle failure near the chimney.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "On February 5, 2024, at 8:30 AM, tenant Elena Vance provided a signed lease agreement to her attorney showing a monthly rent of $2,400, which is 45% above the median for comparable units in the neighborhood.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "On February 10, 2024, at 11:00 AM, the building superintendent reported to Marcus Kowalski that the interior drywall in the bedroom was intact and showed no signs of water damage from the inside.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "On February 14, 2024, at 9:00 AM, tenant Elena Vance visited the local health department and was informed that the specific strain of mold detected in her air sample is classified as 'allergenic' rather than 'toxic' by federal standards.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "On February 18, 2024, at 1:00 PM, tenant Elena Vance submitted a medical bill from Dr. Aris Thorne showing a $1,200 charge for treatment of acute asthma exacerbation triggered by environmental factors.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "On February 20, 2024, at 10:00 AM, Marcus Kowalski issued a 30-day pay-or-quit notice to tenant Elena Vance, citing two months of unpaid rent totaling $4,800.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "On February 22, 2024, at 9:00 AM, tenant Elena Vance provided bank statements showing that she had deposited $2,400 into the rent account on January 30, 2024, but the transaction was reversed by the bank due to a coding error.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "On February 25, 2024, at 2:00 PM, Marcus Kowalski filed a petition with the New York City Housing Court to commence eviction proceedings based on non-payment of rent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "On March 1, 2024, at 9:00 AM, tenant Elena Vance contacted the tenants' union, and a representative, Sarah Jenkins, was assigned to her case within 24 hours.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "On March 5, 2024, at 11:00 AM, the building manager, Robert Halloway, stated in a written report that the roof repair work ordered by Marcus Kowalski was completed on February 20, 2024, at 4:00 PM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "On March 8, 2024, at 10:00 AM, tenant Elena Vance provided a second medical bill from Dr. Aris Thorne for a follow-up appointment costing $450, noting continued respiratory distress.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "On March 10, 2024, at 1:00 PM, Marcus Kowalski presented a letter from a real estate appraiser dated January 5, 2024, valuing the property at $1.2 million, indicating the building is structurally sound.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "On March 12, 2024, at 9:00 AM, tenant Elena Vance submitted a photograph taken on February 25, 2024, showing visible black discoloration on the ceiling of the bedroom, 3 feet from the window.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "On March 15, 2024, at 10:00 AM, Marcus Kowalski provided a record showing that the building had no code violations filed with the Department of Buildings in the past 12 months.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "On March 18, 2024, at 2:00 PM, tenant Elena Vance filed a counterclaim alleging breach of the warranty of habitability due to the presence of mold.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "On March 20, 2024, at 11:00 AM, Marcus Kowalski submitted a maintenance log showing that a window in the bedroom was inspected and sealed on January 20, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "On March 22, 2024, at 9:00 AM, tenant Elena Vance provided a letter from her physician stating that she is advised to avoid exposure to damp environments for at least six weeks.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "On March 25, 2024, at 1:00 PM, the housing court scheduled a mediation session for April 15, 2024, to resolve the dispute without a trial.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Tenant's Physician stated that The mold in the bedroom is the primary and direct cause of the tenant's severe asthma exacerbations, which are life-threatening.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Kowalski, Landlord stated that The tenant's respiratory issues are exacerbated by her pre-existing chronic condition and are not significantly worsened by the specific type of mold present, which is common in old buildings.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Kowalski, Landlord stated that The landlord responded within 72 hours as promised, and the delay in full remediation was due to the complexity of the roof repair, which was completed within a reasonable timeframe.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Kowalski, Landlord stated that The eviction notice was issued in good faith strictly because the rent was not deposited, and the bank error was not communicated to the landlord until after the notice was sent.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": []
+}

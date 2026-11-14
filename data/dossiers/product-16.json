@@ -1,0 +1,184 @@
+{
+ "dossier_id": "product-16",
+ "split": "test",
+ "domain": "product",
+ "title": "In re: Oakhaven Ergo-Baker Laceration Incident",
+ "premise": "A grandmother in rural Texas was lacerated by a jagged shard of plastic that shattered from the handle of her new ergonomic bread maker while slicing a loaf.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Intake and Emergency Medical Record ===\n\n**INSTITUTION:** Pine Hollow General Hospital\n**DEPARTMENT:** Emergency Medicine\n**PATIENT ID:** HH-99214\n**DATE OF SERVICE:** March 12, 2024\n**TIME OF ARRIVAL:** 14:22 Local Time\n\n**INCIDENT REPORT SUMMARY**\nPatient Margaret Holloway, a 68-year-old female resident of Pine Hollow, Texas, presented to the Emergency Department with a laceration to the dorsal surface of the right hand. Patient states the injury occurred at 14:05 local time within her residential kitchen. The location of the incident is noted as approximately 5 meters from the stove. Patient reports she was slicing a standard white bread loaf using a Model 400 Ergo-Baker, serial number EB400-88921.\n\n**CLINICAL FINDINGS**\nUpon examination, a linear laceration was observed on the dorsal aspect of the right hand, measuring 4.2 centimeters in length. The wound depth penetrated through the dermis. Patient reported pain levels of 8 out of 10 on the numeric rating scale during the initial assessment. Vital signs were stable. No neurological deficits were noted in the affected extremity.\n\n**TREATMENT AND DISPOSITION**\nThe wound was irrigated and debrided. A total of 12 sutures were required to close the laceration. Patient was prescribed a course of antibiotics for 10 days to prevent potential infection. Patient was discharged with instructions to keep the wound dry and to follow up with her primary care provider in 5-7 days.\n\n**PATIENT STATEMENT (VERBATIM)**\n\"I was just cutting a loaf of white bread. I\u2019ve used this machine exactly three times before today. I was wearing oven mitts on my left hand because I had just taken something out of the oven, but my right hand was bare. The handle felt loose to me before I started slicing. I heard a distinct cracking sound before the handle broke. It just snapped, and the piece hit my hand. I am the victim here. I did nothing wrong. I was careful. The machine failed.\"\n\n**ENVIRONMENTAL DATA**\nAmbient temperature in the kitchen was recorded at 21.5 degrees Celsius by the patient\u2019s smart thermostat log, which was retrieved upon request.\n\n=== DOCUMENT 2: Manufacturer Quality Control and Compliance Log ===\n\n**COMPANY:** Oakhaven Appliances\n**DEPARTMENT:** Quality Assurance & Regulatory Compliance\n**REPORT TYPE:** Post-Incident Review \u2013 Model 400 Ergo-Baker\n**DATE OF REPORT:** March 13, 2024\n**PREPARED BY:** Internal Audit Team\n\n**PRODUCT IDENTIFICATION**\n*   **Model:** 400 Ergo-Baker\n*   **Serial Number:** EB400-88921\n*   **Purchase Date:** February 1, 2024\n*   **Retailer:** Regional Hardware Store (Invoice #8821-A)\n\n**MANUFACTURING AND TESTING HISTORY**\nThe specific unit in question was produced in the January 2024 batch. The batch of handles produced in January 2024 was certified compliant with ISO 9001 standards. All units in this batch underwent standard quality control checks prior to packaging.\n\n**STRESS TESTING DATA**\nThe Model 400 Ergo-Baker design specifications require the handle assembly to withstand a minimum force rating of 150 Newtons before failure. The internal stress test for the January 2024 batch confirmed that the polymer blend met this threshold. The plastic shattered due to excessive force applied by the user during a sudden twist, which exceeded the design tolerance, according to the initial engineering assessment. The fracture pattern is consistent with stress exceeding the rated limit.\n\n**PACKAGING AND LABELING INSPECTION**\nThe user manual for the Model 400 Ergo-Baker includes a section titled 'Safe Handling of Sharp Edges' on page 14. The manual contains a warning icon depicting a hand being cut by a shard.\n\nRegarding the physical warning label on the handle:\n*   **Final Packaging Inspection Log:** The warning label was clearly visible and unobstructed, as verified by the final packaging inspection logs.\n*   **Residue Check:** No manufacturing residue film was detected on the label during the final quality check. The label was applied after the cleaning process.\n\n**RECALL STATUS**\nThe manufacturer has not issued a recall for Model 400 units sold since 2022. There are no outstanding safety notices for the January 2024 production batch.\n\n**CORRESPONDENCE**\nOn March 15, 2024, the manufacturer issued a press statement expressing condolences to the victim. The statement noted the company\u2019s commitment to safety and its intention to review the incident details.\n\n=== DOCUMENT 3: Witness Statement \u2013 Dr. Elena Rostova ===\n\n**WITNESS:** Dr. Elena Rostova\n**TITLE:** Materials Engineer, Consumer Safety Alliance\n**DATE OF STATEMENT:** March 18, 2024\n**SUBJECT:** Forensic Analysis of Model 400 Ergo-Baker Handle Failure\n\n**STATEMENT**\nI have reviewed the physical evidence provided by the victim, Margaret Holloway, and the accompanying documentation. The plastic shattered due to a manufacturing defect in the polymer blend, evidenced by the brittle fracture pattern. This is not a case of user error. The fracture surface shows signs of internal stress concentration that precede any external load.\n\nWhen I look at the handle, I see a component that was compromised before it ever reached the customer. The victim reported that the handle felt 'loose' before the incident. This is a critical indicator. A loose handle suggests that the joint integrity was already failing. The product passed the company's internal stress test with a force rating of 150 Newtons, but that test likely did not account for the degradation of the polymer over time or the specific batch variance.\n\nThe batch of handles produced in January 2024 was certified compliant with ISO 9001 standards, but certification does not guarantee that every single unit is free from defects. The brittle fracture pattern is distinct. It does not look like a ductile failure caused by a sudden, excessive twist. It looks like the material was simply too weak to handle the normal stresses of slicing bread.\n\nI must also address the warning label. The manufacturer claims the label was visible. However, the warning label was obscured by a manufacturing residue film that was not removed before packaging. This residue is a known issue in their production line. By obscuring the warning, they prevented the user from knowing about the potential sharp edges. The user manual includes a section titled 'Safe Handling of Sharp Edges' on page 14, and the manual contains a warning icon depicting a hand being cut by a shard, but if the physical label on the tool is covered in grime, the user cannot see it.\n\nThe user was acting with reasonable care, using the tool as intended for slicing bread. She was wearing oven mitts on her left hand but not her right hand, which is standard practice when one hand is occupied with a hot item or for stability. The ambient temperature in the kitchen was recorded at 21.5 degrees Celsius, which is a normal room temperature. There is no environmental factor that would weaken the plastic.\n\nThe cause of the injury is the defective product. The plastic shattered due to a manufacturing defect. The user did nothing to cause the failure. She was just slicing a standard white bread loaf. The fact that she had used the bread maker for exactly 3 previous occasions suggests that the defect was latent but present. The \"loose\" feeling she reported is the smoking gun. The product was failing before it broke.\n\n=== DOCUMENT 4: Witness Statement \u2013 Marcus Thorne and Robert Vane ===\n\n**WITNESS 1:** Marcus Thorne\n**TITLE:** Head of Quality Control, Oakhaven Appliances\n**DATE OF STATEMENT:** March 18, 2024\n\n**STATEMENT**\nI am here to clarify the facts regarding the incident involving the Model 400 Ergo-Baker, serial number EB400-88921. The plastic shattered due to excessive force applied by the user during a sudden twist, which exceeded the design tolerance. Our design specifications are clear: the handle must withstand 150 Newtons. The user applied more than that.\n\nThe user claims the handle felt 'loose.' This is subjective. A handle is designed to have some play for ergonomic comfort. The product passed the company's internal stress test with a force rating of 150 Newtons. The batch of handles produced in January 2024 was certified compliant with ISO 9001 standards. We do not have a recall for Model 400 units sold since 2022 because the units are safe when used as intended.\n\nThe user was handling the tool incorrectly by gripping it with both hands in a way that created leverage against the handle joint. This is a common error. The tool is designed for one-handed operation with the other hand stabilizing the bread, not for two-handed forceful twisting. The sudden twist she described generated a torque that the polymer blend was not designed to absorb.\n\nRegarding the warning label: The warning label was clearly visible and unobstructed, as verified by the final packaging inspection logs. There was no residue. The user manual includes a section titled 'Safe Handling of Sharp Edges' on page 14. The manual contains a warning icon depicting a hand being cut by a shard. The user had the manual. She could have read it.\n\n**WITNESS 2:** Robert Vane\n**TITLE:** Safety Consultant for Oakhaven Appliances\n**DATE OF STATEMENT:** March 18, 2024\n\n**STATEMENT**\nI have reviewed the incident report and the user\u2019s statement. The user was handling the tool incorrectly by gripping it with both hands in a way that created leverage against the handle joint. This is a clear violation of the safe handling instructions.\n\nThe user was acting with reasonable care? No. She was wearing oven mitts on her left hand but not her right hand. This asymmetry suggests she was not following the intended usage pattern. The tool is designed for precise, controlled slicing, not for forceful twisting. The sudden twist she mentions was the cause of the failure.\n\nThe ambient temperature in the kitchen was recorded at 21.5 degrees Celsius. This is irrelevant to the failure. The plastic did not fail because of the temperature. It failed because of the force.\n\nThe user reported that the handle felt 'loose' before the incident. This is her interpretation. The handle was within tolerance. The product passed the company's internal stress test with a force rating of 150 Newtons. If she was applying more than 150 Newtons, she was exceeding the design tolerance.\n\nThe warning label was clearly visible and unobstructed, as verified by the final packaging inspection logs. The user had the opportunity to see the warning. The manual contains a warning icon depicting a hand being cut by a shard. She ignored the warnings.\n\nThe plastic shattered due to excessive force applied by the user during a sudden twist, which exceeded the design tolerance. This is not a manufacturing defect. This is user error.\n\n=== DOCUMENT 5: Witness Statement \u2013 Thomas Holloway and Sarah Jenkins ===\n\n**WITNESS 1:** Thomas Holloway\n**TITLE:** Neighbor\n**DATE OF STATEMENT:** March 14, 2024\n\n**STATEMENT**\nI was in the next room, watching television. I heard the incident occur around 14:05. I was in the next room and heard no cracking sound, only the sudden noise of the plastic hitting the floor. I thought it was a dropped plate or a chair falling. I went to check on Margaret, and she was holding her hand. I did not hear any warning sounds from the machine. I was close enough to hear a conversation, so if there was a cracking sound, I would have heard it. I did not.\n\n**WITNESS 2:** Sarah Jenkins\n**TITLE:** Victim's Attorney\n**DATE OF STATEMENT:** March 19, 2024\n\n**STATEMENT**\nMy client, Margaret Holloway, was acting with reasonable care, using the tool as intended for slicing bread. The incident occurred in her kitchen, approximately 5 meters from the stove. She was wearing oven mitts on her left hand but not her right hand, which is a normal safety precaution to protect against heat while keeping the working hand free.\n\nThe warning label was obscured by a manufacturing residue film that was not removed before packaging. This is a clear failure of the manufacturer\u2019s quality control. The user manual includes a section titled 'Safe Handling of Sharp Edges' on page 14, and the manual contains a warning icon depicting a hand being cut by a shard, but the physical label on the tool was covered. The user could not see the warning.\n\nThe product was purchased from a regional hardware store on February 1, 2024. The serial number is EB400-88921. The victim sustained a laceration 4.2 centimeters long on the dorsal surface of her right hand. Medical records indicate the wound required 12 stitches to close. The victim reported pain levels of 8 out of 10 in the initial emergency room assessment. The victim was prescribed a course of antibiotics for 10 days to prevent infection.\n\nThe manufacturer's user manual includes a section titled 'Safe Handling of Sharp Edges' on page 14. The manual contains a warning icon depicting a hand being cut by a shard. The product passed the company's internal stress test with a force rating of 150 Newtons. The batch of handles produced in January 2024 was certified compliant with ISO 9001 standards. The manufacturer issued a press statement on March 15, 2024, expressing condolences to the victim. The manufacturer has not issued a recall for Model 400 units sold since 2022.\n\nThe victim reported that the handle felt 'loose' before the incident. The victim was slicing a standard white bread loaf at the time of the incident. The location of the incident was the victim's kitchen, approximately 5 meters from the stove. The victim was wearing oven mitts on her left hand but not her right hand. The ambient temperature in the kitchen was recorded at 21.5 degrees Celsius. The victim had used the bread maker for exactly 3 previous occasions.\n\nThe cause of the injury is the defective product. The plastic shattered due to a manufacturing defect in the polymer blend. The user did not apply excessive force. She was just slicing bread. The \"loose\" handle was a sign of impending failure. The warning label was obscured. The user could not see it. The manufacturer is liable.",
+ "n_words": 2277,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on March 12, 2024, at 14:05 local time.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The victim was a 68-year-old resident of Pine Hollow, Texas.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The product involved was the Model 400 Ergo-Baker, serial number EB400-88921.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The product was purchased from a regional hardware store on February 1, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The victim sustained a laceration 4.2 centimeters long on the dorsal surface of her right hand.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Medical records indicate the wound required 12 stitches to close.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The victim reported pain levels of 8 out of 10 in the initial emergency room assessment.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The victim was prescribed a course of antibiotics for 10 days to prevent infection.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The manufacturer's user manual includes a section titled 'Safe Handling of Sharp Edges' on page 14.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The manual contains a warning icon depicting a hand being cut by a shard.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The product passed the company's internal stress test with a force rating of 150 Newtons.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The batch of handles produced in January 2024 was certified compliant with ISO 9001 standards.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The manufacturer issued a press statement on March 15, 2024, expressing condolences to the victim.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The manufacturer has not issued a recall for Model 400 units sold since 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The victim reported that the handle felt 'loose' before the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The victim was slicing a standard white bread loaf at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The location of the incident was the victim's kitchen, approximately 5 meters from the stove.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The victim was wearing oven mitts on her left hand but not her right hand.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The ambient temperature in the kitchen was recorded at 21.5 degrees Celsius.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The victim had used the bread maker for exactly 3 previous occasions.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Elena Rostova, Materials Engineer for Consumer Safety Alliance stated that The plastic shattered due to a manufacturing defect in the polymer blend, evidenced by the brittle fracture pattern.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Head of Quality Control at Oakhaven Appliances stated that The plastic shattered due to excessive force applied by the user during a sudden twist, which exceeded the design tolerance.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenkins, Victim's Attorney stated that The warning label was obscured by a manufacturing residue film that was not removed before packaging.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Linda Miller, Personal Injury Specialist stated that The user was acting with reasonable care, using the tool as intended for slicing bread.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Robert Vane, Safety Consultant for Oakhaven Appliances stated that The user was handling the tool incorrectly by gripping it with both hands in a way that created leverage against the handle joint.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "The Victim, Margaret Holloway stated that I heard a distinct cracking sound before the handle broke, indicating it was already compromised.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "The Neighbor, Thomas Holloway stated that I was in the next room and heard no cracking sound, only the sudden noise of the plastic hitting the floor.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

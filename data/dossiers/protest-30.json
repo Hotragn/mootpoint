@@ -1,0 +1,169 @@
+{
+ "dossier_id": "protest-30",
+ "split": "test",
+ "domain": "protest",
+ "title": "Cedar Point Refinery Standoff",
+ "premise": "A small group of climate activists blocked the main entrance to a coastal oil refinery, triggering a standoff with local sheriff's deputies who had no riot gear prepared.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Sheriff\u2019s Department Incident Report 24-0912-B ===\n\n**INCIDENT TYPE:** Civil Disturbance / Standoff\n**LOCATION:** Cedar Point Oil Refinery, 4500 Harbor Road, Bayview County\n**DATE:** October 12\n**TIME OF REPORT:** 14:00\n**REPORTING OFFICER:** Deputy Thomas Wright\n\n**SUMMARY OF EVENTS:**\nAt approximately 09:15 AM, seven individuals arrived at the main gate of the Cedar Point Oil Refinery. The group was identified as environmental activists. They proceeded to chain themselves to the gate structure using six heavy-duty padlocks. The activists were holding signs with slogans including \"Shut Down the Oil\" and \"Save the Coast.\" A court order authorizing the protest was filed 48 hours prior to this event.\n\nAt 09:42 AM, a responding police unit arrived on scene. The unit consisted of four deputies in standard patrol uniforms. The responding police van had no visible riot shields or helmets in its cargo bed. Note: Local sheriff's department policy requires riot gear for any protest exceeding five participants. The absence of such gear was noted during the initial assessment.\n\nDeputy Sarah Jenkins issued a verbal dispersal order at 09:45 AM. The standoff continued until 11:30 AM, at which point the group was removed.\n\n**OFFICER STATEMENT:**\nI, Deputy Thomas Wright, arrived with my partner and two other deputies. Upon approach, I observed the activists had secured themselves to the gate. I stated in my preliminary notes that I attempted to remove the chain by hand to facilitate their removal.\n\nRegarding the interaction with activist Liam Green: I only touched Liam Green's shoulder to signal that we needed to talk, and he pushed away aggressively. I did not use any weapon or excessive force.\n\nRegarding the physical injury sustained by this officer: I struck the chain to break it, and the bruise resulted from the impact with the metal, not from hitting anyone.\n\nRegarding the state of the facility: The gate was open and the activists forced it shut, creating an active barrier to emergency access. This action required immediate attention to restore security protocols.\n\n**INVESTIGATIVE NOTES:**\nBody camera footage from Deputy Wright is missing the segment from 10:15 to 10:22 AM. The technical department has been notified to review the device for potential malfunction or data corruption.\n\n=== DOCUMENT 2: Witness Statement of Liam Green ===\n\n**STATEMENT OF:** Liam Green\n**DATE OF STATEMENT:** October 14\n**RECORDED BY:** Legal Aid Society\n\nI was one of the seven activists present at the Cedar Point Oil Refinery on October 12. We arrived at the gate at 09:15 AM. I want to be clear about the situation from the start: the gate was already locked and secured when we arrived, making our chaining act a passive block. We did not force anything shut; the facility\u2019s security had already closed the gate.\n\nThe area surrounding the gate is paved asphalt with no vegetation, so there was nowhere to hide or maneuver. When the sheriff's deputies arrived at 09:42 AM, they came in a van that looked completely unprepared for a crowd this size. There were no riot shields or helmets visible in the back. It was just four guys in standard uniforms, which seemed like a dangerous underestimation of the situation.\n\nDeputy Sarah Jenkins gave her dispersal order at 09:45 AM. We did not comply because we were chained. The standoff went on for almost two hours.\n\nThen, the situation escalated. Deputy Wright swung a baton at my head, forcing me to duck and causing me to lose balance. I was not aggressive; I was trying to protect myself from a violent strike. I immediately submitted a police report claiming I was struck by a baton.\n\nMy medical intake form notes \"no lacerations or fractures,\" which is accurate. I was not broken, but I was hit. The bruising on Deputy Wright\u2019s knuckle, which he claims is from hitting the chain, is a lie. He was trying to break our restraints with brute force, and that is why he got hurt. He is trying to hide the fact that he attacked me.\n\nI heard the other activists shouting, but we were peaceful. We were not spitting or screaming threats. The officers were the ones creating a hostile environment. I am filing this statement to ensure the record reflects that we were the victims of police aggression, not the perpetrators of disorder.\n\n=== DOCUMENT 3: Witness Statement of Marcus Thorne ===\n\n**STATEMENT OF:** Marcus Thorne\n**DATE OF STATEMENT:** October 15\n**RECORDED BY:** Bayview County Recorder\n\nI was a bystander standing approximately twenty feet from the gate when the incident occurred. I was there to film the event for my personal social media channels.\n\nI watched the entire sequence from the moment the activists arrived at 09:15 AM until the deputies arrived at 09:42 AM. I can confirm that the activists held signs reading 'Shut Down the Oil' and 'Save the Coast'. They were calm and orderly.\n\nWhen the police arrived, I noticed the van had no riot gear. It seemed like a standard traffic stop vehicle, not a unit prepared for a civil disturbance. Deputy Jenkins issued the dispersal order at 09:45 AM.\n\nI heard the activists shouting 'Go home!' and no threats were made before the physical contact began. Deputy Sarah Jenkins claims that the activists were spitting at the officers and screaming abusive threats, necessitating immediate physical intervention. This is completely false. I was close enough to hear clearly, and the only sounds were the activists asking the officers to leave.\n\nAt 10:18 AM, I was filming with my phone. The video clearly shows a deputy's leg making contact with an activist's torso. This happened right before the camera angle shifted. I believe this is the moment Deputy Wright made contact with Liam Green.\n\nI did not see any baton being swung. I did not see the activists spitting. I saw a group of people who were simply trying to make a statement being physically removed by officers who seemed overly eager to use force. The lack of riot gear made the situation feel even more volatile, as the officers were exposed and the activists were chained down.\n\nI have preserved the phone video and am willing to provide it to the investigation. The timestamp on the video confirms the time of 10:18 AM.\n\n=== DOCUMENT 4: Medical and Forensic Report ===\n\n**PATIENT/PERSON:** Deputy Thomas Wright\n**EXAMINING PHYSICIAN:** Dr. Elena Ross, Forensic Pathologist\n**DATE OF EXAMINATION:** October 12\n**LOCATION:** Bayview County Medical Center\n\n**CLINICAL FINDINGS:**\nThe subject presented with minor soft tissue injury to the right hand. Specifically, a bruised knuckle on the right hand was observed. There were no fractures, dislocations, or open wounds. The subject reported pain upon extension of the fingers.\n\n**FORENSIC ANALYSIS:**\nThe bruising on Deputy Wright's knuckle is consistent with striking a hard, unyielding object like a metal chain. The pattern of the contusion suggests a direct impact with a rigid, cylindrical surface.\n\n**COMPARISON WITH OTHER RECORDS:**\nIt is noted that activist Liam Green submitted a police report claiming he was struck by a baton. However, Green's medical intake form notes \"no lacerations or fractures\" and does not document a head injury or a bruise consistent with a baton strike to the head. The absence of such injuries on Green does not rule out a strike, but it does not support the severity implied by a \"swung baton\" to the head.\n\nRegarding Deputy Wright\u2019s statement that he struck the chain to break it, the forensic evidence of the knuckle bruise is compatible with this account. However, forensic analysis cannot determine the intent or the specific target of the strike beyond the physical characteristics of the impact.\n\n**ADDITIONAL NOTES:**\nThe refinery's internal security log shows the gate was fully secured and operational at 09:10 AM. This document is referenced to establish the baseline status of the facility prior to the arrival of the activists.\n\n=== DOCUMENT 5: Internal Email Correspondence - Bayview County Sheriff\u2019s Office ===\n\n**FROM:** Sgt. R. Miller\n**TO:** Deputy Sarah Jenkins\n**DATE:** October 12, 11:45 AM\n**SUBJECT:** Debrief - Cedar Point Incident\n\nSarah,\n\nGet to the office when you are done with your report. We need to discuss the handling of the Cedar Point standoff.\n\nI saw the body cam footage from Wright\u2019s device. The segment from 10:15 to 10:22 AM is missing. This is a significant gap given the timeline of the physical removal. IT is looking into it, but I need you to be prepared to explain the sequence of events from your perspective.\n\nI also have a complaint from the activists' legal team. They are alleging that we violated policy by not bringing riot gear, even though the group exceeded five participants. They are also claiming that the gate was already locked when they arrived, which contradicts Wright\u2019s report that the activists forced it shut.\n\nI need your statement to be consistent with the facts we have. Remember, you were the only officer who did not enter the immediate perimeter of the chained activists. You stayed back and issued the dispersal order. Stick to that. If Wright made contact, it was in the gap where the camera failed.\n\nDo not speculate on what Wright did. Just state what you saw and heard. If you heard threats, state them. If you did not, do not make them up. The court order was filed 48 hours prior, so we had advance notice. This was not a surprise.\n\nWe are going to have a lot of questions about the \"spitting\" and \"abusive threats\" you mentioned in your preliminary log. Be ready to back that up with specific examples. If you can\u2019t, we may have to revise the report to reflect a standard dispersal order rather than a response to violence.\n\nGet here by 13:00.\n\nSgt. Miller",
+ "n_words": 1615,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Cedar Point Oil Refinery located at 4500 Harbor Road, Bayview County.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Seven activists arrived at the refinery gate at 09:15 AM on October 12.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The activists chained themselves to the main gate using six heavy-duty padlocks.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Sheriff's deputies arrived on scene at 09:42 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The responding police unit consisted of four deputies in standard patrol uniforms.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The police van had no visible riot shields or helmets in its cargo bed.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Deputy Sarah Jenkins issued a verbal dispersal order at 09:45 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The standoff lasted until 11:30 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Medical records show Deputy Thomas Wright suffered a bruised knuckle on his right hand.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Activist Liam Green submitted a police report claiming he was struck by a baton.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Body camera footage from Deputy Wright is missing the segment from 10:15 to 10:22 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "A bystander's phone video shows a deputy's leg making contact with an activist's torso at 10:18 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The refinery's internal security log shows the gate was fully secured and operational at 09:10 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Activists held signs reading 'Shut Down the Oil' and 'Save the Coast'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The local sheriff's department policy requires riot gear for any protest exceeding five participants.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Deputy Wright stated in his report that he attempted to remove the chain by hand.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Activist Green's medical intake form notes 'no lacerations or fractures'.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The area surrounding the gate is paved asphalt with no vegetation.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Deputy Jenkins was the only officer who did not enter the immediate perimeter of the chained activists.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The court order for the protest was filed 48 hours prior to the event.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Liam Green (Activist) stated that Deputy Wright swung a baton at my head, forcing me to duck and causing me to lose balance.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Deputy Thomas Wright (Sheriff's Deputy) stated that I only touched Liam Green's shoulder to signal that we needed to talk, and he pushed away aggressively.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Marcus Thorne (Bystander) stated that I heard the activists shouting 'Go home!' and no threats were made before the physical contact began.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Deputy Sarah Jenkins (Sheriff's Deputy) stated that The activists were spitting at the officers and screaming abusive threats, necessitating immediate physical intervention.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": [
+  "C2",
+  "C4"
+ ]
+}

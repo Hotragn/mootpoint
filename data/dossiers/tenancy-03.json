@@ -1,0 +1,180 @@
+{
+ "dossier_id": "tenancy-03",
+ "split": "dev",
+ "domain": "tenancy",
+ "title": "Vellum Institute v. Holloway Property Holdings: Radon and Eviction Dispute",
+ "premise": "A university research lab tenant argues that the landlord\u2019s failure to remediate persistent radon gas constitutes a breach of the warranty of habitability, invalidating the subsequent notice to vacate for minor administrative delinquency.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement and Financial Ledger Excerpt ===\n\n**AGREEMENT FOR LEASE**\n**Property:** 42 Meridian Way, Third Floor Laboratory Suite (Unit 3-04)\n**Landlord:** Holloway Property Holdings (\"Side B\")\n**Tenant:** Vellum Institute (\"Side A\")\n**Effective Date:** May 1, 2021\n\n**1. RENT AND FEES**\nThe Tenant agrees to pay monthly rent in the amount of $12,500.00. Payment is due on the first day of each month.\n\n**2. COMPLIANCE AND RECORDS**\nThe Tenant shall maintain a clean administrative record with the Landlord. This includes, but is not limited to, the timely payment of all rent, late fees, and other charges as stipulated in this Agreement or applicable local codes. Failure to maintain this record may constitute a material breach of the lease.\n\n**3. MAINTENANCE AND HABITABILITY**\nThe Landlord is responsible for the structural integrity of the building and the operation of central ventilation systems. The Tenant is responsible for the operational safety of their specific laboratory activities. The local housing code mandates that residential and laboratory units must meet specific radon concentration limits to be deemed habitable.\n\n**4. INDEMNIFICATION**\nThe Tenant agrees to indemnify and hold harmless the Landlord from any and all claims, damages, or liabilities arising from tenant-specific operational failures, including but not limited to the mishandling of chemical reagents, equipment malfunctions within the Tenant\u2019s control, or any other activities conducted within the leased premises. This clause protects the Landlord from liability for incidents originating from the Tenant\u2019s internal operations.\n\n**5. TERMINATION**\nThe Landlord may issue a Notice to Vacate in accordance with state landlord-tenant statutes if the Tenant fails to cure financial delinquencies or breaches administrative conditions within the cure period specified by law.\n\n**FINANCIAL LEDGER EXCERPT \u2013 VELLUM INSTITUTE (UNIT 3-04)**\n*Period: September 2022 \u2013 November 2022*\n\n| Date | Description | Amount | Status |\n| :--- | :--- | :--- | :--- |\n| 09/01/2022 | Monthly Rent | $12,500.00 | Paid |\n| 09/15/2022 | Late Fee (Accrued) | $450.00 | Open |\n| 10/01/2022 | Monthly Rent | $12,500.00 | Paid |\n| 11/01/2022 | Balance Due | $450.00 | Open |\n\n*Note: As of November 1, 2022, the $450 late fee accrued in September 2022 is the only outstanding financial obligation from the Tenant. All other rent payments for the period have been recorded as paid.*\n\n=== DOCUMENT 2: Correspondence and Notice to Vacate ===\n\n**EMAIL TRANSMISSION**\n**From:** Dr. Aris Thorne (Principal Investigator, Vellum Institute) <athorne@velluminstitute.org>\n**To:** Ms. Elena Rostova (Property Manager, Holloway Property Holdings) <erostova@hph.com>\n**Date:** September 5, 2022\n**Subject:** URGENT: Request for Air Filtration Inspection\n\nMs. Rostova,\n\nI am writing to formally request an urgent inspection of the laboratory\u2019s air filtration system. Our staff has reported increasing discomfort and we are concerned about potential air quality issues within Unit 3-04. Given the sensitive nature of our work, we require immediate verification that the ventilation systems are operating within safety parameters. Please schedule a visit for this week.\n\nRegards,\n\nDr. Aris Thorne\n\n**NOTICE TO VACATE**\n**Date:** November 1, 2022\n**To:** Vellum Institute, Unit 3-04, 42 Meridian Way\n**From:** Holloway Property Holdings\n\nThis notice serves as a formal demand for vacating the premises. Pursuant to the lease agreement dated May 1, 2021, and state landlord-tenant statutes, you are in default due to a $450 delinquency in late fees accrued in September 2022. The lease agreement requires the tenant to maintain a clean administrative record, including timely payment of all fees.\n\nYou are required to vacate the premises within the statutory cure period. Failure to comply will result in legal proceedings for eviction.\n\nSincerely,\n\nHolloway Property Holdings Legal Department\n\n**COUNTER-NOTICE OF RETALIATION**\n**Date:** November 10, 2022\n**To:** Holloway Property Holdings\n**From:** Vellum Institute Legal Counsel\n\nThis letter serves as a counter-notice to the Notice to Vacate dated November 1, 2022. We assert that the eviction action is retaliatory in nature, directly linked to our prior complaints regarding habitability and safety. Specifically, we filed a formal complaint with the local housing authority on October 15, 2022, alleging indoor air quality violations. We contend that the eviction is an illegal retaliation for the exercise of our legal rights to report unsafe conditions.\n\n=== DOCUMENT 3: Inspection and Maintenance Logs ===\n\n**STATE ENVIRONMENTAL AGENCY \u2013 BASELINE SURVEY REPORT**\n**Case ID:** SEA-2022-8841\n**Date of Survey:** October 20, 2022\n**Location:** 42 Meridian Way, Third Floor (Laboratory Suite)\n**Conducted By:** Certified Inspector, State Environmental Agency\n\n**Procedure:**\nA baseline survey of the building's ventilation systems was conducted. The survey was performed without the presence of any tenant or landlord representatives. The inspector accessed the mechanical rooms and the central air handling unit.\n\n**Findings:**\nThe central air handling unit was found to be operational. No immediate mechanical failures were observed during the visual inspection. Radon sensors were deployed in the main laboratory area for a 24-hour monitoring period.\n\n**MAINTENANCE LOG \u2013 HOLLOWAY PROPERTY HOLDINGS**\n**Building:** Meridian Way Complex (12 Research Units)\n\n| Date | Unit/Area | Task | Technician | Notes |\n| :--- | :--- | :--- | :--- | :--- |\n| 08/12/2022 | Unit 3-04 | Filter Replacement | J. Miller | Replaced HEPA filters in laboratory suite ventilation ducts. |\n| 09/18/2022 | Central | HVAC Service | R. Vance | Serviced central air handling unit. Replaced belt, cleaned coils. |\n| 09/22/2022 | Unit 3-04 | Inspection Attempt | J. Miller | **Status:** Access Denied. Tenant refused entry to laboratory suite for inspection. No work performed. |\n\n**AUDIT REPORT \u2013 ZEPHYR ANALYTICS**\n**Client:** Holloway Property Holdings\n**Date:** July 2022\n**Scope:** Building Safety Compliance\n\nZephyr Analytics was hired to assess the building's compliance with safety standards. The report confirms that the building\u2019s structural and ventilation infrastructure met all state safety standards as of July 2022. No deficiencies were noted in the central systems that would predictively cause radon accumulation in individual units.\n\n=== DOCUMENT 4: Witness Statements ===\n\n**STATEMENT OF DR. ARIS THORNE**\n**Role:** Principal Investigator, Vellum Institute\n**Date:** December 5, 2022\n\nI am the lead tenant and Principal Investigator for the laboratory suite at 42 Meridian Way. I have witnessed the systematic neglect of our safety concerns by the landlord.\n\nRegarding the air quality, I can state with absolute certainty that radon levels in the laboratory suite consistently exceeded 4 pCi/L throughout October 2022, posing an immediate health risk. Our staff was suffering. I personally observed the lab technicians complaining of unexplained headaches during the month of October 2022. We provided medical records from three lab technicians indicating respiratory irritation between October 10 and October 25, 2022. I believe the respiratory irritation reported by my staff was directly caused by prolonged exposure to high radon levels. It is not a coincidence; it is a direct result of the landlord\u2019s failure to maintain safe air quality.\n\nWhen we sent the letter on September 5, 2022, requesting an urgent inspection, we were met with silence. The landlord completely ignored the September 5, 2022 request for an urgent air quality inspection, failing to schedule any visit. They left us exposed to potential hazards. We filed a formal complaint with the local housing authority on October 15, 2022, because we had no other recourse.\n\nThen, just weeks later, they issued a Notice to Vacate on November 1, 2022. I am convinced that the notice to vacate was issued solely in retaliation for the tenant's complaints about habitability and safety. They are trying to force us out because we dared to report unsafe conditions. It is a clear violation of our rights.\n\n**STATEMENT OF MS. ELENA ROSTOVA**\n**Role:** Property Manager, Holloway Property Holdings\n**Date:** December 5, 2022\n\nI am the property manager for Holloway Property Holdings. I have managed this property for ten years and I have never seen a tenant so uncooperative and dishonest as the Vellum Institute.\n\nFirst, let us address the air quality. Radon levels in the laboratory suite were well below the safety threshold, never exceeding 1.5 pCi/L during the same period. The state environmental agency\u2019s baseline survey on October 20, 2022, conducted without the presence of any tenant or landlord representatives, supports this. The building records show that the ventilation filters in the laboratory suite were replaced on August 12, 2022, and the central air handling unit was serviced on September 18, 2022. The systems were in perfect working order.\n\nDr. Thorne claims we ignored his request. This is false. The landlord scheduled an inspection for September 22, 2022, but the tenant refused access to the laboratory suite. Our maintenance logs clearly show that on September 22, 2022, our technician attempted to enter the suite for the requested inspection, and the tenant refused entry. They blocked our team. They did not want the inspection because they knew their own operations were the source of the issue.\n\nRegarding the symptoms of his staff, the respiratory irritation was unrelated to the building, likely caused by volatile organic compounds from the tenant's own chemical experiments. The lease includes a standard indemnification clause protecting the landlord from liability for tenant-specific operational failures. They are trying to blame us for their own negligence in handling chemicals.\n\nFinally, the eviction notice was not retaliatory. The notice to vacate was a standard administrative action triggered by the tenant's failure to pay the $450 late fee by the deadline. The lease requires a clean administrative record. The $450 late fee was due and payable by October 31, 2022. They did not pay it. As of November 1, 2022, this was the only outstanding financial obligation. We followed the law. Their legal counsel argues that the notice to vacate was procedurally correct under state landlord-tenant statutes, and we stand by that position. They are a delinquent tenant, not a victim of retaliation.",
+ "n_words": 1606,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for the laboratory suite at 42 Meridian Way, signed on May 1, 2021, specifies a monthly rent of $12,500.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "On October 15, 2022, Side A filed a formal complaint with the local housing authority alleging indoor air quality violations.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Side B issued a Notice to Vacate dated November 1, 2022, citing a $450 delinquency in late fees accrued in September 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The lease contains a clause requiring the tenant to maintain a clean administrative record, including timely payment of all fees.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "On October 20, 2022, a certified inspector from the state environmental agency conducted a baseline survey of the building's ventilation systems.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Side A's lead tenant, Dr. Aris Thorne, testified that the laboratory staff experienced unexplained headaches during the month of October 2022.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The landlord's property manager, Ms. Elena Rostova, confirmed that the $450 late fee was due and payable by October 31, 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Building records show that the ventilation filters in the laboratory suite were replaced on August 12, 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Side A submitted a letter to the landlord on September 5, 2022, requesting an urgent inspection of the laboratory's air filtration system.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The local housing code mandates that residential and laboratory units must meet specific radon concentration limits to be deemed habitable.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Side B's legal counsel argued that the notice to vacate was procedurally correct under state landlord-tenant statutes.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "A third-party audit firm, Zephyr Analytics, was hired by the landlord to assess the building's compliance with safety standards in July 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Side A claims that the landlord ignored the September 5, 2022 request for an inspection, leaving the lab exposed to potential hazards.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The lease agreement includes a standard indemnification clause protecting the landlord from liability for tenant-specific operational failures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "On November 10, 2022, Side A served a counter-notice asserting that the eviction was retaliatory due to prior complaints.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The landlord's maintenance logs show that the building's central air handling unit was serviced on September 18, 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The laboratory suite is located on the third floor of the Meridian Way complex, which houses a total of twelve research units.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Side A provided medical records from three lab technicians indicating respiratory irritation between October 10 and October 25, 2022.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The late fee of $450 was the only outstanding financial obligation from the tenant as of November 1, 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The state environmental agency's baseline survey on October 20, 2022, was conducted without the presence of any tenant or landlord representatives.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne (Tenant Principal Investigator) stated that Radon levels in the laboratory suite consistently exceeded 4 pCi/L throughout October 2022, posing an immediate health risk.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Ms. Elena Rostova (Landlord Property Manager) stated that Radon levels in the laboratory suite were well below the safety threshold, never exceeding 1.5 pCi/L during the same period.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Aris Thorne (Tenant Principal Investigator) stated that The respiratory irritation reported by lab technicians was directly caused by prolonged exposure to high radon levels.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Ms. Elena Rostova (Landlord Property Manager) stated that The respiratory irritation was unrelated to the building, likely caused by volatile organic compounds from the tenant's own chemical experiments.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Dr. Aris Thorne (Tenant Principal Investigator) stated that The notice to vacate was issued solely in retaliation for the tenant's complaints about habitability and safety.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Ms. Elena Rostova (Landlord Property Manager) stated that The notice to vacate was a standard administrative action triggered by the tenant's failure to pay the $450 late fee by the deadline.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": [
+  "C2"
+ ]
+}

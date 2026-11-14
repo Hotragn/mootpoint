@@ -1,0 +1,168 @@
+{
+ "dossier_id": "tenancy-17",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Velasquez v. Arroyo: Vacation Rental Dispute in Camelback Hills",
+ "premise": "A tenant in a vacation rental community in Phoenix, Arizona, contests the eviction after the landlord failed to repair a burst pipe that caused significant water damage and a dangerous electrical hazard.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Property Management Incident Log and Maintenance Dispatch Records ===\n\n**PROPERTY MANAGEMENT SYSTEM: CAMELBACK HILLS COMPLEX**\n**UNIT ID:** 4B\n**DATE RANGE:** March 12, 2024 \u2013 March 22, 2024\n\n**03/12/2024 04:30 AM**\n**INCOMING COMMUNICATION:** Email received from tenant E. Velasquez to management@camelbackhills.com.\n**SUBJECT:** Emergency Maintenance - Unit 4B - Water Leak\n**BODY:** \"I am writing to formally report a severe water leak in the main living area of Unit 4B. The supply line has burst, and water is actively flooding the room. I am requesting immediate dispatch of a maintenance vendor to stop the flow and assess the damage. I am currently displaced from the unit due to the volume of water. Please confirm receipt of this request and provide an ETA for service.\"\n**STATUS:** Logged as \"Maintenance Request - Emergency.\"\n\n**03/12/2024 06:00 AM**\n**INTERNAL ACTION:** Maintenance vendor (AquaFix Plumbing LLC) contacted by property manager via phone.\n**NOTE:** Vendor advised of potential burst pipe in Unit 4B. Vendor requested access confirmation from tenant. No job ticket generated at this time.\n\n**03/12/2024 10:00 AM**\n**INCIDENT REPORT ENTRY:** Maintenance crew (AquaFix) attempted to access Unit 4B for initial assessment.\n**STATUS:** Access Denied.\n**DETAIL:** Crew reported inability to enter unit. No specific reason for denial recorded in system. Crew departed.\n\n**03/14/2024 09:15 AM**\n**INCOMING COMMUNICATION:** Email received from tenant E. Velasquez.\n**ATTACHMENT:** Photos attached (IMG_4092.jpg, IMG_4093.jpg).\n**NOTE:** Tenant provided photographic evidence of water stains on the ceiling of the adjacent bedroom.\n\n**03/15/2024 11:30 AM**\n**EXTERNAL NOTICE:** City of Phoenix Electrical Inspection Report received.\n**VIOLATION:** Ticket #PHX-24-89901 issued.\n**CITATION:** Exposed wiring near water-damaged baseboard in Unit 4B.\n**DEADLINE:** Remediation required within 72 hours per City of Phoenix building code.\n\n**03/18/2024 08:00 AM**\n**INTERNAL ACTION:** Job Ticket #MT-4B-0318 created.\n**DETAIL:** Maintenance vendor (AquaFix) scheduled for re-dispatch.\n**NOTE:** Ticket creation delayed due to lack of confirmed access and ongoing tenant communication disputes regarding initial contact times.\n\n**03/22/2024 02:00 PM**\n**FINANCIAL ENTRY:** Ledger update.\n**DESCRIPTION:** Professional water extraction services completed.\n**VENDOR:** DryTech Restoration.\n**AMOUNT:** $1,800.00.\n**STATUS:** Paid.\n\n=== DOCUMENT 2: Statement of Elena Velasquez (Tenant) ===\n\n**STATEMENT OF E. VELASQUEZ**\n**DATE:** April 5, 2024\n**RE:** Dispute regarding maintenance response and habitability in Unit 4B\n\nI am submitting this statement to clarify the sequence of events following the catastrophic failure of the plumbing in my rental unit. I have always been a diligent tenant, as my credit report confirms a consistent history of on-time rent payments for the previous 24 months in other leases. I expect the same standard of care and responsiveness from the landlord, Marcus Arroyo, and his management company.\n\nThe incident began on the night of March 11, 2024. At approximately 02:15 AM, I was awakened by a loud, violent banging sound that shook the walls. I immediately realized this was not normal settling of the house; it was the sound of water under extreme pressure. When I entered the main living area, I found the supply line had burst, releasing a massive volume of water into the room. The situation was chaotic and dangerous.\n\nI acted immediately. I called the emergency line provided in my lease at 02:30 AM. The dispatcher confirmed the call was logged in the system immediately. I was told that a crew was being dispatched. Despite this, no one arrived. By 04:30 AM, the water level was rising, and I was forced to submit a written maintenance request via email to the landlord's property management company to ensure there was a paper trail, as the phone system seemed unresponsive or malfunctioning.\n\nThe landlord\u2019s claim that I failed to provide adequate access is a lie designed to shift blame for their negligence. I was home and unlocked the door for the maintenance crew at 10:00 AM on March 12, 2024, but they refused to enter. I stood in the doorway, drenched and frustrated, waiting for them to assess the damage. They simply left. This refusal to enter, combined with the delay in creating a job ticket until March 18, 2024, demonstrates a clear intent to ignore the severity of the problem.\n\nThe conditions in the apartment became uninhabitable almost instantly. The water damage spread, and I was forced to secure temporary housing at the Desert Inn on March 13, 2024, incurring $2,400 in out-of-pocket expenses. I did not choose to leave; I had no choice. The lease agreement specifies that the landlord is responsible for structural and plumbing issues, yet they have treated this as a minor inconvenience.\n\nFurthermore, the electrical hazard that developed is a direct result of their slow response. The exposed wiring near the baseboard was sparking continuously, posing an immediate fire risk that made the apartment unsafe for occupancy. I cannot be expected to live in a place where the walls are wet and the electricity is live. The pipe burst due to age and lack of maintenance, which is the landlord's responsibility under the lease. To suggest I caused this by \"freezing the water supply\" is absurd and ignores the fact that the water heater was serviced in January 2024, which is within the recommended 18-month service interval, indicating the system should have been maintained properly by the landlord. I am ready to defend my right to quiet enjoyment and to recover the damages I have suffered due to their negligence.\n\n=== DOCUMENT 3: Statement of Marcus Arroyo (Landlord) and Legal Counsel Letter ===\n\n**LETTER FROM DAVID ROSS, LEGAL COUNSEL FOR MARCUS ARROYO**\n**DATE:** April 15, 2024\n**TO:** Elena Velasquez\n**RE:** Response to Allegations and Notice of Intent to Evict\n\nDear Ms. Velasquez,\n\nI write on behalf of my client, Mr. Marcus Arroyo, to address your recent allegations and to clarify the factual record regarding the events in Unit 4B. We are deeply concerned by the misrepresentation of facts in your statements and the interference with our legal proceedings.\n\nFirst, regarding the timeline of the maintenance request: The property management company's internal log shows that a maintenance vendor was contacted on March 12, 2024, at 06:00 AM. The call was not logged until 06:00 AM the next day, and the tenant did not reach any staff until that time. Your claim of a 02:30 AM call is unsupported by any system logs. The delay in creating a job ticket was not due to negligence, but due to the lack of tenant cooperation.\n\nSecond, regarding access to maintenance: The tenant was not present, and the door was locked, preventing the maintenance crew from assessing the damage until March 18. The crew attempted entry at 10:00 AM on March 12, but the unit was inaccessible. It is impossible for a crew to enter a locked unit. Your assertion that you unlocked the door and they refused is contradicted by the crew's report and the lack of entry logs. The landlord\u2019s legal counsel, David Ross, stated in a letter dated April 15, 2024, that the tenant had failed to provide adequate access to maintenance crews during the initial leak period. This failure directly contributed to the extended duration of the water damage.\n\nThird, regarding the electrical hazard: The wiring was merely damp and non-functional, presenting no active shock or fire hazard at the time of inspection. The City of Phoenix issued a violation ticket on March 15, 2024, citing exposed wiring, but this was a standard precautionary measure. The wiring was not sparking, nor was it a fire risk. The hazard was overstated to justify your removal from the property.\n\nFourth, regarding the cause of the pipe burst: The pipe burst because the tenant froze the water supply during a cold snap, which is a tenant-caused damage. The lease agreement requires the tenant to report any water leaks within 4 hours of discovery. While you submitted an email at 04:30 AM, the initial failure to report the leak promptly and the subsequent failure to allow access prevented mitigation. The landlord is responsible for structural and plumbing issues, but this incident was caused by tenant negligence in maintaining the interior climate.\n\nFinally, regarding the financials: The landlord paid for professional water extraction services on March 22, 2024, costing $1,800, which was documented in the property management ledger. The landlord's insurance policy includes a coverage limit of $50,000 for water damage, which is sufficient to cover the estimated $35,000 repair cost for Unit 4B. However, the tenant is responsible for minor repairs under $150, and any damage caused by tenant negligence is not covered.\n\nWe note that the tenants' union representative, Sarah Jenkins, filed a complaint with the Arizona Real Estate Commission on April 10, 2024, alleging negligence in habitability maintenance. We also note that the landlord, Marcus Arroyo, received a formal notice of intent to evict from the tenants' union representative on April 20, 2024. These actions are retaliatory and baseless. The landlord has fulfilled all obligations under the lease, including the 'quiet enjoyment' clause, provided the tenant adheres to the terms of access and reporting.\n\nWe advise you to resolve this matter amicably and to cease the dissemination of false information.\n\nSincerely,\n\nDavid Ross\nLegal Counsel for Marcus Arroyo\n\n=== DOCUMENT 4: Inspection Report and Regulatory Complaint ===\n\n**CITY OF PHOENIX ELECTRICAL INSPECTION REPORT**\n**TICKET #:** PHX-24-89901\n**DATE OF INSPECTION:** March 15, 2024\n**ADDRESS:** Unit 4B, Camelback Hills Complex\n**INSPECTOR:** Certified Electrical Inspector, City of Phoenix\n\n**FINDINGS:**\nUpon inspection of Unit 4B, the inspector noted exposed wiring near the water-damaged baseboard in the main living area. The wiring was exposed to moisture due to the burst supply line incident reported on March 12, 2024.\n\n**VIOLATION:**\nThe inspector issued a violation ticket citing the exposed wiring. The City of Phoenix building code requires that electrical hazards be remediated within 72 hours of a violation ticket issuance.\n\n**REMARKS:**\nThe inspector did not observe active sparking or visible fire hazards during the inspection. The wiring was damp but non-functional. The hazard is classified as a code violation requiring remediation to prevent future risk.\n\n---\n\n**ARIZONA REAL ESTATE COMMISSION COMPLAINT**\n**FILED BY:** Sarah Jenkins, Tenants' Union Representative\n**DATE:** April 10, 2024\n**SUBJECT:** Negligence in Habitability Maintenance - Unit 4B, Camelback Hills\n\n**COMPLAINT SUMMARY:**\nThis complaint is filed on behalf of tenant Elena Velasquez regarding the landlord, Marcus Arroyo, and his property management company. The tenant alleges that the landlord failed to maintain the property in a habitable condition following a burst supply line on March 12, 2024.\n\n**ALLEGATIONS:**\n1. The landlord failed to respond to the emergency maintenance request in a timely manner. The tenant submitted a written request at 04:30 AM, but no job ticket was created until March 18, 2024.\n2. The landlord failed to ensure the safety of the tenant regarding electrical hazards. The exposed wiring near the water-damaged baseboard was not remediated within the required timeframe, posing a risk to the tenant's safety.\n3. The landlord is alleged to have engaged in retaliatory behavior by issuing a 3-day pay-or-quit notice on March 20, 2024, citing unpaid rent, while the tenant was displaced due to uninhabitable conditions.\n\n**TENANT'S POSITION:**\nThe tenant states that the pipe burst due to age and lack of maintenance, which is the landlord's responsibility under the lease. The tenant provided photographic evidence showing water stains on the ceiling of the adjacent bedroom, taken on March 14, 2024. The tenant incurred $2,400 in out-of-pocket expenses for temporary housing at the Desert Inn on March 13, 2024, due to uninhabitable conditions.\n\n**LANDLORD'S RESPONSE (PENDING):**\nThe landlord has not yet provided a formal response to the Commission. However, the landlord's legal counsel has stated that the tenant failed to provide adequate access to maintenance crews and that the pipe burst was caused by tenant negligence.\n\n**RECOMMENDATION:**\nThe Commission is requested to review the maintenance logs, the electrical inspection report, and the correspondence between the tenant and landlord to determine if the landlord violated the standards for habitability maintenance. The tenants' union provided legal aid to Elena Velasquez, covering $5,000 in attorney fees for the eviction defense as of May 1, 2024.\n\n=== DOCUMENT 5: Property Management Ledger and Lease Excerpts ===\n\n**PROPERTY MANAGEMENT LEDGER: UNIT 4B**\n**PERIOD:** March 1, 2024 \u2013 May 1, 2024\n\n**03/01/2024:** Rent Payment Received - $2,200.00\n**03/12/2024:** Maintenance Request Logged (Email) - 04:30 AM\n**03/12/2024:** Vendor Contacted (AquaFix) - 06:00 AM\n**03/13/2024:** Tenant Expense Claim - Desert Inn - $2,400.00 (Disputed by Landlord)\n**03/15/2024:** Electrical Violation Ticket Issued - PHX-24-89901\n**03/18/2024:** Job Ticket Created - MT-4B-0318\n**03/20/2024:** 3-Day Pay-or-Quit Notice Issued - Unpaid Rent March 2024\n**03/22/2024:** Water Extraction Services - DryTech Restoration - $1,800.00 (Paid by Landlord)\n**04/10/2024:** AREC Complaint Filed\n**04/15/2024:** Legal Letter Sent to Tenant\n**04/20/2024:** Notice of Intent to Evict Received from Tenants' Union\n**05/01/2024:** Legal Aid Funding - Tenants' Union - $5,000.00 (Attorney Fees)\n\n---\n\n**LEASE AGREEMENT EXCERPTS**\n**SIGNED:** February 1, 2024\n**PARTIES:** Marcus Arroyo (Landlord) and Elena Velasquez (Tenant)\n\n**SECTION 4: MAINTENANCE AND REPAIRS**\n4.1 The Tenant shall report any water leaks within 4 hours of discovery.\n4.2 The Tenant is responsible for minor repairs under $150.\n4.3 The Landlord is responsible for structural and plumbing issues.\n4.4 The Landlord shall ensure the property is maintained in a habitable condition, including compliance with local building codes.\n\n**SECTION 7: QUIET ENJOYMENT**\n7.1 The Landlord shall not interfere with the Tenant's right to use the property in a manner that constitutes a breach of the lease.\n7.2 The Tenant shall not alter the property without prior written consent.\n\n**SECTION 9: INSURANCE AND LIABILITY**\n9.1 The Landlord's insurance policy includes a coverage limit of $50,000 for water damage.\n9.2 The Landlord's property records indicate that the water heater in Unit 4B was last serviced in January 2024, which is within the recommended 18-month service interval.\n\n**SECTION 12: EVICTION**\n12.1 The Landlord may issue a 3-day pay-or-quit notice for non-payment of rent.\n12.2 The Tenant shall provide access to maintenance crews during business hours for emergency repairs.",
+ "n_words": 2295,
+ "facts": [
+  {
+   "fact_id": "F2",
+   "text": "The lease agreement signed on February 1, 2024, contains a clause requiring the tenant to report any water leaks within 4 hours of discovery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Tenant Elena Velasquez submitted a written maintenance request via email to the landlord's property management company at 04:30 AM on March 12, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The landlord, Marcus Arroyo, received a formal notice of intent to evict from the tenants' union representative on April 20, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A certified electrical inspector from the City of Phoenix issued a violation ticket on March 15, 2024, citing exposed wiring near the water-damaged baseboard in Unit 4B.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The property management company's internal log shows that a maintenance vendor was contacted on March 12, 2024, at 06:00 AM, but no job ticket was created until March 18, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Tenant Elena Velasquez incurred $2,400 in out-of-pocket expenses for temporary housing at the Desert Inn on March 13, 2024, due to uninhabitable conditions.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The lease agreement specifies that the tenant is responsible for minor repairs under $150, while the landlord is responsible for structural and plumbing issues.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "On March 20, 2024, the landlord issued a 3-day pay-or-quit notice, citing unpaid rent for the month of March 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The tenants' union representative, Sarah Jenkins, filed a complaint with the Arizona Real Estate Commission on April 10, 2024, alleging negligence in habitability maintenance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The landlord's property records indicate that the water heater in Unit 4B was last serviced in January 2024, which is within the recommended 18-month service interval.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Tenant Elena Velasquez provided photographic evidence showing water stains on the ceiling of the adjacent bedroom, taken on March 14, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The landlord's legal counsel, David Ross, stated in a letter dated April 15, 2024, that the tenant had failed to provide adequate access to maintenance crews during the initial leak period.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The City of Phoenix building code requires that electrical hazards be remediated within 72 hours of a violation ticket issuance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The landlord paid for professional water extraction services on March 22, 2024, costing $1,800, which was documented in the property management ledger.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Tenant Elena Velasquez's credit report shows a consistent history of on-time rent payments for the previous 24 months in other leases.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The lease agreement includes a 'quiet enjoyment' clause that prohibits the landlord from interfering with the tenant's right to use the property.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The landlord's insurance policy includes a coverage limit of $50,000 for water damage, which is sufficient to cover the estimated $35,000 repair cost for Unit 4B.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The tenants' union provided legal aid to Elena Velasquez, covering $5,000 in attorney fees for the eviction defense as of May 1, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Velasquez (Tenant) stated that I called the emergency line at 02:30 AM, and the dispatcher confirmed the call was logged in the system immediately.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Arroyo (Landlord) stated that The call was not logged until 06:00 AM the next day, and the tenant did not reach any staff until that time.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Velasquez (Tenant) stated that I was home and unlocked the door for the maintenance crew at 10:00 AM on March 12, 2024, but they refused to enter.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Arroyo (Landlord) stated that The tenant was not present, and the door was locked, preventing the maintenance crew from assessing the damage until March 18.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins (Tenants' Union Rep) stated that The pipe burst due to age and lack of maintenance, which is the landlord's responsibility under the lease.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Ross (Landlord's Counsel) stated that The pipe burst because the tenant froze the water supply during a cold snap, which is a tenant-caused damage.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": [
+  "C2"
+ ]
+}

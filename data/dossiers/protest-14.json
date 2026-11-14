@@ -1,0 +1,163 @@
+{
+ "dossier_id": "protest-14",
+ "split": "test",
+ "domain": "protest",
+ "title": "The Meridian Data Center Protest Incident",
+ "premise": "A tech workers' strike in San Francisco turns confrontational after police arrest a developer for trespassing on a server farm, leading to the destruction of critical infrastructure.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: San Francisco Police Department Incident Log ===\n\n**INCIDENT REPORT: MERIDIAN DATA CENTER PROTEST**\n**Date:** June 12, 2024\n**Location:** 4th and King Streets / 1200 Market Street, San Francisco\n**Incident ID:** SF-2024-0612-004\n**Status:** Closed\n\n**1. Initial Assembly and Arrival**\nAt 14:00 hours, a group of approximately 150 individuals assembled at the intersection of 4th and King Streets. The group was identified as members of the organization \"Tech Workers United.\" The protest was directed toward the Meridian Data Center, located at 1200 Market Street. At the time of assembly, the Meridian Data Center was under active construction. Site records confirm that electrical systems were live and operational during this period.\n\nAt 14:15 hours, Officer David Miller arrived at the scene with a squad of twelve other officers. The officers formed a perimeter to monitor the crowd and secure the immediate vicinity of the construction site.\n\n**2. Initial Interactions and Arrest**\nAt 14:30 hours, Officer Miller made verbal contact with Sarah Chen, who was identified by the crowd and subsequent records as the leader of the protest group. Officer Miller requested identification from Ms. Chen. At 14:35 hours, Ms. Chen was taken into custody for trespassing on the server farm property.\n\nBody camera footage from Officer Miller\u2019s unit was recovered and reviewed. The footage shows Ms. Chen remaining within the restricted area and refusing verbal instructions to leave the premises. The footage confirms the physical act of arrest but does not clarify the specific intent or legal boundary of the property line at that moment.\n\n**3. Escalation and Crowd Movement**\nAt 14:40 hours, a section of the crowd began moving toward the main entrance of the construction site. Three individuals within the crowd were observed holding signs with slogans demanding fair labor practices in the tech sector. The movement of the crowd brought them closer to the active construction zone.\n\nAt 14:45 hours, police deployed tear gas canisters near the 4th and King intersection. The deployment location was recorded as being approximately 50 meters from the medical tent established by the protesters. The tactical decision for the deployment is detailed in the Commander\u2019s report (see Document 3).\n\n**4. Property Damage and Police Response**\nAt 14:50 hours, a protester identified as John Doe threw a rock at a police vehicle. The rock struck the windshield of the lead police unit, shattering the glass.\n\nIn response to the rock throwing, police advanced toward the crowd at 14:52 hours. Officers were equipped with batons during this advance. Multiple witnesses reported that force was used during this advance. The specific nature and extent of the force used is a subject of ongoing investigation (see Document 2).\n\nAt 15:00 hours, a section of the data center's external power grid was damaged. The damage resulted in a service interruption for the facility. Initial estimates place the cost of the service interruption at $2 million. The cause of the damage is disputed (see Document 4).\n\n**5. Resolution**\nNo fatalities were reported during the incident.\n\nAt 16:00 hours, Sarah Chen was released on bail. The bail amount posted was $10,000.\n\n**Officer on Duty:** David Miller\n**Reporting Unit:** SFDPD District 7\n\n=== DOCUMENT 2: Witness Statements ===\n\n**STATEMENT 1: Sarah Chen**\n**Date:** June 14, 2024\n**Witness:** Sarah Chen, Protest Leader\n\nI was leading the group at 4th and King when the police showed up. They didn\u2019t give us any warning. Officer Miller came right up to me and started shouting. When I asked him what the problem was, he shoved me. That\u2019s when they initiated physical contact. They shoved the other protesters too, without any provocation.\n\nThen they arrested me. I was standing on the public sidewalk. How can you arrest someone for trespassing on a public sidewalk? The area was not private property. It was open to the public. The arrest was unlawful. They were just trying to remove me from the scene.\n\nLater, when the crowd moved toward the site, the police got violent. They charged at us with batons. It was a violent mob of officers. They were clearly careless and aggressive. They hit people who weren\u2019t even resisting. The whole thing was a display of excessive force to break up a peaceful assembly.\n\n**STATEMENT 2: Officer David Miller**\n**Date:** June 14, 2024\n**Witness:** Officer David Miller, Police Officer\n\nI arrived at 14:15 with my squad. The situation was tense. At 14:30, I approached Sarah Chen to request ID, as is standard procedure. She was in a restricted area. At 14:35, I arrested her for trespassing. The area was clearly marked private property. The signs were visible, and the fence was intact. The arrest for trespassing was lawful.\n\nAfter her arrest, the crowd started pushing against the police line. They initiated physical contact by pressing into our formation. We held our ground. When John Doe threw a rock at our vehicle, it shattered the windshield. That was an act of violence.\n\nWe advanced at 14:52 to restore order. We used batons to create space, not to hurt people. The crowd was chaotic. The protesters were the ones being aggressive. The police action was necessary to protect the officers and the public. The damage to the power grid was caused by the protesters, not by us.\n\n**STATEMENT 3: Dr. Alice Smith**\n**Date:** June 14, 2024\n**Witness:** Dr. Alice Smith, Medical Volunteer\n\nI was setting up the medical tent at the corner. It was peaceful. The police deployed tear gas at 14:45. It was deployed specifically to disperse peaceful protesters. The gas drifted directly toward our tent, which was only 50 meters away. There was no medical emergency in the crowd that I was aware of. It was an unnecessary use of force against people who were just standing there.\n\n**STATEMENT 4: Captain John Jones**\n**Date:** June 14, 2024\n**Witness:** Captain John Jones, Police Commander\n\nThe tear gas deployment at 14:45 was a tactical decision. We received a report of a medical emergency in the crowd. We needed to clear a path for emergency vehicles to reach the patient. The deployment was necessary to ensure access for medical personnel. It was not targeted at peaceful protesters; it was a response to a critical situation.\n\n**STATEMENT 5: Mike Ross**\n**Date:** June 14, 2024\n**Witness:** Mike Ross, Protester\n\nI was near the power grid when the police advanced. Their baton strikes hit the housing of the power grid. The structural failure of the power grid housing was caused by the police batons. They hit it repeatedly. The damage was a direct result of their aggression.\n\n**STATEMENT 6: Engineer Lisa Park**\n**Date:** June 14, 2024\n**Witness:** Engineer Lisa Park, Data Center Contractor\n\nI inspected the site at 15:00. The power grid housing was damaged. Protesters used pry bars to damage the power grid housing. They pried open the panels, causing the failure. It was not caused by police batons. The damage pattern is consistent with the use of tools by the protesters.\n\n=== DOCUMENT 3: Tactical After-Action Report - Command Level ===\n\n**TO:** Chief of Police\n**FROM:** Captain John Jones, District Commander\n**DATE:** June 13, 2024\n**SUBJECT:** Deployment of Less-Lethal Munitions - 4th and King Intersection\n\n**Summary of Events**\nAt 14:40, the crowd began to encroach upon the construction site perimeter. The situation was escalating. At 14:45, a decision was made to deploy tear gas canisters.\n\n**Reason for Deployment**\nThe primary objective was to clear a path for emergency vehicles. A medical emergency was reported within the crowd. The crowd density was preventing access for ambulance personnel. The deployment was intended to create a corridor for emergency response.\n\n**Deployment Details**\nCanisters were deployed near the 4th and King intersection. The nearest medical tent, set up by the protesters, was located approximately 50 meters from the deployment site. The wind direction was favorable for dispersing the crowd away from the construction site.\n\n**Aftermath**\nThe crowd dispersed partially. At 14:50, a rock was thrown at a police vehicle. Police advanced with batons at 14:52 to secure the area.\n\n**Note:** The use of tear gas is consistent with department policy for crowd control when emergency access is compromised.\n\n**Signature:**\nJohn Jones\nCaptain, SFDPD\n\n=== DOCUMENT 4: Forensic Engineering Report - Meridian Data Center ===\n\n**PREPARED BY:** Lisa Park, Lead Engineer, Meridian Construction\n**DATE:** June 13, 2024\n**LOCATION:** 1200 Market Street\n**SUBJECT:** Analysis of Power Grid Damage\n\n**Incident Description**\nAt 15:00 on June 12, 2024, a section of the external power grid was damaged. The damage resulted in a service interruption. The estimated cost of the service interruption is $2 million.\n\n**Physical Evidence**\nUpon inspection, the power grid housing showed signs of forced entry. The panels were pried open. The metal frames were bent outward.\n\n**Analysis**\nThe pattern of damage is consistent with the use of pry bars. The force applied was sufficient to break the structural integrity of the housing. There are no marks consistent with baton strikes on the housing. The damage was localized to the areas where tools could have been applied.\n\n**Conclusion**\nThe damage was caused by the use of pry bars by individuals within the protest group. The police baton strikes reported by witnesses did not cause the structural failure of the power grid housing. The cause of the damage is the use of tools by the protesters.\n\n**Recommendation**\nThe incident should be recorded as property damage caused by protesters.\n\n**Signature:**\nLisa Park\nLead Engineer\n\n=== DOCUMENT 5: Legal Correspondence - Bail and Release ===\n\n**TO:** Clerk of the Court\n**FROM:** Bail Bonds Agency\n**DATE:** June 12, 2024\n**RE:** Release of Sarah Chen\n\n**Details**\nSarah Chen was arrested at 14:35 on June 12, 2024, for trespassing on the server farm property. She was held in custody.\n\nAt 16:00 on June 12, 2024, bail was posted in the amount of $10,000. Sarah Chen was released from custody at that time.\n\n**Charges**\nTrespassing.\n\n**Note**\nThe legal basis for the arrest is contested. The protester claims the area was public sidewalk. The police claim the area was private property. The court has accepted the bail and released the defendant.\n\n**Signature:**\nClerk of the Court",
+ "n_words": 1671,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "At 14:00 on June 12, 2024, 150 protesters assembled at the corner of 4th and King Streets in San Francisco.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The Meridian Data Center located at 1200 Market Street was under construction with active electrical systems.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Police Officer David Miller arrived at the scene at 14:15 with 12 other officers.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "At 14:30, Officer Miller made verbal contact with Sarah Chen to request identification.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Sarah Chen was arrested at 14:35 for trespassing on the server farm property.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The arrest was recorded on body camera footage showing Chen refusing to leave the restricted area.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "At 14:40, a crowd of protesters began moving towards the construction site entrance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Three protesters were seen holding signs demanding fair labor practices in the tech sector.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Police deployed tear gas canisters at 14:45 near the 4th and King intersection.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tear gas was deployed 50 meters from the nearest medical tent set up by protesters.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "At 14:50, a protester named John Doe threw a rock at a police vehicle.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The rock shattered the windshield of the lead police unit.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "In response, police advanced with batons towards the crowd at 14:52.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Witnesses reported that police used excessive force during the advance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "At 15:00, a section of the data center's external power grid was damaged.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The damage to the power grid resulted in a $2 million service interruption for the facility.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Sarah Chen was released on bail at 16:00 after posting $10,000.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The protest was organized by the Tech Workers United group.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "No fatalities were reported during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Chen, Protest Leader stated that Police initiated physical contact by shoving protesters without warning.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Officer David Miller, Police Officer stated that Protesters initiated physical contact by pushing against the police line first.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Chen, Protest Leader stated that The arrest was unlawful as the area was public sidewalk, not private property.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Officer David Miller, Police Officer stated that The area was clearly marked private property, making the arrest for trespassing lawful.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 23,
+ "settled": [
+  "C2",
+  "C3"
+ ]
+}

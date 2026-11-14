@@ -1,0 +1,169 @@
+{
+ "dossier_id": "workplace-26",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Hartwell v. AgriCore Systems",
+ "premise": "A grain elevator\u2019s bucket elevator jammed and broke at a Midwest grain facility, spraying hot grain and dust into the operator\u2019s face, with the controversy revolving around the equipment vendor\u2019s delayed warranty repairs versus the operator\u2019s decision to bypass the maintenance shutdown.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Maintenance Log Entry ===\n\n**Kestrel Creek Grain Facility**\n**Incident Report: VE-900 Bucket Elevator Failure**\n**Date:** October 14, 2023\n**Time of Incident:** 10:42 AM\n**Location:** Kestrel Creek Grain Facility, Bay 4\n**Report Prepared By:** Facility Safety Officer\n**Subject:** Mechanical Failure and Injury of David Hartwell\n\n**1. Incident Overview**\nAt 10:42 AM on October 14, 2023, a catastrophic failure occurred in the AgriCore VE-900 bucket elevator located in Bay 4. The incident resulted in the ejection of material and a subsequent dust cloud that triggered the facility\u2019s fire alarm system. The alarm was activated 12 seconds after the initial mechanical jam was registered by the system sensors.\n\n**2. Equipment Status and History**\nThe AgriCore VE-900 unit was installed at the facility in 2019. According to the facility\u2019s equipment inventory database, the unit is currently listed as 'Active' with no pending service flags visible in the current interface.\n\nReview of the maintenance logs for the morning of October 14 indicates that the elevator was shut down for a period of four hours for routine cleaning procedures. The log entry confirms the shutdown commenced at 06:00 AM and was scheduled to conclude prior to the start of the second shift.\n\n**3. Operational Context**\nSecurity camera footage from the main entry point of the maintenance bay shows David Hartwell entering the area at 10:35 AM, seven minutes prior to the incident. Surveillance records indicate that Hartwell was operating the elevator manually from the ground floor control panel rather than from the overhead control booth.\n\nSensor data recorded at the time of the incident indicates that the grain temperature within the elevator housing was 145 degrees Fahrenheit. This temperature reading was captured by the internal thermal sensors embedded in the elevator shaft.\n\n**4. Injuries Sustained**\nDavid Hartwell sustained significant injuries during the event. Medical personnel on-site reported that Hartwell suffered second-degree burns to his left eye. Additionally, he sustained facial lacerations that required immediate medical attention. Hartwell was transported to the regional hospital, where medical staff administered 40 stitches to close the facial wounds.\n\n**5. Environmental and System Logs**\nThe facility\u2019s IT system logs were reviewed to determine the status of maintenance tickets associated with the VE-900. The logs confirm that no maintenance tickets were closed for the VE-900 after September 28, 2023. There are no digital records indicating that a completion tag was applied to the unit in the central tracking system after that date.\n\nThe facility\u2019s fire alarm system log confirms the activation timestamp and the cause code, which identified a dust cloud density threshold breach as the primary trigger for the alarm.\n\n**6. Personnel Records**\nPersonnel files for David Hartwell were reviewed for the purpose of this report. Records indicate that Hartwell has been employed at Kestrel Creek Grain Facility for 12 years. A review of his payroll and disciplinary records shows no prior disciplinary actions in his 12-year employment history.\n\nFurthermore, training records indicate that Hartwell completed a safety refresher course on August 15, 2023. His assessment score for this course was recorded at 95%, which is above the facility\u2019s passing threshold.\n\n**7. Insurance and Liability**\nThe facility\u2019s current insurance policy documents have been referenced. The policy includes a provision for workplace injuries with a deductible amount of $50,000. This figure is noted for the purposes of claims processing.\n\n**8. Witness and Vendor Involvement**\nIt is noted that Mike Sorensen, a representative for AgriCore Systems, visited the facility on October 10, 2023, to inspect the elevator. This visit occurred four days prior to the incident. No formal report from this visit is attached to this document, but the visit is recorded in the facility\u2019s guest log.\n\n=== DOCUMENT 2: Witness Statement of David Hartwell ===\n\n**Witness Statement**\n**Name:** David Hartwell\n**Date:** October 16, 2023\n**Location:** Regional Hospital, Room 402\n\nI, David Hartwell, have been a worker at Kestrel Creek for twelve years. I know this facility better than anyone. I was working on the VE-900 elevator on the morning of October 14. I was operating the machine from the ground floor control panel. I want to be clear about why I was down there. The overhead booth controls were locked out because of the earlier cleaning that morning. The system was in a state where the overhead interface was not accessible for the restart sequence. I was forced to use the ground-level panel to restart the line. I had no choice. If the overhead had been open, I would have been up there, where I belong.\n\nI was standing at the ground-level panel, monitoring the startup. My cell phone was in my pocket. I did not touch it. I did not look at it. I was focused on the machine. I had just finished my safety refresher course in August, and I scored a 95% on it. I know the rules. I know the risks.\n\nThe problem was visibility. There was a pile of grain sacks right next to the panel. It was a mess. The warning light on the ground-level panel was obstructed by these sacks. I could not see the fault indicator. I didn't see the red light blinking. I did not see the fault until the jam occurred. It was sudden. The machine jammed, and then the dust cloud hit. The fire alarm went off twelve seconds later. I was right in the middle of it.\n\nI suffered second-degree burns to my left eye. I lost sight in that eye for a while. My face was torn open. I needed 40 stitches. It was painful. The grain was hot. The sensors said it was 145 degrees Fahrenheit. That is hot enough to cause serious burns. I was close to the source.\n\nI was not careless. I was not trying to bypass safety protocols for my own convenience. I was trying to do my job safely under the constraints given to me. The overhead was locked. The ground panel was my only option. The obstruction was a hazard that I could not control. I did not see the warning because it was hidden. I am asking for this to be recorded accurately. I was doing what I was told, or rather, what was possible, given the state of the controls.\n\n=== DOCUMENT 3: Witness Statement of Linda Preece ===\n\n**Witness Statement**\n**Name:** Linda Preece\n**Title:** General Manager, Kestrel Creek Grain Facility\n**Date:** October 16, 2023\n**Location:** Kestrel Creek Grain Facility, Office 12\n\nI am the General Manager of Kestrel Creek. I have been responsible for the safety and operations of this facility for several years. I am providing this statement regarding the incident involving David Hartwell and the VE-900 elevator on October 14, 2023.\n\nFirst, I must address the status of the replacement parts. On September 2, 2023, AgriCore Systems issued a warranty notice regarding a bearing defect in the VE-900. I signed a purchase order for the replacement parts on September 5, 2023. The parts arrived at the facility on September 28, 2023. However, the parts were still in the warehouse at the time of the incident. The vendor had not yet issued the final assembly instructions. Without these instructions, we could not safely install them. It is a standard procedure that we do not install critical components without the manufacturer\u2019s specific guidance. Therefore, the bearing was still defective because the new parts had not been seated correctly. The vendor had not confirmed the fix. The system was running with a known defect, but we were waiting on the documentation to proceed with the repair.\n\nRegarding the operation of the elevator that morning, David Hartwell was operating the elevator manually from the ground floor control panel. This is not standard procedure. The facility\u2019s safety policy requires a two-person rule for any repair work on moving machinery. However, this was not repair work; it was operation. The reason Hartwell was on the ground level is that he voluntarily bypassed the overhead booth to save time. He wanted to meet the daily shipping quota. The overhead booth was not locked out in a way that prevented use; it was simply more efficient to use the ground panel for a quick restart. Hartwell made a choice to skip the overhead booth to save time. This was a decision he made on his own, driven by production pressure, not by a technical lockout that forced him down there.\n\nI am also concerned about the visibility of the warning lights. The ground area was free of obstructions. There were no grain sacks blocking the panel. The warning light on the ground-level panel was clearly visible. It was blinking red for 30 seconds before the jam occurred. Hartwell claims he did not see it because of obstructions, but that is not accurate. The area was clear. He was operating the machine, and he should have been monitoring the indicators. The fact that he was on the ground level, rather than in the overhead booth where the view is unobstructed, made it easier for him to miss the warning if he was not paying attention. But the light was there, and it was visible.\n\nI stand by the record that the parts were in the warehouse, awaiting instructions, and that Hartwell chose to use the ground panel to expedite the process.\n\n=== DOCUMENT 4: Witness Statement of Mike Sorensen ===\n\n**Witness Statement**\n**Name:** Mike Sorensen\n**Title:** Vendor Representative, AgriCore Systems\n**Date:** October 16, 2023\n**Location:** AgriCore Systems Office\n\nI am the vendor representative for AgriCore Systems. I am providing this statement regarding the incident at Kestrel Creek Grain Facility involving the VE-900 bucket elevator.\n\nI want to clarify the timeline of the bearing defect repair. AgriCore Systems issued a warranty notice for a bearing defect on September 2, 2023. The replacement parts were shipped and arrived at the facility on September 28, 2023. Contrary to the claim that the parts were left in the warehouse, the parts were installed and tested by your maintenance crew on September 29, 2023. The system was cleared for operation after that installation. We provided the assembly instructions with the shipment. There was no hold-up on our end. The bearing defect was fully resolved by the September 29 installation, and the elevator was running under normal parameters. The fact that the facility\u2019s IT system logs show no maintenance tickets closed after September 28 is a clerical error on the facility\u2019s side. The physical work was done. The machine was fixed.\n\nI visited the facility on October 10, 2023, to inspect the elevator. At that time, the elevator was operational. I did not find any evidence of a pending defect or uninstalled parts. The machine was running normally.\n\nRegarding the incident on October 14, I must address the claim about the warning lights. David Hartwell states that the warning light was obstructed by a pile of grain sacks. This is incorrect. The ground area was free of obstructions. The warning light was clearly visible and blinking red for 30 seconds before the jam. The system is designed to be visible from the ground control panel. If there were obstructions, they would have been a violation of the facility\u2019s housekeeping standards, but the light itself was functional and visible.\n\nI also note that Hartwell was operating from the ground floor. This is not a standard configuration for full operation. The overhead booth is the primary control point. If he was forced to use the ground panel due to a lockout, that would be a facility issue. However, the warning light was visible from the ground position. He had 30 seconds of warning. The dust cloud and the fire alarm followed quickly. The grain temperature was high, at 145 degrees, which is a factor in the severity of the burns, but the primary issue was the mechanical failure and the reaction to it.\n\nI stand by my statement that the bearing was fixed on September 29, and that the warning light was visible and functional prior to the incident. The facility\u2019s claim that they were waiting for assembly instructions is not supported by our records. We sent the instructions with the parts.\n\n=== DOCUMENT 5: Email Correspondence and Administrative Records ===\n\n**From:** Linda Preece <lpreece@kestrelcreek.com>\n**To:** Mike Sorensen <msorensen@agricore.com>\n**Date:** September 5, 2023\n**Subject:** PO for VE-900 Bearing Replacement\n\nMike,\n\nAttached is the purchase order for the replacement bearing assembly for the VE-900. Please confirm that the parts are in stock and can be shipped immediately. We need to get this unit back to full capacity. We are aware of the warranty notice from September 2.\n\nRegards,\nLinda Preece\nGeneral Manager\n\n***\n\n**From:** Mike Sorensen <msorensen@agricore.com>\n**To:** Linda Preece <lpreece@kestrelcreek.com>\n**Date:** September 29, 2023\n**Subject:** Re: PO for VE-900 Bearing Replacement - Installation Confirmation\n\nLinda,\n\nJust confirming that the parts were delivered on the 28th. Our records indicate that your maintenance crew installed the assembly on September 29, 2023. We have the test data from that date showing the unit running within normal parameters. Please ensure your internal maintenance tickets are updated to reflect this completion. The bearing defect is resolved.\n\nBest,\nMike Sorensen\nVendor Representative\n\n***\n\n**From:** Linda Preece <lpreece@kestrelcreek.com>\n**To:** Mike Sorensen <msorensen@agricore.com>\n**Date:** September 30, 2023\n**Subject:** Re: PO for VE-900 Bearing Replacement - Installation Confirmation\n\nMike,\n\nI am confused by your email. We have not installed the parts yet. The parts are still in the warehouse. We are waiting for the final assembly instructions from your team before we can proceed. We cannot safely install the bearing without the specific torque specs and alignment guides that you have not yet provided. Please send those immediately.\n\nRegards,\nLinda Preece\n\n***\n\n**From:** Mike Sorensen <msorensen@agricore.com>\n**To:** Linda Preece <lpreece@kestrelcreek.com>\n**Date:** October 1, 2023\n**Subject:** Re: PO for VE-900 Bearing Replacement - Installation Confirmation\n\nLinda,\n\nThe assembly instructions were included in the shipment box on September 28. Please check your receiving logs. If you did not receive them, that is a receiving error on your end. The parts were installed and tested on the 29th according to our service records. I am not sure why your team is claiming they are still in the warehouse.\n\nBest,\nMike Sorensen\n\n***\n\n**Facility Safety Policy Excerpt (Section 4.2)**\n\n*4.2.2 Repair Work on Moving Machinery*\nAll repair work on moving machinery, including bucket elevators, conveyor belts, and grinders, must adhere to the two-person rule. One individual shall perform the repair while a second individual stands by with the emergency stop controls accessible and ready to engage. This rule applies to any work that involves interaction with the moving parts of the machine.\n\n*4.3.1 Control Panel Usage*\nOperators are required to use the overhead control booth for all standard operations. The ground-level control panel is intended for emergency stops, initial startups, and diagnostic checks only. It is not to be used for continuous operation unless the overhead booth is inoperable or locked out for maintenance purposes.",
+ "n_words": 2474,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Kestrel Creek Grain Facility on October 14, 2023, at 10:42 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker is named David Hartwell, who has worked at Kestrel Creek for 12 years.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The bucket elevator model is the AgriCore VE-900, installed in 2019.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Hartwell suffered second-degree burns to his left eye and facial lacerations requiring 40 stitches.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The facility's maintenance log shows the elevator was shut down for 4 hours that morning for routine cleaning.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The vendor AgriCore Systems issued a warranty notice for a bearing defect on September 2, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The facility's general manager, Linda Preece, signed a purchase order for replacement parts on September 5, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The replacement parts arrived at the facility on September 28, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Hartwell was operating the elevator manually from the ground floor control panel, not the overhead booth.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The facility's safety policy requires a two-person rule for any repair work on moving machinery.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Security footage shows Hartwell entering the maintenance bay at 10:35 AM, 7 minutes before the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The grain temperature recorded at the time of the incident was 145 degrees Fahrenheit.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The facility's IT system logs show no maintenance tickets were closed for the VE-900 after September 28, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Hartwell's personal cell phone was in his pocket and not used during the operation of the elevator.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The facility's insurance policy has a deductible of $50,000 for workplace injuries.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The vendor's representative, Mike Sorensen, visited the facility on October 10, 2023, to inspect the elevator.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Hartwell completed a safety refresher course on August 15, 2023, with a passing score of 95%.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The facility's fire alarm was triggered by the dust cloud 12 seconds after the elevator jammed.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The facility's payroll records show Hartwell had no prior disciplinary actions in his 12-year employment.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The facility's equipment inventory lists the VE-900 as 'Active' with no pending service flags.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "David Hartwell, Injured Worker stated that The overhead booth controls were locked out due to the earlier cleaning, so I was forced to use the ground-level panel to restart the line.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Linda Preece, General Manager stated that Hartwell voluntarily bypassed the overhead booth to save time because he wanted to meet the daily shipping quota.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "David Hartwell, Injured Worker stated that The warning light on the ground-level panel was obstructed by a pile of grain sacks, so I did not see the fault indicator until the jam occurred.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mike Sorensen, Vendor Representative stated that The warning light was clearly visible and blinking red for 30 seconds before the jam, and the ground area was free of obstructions.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": [
+  "C1",
+  "C4"
+ ]
+}

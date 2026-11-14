@@ -1,0 +1,163 @@
+{
+ "dossier_id": "workplace-01",
+ "split": "dev",
+ "domain": "workplace",
+ "title": "Rexford v. Helix Industrial Maintenance",
+ "premise": "During the maintenance of a chemical plant reactor, a subcontractor\u2019s technician argues that the primary contractor failed to provide proper lockout-tagout procedures, whereas the primary contractor blames the subcontractor for bypassing safety interlocks.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Site Daily Record ===\n\n**HALCYON CHEMICAL PLANT \u2013 DULUTH, MN**\n**INCIDENT LOG: REACTOR 4-B MAINTENANCE OPERATIONS**\n**DATE:** October 12, 2023\n**LOG ID:** HC-2023-1012-004\n\n**08:30 AM** \u2013 Site Manager Elena Rostova (Helix Industrial) initiates daily safety briefing. Weather conditions recorded as 45 degrees Fahrenheit with light rain. Wind speed 5 mph. Visibility good. All personnel signed in.\n\n**08:45 AM** \u2013 Parts shortage delay noted for Reactor 4-B maintenance schedule. Original start time 07:00 AM postponed by two hours due to delayed delivery of replacement gaskets. New start time set for 09:00 AM. Delay documented in daily operations log.\n\n**09:10 AM** \u2013 James Porter, Halcyon Chemical Plant Safety Officer, conducts pre-entry inspection of Reactor 4-B. Porter notes that safety interlocks on Reactor 4-B are active and functional. Porter observes SubPrime Services technicians preparing for entry. Porter questions SubPrime personnel regarding the status of interlock disablement. SubPrime personnel do not respond immediately.\n\n**09:15 AM** \u2013 Emergency alert triggered. Marcus Thorne (SubPrime Services Technician) reports injury inside Reactor 4-B. Emergency shutdown valve for Reactor 4-B confirmed in 'Closed' position. Evacuation of non-essential personnel initiated.\n\n**09:20 AM** \u2013 Ambulance arrives on site. Marcus Thorne transported to St. Mary\u2019s Hospital. Thorne admitted to ICU.\n\n**09:45 AM** \u2013 Elena Rostova interviews Marcus Thorne at scene. Thorne states he was wearing full-body harness and chemical-resistant suit. Thorne reports feeling \"trapped\" and \"suffocating\" due to valve position. Rostova notes Thorne appeared distressed and disoriented.\n\n**10:15 AM** \u2013 David Kline (SubPrime Lead Technician) arrives at Reactor 4-B after completing tasks at Reactor 4-A. Kline states he was not present during the incident. Kline confirms he was assigned to Reactor 4-A for the duration of the morning shift.\n\n**11:00 AM** \u2013 James Porter files initial safety report. Porter notes that SubPrime personnel failed to perform pre-entry checks as required by their internal protocols. Porter cites lack of authorization for interlock disablement.\n\n**12:30 PM** \u2013 Elena Rostova submits preliminary report to Helix Industrial headquarters. Rostova states that site-specific lockout-tagout procedures for Reactor 4-B were provided to SubPrime Services on October 11, 2023. Rostova confirms receipt acknowledgment was signed by SubPrime representatives.\n\n**05:45 PM** \u2013 SubPrime Services submits daily safety log for October 12, 2023. Log submitted within the 15-minute grace period allowed by Halcyon Chemical Plant policy. Log details incident and initial response measures.\n\n**06:00 PM** \u2013 End of shift. All maintenance activities suspended pending investigation.\n\n=== DOCUMENT 2: Witness Statement of Marcus Thorne, Injured Worker ===\n\n**STATEMENT OF MARCUS THORNE**\n**DATE:** October 14, 2023\n**SUBMITTED TO:** Legal Counsel for Plaintiff\n\nI, Marcus Thorne, have been employed by SubPrime Services for 12 years. I have completed 40 hours of internal safety training during my tenure. I am a technician and was assigned to work on Reactor 4-B on October 12, 2023.\n\nI want to be clear about what happened. Helix Industrial never provided any specific lockout-tagout procedure for Reactor 4-B. They only gave us a general manual that was too complex to use in the field. It was a 48-page document full of technical jargon without any pictorial guides. How am I supposed to follow a jargon-filled manual in a high-stress environment while wearing a chemical-resistant suit? It was useless. We relied on our general experience because that\u2019s all we had to go on.\n\nWhen we arrived at the reactor, the emergency shutdown valve was in the 'Closed' position. I expected it to be open or at least in a neutral state for maintenance. Helix failed to verify its status before allowing us to enter the reactor. They just handed us the keys and said \"go.\" I was wearing my full-body harness and chemical-resistant suit, as required. I was doing everything right.\n\nI didn\u2019t bypass any safety interlocks. The interlocks were already disabled by Helix personnel before we started work. I saw them doing it. I didn\u2019t touch them. David Kline was on the site, but he was at Reactor 4-A, so he wasn\u2019t there. I was working alone in the immediate area of the valve.\n\nThe valve being closed was a direct result of Helix\u2019s negligence. They didn\u2019t check it. They didn\u2019t train us on the specific hazards of Reactor 4-B. We had no on-site training for this specific unit. We just had our general experience. That\u2019s not enough. This wasn\u2019t my fault. Helix Industrial set the stage for this accident and didn\u2019t take the basic steps to ensure our safety.\n\n=== DOCUMENT 3: Witness Statement of Elena Rostova, Helix Site Manager ===\n\n**STATEMENT OF ELENA ROSTOVA**\n**DATE:** October 14, 2023\n**SUBMITTED TO:** Legal Counsel for Defendant\n\nI, Elena Rostova, am the Site Manager for Helix Industrial at the Halcyon Chemical Plant. I am a certified Professional Engineer with 15 years of experience in chemical plant operations. Helix Industrial has maintained a zero-incident safety record for the preceding 24 months across all its contracted sites.\n\nI want to correct the record regarding the claim that we failed to provide lockout-tagout procedures. We provided a detailed, site-specific lockout-tagout procedure for Reactor 4-B to SubPrime Services on October 11, 2023. They acknowledged receipt. It was not a \"general manual\" as Mr. Thorne suggests. It was a specific procedure for that reactor. We also provided a digital copy of our standard lockout-tagout manual on October 10, 2023, which was 48 pages long. Yes, it was technical, but it was accurate. It is not our responsibility to simplify technical documents for subcontractors who claim to be experienced.\n\nRegarding training, we conducted a 30-minute on-site training session for SubPrime technicians on October 11, 2023, covering the specific hazards of Reactor 4-B. This was documented and signed. SubPrime\u2019s HR manager, Sarah Jenkins, is misrepresenting the facts when she claims we did not provide on-site training. We did.\n\nThe emergency shutdown valve was in the 'Closed' position because SubPrime personnel failed to perform a pre-entry check as required by their own protocols. It was not because Helix failed to verify its status. We verified the status before handover. It was SubPrime\u2019s responsibility to verify it again before entry. They did not do that.\n\nI was present at the site. I saw Marcus Thorne. He was wearing his harness and suit. I am not responsible for his injury. SubPrime Services is a subcontractor with a valid business license, but they have a history of three prior safety violations in the last five years. That history should have told them to be more careful. We followed all OSHA standards as mandated by our written agreement with Halcyon Chemical Plant. We also required SubPrime to follow our internal safety protocols per our written agreement with them. We did our job. SubPrime did not.\n\n=== DOCUMENT 4: Witness Statement of David Kline, SubPrime Lead Technician ===\n\n**STATEMENT OF DAVID KLINE**\n**DATE:** October 15, 2023\n**SUBMITTED TO:** Legal Counsel for Plaintiff\n\nI, David Kline, am the Lead Technician for SubPrime Services. I was present on the site on October 12, 2023, but I was assigned to a different reactor, Reactor 4-A. I was not in the immediate area of Reactor 4-B when the incident occurred.\n\nI want to address the claim that Marcus Thorne bypassed safety interlocks. Marcus Thorne did not bypass any safety interlocks; the interlocks were already disabled by Helix personnel before we started work. I saw this happen. I was near the control panel when Helix technicians disabled the interlocks. I asked them why they were doing it, and they said it was part of the setup. I didn\u2019t think much of it at the time, but now I realize that was a major error.\n\nThe maintenance schedule was delayed by 2 hours due to a parts shortage, which was documented in the site's daily log. This delay caused confusion about who was responsible for what. I was at Reactor 4-A, so I couldn\u2019t help Marcus. I believe Marcus was following the procedures he was given, even if those procedures were inadequate. The interlocks being disabled without proper authorization is a serious breach of safety protocol.\n\nI am not disputing that Marcus was wearing his harness and suit. I am disputing the narrative that he was careless or that he bypassed interlocks. He didn\u2019t. The interlocks were already off. This is a factual matter that can be verified by the control logs.\n\n=== DOCUMENT 5: Witness Statement of James Porter, Halcyon Safety Officer ===\n\n**STATEMENT OF JAMES PORTER**\n**DATE:** October 15, 2023\n**SUBMITTED TO:** Legal Counsel for Halcyon Chemical Plant\n\nI, James Porter, am the Safety Officer for the Halcyon Chemical Plant. I was present at the site on October 12, 2023.\n\nAt 09:10 AM, I conducted a pre-entry inspection of Reactor 4-B. I noted that the safety interlocks on Reactor 4-B were active until 09:10 AM, and SubPrime personnel disabled them without authorization. I observed SubPrime technicians near the control panel. I asked them about the disablement, and they did not provide immediate justification. This is a clear violation of protocol.\n\nThe emergency shutdown valve was in the 'Closed' position because SubPrime personnel failed to perform a pre-entry check as required by their own protocols. I have reviewed their internal safety logs and found no record of a pre-entry check being performed for Reactor 4-B on the morning of the incident. The valve position was not verified by SubPrime. It was not verified by Helix. It was left in the 'Closed' position, which created a dangerous environment for anyone entering the reactor.\n\nI note that the weather was 45 degrees Fahrenheit with light rain during the incident. This weather condition may have affected visibility or comfort, but it does not excuse the failure to perform safety checks. SubPrime Services submitted their safety log for October 12 at 5:45 PM, which was within the 15-minute grace period allowed by the plant. However, the content of that log does not address the critical failure of the pre-entry check.\n\nI am not disputing that Marcus Thorne was wearing his harness and suit. I am disputing the claim that Helix was responsible for the valve position or the interlock status. The responsibility lay with SubPrime to ensure their personnel were safe before entering the reactor. They failed to do so.\n\n=== DOCUMENT 6: Email Correspondence and Records ===\n\n**EMAIL 1**\n**FROM:** elena.rostova@helixindustrial.com\n**TO:** d.kline@subprimeservices.com\n**DATE:** October 11, 2023, 10:30 AM\n**SUBJECT:** Reactor 4-B Maintenance Procedures\n\nDavid,\n\nAttached is the site-specific lockout-tagout procedure for Reactor 4-B. Please review this with your team before starting work tomorrow. This is in addition to the standard manual sent yesterday. Confirm receipt by end of day.\n\nAlso, please ensure your team is aware of the specific hazards associated with Reactor 4-B. We will conduct a 30-minute on-site training session tomorrow at 8:00 AM. Attendance is mandatory.\n\nRegards,\nElena Rostova\nSite Manager, Helix Industrial\n\n**EMAIL 2**\n**FROM:** d.kline@subprimeservices.com\n**TO:** elena.rostova@helixindustrial.com\n**DATE:** October 11, 2023, 11:15 AM\n**SUBJECT:** RE: Reactor 4-B Maintenance Procedures\n\nElena,\n\nReceived. We will review the procedure. The team will attend the training session at 8:00 AM tomorrow.\n\nRegards,\nDavid Kline\nLead Technician, SubPrime Services\n\n**EMAIL 3**\n**FROM:** s.jenkins@subprimeservices.com\n**TO:** elena.rostova@helixindustrial.com\n**DATE:** October 13, 2023, 2:00 PM\n**SUBJECT:** Concerns Regarding Training and Procedures\n\nElena,\n\nI am writing to express my concern regarding the incident at Reactor 4-B. My team member, Marcus Thorne, was injured. I understand that you provided a manual, but my technicians report that it was too complex to use in the field. They felt that the specific hazards of Reactor 4-B were not adequately covered in the on-site training. We relied on their general experience, which is standard for our company.\n\nI believe there was a failure in communication and safety protocol. I would like to discuss this further.\n\nRegards,\nSarah Jenkins\nHR Manager, SubPrime Services\n\n**EMAIL 4**\n**FROM:** elena.rostova@helixindustrial.com\n**TO:** s.jenkins@subprimeservices.com\n**DATE:** October 13, 2023, 4:30 PM\n**SUBJECT:** RE: Concerns Regarding Training and Procedures\n\nSarah,\n\nI am sorry to hear about the incident. However, I must clarify that we provided a detailed, site-specific lockout-tagout procedure for Reactor 4-B. We also conducted a 30-minute on-site training session covering the specific hazards. Your technicians acknowledged receipt and attended the training.\n\nThe manual is technical because it deals with complex chemical processes. It is not our responsibility to simplify it. SubPrime Services is expected to follow our internal safety protocols as per our agreement. We have a zero-incident record for 24 months, and we are confident that we followed all OSHA standards.\n\nI am open to discussing the incident, but I must emphasize that our procedures were followed. The failure to perform pre-entry checks and the unauthorized disablement of interlocks are on SubPrime Services.\n\nRegards,\nElena Rostova\nSite Manager, Helix Industrial\n\n**INSURANCE RECORDS SUMMARY**\n\n**HELIX INDUSTRIAL INSURANCE POLICY**\nPolicy Number: HI-2022-0091\nCoverage: General Liability\nLiability Cap for Third-Party Injuries: $2,000,000\nEffective Date: January 1, 2022\nExpiration Date: December 31, 2024\n\n**SUBPRIME SERVICES INSURANCE POLICY**\nPolicy Number: SP-2021-0452\nCoverage: General Liability\nLiability Cap for Third-Party Injuries: None\nEffective Date: January 1, 2021\nExpiration Date: December 31, 2024\n\n**SUBPRIME SERVICES BUSINESS LICENSE AND VIOLATION HISTORY**\nBusiness License: Valid\nIssued By: State of Minnesota\nLicense Number: MN-BIZ-2015-8823\nPrior Safety Violations: 3 in the last 5 years\nViolation Dates: March 2020, August 2021, February 2023\n\n**HELIX INDUSTRIAL SAFETY RECORD**\nZero-incident safety record for the preceding 24 months across all contracted sites.\nLast Incident Date: N/A\nSafety Audit Results: Pass (October 2022, April 2023)\n\n**HALCYON CHEMICAL PLANT POLICY**\nPolicy: Daily Safety Log Submission\nRequirement: All subcontractors must submit a daily safety log by 6:00 PM.\nGrace Period: 15 minutes allowed for late submissions.\nOctober 12, 2023 Submission Time: 5:45 PM (SubPrime Services)\nStatus: Compliant",
+ "n_words": 2259,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 12, 2023, at 09:15 AM, Marcus Thorne, a technician from SubPrime Services, was working inside Reactor 4-B at the Halcyon Chemical Plant in Duluth, Minnesota.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "SubPrime Services is a subcontractor that has a valid business license and a history of three prior safety violations in the last five years.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Helix Industrial has maintained a zero-incident safety record for the preceding 24 months across all its contracted sites.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The injured worker, Marcus Thorne, was wearing a full-body harness and a chemical-resistant suit during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The incident report states that the emergency shutdown valve for Reactor 4-B was in the 'Closed' position at the time of the injury.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Helix Industrial provided a digital copy of its standard lockout-tagout manual to SubPrime Services on October 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The manual provided by Helix Industrial was 48 pages long and written in technical jargon without pictorial guides.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Marcus Thorne has been employed by SubPrime Services for 12 years and has completed 40 hours of internal safety training.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The Halcyon Chemical Plant has a policy that requires all subcontractors to submit a daily safety log by 6:00 PM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "SubPrime Services submitted its safety log for October 12 at 5:45 PM, which was within the 15-minute grace period allowed by the plant.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Helix Industrial's site manager, Elena Rostova, is a certified Professional Engineer with 15 years of experience in chemical plant operations.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The reactor's maintenance schedule was delayed by 2 hours due to a parts shortage, which was documented in the site's daily log.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "SubPrime Services' lead technician, David Kline, was present on the site but was assigned to a different reactor, Reactor 4-A.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The Halcyon Chemical Plant's safety officer noted that the weather was 45 degrees Fahrenheit with light rain during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Helix Industrial's insurance policy includes a liability cap of $2 million for third-party injuries.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "SubPrime Services' insurance policy has no liability cap for third-party injuries.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The injured worker, Marcus Thorne, was transported to St. Mary's Hospital by ambulance and admitted to the ICU.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Helix Industrial has a written agreement with Halcyon Chemical Plant that mandates strict adherence to OSHA standards for all maintenance work.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "SubPrime Services has a written agreement with Helix Industrial that requires them to follow Helix's internal safety protocols.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "David Kline, SubPrime Lead Technician stated that Marcus Thorne did not bypass any safety interlocks; the interlocks were already disabled by Helix personnel before we started work.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "James Porter, Halcyon Safety Officer stated that The safety interlocks on Reactor 4-B were active until 09:10 AM, and SubPrime personnel disabled them without authorization.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Thorne, Injured Worker stated that The emergency shutdown valve was in the 'Closed' position because Helix failed to verify its status before allowing us to enter the reactor.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "James Porter, Halcyon Safety Officer stated that The emergency shutdown valve was in the 'Closed' position because SubPrime personnel failed to perform a pre-entry check as required by their own protocols.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 23,
+ "settled": [
+  "C1",
+  "C3"
+ ]
+}

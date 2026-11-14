@@ -1,0 +1,184 @@
+{
+ "dossier_id": "tenancy-25",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vance v. Sterling Heights Property Group",
+ "premise": "A tech executive in a high-rise luxury suite disputes the removal of custom flooring installed by the landlord as a condition of the lease, while the owner claims the tenant caused water damage through a leaking dishwasher.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Maintenance Records - Sterling Heights Property Group ===\n\n**DATE:** April 12, 2023\n**LOCATION:** Sterling Heights Building, 1200 Oak Avenue, Unit 402 (4th Floor)\n**RECORD TYPE:** Building Security Log & Maintenance Request Log\n\n**Security Camera Footage Review (Lobby Entrance):**\n*   **08:15 AM:** Tenant of record, Ms. Dana Fisk, observed entering the main lobby. Visual inspection of the footage confirms Ms. Fisk is carrying a standard handbag and a smartphone. No buckets, mops, hoses, or visible water-carrying equipment are present in her immediate vicinity or hands.\n*   **08:17 AM:** Ms. Fisk exits the lobby via the service elevator to the fourth floor.\n\n**Maintenance Request Log:**\n*   **02:30 PM (April 13, 2023):** Maintenance request logged by Ms. Dana Fisk (Tenant, Unit 402).\n    *   **Issue Reported:** Dishwasher repair needed.\n    *   **Description:** Tenant reports appliance is not draining correctly and is making unusual noises.\n    *   **Assigned To:** Mr. Leo Gable, Building Maintenance Supervisor.\n    *   **Status:** Pending Inspection.\n\n**Note:** No maintenance requests, complaints, or incident reports regarding Unit 402 plumbing, water leaks, or flooring conditions are recorded in the system between February 11, 2023, and April 12, 2023. The last recorded interaction prior to this date was the receipt of a written complaint on February 10, 2023.\n\n=== DOCUMENT 2: Water Damage Assessment Report ===\n\n**CLIENT:** Sterling Heights Property Group\n**DATE OF REPORT:** April 14, 2023\n**PREPARED BY:** External Water Quality and Structural Assessment Team\n**SUBJECT:** Investigation of Water Damage in Unit 402, 1200 Oak Avenue\n\n**1. Scope of Inspection**\nOn April 14, 2023, the landlord's maintenance crew, led by Mr. Leo Gable, visited Unit 402 to inspect the kitchen area following the reported dishwasher malfunction. The inspection was conducted to determine the extent of water intrusion and the likely source of the damage to the sub-flooring and surrounding cabinetry.\n\n**2. Findings**\n*   **Origin of Water:** Visual inspection and moisture meter readings indicate that the water source originated from the kitchen area of Unit 402. The highest concentration of moisture was detected beneath the sink cabinet and along the adjacent floor joists.\n*   **Water Pressure Test:** On April 15, 2023, the building\u2019s water pressure in the kitchen pipes was tested. The reading was 60 psi, which is within normal operational limits for residential high-rise plumbing systems.\n*   **Residue Analysis:** Samples of water residue were collected from the affected sub-flooring.\n*   **Flooring Condition:** The custom walnut flooring in Unit 402 shows signs of water exposure. The specific structural integrity and the cause of the warping are subject to further expert analysis.\n\n**3. Expert Testimony Summaries**\n*   **Dr. Aris Thorne, Water Quality Expert:**\n    \"The water residue contains high levels of detergent, indicating it originated from the dishwasher's spray arm during a cycle. The chemical composition matches standard dishwasher detergents, suggesting an overflow event from the appliance rather than a slow seepage from the main water line.\"\n\n*   **Mr. Leo Gable, Building Maintenance Supervisor:**\n    \"The water pattern shows seepage from the sub-floor joists, indicating a pre-existing structural leak in the plumbing lines under the kitchen. The distribution of moisture is consistent with a chronic drip that has been occurring over time, not a sudden burst or overflow from a single source like a dishwasher.\"\n\n**4. Recommendations**\nFurther forensic analysis is required to distinguish between appliance failure and structural plumbing failure. No repairs have been authorized pending resolution of the liability dispute.\n\n=== DOCUMENT 3: Correspondence and Financial Records ===\n\n**DATE:** February 10, 2023\n**FROM:** Dana Fisk (Tenant, Unit 402)\n**TO:** Clara Jenks (Property Manager)\n**SUBJECT:** Flooring Condition in Unit 402\n\nMs. Jenks,\n\nI am writing to formally report an issue with the custom walnut flooring in our unit. As you can see in the attached photograph, there are significant scuffs and surface damage near the entryway and the kitchen island. This is unacceptable given the quality of the installation. I expect this to be addressed promptly.\n\nAttached: *Photo_Flooring_Scuffs_02102023.jpg*\n\nRegards,\nDana Fisk\n\n***\n\n**DATE:** April 15, 2023\n**FROM:** Sterling Heights Property Group (Legal Department)\n**TO:** Dana Fisk\n**SUBJECT:** 30-Day Notice to Cure Violation - Unit 402\n\nDear Ms. Fisk,\n\nThis letter serves as a 30-day notice to cure a violation of your lease agreement dated March 1, 2021.\n\nOur records indicate that unauthorized alterations have been made to the premises, specifically regarding the custom walnut flooring identified as a landlord-provided fixture in the lease. The current condition of the flooring constitutes a breach of the lease terms. You are required to restore the flooring to its original condition or pay for the restoration costs within 30 days of the date of this notice.\n\nPlease note that the lease agreement includes a clause requiring tenants to report leaks within 24 hours. Failure to comply with this notice may result in further legal action.\n\nSincerely,\nSterling Heights Property Group\n\n***\n\n**BANK STATEMENT EXCERPT - DANA FISK**\n**DATE:** March 25, 2023\n**MERCHANT:** Local Flooring Company (LFC)\n**AMOUNT:** $2,500.00\n**MEMO:** Emergency Repair\n\n***\n\n**INSURANCE POLICY RECORD - STERLING HEIGHTS PROPERTY GROUP**\n**POLICY NUMBER:** SH-8821-B\n**RENEWAL DATE:** January 2023\n**COVERAGE:** Unit 402\n**DEDUCTIBLE:** Increased to $5,000.00\n\n***\n\n**LEASE AGREEMENT EXCERPT (Signed March 1, 2021)**\n**SECTION 4.2: Landlord-Provided Fixtures**\nThe following items are provided by the Landlord and are part of the leased premises:\n*   Custom Walnut Flooring (Unit 402)\n*   Standard Kitchen Appliances (excluding tenant-supplied items)\n\n**SECTION 7.1: Tenant Responsibilities**\nTenant shall report any leaks or water damage to the Property Manager within 24 hours of discovery.\n\n**SECTION 8.0: Rent**\nMonthly rent is set at $4,200.00, payable on the 1st of each month.\n\n**NOTE:** The custom walnut flooring in Unit 402 was installed by a certified contractor hired by the landlord in February 2021. The tenant has resided in Unit 402 continuously since March 1, 2021, with no prior complaints regarding plumbing or water leaks recorded in the building\u2019s history.\n\n=== DOCUMENT 4: Witness Statements and Mediation Notes ===\n\n**MEDULATION SESSION NOTES**\n**DATE:** May 10, 2023\n**PARTIES:** Sterling Heights Property Group (Landlord) vs. Dana Fisk (Tenant)\n**ATTENDEES:**\n*   Mr. Julian Vane (Landlord\u2019s Legal Counsel)\n*   Ms. Elena Ross (Tenants\u2019 Union Representative for Ms. Fisk)\n*   Ms. Clara Jenks (Property Manager)\n*   Mr. Leo Gable (Building Maintenance Supervisor)\n*   Ms. Dana Fisk (Tenant)\n*   Mr. Sam Kovic (Flooring Contractor)\n\n**Statement of Ms. Dana Fisk (Tenant):**\n\"I contacted the property manager on April 12, 2023, to report a noise from the dishwasher. They ignored me, leading to the overflow. The dishwasher is a 2019 model, which I purchased before moving in, and it is still within its manufacturer's warranty period. It is not a landlord-provided appliance, but their negligence in ignoring my call caused the damage. I am not responsible for the cost of the flooring, which was already in poor condition before I even moved in. The landlord\u2019s crew began removing the custom flooring on April 16, 2023, before any formal legal judgment was reached, constituting self-help eviction. This is aggressive and illegal. They are trying to destroy evidence of their own negligence.\"\n\n**Statement of Mr. Leo Gable (Building Maintenance Supervisor):**\n\"No call regarding the dishwasher was received on April 12, 2023; the first report was filed by the tenant on April 13, 2023, after the damage was discovered. The logs do not show any entry for April 12. The flooring was removed on April 18, 2023, only after the tenant failed to pay the agreed-upon repair costs by the April 17 deadline. We acted in accordance with the lease and the notice to cure. The water pattern shows seepage from the sub-floor joists, indicating a pre-existing structural leak in the plumbing lines under the kitchen. The tenant is responsible for the damage caused by the appliance overflow they failed to report immediately.\"\n\n**Statement of Mr. Sam Kovic (Flooring Contractor):**\n\"The custom flooring was structurally sound and fully functional when I inspected it on April 11, 2023, showing no signs of moisture or warping. I was hired to assess the damage after the incident. The wood was dry and tight in its joints. There was no evidence of prolonged neglect or pre-existing warping at the time of my inspection. The damage occurred recently and is consistent with a sudden water event.\"\n\n**Statement of Ms. Clara Jenks (Property Manager):**\n\"The flooring was already visibly warped and buckled at the seams as of April 10, 2023, due to prolonged neglect by the tenant. We had noted minor issues in previous routine checks, but the extent of the warping became undeniable after the water event. The tenant\u2019s claim that the flooring was sound is false. The landlord\u2019s insurance policy was renewed in January 2023, increasing the deductible to $5,000, which we are now facing because of this dispute. We are following the standard lease agreement which requires tenants to report leaks within 24 hours. The tenant\u2019s failure to do so, and their subsequent unauthorized alterations or failure to maintain the fixture, is a breach of contract.\"\n\n**Statement of Mr. Julian Vane (Landlord\u2019s Legal Counsel):**\n\"The landlord filed a motion for summary judgment on May 1, 2023, arguing the tenant breached the lease. The tenant\u2019s actions, including the failure to report the leak timely and the refusal to pay for the repair of the landlord-provided fixture, constitute a material breach. The removal of the flooring was a necessary step to mitigate further damage and assess the sub-floor, not an act of self-help eviction. The timeline supports that the removal occurred on April 18, 2023, after the deadline for payment passed.\"\n\n**Statement of Ms. Elena Ross (Tenants\u2019 Union Organizer):**\n\"The landlord\u2019s crew began removing the custom flooring on April 16, 2023, before any formal legal judgment was reached, constituting self-help eviction. This is a violation of tenant rights. The landlord is attempting to use the insurance deductible increase to pressure the tenant. The evidence of the scuffs in the February 10 email shows that the tenant was proactive in reporting issues, whereas the landlord failed to address them. The dishwasher was a tenant-owned appliance, but the landlord\u2019s refusal to acknowledge the April 12 call is a cover-up.\"",
+ "n_words": 1662,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement signed on March 1, 2021, explicitly lists 'custom walnut flooring' in Unit 402 as a landlord-provided fixture.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The tenant submitted a written complaint to the property manager regarding the flooring's condition on February 10, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The landlord's maintenance log records a request for a dishwasher repair in Unit 402 on April 13, 2023, one day after the alleged incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A water damage assessment report dated April 14, 2023, notes that the water source originated from the kitchen area of Unit 402.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The tenant's bank statement shows a payment of $2,500 to a local flooring company on March 25, 2023, labeled 'Emergency Repair'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The landlord sent a 30-day notice to cure the violation on April 15, 2023, citing 'unauthorized alterations' rather than damage.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The tenant has resided in Unit 402 continuously since March 1, 2021, with no prior complaints regarding plumbing or water leaks.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The landlord's insurance policy for Unit 402 was renewed in January 2023, increasing the deductible to $5,000.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The custom walnut flooring in Unit 402 was installed by a certified contractor hired by the landlord in February 2021.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant's dishwasher was manufactured in 2019 and is within its manufacturer's warranty period.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The property management company's standard lease agreement includes a clause requiring tenants to report leaks within 24 hours.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Unit 402 is located on the fourth floor of the Sterling Heights building, 1200 Oak Avenue.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The tenant's email to the property manager on February 10, 2023, attached a photograph showing scuffs on the flooring.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The landlord's maintenance crew visited Unit 402 on April 14, 2023, to inspect the kitchen area.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The tenant's monthly rent for Unit 402 is $4,200, payable on the 1st of each month.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The building's water pressure in the kitchen pipes was tested at 60 psi on April 15, 2023, which is within normal operational limits.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's dishwasher was purchased by the tenant prior to moving into the unit and is not a landlord-provided appliance.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The landlord's attorney filed a motion for summary judgment on May 1, 2023, arguing the tenant breached the lease.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The tenant's union representative attended the initial mediation session on May 10, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Water Quality Expert stated that The water residue contains high levels of detergent, indicating it originated from the dishwasher's spray arm during a cycle.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Mr. Leo Gable, Building Maintenance Supervisor stated that The water pattern shows seepage from the sub-floor joists, indicating a pre-existing structural leak in the plumbing lines under the kitchen.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Ms. Elena Ross, Tenants' Union Organizer stated that The landlord's crew began removing the custom flooring on April 16, 2023, before any formal legal judgment was reached, constituting self-help eviction.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mr. Julian Vane, Landlord's Legal Counsel stated that The flooring was removed on April 18, 2023, only after the tenant failed to pay the agreed-upon repair costs by the April 17 deadline.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Mr. Sam Kovic, Flooring Contractor stated that The custom flooring was structurally sound and fully functional when I inspected it on April 11, 2023, showing no signs of moisture or warping.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Ms. Clara Jenks, Property Manager stated that The flooring was already visibly warped and buckled at the seams as of April 10, 2023, due to prolonged neglect by the tenant.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Ms. Dana Fisk, Tenant stated that I contacted the property manager on April 12, 2023, to report a noise from the dishwasher, which they ignored, leading to the overflow.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mr. Leo Gable, Building Maintenance Supervisor stated that No call regarding the dishwasher was received on April 12, 2023; the first report was filed by the tenant on April 13, 2023, after the damage was discovered.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

@@ -1,0 +1,169 @@
+{
+ "dossier_id": "smoke-tenancy",
+ "split": "pilot",
+ "domain": "tenancy",
+ "title": "Maren v. Kowalski Holdings: Habitability Dispute and Eviction Filing",
+ "premise": "A tenant withheld rent after months of unrepaired mold and the landlord filed for eviction.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement and Property Records ===\n\nRESIDENTIAL LEASE AGREEMENT\n\nThis Residential Lease Agreement (\"Lease\") is entered into between Kowalski Holdings LLC (\"Landlord\") and Elena Maren (\"Tenant\") for the property located at 820 Crane Street, Unit 4B, Lakemont, Oregon.\n\nProperty Description: Unit 4B is a one-bedroom apartment occupying approximately 640 square feet on the fourth floor of the building known as 820 Crane Street, Lakemont, Oregon. The building is a six-story multi-unit residential structure constructed in 1994 and contains 24 rental units.\n\nLease Term: 12 months, commencing September 1, 2023, and ending August 31, 2024.\n\nMonthly Rent: $1,450.00, payable on the first day of each calendar month.\n\nSecurity Deposit: $2,175.00, equivalent to one and a half months' rent, paid by Tenant at the time of lease signing.\n\nSection 8.2 \u2014 Maintenance Notification: Tenant agrees to notify Landlord in writing of any maintenance issues affecting the premises and to allow Landlord fourteen (14) days from receipt of such notification to respond before Tenant may seek outside remedies or alternative repair arrangements.\n\nSection 11.4 \u2014 Nonpayment of Rent: Failure by Tenant to pay rent when due shall constitute grounds for termination of this Lease and initiation of eviction proceedings pursuant to applicable Oregon law.\n\nEXECUTED this 28th day of August, 2023.\n\nElena Maren, Tenant\n\nDaniel Kowalski, Owner, Kowalski Holdings LLC\n\n---\n\nPROPERTY ACQUISITION RECORD\n\nKowalski Holdings LLC acquired the property at 820 Crane Street, Lakemont, Oregon, on March 3, 2022, for a purchase price of $3.2 million. Kowalski Holdings LLC owns and manages 14 other residential properties in the greater Lakemont area, totaling approximately 340 rental units.\n\nPROPERTY MANAGEMENT AGREEMENT\n\nThis agreement, dated March 10, 2022, is entered into between Kowalski Holdings LLC (\"Owner\") and Kowalski Property Management (\"Manager\"). Under Section 3.1, Owner delegates to Manager the authority to make and execute day-to-day maintenance decisions for all properties under management, including the dispatch of maintenance technicians, ordering of repairs, and communication with tenants regarding maintenance requests.\n\n---\n\nBUILDING MAINTENANCE LOG \u2014 820 Crane Street, Lakemont, Oregon\n\nReporting Period: October 1, 2023 \u2013 November 30, 2023\n\nOctober 3, 2023 \u2014 Unit 2A: Resident reported leaking kitchen faucet. Work order 2023-0844. Repair completed October 5, 2023. Technician: J. Dooley.\n\nOctober 14, 2023 \u2014 Unit 4B: Tenant email received reporting visible dark growth on north bathroom wall. Work order 2023-0871 created. Status: pending dispatch.\n\nOctober 19, 2023 \u2014 Unit 1C: Resident reported water staining on ceiling, likely from unit above. Work order 2023-0883. Plumber dispatched October 21. Source identified as slow leak in Unit 2C supply line. Repair completed October 24, 2023.\n\nNovember 2, 2023 \u2014 Unit 4B: Certified mail notification received from tenant regarding bathroom wall growth. Logged and forwarded to management.\n\nNovember 5, 2023 \u2014 Unit 4B: Maintenance technician James Dooley dispatched to inspect bathroom wall per work order 2023-0871.\n\nNovember 6, 2023 \u2014 Unit 4B: Certified mail from tenant (sent November 2) received and logged.\n\nNovember 9, 2023 \u2014 Unit 4B: Authorization entry references plumbing repair behind bathroom wall. Amount: $1,200. Authorization recorded by D. Kowalski.\n\nNovember 14, 2023 \u2014 Unit 5D: Resident reported toilet supply line leak. Work order 2023-0912. Repair completed November 16, 2023. Technician: J. Dooley.\n\nSummary: Between October 1 and November 30, 2023, three units other than 4B reported plumbing or water-related issues requiring repair (Units 2A, 1C/2C, and 5D).\n\n---\n\nRENT PAYMENT HISTORY \u2014 Tenant: Elena Maren, Unit 4B\n\nSeptember 2023 rent: $1,450.00 \u2014 Paid August 30, 2023. Status: Paid on time.\nOctober 2023 rent: $1,450.00 \u2014 Paid October 1, 2023. Status: Paid on time.\nNovember 2023 rent: $1,450.00 \u2014 Payment initiated November 1, 2023. Cleared bank November 3, 2023 (two days after due date). Status: Paid.\nDecember 2023 rent: $1,450.00 \u2014 Due December 1, 2023. Status: Unpaid as of December 18, 2023.\n\nTenant has resided at 820 Crane Street, Unit 4B, continuously since September 1, 2023. No prior late or missed rent payments recorded through November 2023.\n\n---\n\nBUILDING SPECIFICATIONS \u2014 820 Crane Street\n\nYear Constructed: 1994\nTotal Units: 24\nFloors: 6\nOriginal construction records indicate that all residential unit bathrooms were equipped with a single mechanical exhaust fan rated at 50 cubic feet per minute, installed during original construction. No building-wide ventilation upgrades have been recorded since construction.\n\n---\n\n=== DOCUMENT 2: Tenant Communications and Eviction Filing ===\n\nEMAIL CORRESPONDENCE \u2014 Kowalski Property Management System\n\nFrom: Elena Maren [elena.maren@email.com]\nTo: maintenance@kowalskipm.com\nDate: October 14, 2023\nSubject: Maintenance Request \u2014 Unit 4B \u2014 Bathroom Wall\n\nTo whom it may concern,\n\nI am writing to report visible dark growth on the north wall of my bathroom in Unit 4B. The growth appeared approximately one week ago and has been expanding. I am requesting that this be inspected and repaired as soon as possible. I have attached photos taken on October 13.\n\nPlease confirm receipt and advise when someone can come to assess the situation.\n\nElena Maren\n820 Crane Street, Unit 4B\n\n---\n\nCERTIFIED MAIL RECEIPT AND LOG\n\nSender: Elena Maren, 820 Crane Street, Unit 4B, Lakemont, Oregon\nRecipient: Kowalski Property Management\nMailing Date: November 2, 2023\nTracking Number: 7018 2230 0001 2345 6789\nDelivery Confirmation: November 6, 2023\nSigned For By: R. Vasquez (front office, Kowalski Property Management)\n\nContents: Second written notification regarding dark growth on north bathroom wall, request for inspection and remediation, and reference to prior October 14 email. Letter cites lease Section 8.2 and requests response within 14-day period.\n\n---\n\nEVICTON COMPLAINT \u2014 Lakemont County Circuit Court\n\nCase No.: 23-CV-4471\nPlaintiff: Kowalski Holdings LLC\nDefendant: Elena Maren\nProperty: 820 Crane Street, Unit 4B, Lakemont, Oregon\nDate Filed: December 8, 2023\n\nNature of Claim: Nonpayment of rent. Defendant failed to pay December 2023 rent in the amount of $1,450.00, which was due on December 1, 2023. As of the date of filing, rent is 7 days past due.\n\nRelief Sought: Termination of lease and writ of possession.\n\n---\n\nPROOF OF SERVICE\n\nCase No.: 23-CV-4471\nDefendant: Elena Maren\n\nThe undersigned, a registered process server in the State of Oregon, hereby certifies that on December 14, 2023, at 2:15 p.m., I served the Summons and Complaint in the above-captioned matter upon the Defendant, Elena Maren, at her workplace, 1100 Mill Road, Lakemont, Oregon, by personal delivery. Defendant acknowledged receipt.\n\nProcess Server: Marcus T. Bellamy\nLicense No.: OR-PS-44182\n\n---\n\n=== DOCUMENT 3: Witness Statements ===\n\nWITNESS STATEMENT OF ELENA MAREN\n\nMy name is Elena Maren. I am the tenant of Unit 4B at 820 Crane Street, Lakemont, Oregon, where I have lived continuously since September 1, 2023. I signed a 12-month residential lease with Kowalski Holdings LLC. My monthly rent is $1,450, and I paid a security deposit of $2,175 at signing.\n\nOn October 14, 2023, I emailed Kowalski Property Management to report visible dark growth on the north wall of my bathroom and to request repairs. When I did not receive a response, I sent a second written notification via certified mail on November 2, 2023. Kowalski Property Management received that letter on November 6, 2023.\n\nI state that no work was ever performed on the bathroom plumbing or wall after my November 2 certified letter, and that the dark growth continued to spread through at least December 18, 2023. No technician came to my unit after November 5. No plumbing repair was performed inside my unit at any point. I was present in the unit during daytime hours throughout November and December, and I observed no contractor, plumber, or maintenance worker enter Unit 4B after November 5, 2023.\n\nI withheld the full December 2023 rent payment of $1,450 because the habitability issue remained unaddressed. I have no prior late or missed rent payments.\n\nElena Maren\nDecember 18, 2023\n\n---\n\nWITNESS STATEMENT OF DANIEL KOWALSKI\n\nMy name is Daniel Kowalski. I am the owner of Kowalski Holdings LLC, which purchased the property at 820 Crane Street on March 3, 2022, for $3.2 million. Kowalski Holdings LLC owns and manages 14 other residential properties in the greater Lakemont area, totaling approximately 340 units. Day-to-day maintenance decisions for 820 Crane Street are delegated to Kowalski Property Management under a property management agreement dated March 10, 2022.\n\nI state that on November 9, 2023, I personally authorized a $1,200 plumbing repair to address a slow leak behind the bathroom wall in Unit 4B, which was completed the same week. The work order was issued, the repair was carried out, and the cost was recorded in our accounting system.\n\nI state that the eviction filing on December 8 was initiated solely because rent was 7 days past due, and that I was unaware of any habitability complaints from Maren beyond the initial October email until after the filing. The decision to file was based on nonpayment of rent.\n\nDaniel Kowalski\nDecember 16, 2023\n\n---\n\nWITNESS STATEMENT OF TOM\u00c1S RIVERA\n\nMy name is Tom\u00e1s Rivera. I am an organizer with the Lakemont Tenants' Union. In my capacity, I have reviewed eviction filings and tenant complaints involving Kowalski Holdings LLC properties.\n\nI state that Kowalski Holdings has a documented pattern of filing eviction complaints within 10 days of receiving habitability complaints from tenants, having done so in at least three prior cases in 2022 and 2023. I have provided the case numbers and complaint dates to the court under separate cover.\n\nTom\u00e1s Rivera\nDecember 17, 2023\n\n---\n\n=== DOCUMENT 4: Inspection and Environmental Reports ===\n\nENVIRONMENTAL SAMPLING REPORT\nLakemont Environmental Testing, LLC\n\nClient: Elena Maren\nProperty: 820 Crane Street, Unit 4B, Lakemont, Oregon\nDate of Sampling: December 12, 2023\nDate of Report: December 16, 2023\nService Fee: $350.00 (paid by client on December 12, 2023)\n\nSample Collection: A surface sample was collected from the north bathroom wall of Unit 4B using sterile swab methodology. The sample was sealed, labeled, and transported to the laboratory under chain-of-custody protocol.\n\nLaboratory Findings: Dr. Priya Nadkarni, mycologist at Lakemont Environmental Testing, LLC, analyzed the sample. Dr. Nadkarni states that the sample collected from the bathroom wall on December 12, 2023, was microscopically and culturally confirmed as Stachybotrys chartarum, a toxigenic mold species, at a concentration of 45,000 colony-forming units per square centimeter.\n\n---\n\nMAINTENANCE INSPECTION REPORT\nKowalski Property Management\n\nTechnician: James Dooley, licensed maintenance technician employed by Kowalski Property Management\nProperty: 820 Crane Street, Unit 4B\nDate of Inspection: November 5, 2023\nWork Order: 2023-0871\n\nReason for Visit: Tenant reported dark growth on north bathroom wall. Dispatched to inspect and assess.\n\nFindings: Dooley states that upon visual inspection on November 5, 2023, the discoloration on the bathroom wall appeared to be ordinary mildew caused by condensation, not mold, and could be resolved with standard household cleaning products. Dooley noted that the bathroom in Unit 4B has a single mechanical exhaust fan rated at 50 cubic feet per minute, installed during original construction in 1994. Dooley recommended that the tenant run the exhaust fan during and after showers and wipe down the wall surface.\n\nNo plumbing leak was detected during the visual inspection. No wall penetration or moisture meter reading was performed.\n\n---\n\n=== DOCUMENT 5: Medical Reports ===\n\nMEDICAL REPORT \u2014 Lakemont Family Medicine\n\nPhysician: Dr. Raymond Hsu, Maren's primary care physician\nPatient: Elena Maren\nDate of Visit: November 20, 2023\n\nDr. Hsu states that Maren presented on November 20, 2023, with persistent cough, sinus inflammation, and headaches that began in mid-October, and that these symptoms are consistent with mold exposure. Patient reported onset of symptoms approximately two weeks after moving into Unit 4B at 820 Crane Street. Patient reported no prior history of chronic respiratory conditions.\n\nExamination Notes: Nasal passages inflamed. Mild wheezing detected on auscultation. No fever. Patient advised to monitor symptoms and avoid exposure to suspected source.\n\n---\n\nMEDICAL REVIEW \u2014 Retained by Kowalski Legal Counsel\n\nReviewer: Dr. Angela Whitfield, allergist\nDate of Review: December 15, 2023\nPatient Records Reviewed: Treatment notes from Lakemont Family Medicine dated November 20, 2023\n\nDr. Whitfield states that after reviewing Maren's medical records, the reported symptoms are nonspecific and equally consistent with seasonal allergies common in the Lakemont area during autumn months. Dr. Whitfield notes that the patient's symptoms \u2014 cough, sinus inflammation, and headaches \u2014 are among the most common presenting complaints in primary care settings during fall months and do not, in the absence of specific diagnostic testing, establish a causal link to mold exposure or any particular environmental source within the residence.",
+ "n_words": 2049,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "Elena Maren signed a 12-month residential lease for Unit 4B at 820 Crane Street, Lakemont, Oregon, beginning September 1, 2023, at a monthly rent of $1,450.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "On October 14, 2023, Maren emailed Kowalski Property Management reporting visible dark growth on the north bathroom wall and requesting repairs.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The lease agreement, signed by both parties, includes a clause requiring tenants to notify the landlord in writing of any maintenance issues and to allow 14 days for a response before seeking outside remedies.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "On November 5, 2023, Kowalski Property Management dispatched a maintenance technician, James Dooley, to Unit 4B to inspect the bathroom wall.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Maren withheld the full December 2023 rent payment of $1,450, which was due on December 1 and remained unpaid as of December 18.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "On December 8, 2023, Kowalski Holdings LLC filed a complaint for nonpayment of rent in the Lakemont County Circuit Court, Case No. 23-CV-4471.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Maren paid a security deposit of $2,175, equivalent to one and a half months' rent, at the time of lease signing.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Maren sent a second written notification about the bathroom wall growth on November 2, 2023, via certified mail, which Kowalski Property Management received on November 6, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Unit 4B is a one-bedroom apartment occupying approximately 640 square feet on the fourth floor of the building.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "On December 12, 2023, Maren hired Lakemont Environmental Testing, LLC to sample the growth on the bathroom wall, paying $350 for the service.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "820 Crane Street is a six-story multi-unit residential building constructed in 1994, containing 24 rental units.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Kowalski Holdings LLC purchased the property at 820 Crane Street on March 3, 2022, for $3.2 million.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The building's maintenance log shows that between October 1 and November 30, 2023, three other units reported plumbing or water-related issues requiring repair.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Maren's lease includes a standard clause stating that failure to pay rent when due constitutes grounds for termination of the lease and initiation of eviction proceedings.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Maren has resided at 820 Crane Street, Unit 4B, continuously since September 1, 2023, with no prior late or missed rent payments through November 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The eviction summons was served on Maren at her workplace, 1100 Mill Road, on December 14, 2023, at 2:15 p.m. by a process server.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The property management agreement between Kowalski Holdings LLC and Kowalski Property Management, dated March 10, 2022, delegates day-to-day maintenance decisions to the management company.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Maren's November 2023 rent payment of $1,450 cleared the bank on November 3, 2023, two days after the due date.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The bathroom in Unit 4B has a single mechanical exhaust fan rated at 50 cubic feet per minute, installed during original construction in 1994.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Kowalski Holdings LLC owns and manages 14 other residential properties in the greater Lakemont area, totaling approximately 340 units.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Priya Nadkarni, mycologist at Lakemont Environmental Testing, LLC stated that Dr. Nadkarni states that the sample collected from the bathroom wall on December 12, 2023, was microscopically and culturally confirmed as Stachybotrys chartarum, a toxigenic mold species, at a concentration of 45,000 colony-forming units per square centimeter.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "James Dooley, licensed maintenance technician employed by Kowalski Property Management stated that Dooley states that upon visual inspection on November 5, 2023, the discoloration on the bathroom wall appeared to be ordinary mildew caused by condensation, not mold, and could be resolved with standard household cleaning products.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Raymond Hsu, Maren's primary care physician at Lakemont Family Medicine stated that Dr. Hsu states that Maren presented on November 20, 2023, with persistent cough, sinus inflammation, and headaches that began in mid-October, and that these symptoms are consistent with mold exposure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Dr. Angela Whitfield, allergist retained by Kowalski's legal counsel stated that Dr. Whitfield states that after reviewing Maren's medical records, the reported symptoms are nonspecific and equally consistent with seasonal allergies common in the Lakemont area during autumn months.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": [
+  "C2",
+  "C4"
+ ]
+}

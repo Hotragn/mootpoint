@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-15",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Vance v. Kestrel Textiles: Loom 4 Incident",
+ "premise": "A textile factory employee was crushed by a jammed loom, prompting a dispute between the worker's failure to use the emergency stop button and the employer's refusal to install adequate guardrails despite regulatory updates.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Preliminary Data Sheet ===\n\n**KESTREL TEXTILES - MILLBROOK FACILITY**\n**INCIDENT LOG: LOOM 4 ACCIDENT**\n**Date:** October 14, 2023\n**Time of Incident:** 09:12 AM\n**Location:** Weaving Floor, Section B, Loom 4\n**Involved Personnel:** Elena Vance (Weaving Technician), Marcus Thorne (Maintenance Supervisor)\n\n**A. Incident Narrative (Recorded by Shift Supervisor)**\nAt 09:12 AM, an injury occurred at Loom 4. Employee Elena Vance, assigned to Loom 4 from 08:00 AM to 04:00 PM per the daily shift schedule, was operating the machine. A jam developed in the feed mechanism. As Vance attempted to clear the obstruction, the machine continued to move forward at a speed of 0.5 meters per second. Vance was struck by the moving carriage, resulting in severe lacerations to the right forearm and hand. Emergency stop activation was attempted but did not prevent the impact. Vance was transported to the nearest first-aid station, located 15 meters from Loom 4, before being evacuated for surgical intervention.\n\n**B. Environmental and Technical Measurements**\n*   **Lighting:** Factory floor lighting in the Loom 4 area was measured at 300 lux at the time of the incident.\n*   **Machine Speed:** Post-incident telemetry indicates the loom moved forward at 0.5 m/s during the jam clearance attempt.\n*   **Emergency Stop Distance:** The distance from the emergency stop button to the point of impact on Loom 4 was measured at 2.2 meters.\n*   **Regulatory Standard:** Regulation 7.4b mandates that emergency stop buttons be within 1.5 meters of any moving part.\n\n**C. Maintenance and Compliance Records**\n*   **Last Routine Inspection:** The maintenance log for Loom 4 records that the last routine inspection was performed on October 12, 2023.\n*   **Pre-Shift Check:** The emergency stop button on Loom 4 was tested and found functional during the pre-shift check on October 14, 2023.\n*   **Regulatory Notice:** Kestrel Textiles received a regulatory notice regarding Loom 4 guardrail deficiencies on September 1, 2023.\n*   **Recent Modifications:** Kestrel Textiles installed new guardrails on Loom 1, 2, and 3 in August 2023. No record of guardrail installation on Loom 4 is present in the August 2023 work orders.\n*   **Reporting:** A formal report was submitted to the regulatory body by Kestrel Textiles on October 14, 2023, at 10:30 AM.\n\n**D. Video Evidence Status**\nSecurity camera footage from the incident zone was overwritten by the daily backup cycle on October 15, 2023. No recoverable video of the incident is available for review.\n\n**E. Employee History**\n*   **Safety Orientation:** Elena Vance completed her mandatory safety orientation on July 15, 2023.\n*   **Disciplinary Record:** Elena Vance had no prior safety violations or disciplinary actions recorded in the past 12 months.\n*   **Acknowledgment:** Elena Vance signed an acknowledgment form stating she understood the location of all emergency stops on October 10, 2023.\n\n**F. Procedural Context**\nThe factory's standard operating procedure manual, version 3.2, does not specify a required time limit for clearing a jam. The average reaction time for emergency stop activation in similar industry scenarios is recorded as 1.2 seconds.\n\n=== DOCUMENT 2: Witness Statement - Elena Vance ===\n\n**STATEMENT OF ELEN VANCE**\n**Date:** October 16, 2023\n**Subject:** Injury at Loom 4, October 14, 2023\n\nI am Elena Vance, a weaving technician at Kestrel Textiles. I am providing this statement regarding the incident that occurred on my shift on October 14, 2023. I have been assigned to Loom 4 for several months, and I have never had a disciplinary action or a safety violation on my record in the last year. I completed my safety orientation in July, and I signed a form in October acknowledging that I knew where the emergency stops were. I knew where they were, but I did not know they were so far away from the danger zone.\n\nAt 09:12 AM, I was working at Loom 4. The machine jammed unexpectedly due to a mechanical failure. It was not my fault; the thread did not get stuck because I fed it improperly, as Marcus Thorne claims. The mechanism seized on its own. I tried to clear the jam, but the machine started moving forward. It was moving at a steady pace, about 0.5 meters per second, which was fast enough to hit me before I could react.\n\nThere were no guardrails around Loom 4 at the time of the incident. I know that the company installed new guardrails on Looms 1, 2, and 3 back in August, but Loom 4 was left open. We had received a notice in September about deficiencies on Loom 4, and nothing was done to fix it. The factory had not complied with the September 1 regulatory notice regarding Loom 4. It was clear that they ignored the safety issues specific to our machine.\n\nWhen the machine started moving, I attempted to reach the emergency stop button but was unable to do so before the machine moved. The button was too far away. I tried to jump back, but the carriage caught me. I didn't have time to press it. The distance was simply too great. I believe the standard requires it to be within 1.5 meters, but on Loom 4, it was much further. I was in full compliance with the rules, but the equipment was defective and non-compliant with safety standards. I was just doing my job when the machine malfunctioned and hurt me.\n\n=== DOCUMENT 3: Witness Statement - Marcus Thorne ===\n\n**STATEMENT OF MARCUS THORNE**\n**Date:** October 16, 2023\n**Subject:** Incident at Loom 4, October 14, 2023\n\nI am Marcus Thorne, Maintenance Supervisor at Kestrel Textiles. I am providing this statement regarding the incident at Loom 4 on October 14, 2023. I was present on the floor and supervised the area. I take pride in the safety of our facility, and I want to clarify the events that led to this injury.\n\nFirst, regarding the safety of the equipment: Loom 4 was fully equipped with guardrails as per the latest safety standards. It is incorrect to say there were no guardrails. The regulatory notice from September 1 was reviewed by my team, and we addressed the specific deficiencies noted. The machine was safe and compliant. The fact that Looms 1, 2, and 3 received new guardrails in August does not mean Loom 4 was neglected; Loom 4 already met the required specifications and was inspected regularly. The last routine inspection was performed on October 12, 2023, and everything was in order.\n\nSecond, regarding the cause of the jam: The jam was caused by Elena Vance improperly feeding the thread into the loom. I have seen this error before. When the thread is not guided correctly into the feed mechanism, it creates a tension point that causes the machine to jam. This is a common operator error, not a mechanical failure. Vance is an experienced technician, and she should have known how to feed the thread properly.\n\nWhen the jam occurred, Vance attempted to clear it. The machine moved forward at 0.5 meters per second. This is not an unusually high speed for a loom in operation. The emergency stop button was tested and found functional during the pre-shift check on October 14, 2023. The button was accessible and working. Vance had the opportunity to press it. The standard operating procedure manual, version 3.2, does not specify a time limit for clearing a jam, but it does imply that operators should stop the machine if a jam occurs. Vance failed to use the available safety equipment. She did not stop the machine immediately; she tried to fix it while it was running. This was a violation of standard safety practices.\n\nI believe the incident was a result of operator error and failure to use the emergency stop, not a failure of the equipment or the facility's compliance.\n\n=== DOCUMENT 4: Witness Statement - Sarah Jenkins ===\n\n**STATEMENT OF SARAH JENKINS**\n**Date:** October 16, 2023\n**Subject:** Safety Compliance Review - Loom 4 Incident\n\nI am Sarah Jenkins, Safety Officer at Kestrel Textiles. I am providing this statement to address the claims regarding the incident at Loom 4 on October 14, 2023. My role is to ensure that our facility complies with all regulatory and safety standards.\n\nRegarding the claim that the factory was non-compliant with the September 1 regulatory notice: The factory was in full compliance with all regulatory requirements on the day of the incident. The regulatory notice from September 1 was received and addressed. While the notice mentioned guardrail deficiencies, our internal assessment, supported by the maintenance logs, determined that Loom 4 was compliant with the core safety regulations, including Regulation 7.4b regarding emergency stop placement in relation to the specific operational zone. The distance of 2.2 meters from the emergency stop to the point of impact is a measurement of the physical space, but the emergency stop was located in a position that allowed for safe access during normal operation. The regulatory notice did not mandate a specific distance for Loom 4 that was different from the general standard, and our inspection on October 12 confirmed the machine was safe.\n\nRegarding the use of the emergency stop: Elena Vance had ample time to press the emergency stop button but chose not to. The machine moved at 0.5 meters per second. The average reaction time for emergency stop activation in similar industry scenarios is recorded as 1.2 seconds. Given the speed and the distance, Vance had sufficient time to react and press the button if she had been following proper safety protocols. The fact that the button was functional, as confirmed by the pre-shift check on October 14, 2023, means that the equipment was not the cause of her inability to stop the machine. Her decision to attempt to clear the jam manually rather than stopping the machine first was a deviation from safe practice.\n\nI must also address the claim about guardrails. While Loom 4 may have different guardrail configurations than Looms 1, 2, and 3, which were updated in August 2023, the presence of guardrails is not the sole determinant of compliance. The safety of the machine is determined by multiple factors, including operator training and the use of emergency stops. Vance was trained, she signed an acknowledgment form on October 10, 2023, stating she understood the location of all emergency stops, and she had no prior safety violations. The incident was a result of operator error, not a failure of the facility to maintain a safe environment. The factory was in full compliance, and the safety systems were in place and functional.\n\n=== DOCUMENT 5: Medical Report and Insurance Clause Excerpt ===\n\n**MEDICAL REPORT - ELENA VANCE**\n**Date:** October 14, 2023\n**Attending Surgeon:** Dr. R. Aris\n**Patient:** Elena Vance\n\n**Diagnosis:** Severe laceration to right forearm and hand, deep tissue damage, partial tendon rupture.\n\n**Treatment:**\nThe patient was admitted to the hospital following an industrial accident. Due to the severity of the injury, the patient required 20 hours of surgery to repair the lacerations and reconstruct the tendons. The patient was hospitalized for 3 weeks for recovery and physical therapy.\n\n**Prognosis:** Full recovery expected with continued rehabilitation. No permanent loss of function anticipated if rehabilitation is completed.\n\n**INSURANCE POLICY EXCERPT - KESTREL TEXTILES**\n**Policy Number:** KT-2023-889\n**Clause 14.2 - Liability Reduction:**\n\"In the event of a claim arising from an incident where it is determined that the employer failed to comply with established safety protocols or regulatory requirements, the insurer reserves the right to apply a 10% liability reduction to the total claim amount. This reduction is applied to the base liability limit before any additional coverage is calculated.\"\n\n**Note:** This clause is triggered by a finding of non-compliance with safety protocols. The determination of non-compliance is subject to the findings of the regulatory body and the court.",
+ "n_words": 1950,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 14, 2023, at 09:12 AM at the Kestrel Textiles facility in Millbrook.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Regulation 7.4b mandates emergency stop buttons to be within 1.5 meters of any moving part.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The distance from the emergency stop button to the point of impact on Loom 4 was measured at 2.2 meters.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Kestrel Textiles received a regulatory notice regarding Loom 4 guardrail deficiencies on September 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Elena Vance, the injured employee, completed her mandatory safety orientation on July 15, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The maintenance log for Loom 4 shows the last routine inspection was performed on October 12, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Security camera footage from the incident zone was overwritten by the daily backup cycle on October 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Elena Vance had no prior safety violations or disciplinary actions recorded in the past 12 months.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The factory's standard operating procedure manual, version 3.2, does not specify a required time limit for clearing a jam.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Kestrel Textiles' insurance policy includes a clause allowing 10% liability reduction for non-compliance with safety protocols.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The emergency stop button on Loom 4 was tested and found functional during the pre-shift check on October 14, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Elena Vance's shift schedule assigned her to Loom 4 from 08:00 AM to 04:00 PM on October 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The average reaction time for emergency stop activation in similar industry scenarios is recorded as 1.2 seconds.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Kestrel Textiles installed new guardrails on Loom 1, 2, and 3 in August 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Elena Vance signed an acknowledgment form stating she understood the location of all emergency stops on October 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The jam on Loom 4 resulted in the machine moving forward at a speed of 0.5 meters per second.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The nearest first-aid station is located 15 meters from Loom 4.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Kestrel Textiles submitted a formal report to the regulatory body on October 14, 2023, at 10:30 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Elena Vance's medical records show she required 20 hours of surgery and 3 weeks of hospitalization.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The factory floor lighting in the Loom 4 area was measured at 300 lux on October 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Vance (Injured Employee) stated that There were no guardrails around Loom 4 at the time of the incident.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne (Maintenance Supervisor) stated that Loom 4 was fully equipped with guardrails as per the latest safety standards.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Vance (Injured Employee) stated that I attempted to reach the emergency stop button but was unable to do so before the machine moved.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Jenkins (Safety Officer) stated that Elena Vance had ample time to press the emergency stop button but chose not to.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Vance (Injured Employee) stated that The loom jammed unexpectedly due to a mechanical failure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne (Maintenance Supervisor) stated that The jam was caused by Elena Vance improperly feeding the thread into the loom.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Vance (Injured Employee) stated that The factory had not complied with the September 1 regulatory notice regarding Loom 4.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Sarah Jenkins (Safety Officer) stated that The factory was in full compliance with all regulatory requirements on the day of the incident.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

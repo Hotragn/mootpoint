@@ -1,0 +1,184 @@
+{
+ "dossier_id": "workplace-23",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Dispute Over Robotic Arm Override at Kessler Automotive Plant",
+ "premise": "In a busy automotive assembly plant, a robotic arm struck a human worker during a shift change because the automated stop signal was overridden, raising questions about the responsibility of the robot\u2019s software vendor versus the plant supervisor who authorized the override without a safety check.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Preliminary Assessment ===\n\n**Incident ID:** KAP-2023-1014-004\n**Date:** October 14, 2023\n**Time of Incident:** 14:32:15\n**Location:** Kessler Automotive Assembly Plant, Line 4, Bay 7, Dayton, Ohio\n**Reported By:** James Carter, Plant Safety Officer\n**Status:** Under Investigation\n\n**1. Overview**\nThis report documents the collision between a Kessler Assembly robotic arm (Unit RA-7) and employee Daniel Huxley. The incident occurred during the transition period following a shift change. The robotic arm, operating under software version 4.2.1, made contact with the worker\u2019s left arm.\n\n**2. Operational Context**\nAt 14:30:00, the morning shift ended. Standard plant safety protocol mandates a 10-minute buffer between shift changes and the restart of automated operations to allow personnel to clear the operational zones. At 14:28:00, Plant Supervisor Elena Ross signed the Override Authorization Form (Form OA-99) for Unit RA-7. The robotic arm\u2019s speed was configured at 80% of maximum capacity during this period.\n\n**3. Incident Sequence**\nSurveillance footage, preserved and reviewed by the safety team, indicates that Daniel Huxley entered the operational zone at 14:31:45. At 14:32:15, the robotic arm\u2019s end-effector was recorded at a distance of 1.2 meters from the worker\u2019s position. Contact occurred at this timestamp.\n\n**4. Preliminary Classification**\nThe insurer\u2019s preliminary assessment has classified this event under incident code 'OP-ERR-009', which denotes operator error. The Kessler Automotive insurance policy covers liability for 'negligent operation' up to $1 million. It is noted that the worker was wearing the mandatory high-visibility vest and safety goggles at the time of the incident. The worker\u2019s union representative, present at the scene, confirmed that the worker was not in a restricted zone as defined by the current shift schedule, though the specific operational status of the zone at 14:32:15 is under review.\n\n**5. Maintenance and Software Status**\nThe plant\u2019s maintenance log records that Unit RA-7 was serviced on October 12, 2023, with no defects noted. The software version in use, 4.2.1, was released by Vortex Robotics Inc. on August 1, 2023. Vortex Robotics Inc. states that their software includes a hard-stop feature that cannot be overridden by user input. However, the specific behavior of the hard-stop feature during the override sequence is subject to technical analysis.\n\n**6. Personnel Status**\nDaniel Huxley has 12 years of experience in the assembly line and has no prior injury history. The worker\u2019s medical bills have been paid by the employer up to $10,000 as per company policy.\n\n=== DOCUMENT 2: Witness Statement - Daniel Huxley ===\n\n**Witness Name:** Daniel Huxley\n**Role:** Assembly Line Worker\n**Date of Statement:** October 15, 2023\n**Location:** Plant Personnel Office\n\nI have been working the assembly line for twelve years. I have never had a prior injury history, and I take my safety seriously. On the afternoon of October 14, 2023, I was standing in the designated waiting area. This area is clearly marked and is outside the robotic arm's operational envelope. I was waiting for a supervisor to clear the area before moving to the next station. I was not in a hurry. I was doing exactly what the safety training requires: I was waiting for the all-clear.\n\nI was wearing my mandatory high-visibility vest and my safety goggles. I was standing still. I was not moving into the path of the arm. I was in a safe spot. Then, without any warning, the arm swung. It struck me. I was standing 1.2 meters from the end-effector when it hit me. It was a violent impact. I was clearly in the designated waiting area, which is outside the robotic arm's operational envelope. The supervisor, Elena Ross, had authorized an override just minutes before. She signed the form at 14:28:00. The shift change ended at 14:30:00. I was present in the operational zone at 14:32:15 because I was waiting for the supervisor to clear it. I was not in a restricted zone; I was in the waiting area. The union representative was there and confirmed I was not in a restricted zone. The arm hit me because the override was used carelessly. The software should have stopped it. The hard-stop feature should have engaged. Instead, it hit me. I was waiting for the supervisor to clear the area. I was safe. The arm was not supposed to be moving while people were in the zone. The override was a mistake. It was a violent mob of metal moving too fast. I was standing in the designated waiting area. The arm struck me. I was waiting for the supervisor to clear the area.\n\n=== DOCUMENT 3: Witness Statement - Elena Ross ===\n\n**Witness Name:** Elena Ross\n**Role:** Plant Supervisor\n**Date of Statement:** October 15, 2023\n**Location:** Plant Personnel Office\n\nI am a Plant Supervisor with a Level 2 Safety Certification. I have the authority to authorize overrides under emergency protocol. On October 14, 2023, at 14:28:00, I signed the override authorization form. The override was authorized because the automated stop signal was malfunctioning and preventing the line from restarting. It was necessitating immediate action. The line was down. We had to restart it. The worker, Daniel Huxley, was standing in the active operational zone. The active operational zone is clearly marked as restricted during robotic operations. He was not in the waiting area. He was in the active zone. The robotic arm was operating at 80% of maximum capacity. The software version is 4.2.1. The hard-stop feature is designed to stop the arm if a person is in the zone. But the override was a valid command. The stop signal was malfunctioning. I had to authorize the override to prevent line downtime. I believed the situation required immediate action. The worker was in the active operational zone. He was not in the designated waiting area. He was in the restricted zone. The override was necessary. The stop signal was malfunctioning. I signed the form at 14:28:00. The incident happened at 14:32:15. The worker was in the active zone. The arm hit him. I had the authority to authorize the override. The situation required immediate action. The worker was in the active operational zone. The zone is restricted. He was there. The arm hit him. The override was for emergency. The stop signal was malfunctioning. I had to act.\n\n=== DOCUMENT 4: Technical Analysis and Software Log ===\n\n**Document Type:** Technical Report\n**Prepared By:** Marcus Thorne, Vortex Robotics Software Engineer\n**Date:** October 16, 2023\n**Subject:** Analysis of Override Event on Unit RA-7\n\n**1. Overview**\nThis report details the technical analysis of the override event on Unit RA-7 on October 14, 2023, at 14:32:15. The software version in use was 4.2.1, released by Vortex Robotics Inc. on August 1, 2023. The plant\u2019s maintenance log shows the robotic arm was serviced on October 12, 2023, with no defects noted.\n\n**2. Override Authorization**\nThe override authorization form was signed by Elena Ross, Plant Supervisor, at 14:28:00. The software vendor's documentation states that overrides are intended for emergency only and require dual authorization. However, the log shows a single authorization. The override command was received by the software.\n\n**3. Software Behavior**\nThe software functioned as designed. The hard-stop feature was not triggered because the override was a valid command that disabled safety protocols. The override command bypassed the safety checks. This is a known issue in version 4.2.1, as noted by Sarah Jenkins, Vortex Robotics QA Manager. The hard-stop feature failed to engage because the override command bypassed the safety checks. The software includes a hard-stop feature that cannot be overridden by user input, but in this case, the override was a valid command. The stop signal was functioning correctly at the time of override. The override was authorized for routine production speed adjustments. The stop signal was not malfunctioning. The software worked as intended. The hard-stop feature was not triggered because the override disabled it. The software version 4.2.1 is stable. The maintenance log shows no defects. The override was a valid command. The software functioned as designed.\n\n**4. Conclusion**\nThe software operated according to its design specifications. The override command was valid. The hard-stop feature was bypassed by the override. The stop signal was functioning correctly. The override was for routine production speed adjustments. The software did not fail. The override was a valid command. The hard-stop feature was not triggered. The software functioned as designed.\n\n=== DOCUMENT 5: Medical Report and Insurance Correspondence ===\n\n**Document Type:** Medical Report and Insurance Letter\n**Patient:** Daniel Huxley\n**Date:** October 18, 2023\n**Provider:** Dayton Orthopedic Clinic\n\n**Medical Findings**\nThe patient sustained a fracture of the left radius and ulna. The estimated repair cost is $45,000. The patient has 12 years of experience in the assembly line and has no prior injury history. The patient was wearing the mandatory high-visibility vest and safety goggles at the time of the incident.\n\n**Insurance Correspondence**\n**From:** Kessler Automotive Insurance Division\n**To:** Daniel Huxley\n**Date:** October 20, 2023\n**Subject:** Incident OP-ERR-009\n\nDear Mr. Huxley,\n\nWe are writing regarding the incident that occurred on October 14, 2023, at the Kessler Automotive Assembly Plant. The incident code is 'OP-ERR-009', indicating an operator error. The plant\u2019s insurance policy covers liability for 'negligent operation' up to $1 million. The worker\u2019s medical bills have been paid by the employer up to $10,000 as per company policy. The incident involved a robotic arm override authorized by Plant Supervisor Elena Ross at 14:28:00. The shift change ended at 14:30:00. The worker was present in the operational zone at 14:32:15. The plant\u2019s safety protocol requires a 10-minute buffer between shift changes and automated operations restart. The robotic arm\u2019s speed was set to 80% of maximum capacity during the shift change period. The software version 4.2.1 was released by Vortex Robotics Inc. on August 1, 2023. Vortex Robotics Inc. states that their software includes a hard-stop feature that cannot be overridden by user input. The software vendor's documentation states that overrides are intended for emergency only and require dual authorization. The plant\u2019s maintenance log shows the robotic arm was serviced on October 12, 2023, with no defects noted. The worker\u2019s union representative was present at the scene and confirmed the worker was not in a restricted zone. The plant\u2019s camera footage is preserved and shows the worker entering the operational zone at 14:31:45.\n\nWe are currently reviewing the details of the incident to determine liability. The conflicting accounts regarding the reason for the override, the worker's position, the software behavior, and the supervisor's authority are under investigation. We will provide further updates as the investigation progresses.\n\nSincerely,\nKessler Automotive Insurance Division",
+ "n_words": 1745,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 14, 2023, at 14:32:15 at the Kessler Automotive Assembly Plant in Dayton, Ohio.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Worker Daniel Huxley was standing 1.2 meters from the robotic arm's end-effector when the collision occurred.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The robotic arm's software version 4.2.1 was released by Vortex Robotics Inc. on August 1, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Plant Supervisor Elena Ross signed the override authorization form at 14:28:00, four minutes before the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The worker's medical report indicates a fracture of the left radius and ulna, estimated repair cost $45,000.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The plant's safety protocol requires a 10-minute buffer between shift changes and automated operations restart.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Vortex Robotics Inc. states that their software includes a hard-stop feature that cannot be overridden by user input.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The worker was wearing the mandatory high-visibility vest and safety goggles at the time of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The shift change ended at 14:30:00, and the worker was present in the operational zone at 14:32:15.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The insurer's preliminary report lists the incident code as 'OP-ERR-009', indicating an operator error.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The robotic arm's speed was set to 80% of maximum capacity during the shift change period.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The worker has 12 years of experience in the assembly line and has no prior injury history.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The plant's maintenance log shows the robotic arm was serviced on October 12, 2023, with no defects noted.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The override authorization form was signed by Elena Ross, who holds a Level 2 Safety Certification.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The worker's testimony states he was waiting for a supervisor to clear the area before moving to the next station.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The plant's insurance policy covers liability for 'negligent operation' up to $1 million.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The worker's union representative was present at the scene and confirmed the worker was not in a restricted zone.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The software vendor's documentation states that overrides are intended for emergency only and require dual authorization.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The worker's medical bills have been paid by the employer up to $10,000 as per company policy.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The plant's camera footage is preserved and shows the worker entering the operational zone at 14:31:45.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Ross, Plant Supervisor stated that The override was authorized because the automated stop signal was malfunctioning and preventing the line from restarting, necessitating immediate action.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Vortex Robotics Software Engineer stated that The override was authorized for routine production speed adjustments, and the stop signal was functioning correctly at the time of override.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Daniel Huxley, Injured Worker stated that I was standing in the designated waiting area, which is outside the robotic arm's operational envelope, when the arm struck me.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Elena Ross, Plant Supervisor stated that The worker was standing in the active operational zone, which is clearly marked as restricted during robotic operations.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Vortex Robotics QA Manager stated that The software's hard-stop feature failed to engage because the override command bypassed the safety checks, which is a known issue in version 4.2.1.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Vortex Robotics Software Engineer stated that The software functioned as designed; the hard-stop feature was not triggered because the override was a valid command that disabled safety protocols.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Ross, Plant Supervisor stated that I had the authority to authorize the override under emergency protocol, and I believed the situation required immediate action to prevent line downtime.",
+   "favors": "A",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

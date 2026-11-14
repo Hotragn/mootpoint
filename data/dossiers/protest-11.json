@@ -1,0 +1,184 @@
+{
+ "dossier_id": "protest-11",
+ "split": "test",
+ "domain": "protest",
+ "title": "Punjab Highway Standoff: Agricultural Reform Protest",
+ "premise": "Farmers in the Punjab region of India engage in a standoff with riot police after blocking a national highway to demand the removal of agricultural market reforms.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Punjab Police Incident Log - NH-44 Shadipur Sector ===\n\n**Date:** 14 October 2023\n**Location:** National Highway 44, near Shadipur, Punjab\n**Incident ID:** PP-2023-1014-SHP-004\n\n**08:15 IST:**\nVisual confirmation of a large assembly on the carriageway of NH-44. Crowd density estimated at 450 individuals. Identification markers consistent with Bharatiya Kisan Union (BKU) affiliation observed. The group has formed a physical blockade across all lanes, halting all vehicular traffic in both directions.\n\n**09:00 IST:**\nShadipur Police Station (SPS) transmitted Priority 1 request to District Headquarters, Ludhiana, citing imminent risk of traffic disruption and potential public order breach. Requested reinforcement of riot control personnel.\n\n**10:30 IST:**\nReinforcement arrived at the scene. 120 riot police officers from Ludhiana District deployed to the perimeter. Perimeter established.\n\n**10:45 IST:**\nPublic Notice read aloud at the site by the Shadipur District Collector. The assembly was declared unlawful under Section 144 of the Code of Criminal Procedure (CrPC).\n\n**11:10 - 11:15 IST:**\nPolice line advanced approximately 50 meters toward the farmer blockade. Contact with the front line of protesters reported.\n\n**11:15 - 11:20 IST:**\nDeployment of 12 tear gas shells recorded by unit body cameras. Direction of fire per tactical directive.\n\n**11:30 - 12:00 IST:**\nDetention of three individuals identified as journalists covering the incident. Detained for failure to comply with dispersal orders.\n\n**12:30 IST:**\nStandoff continues. Medical triage initiated on the scene.\n\n**13:00 IST:**\nPunjab Police Press Statement issued: \"The dispersal operation was necessary to maintain public order and ensure the safety of citizens and infrastructure.\"\n\n**Post-Incident Notes:**\n- 8 police officers reported minor abrasions and bruises.\n- Forensic examination of one police jeep (Reg No: PB-01-AB-1234) revealed traces of yellow paint on the front bumper. Analysis pending to match against agricultural equipment present at the scene.\n- NHAI report indicates 45-kilometer traffic congestion on NH-44 lasting six hours due to the blockade.\n- Satellite imagery from the day confirms dry conditions; site covered in crop waste and dried mud.\n\n=== DOCUMENT 2: Medical Record Summary - Shadipur General Hospital ===\n\n**Hospital ID:** SHG-2023-1014-09\n**Date of Admission:** 14 October 2023\n**Time Window:** 11:00 IST \u2013 12:30 IST\n\n**Summary of Admissions:**\nBetween 11:00 and 12:30 IST, fifteen (15) protesters were admitted to the emergency department for treatment.\n\n**Injury Details:**\n- 4 patients presented with acute respiratory distress and ocular irritation.\n- 3 patients sustained lacerations and contusions consistent with blunt force trauma.\n- 5 patients reported minor soft tissue injuries (abrasions/bruising).\n- 3 patients admitted for observation due to dehydration and heat stress.\n\n**Note:**\nAll patients were discharged or transferred to general wards within the specified window, except for one patient (ID: SHG-2023-1014-15) who was retained for intensive monitoring due to severe respiratory compromise.\n\n=== DOCUMENT 3: Post-Mortem Report - Deceased Farmer ===\n\n**Case No:** MED-2023-1015-02\n**Decedent:** Gurmeet Singh (Age: 54)\n**Date of Death:** 15 October 2023\n**Coroner:** Dr. S. P. Singh, Shadipur\n\n**Findings:**\nThe decedent was admitted to Shadipur General Hospital on 14 October 2023 with severe respiratory distress. Despite intensive care, the patient suffered respiratory failure and died on 15 October 2023.\n\n**Cause of Death:**\nRespiratory distress.\n\n**Observations:**\nHistological analysis of lung tissue reveals significant inflammation and edema consistent with inhalation of particulate matter and chemical irritants. No evidence of penetrating trauma or cardiac arrhythmia was found. The condition is consistent with exposure to high concentrations of tear gas in a confined space or dense crowd.\n\n=== DOCUMENT 4: Witness Statements - Shadipur Incident ===\n\n**Statement 1: Gurpreet Singh (Farmer / BKU Member)**\n*Recorded on 14 October 2023*\n\nI was standing at the front line when the police moved in. It was completely unprovoked. The police line pushed into the crowd with batons before any protester moved forward. We had been standing peacefully for three hours. Suddenly, they charged at us. I saw Inspector Rajesh Kumar swinging his baton at the air, shouting commands, and then stepping right into the space where my friends were standing. There was no warning. No chance to talk. Just a wall of shields and violence coming at us. They treated us like criminals, not citizens.\n\n**Statement 2: Inspector Rajesh Kumar (Punjab Police)**\n*Recorded on 14 October 2023*\n\nThe situation was volatile. Protesters threw stones and pushed the barricade, forcing the police to retreat and reorganize. We had attempted to maintain distance, but the crowd surged. When the Section 144 notice was read, the crowd did not disperse. Instead, they became aggressive. I was ordered to hold the line. The physical contact was a result of the crowd\u2019s aggressive push against our shields. We did not initiate the violence; we reacted to the threat of being overwhelmed.\n\n**Statement 3: Meera Sharma (Journalist)**\n*Recorded on 14 October 2023*\n\nI was filming from the side of the road. I heard nothing. No public address system warning was heard before the tear gas was fired. I checked with several farmers nearby; they said the same. One minute the police were advancing, and the next, shells were arcing over the heads of the crowd. There was no pause, no announcement. It was a surprise attack. I tried to shield my camera, but the tear gas hit us directly. It was chaotic and dangerous.\n\n**Statement 4: Lieutenant Anil Verma (Punjab Police)**\n*Recorded on 14 October 2023*\n\nStandard procedure was followed. Three loud and clear warnings were broadcasted via the PA system at 11:12 IST. The audio recording from the command vehicle is available for review. The warnings stated that the crowd must disperse immediately or face force. The crowd did not disperse. Therefore, the tactical deployment was executed according to the written order approved by the District Magistrate.\n\n**Statement 5: Harjit Kaur (Farmer)**\n*Recorded on 14 October 2023*\n\nThe tear gas was fired directly into the dense cluster of farmers at close range. I was standing near the center. The shell landed less than ten meters from us. It exploded right in the middle of the group. People were screaming, coughing, and falling. It was not a buffer; it was an assault on the people. The smoke filled the space instantly. We couldn't see, we couldn't breathe.\n\n**Statement 6: Sub-Inspector Vikram Singh (Punjab Police)**\n*Recorded on 14 October 2023*\n\nThe tear gas was fired at a 45-degree angle into the empty road space behind the farmers to create a buffer. This was the specific tactical directive given to create a separation zone. The shells did not land on the protesters. They landed on the asphalt. The smoke drifted due to wind conditions, but the intent and the point of impact were on the road, not the crowd.\n\n**Statement 7: Dr. Arun Khanna (Human Rights Researcher)**\n*Recorded on 14 October 2023*\n\nI observed the police line from the opposite side of the highway. Police were armed with live ammunition rifles visible on their persons. I saw at least ten officers with AK-47 style rifles slung across their chests. This is disproportionate for a protest dispersal. The presence of live fire capability escalates the threat level and creates an atmosphere of terror that is unnecessary for managing a civil protest.\n\n**Statement 8: Inspector Deepak Gupta (Punjab Police)**\n*Recorded on 14 October 2023*\n\nAll officers were equipped only with batons and shields; no firearms were carried at the scene. This is standard protocol for riot control in this district. I can confirm that no officer in my unit had a firearm. The rifles Dr. Khanna may have seen were likely from the perimeter security detail, which was not part of the dispersal operation. The dispersal team was non-lethal only.\n\n=== DOCUMENT 5: Administrative and Investigative Records ===\n\n**1. Written Order - District Magistrate, Shadipur**\n*Date:* 14 October 2023\n*To:* Punjab Police Commandant\n*Subject:* Authorization for Dispersal\n\nIn light of the unlawful assembly declared under Section 144 CrPC, and the failure of the crowd to disperse after the public notice, I hereby approve the use of water cannons and batons for the dispersal operation. All actions must be in accordance with the rules of engagement for public order maintenance.\n\n**2. Tactical Deployment Report - Punjab Police Commandant**\n*Submitted to:* State Government, Punjab\n*Date:* 15 October 2023\n\nThis report details the tactical deployment of 120 officers on 14 October 2023. The objective was to restore traffic flow on NH-44. The deployment followed the DM's written order. The sequence of events involved the initial perimeter establishment, the reading of the Section 144 notice, and the subsequent dispersal action. The use of tear gas and batons was authorized and executed to clear the highway.\n\n**3. NHRC Complaint Registration**\n*Date:* 16 October 2023\n*Complaint No:* NHRC-2023-1016-774\n\nThe National Human Rights Commission registered a complaint regarding the incident on NH-44, Shadipur. The complaint alleges excessive use of force, disproportionate deployment of armed personnel, and the death of a protester due to respiratory distress. The Commission has requested a detailed report from the Punjab Police and the District Administration within 7 days.\n\n**4. Post-Incident Road Surface Analysis**\n*Conducted by:* Forensic Science Laboratory, Ludhiana\n*Date:* 15 October 2023\n\nAnalysis of the road surface at the Shadipur blockade site revealed 25 distinct skid marks consistent with vehicle movement. The marks indicate rapid acceleration and braking, suggesting emergency vehicles or police vehicles maneuvering at high speed on the site. The paint traces on the police jeep mentioned in the incident log are consistent with the color of farmer-owned tractors at the scene, suggesting contact between police vehicles and agricultural equipment.\n\n**5. Resident Survey - Shadipur**\n*Date:* 15 October 2023\n*Sample Size:* 500 residents\n*Method:* Random household survey\n\nFindings indicate that 85% of respondents opposed the use of force by police during the 14 October incident. The majority cited the disproportionate nature of the response and the injury to peaceful protesters as the primary reasons for their opposition.",
+ "n_words": 1620,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On 14 October 2023, at 08:15 IST, a group of 450 farmers began blocking NH-44 near the village of Shadipur, Punjab.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "At 09:00 IST, the Shadipur Police Station requested reinforcements from the District Headquarters in Ludhiana.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "By 10:30 IST, 120 riot police officers from the Ludhiana District had arrived at the Shadipur scene.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Medical records from Shadipur General Hospital show that 15 protesters sustained injuries requiring treatment between 11:00 and 12:30 IST.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Police incident logs indicate that 8 officers sustained minor abrasions and bruises during the standoff.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The Shadipur District Collector issued a public notice at 10:45 IST declaring the assembly unlawful under Section 144 of the CrPC.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Video footage from a local journalist shows the police line advancing 50 meters toward the farmer blockade between 11:10 and 11:15 IST.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "A police constable\u2019s body camera recorded the deployment of 12 tear gas shells in the direction of the protesters between 11:15 and 11:20 IST.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Post-incident analysis of the road surface at the Shadipur blockade site revealed 25 distinct skid marks consistent with vehicle movement.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The National Highways Authority of India reported that the blockade caused a 45-kilometer traffic congestion on NH-44 for six hours.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "A survey of 500 residents in Shadipur conducted on 15 October 2023 showed that 85% opposed the use of force by police.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The Punjab Police issued a press statement at 13:00 IST stating that the dispersal operation was necessary to maintain public order.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Forensic examination of a police jeep found traces of paint matching the color of farmer-owned tractors at the scene.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Three journalists were detained by police between 11:30 and 12:00 IST while covering the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The District Magistrate approved the use of water cannons and batons for the dispersal operation in a written order dated 14 October 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Satellite imagery from 14 October 2023 shows the protest site covered in crop waste and dried mud, indicating dry conditions.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "A post-mortem report of a protester who died on 15 October 2023 listed 'respiratory distress' as the primary cause of death.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The Punjab Police Commandant submitted a report to the state government on 15 October 2023 detailing the tactical deployment of 120 officers.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The National Human Rights Commission (NHRC) registered a complaint regarding the incident on 16 October 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Gurpreet Singh, Farmer stated that The police line pushed into the crowd with batons before any protester moved forward.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Insp. Rajesh Kumar, Police stated that Protesters threw stones and pushed the barricade, forcing the police to retreat and reorganize.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Meera Sharma, Journalist stated that No public address system warning was heard before the tear gas was fired.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Lt. Anil Verma, Police stated that Three loud and clear warnings were broadcasted via the PA system at 11:12 IST.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Harjit Kaur, Farmer stated that Tear gas was fired directly into the dense cluster of farmers at close range.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "SI Vikram Singh, Police stated that Tear gas was fired at a 45-degree angle into the empty road space behind the farmers to create a buffer.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Dr. Arun Khanna, Human Rights Researcher stated that Police were armed with live ammunition rifles visible on their persons.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Inspector Deepak Gupta, Police stated that All officers were equipped only with batons and shields; no firearms were carried at the scene.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-14",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vera Kowalski v. Ironwood Properties LLC",
+ "premise": "A small business owner in a mixed-use building in Seattle, Washington, challenges the eviction order after the landlord\u2019s failure to fix a broken HVAC system rendered the retail space uninhabitable during peak summer.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement Excerpts and Rent Ledger ===\n\n**LEASE AGREEMENT**\n**Parties:** Vera Kowalski (Tenant) and Ironwood Properties LLC (Landlord)\n**Premises:** Unit 104, 4501 Pine Street, Seattle, Washington\n**Effective Date:** March 1, 2023\n\n**Article 2: Rent**\n2.1. The monthly base rent for the Premises is $2,400.00.\n2.2. Rent is due on the first day of each calendar month.\n2.3. The Landlord may issue a 3-day notice to pay or quit if rent remains unpaid five (5) days after the due date.\n\n**Article 4: Maintenance and Utilities**\n4.1. The Landlord shall maintain the building\u2019s structural components, plumbing, and central HVAC systems in good working order, in compliance with Seattle Municipal Code Section 14.24.040, which requires landlords to maintain heating and cooling systems in good working order during summer months.\n4.2. The Tenant agrees to maintain the interior temperature of the Premises between 65\u00b0F and 75\u00b0F using the provided thermostatic controls.\n4.3. The central HVAC unit installed in the Premises in 2018 is covered by a manufacturer\u2019s warranty expiring in December 2024.\n\n**Article 9: Remedies**\n9.1. This Lease does not contain a \"repair and deduct\" clause permitting the Tenant to withhold rent for unaddressed repairs.\n\n**RENT LEDGER \u2013 UNIT 104**\n**Account Holder:** Vera Kowalski\n\n| Month | Amount Due | Amount Paid | Payment Date | Status |\n| :--- | :--- | :--- | :--- | :--- |\n| Mar 2023 | $2,400.00 | $2,400.00 | Mar 01, 2023 | Paid in Full |\n| Apr 2023 | $2,400.00 | $2,400.00 | Apr 01, 2023 | Paid in Full |\n| May 2023 | $2,400.00 | $2,400.00 | May 01, 2023 | Paid in Full |\n| Jun 2023 | $2,400.00 | $2,400.00 | Jun 01, 2023 | Paid in Full |\n| Jul 2023 | $2,400.00 | $2,400.00 | Jul 01, 2023 | Paid in Full |\n| Aug 2023 | $2,400.00 | $2,400.00 | Aug 01, 2023 | Paid in Full |\n| ... | ... | ... | ... | ... |\n| Jun 2024 | $2,400.00 | $2,400.00 | Jun 01, 2024 | Paid in Full |\n| Jul 2024 | $2,400.00 | $0.00 | -- | UNPAID |\n\n*Note: Payment history indicates on-time payment for the first six months of the lease term (March\u2013August 2023). July 2024 rent remained unpaid through the August 5, 2024 deadline.*\n\n=== DOCUMENT 2: Correspondence and Maintenance Logs ===\n\n**EMAIL CORRESPONDENCE**\n\n**From:** Vera Kowalski <vkowalski@ironwoodflowers.com>\n**To:** Apex Management <maintenance@apexmgmt.com>\n**Date:** June 15, 2024, 10:15 AM\n**Subject:** URGENT: HVAC Failure - Unit 104\n\nTo the Maintenance Team,\n\nI am writing to formally report that the HVAC system in Unit 104 has completely failed to cool the space. Since this morning, the unit has been running but outputting no cold air. The compressor appears to be the specific point of failure. Given that we are operating a retail flower shop, the rising temperatures are damaging our inventory. Please treat this as an emergency.\n\nRegards,\nVera Kowalski\nTenant, Unit 104\n\n***\n\n**From:** Apex Management <maintenance@apexmgmt.com>\n**To:** Vera Kowalski <vkowalski@ironwoodflowers.com>\n**Date:** June 15, 2024, 2:30 PM\n**Subject:** RE: URGENT: HVAC Failure - Unit 104\n\nDear Ms. Kowalski,\n\nWe have received your request regarding the HVAC system in Unit 104. Our records indicate that a technician will be scheduled within 48 hours to assess the unit. Please ensure someone is available to grant access to the premises during business hours.\n\nSincerely,\nApex Management\nBuilding Management, 4501 Pine Street\n\n***\n\n**APEX MANAGEMENT MAINTENANCE LOG \u2013 BUILDING 4501 PINE ST**\n**Period:** June 15, 2024 \u2013 July 31, 2024\n**Unit:** 104\n\n| Date | Time | Technician | Action Taken | Notes |\n| :--- | :--- | :--- | :--- | :--- |\n| Jun 15 | 10:15 AM | N/A | Request Received | Email from V. Kowalski. |\n| Jun 15 | 2:30 PM | N/A | Response Sent | Tech scheduled within 48 hrs. |\n| Jun 16 | 9:00 AM | M. Alvarez | Dispatched | *Entry denied by tenant. No work performed.* |\n| Jun 16 | 9:15 AM | M. Alvarez | Departed | *Tenant refused entry. Log entry closed.* |\n| Jun 17 \u2013 Jul 31 | -- | -- | -- | *No records of technician visits to Unit 104.* |\n\n*System Audit Note: Database query for \"Unit 104\" between June 15, 2024, and July 10, 2024, returns zero completed service entries. No technician from Apex Management or a contracted vendor entered Unit 104 during this period.*\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF VERA KOWALSKI**\n**Date:** August 12, 2024\n**Subject:** Dispute regarding eviction and habitability\n\nMy name is Vera Kowalski, and I operate a retail flower shop in Unit 104 at 4501 Pine Street. I am providing this statement to clarify the events leading to the eviction complaint filed by Ironwood Properties LLC.\n\nOn June 15, 2024, the HVAC unit completely failed to cool the space after June 15, rendering the shop unusable. The unit was not merely \"warm\"; it was a furnace. I provided explicit written notice of the specific defect in the HVAC compressor on June 15, detailing that the compressor had seized. Despite this, the building\u2019s management company, Apex Management, ignored the maintenance request for over three weeks despite promising a 48-hour response. Their log claims a technician was sent, but no one ever entered my shop to perform a repair.\n\nBecause the premises were uninhabitable due to the landlord's breach of the warranty of habitability, I withheld rent. The heat was destroying my flowers and making the environment unsafe for my staff. I did not withhold rent due to personal financial difficulties; my shop was still accessible, but the conditions were untenable. I was forced to purchase a portable air conditioning unit on July 20, 2024, for $1,200.00, solely to keep the shop operable. The landlord has failed to maintain the cooling system in good working order as required by Seattle municipal code Section 14.24.040.\n\n**STATEMENT OF MARCUS THORNE**\n**Title:** Property Manager, Ironwood Properties LLC\n**Date:** August 12, 2024\n**Subject:** Response to Tenant Allegations\n\nI am the Property Manager for Ironwood Properties LLC, the recorded owner of the building at 4501 Pine Street. I am disputing the claims made by Ms. Kowalski.\n\nThe HVAC unit was functioning but was set to a lower temperature by the tenant to save energy, causing discomfort but not failure. There was no mechanical failure of the compressor. The tenant only complained generally about \"hot air\" without specifying a mechanical failure, which did not trigger an emergency repair protocol. While the tenant claims she specified the compressor, our logs indicate the initial complaint was vague.\n\nRegarding the maintenance response, a technician was dispatched on June 16, but the tenant refused entry, preventing the repair from being completed. The maintenance log clearly shows the technician arrived and left because access was denied. It is not our fault that the tenant locked us out.\n\nFurthermore, the tenant's claim that she withheld rent due to habitability is false. The tenant withheld rent due to personal financial difficulties unrelated to the building conditions, as the shop was still accessible. The lease agreement does not contain a specific \"repair and deduct\" clause allowing tenants to withhold rent for unaddressed repairs. The lease requires tenants to maintain the interior temperature between 65\u00b0F and 75\u00b0F using provided controls. The tenant failed to pay the July 2024 rent by the August 5, 2024, deadline, and Ironwood Properties LLC issued a formal 3-day notice to pay or quit on August 6, 2024, for non-payment of July rent.\n\n**STATEMENT OF ELENA ROSTOVA**\n**Title:** Organizer, Seattle Tenants' Union\n**Date:** August 12, 2024\n**Subject:** Advocacy for Tenant Vera Kowalski\n\nI represent the interests of Vera Kowalski. Apex Management ignored the maintenance request for over three weeks despite promising a 48-hour response. The landlord\u2019s claim that the tenant refused entry is a tactic to delay repairs. The heat in Unit 104 was excessive, and the landlord had a duty to ensure the HVAC system worked. The tenant\u2019s payment history is impeccable; she has a documented history of on-time rent payments for the first six months of the lease. The eviction is a retaliatory measure for her exercising her rights.\n\n**STATEMENT OF SARAH JENKINS**\n**Title:** Supervisor, Apex Management\n**Date:** August 12, 2024\n**Subject:** Clarification of Maintenance Protocol\n\nI supervise the maintenance team for Apex Management. A technician was dispatched on June 16, but the tenant refused entry, preventing the repair from being completed. We followed protocol by sending a technician within the promised window. The tenant\u2019s refusal to allow access is the sole reason no repair was completed. We did not ignore the request; we attempted to fulfill it. The HVAC unit was not broken; it was operating, but the tenant\u2019s management of the thermostat was causing the reported issues.\n\n=== DOCUMENT 4: External Records and Legal Filings ===\n\n**EVIDENCE: RECEIPT**\n**Merchant:** ClimateControl Solutions\n**Date:** July 20, 2024\n**Item:** Portable Air Conditioning Unit, Model PAC-3000\n**Amount Paid:** $1,200.00\n**Paid By:** Vera Kowalski\n**Address of Delivery:** Unit 104, 4501 Pine Street, Seattle, WA\n\n***\n\n**EVIDENCE: WEATHER DATA**\n**Source:** Seattle-King County Metro Transit Authority Weather Station (Nearest to 4501 Pine Street)\n**Date:** July 5, 2024\n**Peak Temperature:** 92\u00b0F\n**Time of Peak:** 2:45 PM\n\n***\n\n**EVIDENCE: BUILDING FACILITY REPORT**\n**Subject:** Elevator Maintenance \u2013 4501 Pine Street\n**Status:** Out of Service\n**Period:** June 20, 2024 \u2013 July 25, 2024\n**Reason:** Mechanical failure\n**Note:** The elevator serves Unit 104. During this period, access to Unit 104 was via the main staircase.\n\n***\n\n**COURT DOCUMENT: EVICTION COMPLAINT**\n**Case No:** 24-2-08912-1 SEA\n**Plaintiff:** Ironwood Properties LLC\n**Defendant:** Vera Kowalski\n**Filed:** August 8, 2024\n\n**COMPLAINT FOR POSSESSION AND MONETARY JUDGMENT**\n\n1. Ironwood Properties LLC (\"Landlord\") is the recorded owner of the property located at 4501 Pine Street, Seattle, Washington.\n2. Vera Kowalski (\"Tenant\") is the tenant of Unit 104 under a lease agreement signed on March 1, 2023.\n3. The monthly base rent for Unit 104 is $2,400.00, due on the first day of each month.\n4. Tenant failed to pay the July 2024 rent in the amount of $2,400.00.\n5. Landlord issued a formal 3-day notice to pay or quit on August 6, 2024.\n6. The reason for eviction is non-payment of July rent.\n7. The lease agreement does not contain a specific \"repair and deduct\" clause allowing tenants to withhold rent for unaddressed repairs.\n8. Landlord requests judgment for possession of the premises and for the sum of $2,400.00 in unpaid rent, plus costs.\n\n**EXHIBIT A: LANDLORD'S COUNSEL MEMORANDUM**\n**From:** James Carter, Esq., Landlord's Counsel\n**To:** Ironwood Properties LLC\n**Date:** August 10, 2024\n**Re:** Strategy for Eviction Proceeding\n\nThe tenant withheld rent due to personal financial difficulties unrelated to the building conditions, as the shop was still accessible. We must emphasize that the lease does not permit rent withholding for repairs. The tenant\u2019s claim that the premises were uninhabitable is not supported by the fact that the shop remained accessible. The HVAC unit was not in a state of total failure that would trigger a warranty of habitability breach under these circumstances. We will argue that the tenant\u2019s refusal to pay is a clear breach of the lease terms.",
+ "n_words": 1861,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 104 at 4501 Pine Street, Seattle, Washington, was signed on March 1, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The monthly base rent for Unit 104 is $2,400.00, due on the first day of each month.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Vera Kowalski operates a retail flower shop in Unit 104.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Ironwood Properties LLC is the recorded owner of the building at 4501 Pine Street.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The HVAC unit in Unit 104 was installed in 2018 and is under a manufacturer's warranty until December 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Vera Kowalski submitted a written maintenance request regarding the HVAC system via email on June 15, 2024, at 10:15 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The building's management company, Apex Management, sent a reply email on June 15, 2024, at 2:30 PM, stating a technician would be scheduled within 48 hours.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "No technician from Apex Management or a contracted vendor entered Unit 104 between June 15, 2024, and July 10, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The exterior temperature in Seattle on July 5, 2024, recorded at the nearest weather station, peaked at 92\u00b0F.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Vera Kowalski paid the June 2024 rent in full on June 1, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Vera Kowalski failed to pay the July 2024 rent by the August 5, 2024, deadline specified in the lease.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Ironwood Properties LLC issued a formal 3-day notice to pay or quit on August 6, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The lease agreement contains a clause requiring tenants to maintain the interior temperature between 65\u00b0F and 75\u00b0F using provided controls.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Apex Management's maintenance log shows no record of a technician visit to Unit 104 in the month of July 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Vera Kowalski purchased a portable air conditioning unit on July 20, 2024, for $1,200.00.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The eviction complaint filed by Ironwood Properties LLC states the reason for eviction is non-payment of July rent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Seattle municipal code Section 14.24.040 requires landlords to maintain heating and cooling systems in good working order during summer months.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Vera Kowalski has a documented history of on-time rent payments for the first six months of the lease.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The lease agreement does not contain a specific 'repair and deduct' clause allowing tenants to withhold rent for unaddressed repairs.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The building's elevator, which serves Unit 104, was out of service from June 20, 2024, to July 25, 2024, due to mechanical failure.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Vera Kowalski (Tenant) stated that The HVAC unit completely failed to cool the space after June 15, rendering the shop unusable.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne (Property Manager) stated that The HVAC unit was functioning but was set to a lower temperature by the tenant to save energy, causing discomfort but not failure.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Rostova (Tenants' Union Organizer) stated that Apex Management ignored the maintenance request for over three weeks despite promising a 48-hour response.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Jenkins (Apex Management Supervisor) stated that A technician was dispatched on June 16, but the tenant refused entry, preventing the repair from being completed.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Vera Kowalski (Tenant) stated that I withheld rent because the premises were uninhabitable due to the landlord's breach of the warranty of habitability.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "James Carter (Landlord's Counsel) stated that The tenant withheld rent due to personal financial difficulties unrelated to the building conditions, as the shop was still accessible.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Vera Kowalski (Tenant) stated that I provided explicit written notice of the specific defect in the HVAC compressor on June 15.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne (Property Manager) stated that The tenant only complained generally about 'hot air' without specifying a mechanical failure, which did not trigger an emergency repair protocol.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

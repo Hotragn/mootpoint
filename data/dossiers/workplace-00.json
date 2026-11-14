@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-00",
+ "split": "dev",
+ "domain": "workplace",
+ "title": "Harrison v. Apex Logistics: Forklift Incident",
+ "premise": "A forklift operator at a distribution center claims a warehouse manager\u2019s verbal instruction caused him to speed, while the manager insists the employee ignored safety protocols for a shipment deadline.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Apex Logistics Incident Report Log ===\n\n**Incident ID:** APX-2023-1014-04\n**Date:** October 14, 2023\n**Time:** 14:12\n**Location:** Apex Distribution Center, Bay 4\n**Personnel Involved:** Marcus Harrison (Forklift Operator), Elena Rossi (Warehouse Manager)\n**Equipment Involved:** Toyota 8FGCU25 (Unit ID: FL-042)\n\n**Narrative Summary:**\nAt 14:12 on October 14, 2023, an incident occurred in Bay 4 involving Employee Marcus Harrison operating forklift unit FL-042. Warehouse Manager Elena Rossi was present in Bay 4 at the time of the incident. The forklift was transporting a shipment marked 'Priority 1' with a documented deadline of 15:00 on October 14, 2023.\n\nTelemetry data retrieved from the forklift\u2019s black box indicates that during the final 10 seconds prior to the incident, the travel speed was recorded at 11.5 mph. Company policy manual section 7.2 stipulates that the maximum permitted speed for Bay 4 is 5 mph. The black box data confirms that the brake was not engaged during this 10-second interval. The forklift\u2019s steering mechanism was functioning normally prior to the incident.\n\nThe forklift was equipped with a functioning audible alarm system, which activated 3 seconds before impact. At the time of the incident, the loading dock door for Bay 4 was fully open. A 15-foot chain barrier separating the pedestrian walkway from the forklift lane was intact but unengaged. The pedestrian walkway in Bay 4 was marked with high-visibility yellow paint. Warehouse lighting in Bay 4 was at 100% capacity, providing full visibility.\n\nEmployee Marcus Harrison was wearing the required high-visibility vest and safety helmet at the time of the incident.\n\n**Injury Report:**\nMarcus Harrison sustained a fractured left tibia and lacerations to his right forearm. Medical records indicate that Harrison required surgical pinning of the tibia on October 15, 2023. Harrison reported the injury to HR within 30 minutes of the incident.\n\n**Employee History:**\nMarcus Harrison has worked for Apex Distribution Center for 12 years with no prior safety violations. Harrison passed his annual forklift safety certification exam on September 1, 2023, with a score of 98%.\n\n**Manager History:**\nElena Rossi has a documented history of issuing verbal corrections to employees for minor protocol deviations.\n\n=== DOCUMENT 2: Witness Statement \u2013 Marcus Harrison ===\n\n**Statement of:** Marcus Harrison\n**Date:** October 16, 2023\n**Role:** Forklift Operator\n\nI have been working for Apex for twelve years, and I have always followed the rules. I passed my certification exam last month with a 98% score because I take safety seriously. I was in Bay 4 at 14:12, moving a Priority 1 shipment that had a hard deadline of 15:00. The pressure was on because we were behind schedule.\n\nElena Rossi was standing right there in the bay. She shouted, \"Hurry up, we're behind schedule!\" I interpreted this clearly as a directive to increase speed to meet the deadline. The urgency in her tone and the context of the 15:00 deadline made it clear she wanted me to move faster, not slower. I didn't think twice; I accelerated immediately upon hearing her shout because I believed I was failing to meet the customer's deadline requirement.\n\nThe pedestrian walkway was clear at the moment I increased speed, so my acceleration did not endanger anyone immediately. I was focused on getting that crate to the dock before the clock ran out. The chain barrier was just hanging there, unengaged, but I was in my lane. The lights were bright, the alarm was working, and I was wearing my vest and helmet. I was doing everything right until the accident happened.\n\n=== DOCUMENT 3: Witness Statement \u2013 Elena Rossi ===\n\n**Statement of:** Elena Rossi\n**Date:** October 16, 2023\n**Role:** Warehouse Manager\n\nI was in Bay 4 at 14:12 overseeing the Priority 1 shipment with the 15:00 deadline. I noticed Marcus Harrison\u2019s forklift drifting off the marked lane. The pedestrian walkway, marked with high-visibility yellow paint, was adjacent to his path. I said, \"Watch your pace, you're drifting off the lane,\" which is a standard safety correction, not an instruction to speed up. My tone was calm and instructional; I was concerned about his deviation from the marked lane, not the shipment time.\n\nHe ignored my warning to slow down and maintain lane discipline, instead accelerating to avoid the pedestrian zone. A delivery driver was stepping into the walkway at that exact moment, making his acceleration an imminent hazard that I warned him about. The chain barrier was unengaged, but the painted lines were clear. He was going way over the limit. The black box shows he was at 11.5 mph when the policy says 5 mph. He didn't brake. He just kept going. It was a reckless disregard for the safety protocol I have always enforced.\n\n=== DOCUMENT 4: Email Correspondence \u2013 Internal Safety Review ===\n\n**From:** Sarah Jenkins, HR Director\n**To:** Legal Department\n**Subject:** Preliminary Review \u2013 Harrison v. Apex Logistics\n**Date:** October 17, 2023\n\nTeam,\n\nPlease find attached the preliminary documents regarding the incident on October 14. We need to review the conflicting accounts before proceeding with the formal investigation.\n\nKey points for review:\n1. **Speed Data:** The telemetry is indisputable. 11.5 mph in a 5 mph zone. Brakes not engaged.\n2. **Safety Equipment:** The chain barrier was unengaged. This is a procedural gap, but the barrier itself was intact.\n3. **Visibility:** Lighting was at 100%. No issue there.\n4. **Witness Conflict:**\n   - Harrison claims Rossi shouted \"Hurry up, we're behind schedule!\" and that he accelerated to meet the deadline.\n   - Rossi claims she said \"Watch your pace, you're drifting off the lane\" and that he accelerated to avoid the pedestrian zone despite her warning.\n   - Harrison states the walkway was clear.\n   - Rossi states a delivery driver was stepping into the walkway.\n\nWe must note that Harrison has a clean 12-year record and passed his recent cert with 98%. Rossi has a history of verbal corrections. The injury (fractured tibia, forearm lacerations) is severe and required surgery on Oct 15.\n\nPlease advise on next steps for witness re-interviews. Do not assume intent based on the current statements.\n\nRegards,\nSarah Jenkins",
+ "n_words": 1003,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at 14:12 on October 14, 2023, at Apex Distribution Center, Bay 4.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Employee Marcus Harrison was operating a Toyota 8FGCU25 forklift at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Warehouse Manager Elena Rossi was present in Bay 4 at 14:12.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Harrison\u2019s forklift travel speed was recorded at 11.5 mph during the final 10 seconds before impact.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The maximum permitted speed for Bay 4 is 5 mph according to company policy manual section 7.2.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Harrison sustained a fractured left tibia and lacerations to his right forearm.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Medical records indicate Harrison required surgical pinning of the tibia on October 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Harrison has worked for Apex Distribution Center for 12 years with no prior safety violations.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Harrison passed his annual forklift safety certification exam on September 1, 2023, with a score of 98%.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The shipment in question was marked 'Priority 1' and had a deadline of 15:00 on October 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The loading dock door for Bay 4 was fully open at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "A 15-foot chain barrier separating the pedestrian walkway from the forklift lane was intact but unengaged.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Harrison\u2019s forklift was equipped with a functioning audible alarm system that activated 3 seconds before impact.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The pedestrian walkway in Bay 4 was marked with high-visibility yellow paint.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Harrison was wearing the required high-visibility vest and safety helmet at the time of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Rossi has a documented history of issuing verbal corrections to employees for minor protocol deviations.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The forklift\u2019s black box data confirms the brake was not engaged during the final 10 seconds.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Harrison reported the injury to HR within 30 minutes of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The warehouse lighting in Bay 4 was at 100% capacity, providing full visibility.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The forklift\u2019s steering mechanism was functioning normally prior to the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Marcus Harrison, Forklift Operator stated that Rossi shouted 'Hurry up, we're behind schedule!' which I interpreted as a directive to increase speed to meet the deadline.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Elena Rossi, Warehouse Manager stated that I said 'Watch your pace, you're drifting off the lane,' which is a standard safety correction, not an instruction to speed up.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Marcus Harrison, Forklift Operator stated that The urgency in her tone and the context of the 15:00 deadline made it clear she wanted me to move faster, not slower.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Elena Rossi, Warehouse Manager stated that My tone was calm and instructional; I was concerned about his deviation from the marked lane, not the shipment time.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Marcus Harrison, Forklift Operator stated that I accelerated immediately upon hearing her shout because I believed I was failing to meet the customer's deadline requirement.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Elena Rossi, Warehouse Manager stated that He ignored my warning to slow down and maintain lane discipline, instead accelerating to avoid the pedestrian zone.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Harrison, Forklift Operator stated that The pedestrian walkway was clear at the moment I increased speed, so my acceleration did not endanger anyone immediately.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Elena Rossi, Warehouse Manager stated that A delivery driver was stepping into the walkway at that exact moment, making his acceleration an imminent hazard that I warned him about.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

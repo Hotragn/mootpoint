@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-12",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Meridian Chemical v. Vortex Valve Systems: Burn Injury at Sector 4",
+ "premise": "A chemical plant operator suffered severe burns when a valve failed during a routine maintenance, leading to a battle between the company's failure to follow safety protocols and the valve supplier's warranty claims.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Site Recovery Report ===\n**MERIDIAN CHEMICAL PLANT - SECTOR 4 INCIDENT RECORD**\n**Date:** October 14, 2023\n**Time of Incident:** 14:32\n**Location:** Sector 4, Line 4-A\n**Operator on Duty:** Elias Thorne (Shift: 14:00\u201316:00)\n\n**1. Incident Summary**\nAt 14:32, a release of chemical substance occurred from Valve Unit V-902, resulting in second-degree burns to the left forearm of Operator Elias Thorne. The ambient temperature in Sector 4 was recorded at 24\u00b0C at the time of the event. The fire alarm system in Sector 4 activated at 14:33, one minute after the initial contact with the chemical. Thorne was wearing the full Level A protective suit required by Meridian Chemical's safety manual during the incident. Medical records indicate that Thorne received first aid at the site within 4 minutes of the incident.\n\n**2. Equipment Identification**\nThe involved unit is Valve V-902, manufactured by Vortex Valve Systems. The unit was installed in 2019. Vortex Valve Systems' sales records confirm that Unit V-902 was shipped to Meridian Chemical on March 12, 2019. The serial number V-902-2019-084 is visible on the metal casing of the unit recovered after the incident. The chemical leaking from Unit V-902 was identified as Ethylene Oxide, which has a vapor pressure of 145 kPa at 20\u00b0C. The Vortex Valve Systems' user manual for Unit V-902 specifies that the valve body is rated for a maximum operating temperature of 120\u00b0C.\n\n**3. Pre-Incident Status**\nThe emergency stop button for Sector 4 was tested and found functional by the plant's safety team on October 10, 2023. Meridian Chemical's shift schedule for October 14, 2023, lists Thorne as the only operator present in Sector 4 during the 14:00-16:00 window. The floor plan for Sector 4 indicates that the emergency exit is located 25 meters from the Unit V-902 installation site.\n\n**4. Maintenance History**\nMeridian Chemical's maintenance log for Unit V-902 shows no recorded inspections between January 1, 2023, and October 14, 2023. An internal safety audit from 2021 noted a 15% deviation from recommended inspection intervals in Sector 4. The 2023 budget report allocated 5% less funds for maintenance in Sector 4 than in the previous year.\n\n=== DOCUMENT 2: Witness Statements ===\n**STATEMENT OF ELIAS THORNE, INJURED OPERATOR**\n**Date:** October 15, 2023\n\nI was conducting my routine checks in Sector 4 at 14:28 when I heard a distinct 'hiss' from the valve. It sounded wrong, like a warning. I immediately attempted to report it via my radio, but the channel was jammed with static. Because I couldn't reach control, I proceeded with the routine check, unaware of the severity of the situation. I thought it might just be a minor pressure fluctuation. The valve suddenly failed, and the Ethylene Oxide hit my left forearm. I was wearing my full Level A suit, but the chemical burned through the material on my arm. I tried to move toward the exit, which is 25 meters away, but I had to stop for first aid. I did not ignore the noise; I tried to report it, but the radio failed me. I followed protocol as best I could given the equipment failure.\n\n**STATEMENT OF LT. MARCUS HALE, SECURITY CHIEF**\n**Date:** October 15, 2023\n\nReviewing the radio logs for the 14:00-16:00 shift, there are no transmission attempts recorded from Elias Thorne between 14:20 and 14:32. The radio system was functioning normally; other units in Sector 3 were communicating without issue. Thorne\u2019s employment contract with Meridian Chemical includes a clause requiring 48-hour reporting of all equipment anomalies. If he heard a hiss, he was aware of the anomaly but ignored it to finish his shift early, violating the 48-hour reporting clause. He had the emergency stop button, which was tested on October 10, but he did not use it. He was careless and failed to act on the anomaly he detected.\n\n**STATEMENT OF SARAH JENKINS, LEAD MAINTENANCE TECHNICIAN (FORMER EMPLOYEE)**\n**Date:** October 16, 2023\n\nI was the lead technician for Sector 4 until I left the company. The maintenance logs submitted by Meridian are incomplete. I was instructed by my supervisors to delete entries for Sector 4 inspections that were performed but failed to meet safety standards to avoid audits. We did inspect the valve in Q3 2023, but the results were not recorded in the official log because they showed the valve was deteriorating. The logs are not accurate; they are a cover-up.\n\n**STATEMENT OF MR. DAVID CRANE, COMPLIANCE OFFICER**\n**Date:** October 16, 2023\n\nThe maintenance logs are accurate and complete. Sector 4 was not scheduled for inspection in Q3 2023 because the previous quarter's inspections passed, and no tampering has occurred. The budget cuts in 2023 did not eliminate inspections; they only adjusted the frequency according to the risk assessment. The 2021 audit noted a 15% deviation, but that was corrected in 2022. There is no evidence of deleted entries. The log shows no inspections because none were scheduled or performed.\n\n=== DOCUMENT 3: Expert Reports and Technical Analysis ===\n**REPORT BY DR. ARIS THORNE, INDUSTRIAL METALLURGE (EXPERT FOR PLAINTIFF)**\n**Date:** October 20, 2023\n\nI examined the recovered Unit V-902 (Serial No. V-902-2019-084). The analysis of the internal seal reveals micro-fractures. These fractures indicate material fatigue due to the valve being subjected to stress beyond its rated limits. The Vortex Valve Systems' user manual specifies a maximum operating temperature of 120\u00b0C, and the ambient temperature was 24\u00b0C, well within limits. However, the internal stress suggests a defect in the original manufacturing material. The valve was installed in 2019 and was only 4 years old at the time of failure. The standard lifespan for Unit V-902 is 15 years under normal operating conditions, per Vortex Valve Systems' warranty documentation. The failure mode is consistent with a manufacturing defect rather than external wear.\n\n**REPORT BY MS. ELENA VOSS, QUALITY CONTROL MANAGER (VORTEX VALVE SYSTEMS)**\n**Date:** October 20, 2023\n\nI reviewed the metallurgical findings and disagree with the conclusion of a manufacturing defect. The fractures are consistent with corrosion caused by prolonged exposure to Ethylene Oxide without proper descaling, a maintenance failure on the part of Meridian Chemical, not a manufacturing defect. The 2019 production batch of V-902 units had a 99.8% pass rate for pressure testing, indicating the units were sound upon shipment. The chemical compatibility issue arises from the lack of maintenance. The valve was not designed for continuous exposure to Ethylene Oxide without regular descaling, which Meridian Chemical failed to perform.\n\n=== DOCUMENT 4: Legal Correspondence and Warranty Review ===\n**EMAIL FROM PROF. LIAM O'CONNOR (CONTRACT LAW EXPERT, PLAINTIFF'S COUNSEL) TO MR. ROBERT STERLING (LEGAL COUNSEL, VORTEX VALVE SYSTEMS)**\n**Date:** October 22, 2023\n**Subject:** Re: Warranty Exclusion Clause\n\nMr. Sterling,\n\nRegarding your assertion that the warranty exclusion clause applies, I must state that the warranty exclusion clause is unenforceable. Vortex Valve Systems failed to provide adequate warnings about the chemical compatibility of the valve with Ethylene Oxide, which is a known corrosive in this industry. The user manual states the valve is rated for a maximum operating temperature of 120\u00b0C, but it does not explicitly warn against continuous exposure to Ethylene Oxide in the context of Meridian Chemical's specific process. The lack of adequate warning renders the exclusion clause unenforceable under consumer protection laws.\n\n**EMAIL FROM MR. ROBERT STERLING (LEGAL COUNSEL, VORTEX VALVE SYSTEMS) TO PROF. LIAM O'CONNOR**\n**Date:** October 23, 2023\n**Subject:** Re: Warranty Exclusion Clause\n\nProf. O'Connor,\n\nThe warranty is valid and the exclusion clause applies because the user manual clearly stated that the valve is not rated for continuous exposure to Ethylene Oxide. Furthermore, Meridian Chemical signed an acknowledgment form in 2019, confirming they were aware of this limitation. The warranty terms exclude liability for damage caused by 'negligent maintenance or unauthorized modifications'. Given the maintenance failures identified, the exclusion clause is applicable. The valve was not defective; it was misused and poorly maintained.\n\n=== DOCUMENT 5: Additional Supporting Records ===\n**MERIDIAN CHEMICAL INTERNAL MEMO: MAINTENANCE BUDGET 2023**\n**Date:** January 15, 2023\n**To:** Sector 4 Management\n**From:** Finance Department\n\nThe 2023 budget report allocated 5% less funds for maintenance in Sector 4 than in the previous year. This reduction is due to overall cost-saving measures. Please ensure that critical inspections are prioritized despite the budget constraints. The 2021 internal safety audit noted a 15% deviation from recommended inspection intervals in Sector 4, which should be addressed in this year's planning.\n\n**VORTEX VALVE SYSTEMS WARRANTY TERMS**\n**Section 4.2: Exclusions**\nLiability is excluded for damage caused by 'negligent maintenance or unauthorized modifications'. The standard lifespan for Unit V-902 is 15 years under normal operating conditions. The valve body is rated for a maximum operating temperature of 120\u00b0C. Users are responsible for ensuring proper descaling and maintenance according to the user manual.",
+ "n_words": 1451,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 14, 2023, at 14:32, operator Elias Thorne sustained second-degree burns to his left forearm while working in Sector 4.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The valve installed on the Sector 4 line, Unit V-902, was manufactured by Vortex Valve Systems and installed in 2019.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Meridian Chemical's maintenance log for Unit V-902 shows no recorded inspections between January 1, 2023, and October 14, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Vortex Valve Systems' warranty documentation states that the standard lifespan for Unit V-902 is 15 years under normal operating conditions.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Thorne was wearing the full Level A protective suit required by Meridian Chemical's safety manual during the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The emergency stop button for Sector 4 was tested and found functional by the plant's safety team on October 10, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Vortex Valve Systems' sales records show that Unit V-902 was shipped to Meridian Chemical on March 12, 2019.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Meridian Chemical's internal safety audit from 2021 noted a 15% deviation from recommended inspection intervals in Sector 4.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The chemical leaking from Unit V-902 was identified as Ethylene Oxide, which has a vapor pressure of 145 kPa at 20\u00b0C.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Thorne's employment contract with Meridian Chemical includes a clause requiring 48-hour reporting of all equipment anomalies.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The fire alarm in Sector 4 activated at 14:33, one minute after the initial contact with the chemical.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Vortex Valve Systems' quality control report for the 2019 production batch of V-902 units indicates a 99.8% pass rate for pressure testing.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Meridian Chemical's floor plan shows that the emergency exit from Sector 4 is located 25 meters from the Unit V-902 installation site.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Thorne's medical records indicate he received first aid at the site within 4 minutes of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Vortex Valve Systems' user manual for Unit V-902 specifies that the valve body is rated for a maximum operating temperature of 120\u00b0C.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Meridian Chemical's shift schedule for October 14, 2023, lists Thorne as the only operator present in Sector 4 during the 14:00-16:00 window.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The valve's serial number V-902-2019-084 is visible on the metal casing of the unit recovered after the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Meridian Chemical's budget report for 2023 allocated 5% less funds for maintenance in Sector 4 than in the previous year.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Vortex Valve Systems' warranty terms exclude liability for damage caused by 'negligent maintenance or unauthorized modifications'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The ambient temperature in Sector 4 was recorded at 24\u00b0C at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Industrial Metallurgist (Expert for Plaintiff) stated that Micro-fractures in the valve's internal seal indicate material fatigue due to the valve being subjected to stress beyond its rated limits, suggesting a defect in the original manufacturing material.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Ms. Elena Voss, Quality Control Manager (Vortex Valve Systems) stated that The fractures are consistent with corrosion caused by prolonged exposure to Ethylene Oxide without proper descaling, a maintenance failure on the part of Meridian Chemical, not a manufacturing defect.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elias Thorne, Injured Operator (Plaintiff) stated that I heard a distinct 'hiss' from the valve at 14:28 and attempted to report it, but the radio channel was jammed, so I proceeded with the routine check, unaware of the severity.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Lt. Marcus Hale, Security Chief (Meridian Chemical) stated that Thorne's radio logs show no transmission attempts from 14:20 to 14:32; he was aware of the anomaly but ignored it to finish his shift early, violating the 48-hour reporting clause.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Lead Maintenance Technician (Former Meridian Employee) stated that The maintenance logs submitted by Meridian are incomplete; I was instructed to delete entries for Sector 4 inspections that were performed but failed to meet safety standards to avoid audits.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mr. David Crane, Compliance Officer (Meridian Chemical) stated that The logs are accurate and complete; Sector 4 was not scheduled for inspection in Q3 2023 because the previous quarter's inspections passed, and no tampering has occurred.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Prof. Liam O'Connor, Contract Law Expert (Plaintiff's Counsel) stated that The warranty exclusion clause is unenforceable because Vortex Valve Systems failed to provide adequate warnings about the chemical compatibility of the valve with Ethylene Oxide, which is a known corrosive in this industry.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mr. Robert Sterling, Legal Counsel (Vortex Valve Systems) stated that The warranty is valid and the exclusion clause applies because the user manual clearly stated that the valve is not rated for continuous exposure to Ethylene Oxide, and Meridian Chemical signed an acknowledgment form in 2019.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

@@ -1,0 +1,184 @@
+{
+ "dossier_id": "workplace-07",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Meridian Auto: Robot Arm Malfunction vs. Barrier Breach",
+ "premise": "An automotive assembly line worker alleges that a robot\u2019s arm malfunctioned due to a software error implemented by the IT department, but the IT department contends the worker\u2019s hand was in the danger zone despite clear barriers.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Initial Log Entries ===\n\n**INCIDENT REPORT: MERIDIAN AUTOMOTIVE PLANT \u2013 DAYTON, OHIO**\n**Incident ID:** MA-2023-1014-009\n**Date of Incident:** October 14, 2023\n**Time of Incident:** 11:42:05 AM\n**Location:** Assembly Line A, Station 7\n**Involved Personnel:** Julian Vane (Operator), Sarah Glick (IT Manager), Tom Hale (Safety Engineer)\n\n**I. Incident Description**\nOn October 14, 2023, at 11:42:05 AM, an injury occurred at Station 7 of the Assembly Line A. Julian Vane, assigned to Station 7, sustained a laceration to the dorsal surface of his left hand. The injury required 12 stitches for closure. The station utilizes a KUKA KR210 R2100 robot arm, which was programmed to operate within a defined Cartesian workspace of 2.5 meters radius from its base.\n\n**II. Environmental and Equipment Status**\nThe physical safety fence surrounding Station 7 is 1.8 meters high and constructed of 19mm diameter steel mesh. Upon immediate inspection following the incident, the robot arm's emergency stop button was found in the disengaged position.\n\nReview of the robot\u2019s internal diagnostic logs reveals a 'Joint Limit Exceeded' error code recorded at 11:42:06 AM. Technical documentation indicates that this error code is typically triggered by software logic errors in position calculation. The robot arm's speed was recorded at 1.2 m/s at the moment of impact, which is within its normal operating range.\n\n**III. Pre-Incident Activity**\nSurveillance camera Cam-07, positioned 3 meters from the fence, captured the incident at 11:42:05 AM. Video review confirms that Julian Vane's left arm extended beyond the plane of the safety fence. Specifically, the video shows Julian Vane's hand positioned 15 cm outside the mesh fence at the time of contact.\n\nWitness observation by a coworker indicates that Julian Vane was reaching for a dropped bolt inside the cell at 11:41:58 AM. The bolt was subsequently found on the floor inside the safety fence, 10 cm from the robot's base.\n\n**IV. Relevant System Changes**\nOn October 12, 2023, the IT department deployed Software Patch v4.2.1 to the central control server for all Line A robots. This patch included a modification to the 'SafeStop' timeout parameter, increasing it from 200ms to 450ms. The IT department\u2019s change management log indicates that no hardware components were altered during the deployment of Patch v4.2.1. IT Manager Sarah Glick signed off on the deployment of Patch v4.2.1 on October 12, 2023, at 14:00.\n\n**V. Employee Qualification Record**\nJulian Vane received his initial safety training for Station 7 on January 10, 2023. He passed the written safety assessment with a score of 95% on January 10, 2023.\n\n=== DOCUMENT 2: Witness Statement of Julian Vane ===\n\n**STATEMENT OF: JULIAN VANE**\n**Role:** Injured Worker / Station 7 Operator\n**Date:** October 15, 2023\n\nI want to be clear about what happened because I am being told that I was the one who caused this. That is not true. I have worked at Meridian for years, and I have always followed the safety protocols. I remember my training on January 10, 2023. I scored 95% on the written assessment. I know the rules. I know where the fence is. I know where the robot works.\n\nAt 11:41:58 AM, I saw a bolt drop inside the cell. It was right there, 10 cm from the base. It was a small thing. I didn't think it was a big deal. I reached in to grab it. My hand was inside the fence. I swear to you, my hand was inside the fence. I was just trying to get that bolt out so it wouldn't jam the line later.\n\nThen, the robot moved. It didn't just move; it lunged. It was erratic. It was a non-linear movement, totally unpredictable. It wasn't doing its normal linear path. It shot out of the cell. The end-effector of the arm punched through the mesh fence. I didn't reach out; the machine came to me. The gripper went through the barrier and hit my hand. It was violent. The fence didn't break, but the robot forced its way through the gap.\n\nI am in pain now. I have twelve stitches on the back of my left hand. I am not blaming myself. I was inside the safe zone. The robot came out. The new patch they put in on October 12 caused this. I heard them talking about the \"SafeStop\" timeout being changed. I don't know what that means, but I know the robot acted like it was glitching. It moved outside its programmed workspace. I was just standing there, doing my job, when this machine attacked me.\n\n=== DOCUMENT 3: Witness Statement of Leo Marcus ===\n\n**STATEMENT OF: LEO MARCUS**\n**Role:** Coworker / Station 6 Operator\n**Date:** October 15, 2023\n\nI was working at Station 6, just next to Julian at Station 7. I saw the whole thing. It was quick, but I saw it clearly.\n\nAt 11:41:58 AM, Julian saw a bolt drop on the floor inside the safety fence. It was near the robot's base. Julian didn't wait. He didn't call for help. He didn't use the pick-up tool. He just reached his hand through the gap in the fence to grab the bolt. I clearly saw him reach his hand through the gap in the fence. He placed his hand in the robot's operational zone before the arm moved.\n\nHis hand was 15 cm outside the mesh fence. I saw it. He was reaching into the cell. The robot arm was moving. It followed its standard, predictable linear path. It did not deviate from its programmed trajectory. It was moving as it normally does. It did not jerk. It did not glitch. It moved only as far as the worker's hand forced it to react.\n\nJulian is lying. He says the robot punched through the fence. That is not what I saw. The fence was tight and secure. The robot arm did not pass through the fence. Rather, the worker's hand passed outside the fence's boundary. He put his hand in the danger zone. He was careless. He reached for a bolt that was not his to grab at that moment. He ignored the safety protocol. He put his hand in the path of a moving arm.\n\nI am sorry for his injury, but I cannot support his claim that the robot malfunctioned. The robot did what it was programmed to do. Julian did what he was not supposed to do. He reached out, and he got hit. That is all.\n\n=== DOCUMENT 4: Witness Statement of Sarah Glick ===\n\n**STATEMENT OF: SARAH GLICK**\n**Role:** IT Manager\n**Date:** October 16, 2023\n\nI am providing this statement to clarify the technical status of the systems involved in the incident at Station 7 on October 14, 2023.\n\nOn October 12, 2023, at 14:00, I signed off on the deployment of Software Patch v4.2.1 to the central control server for all Line A robots. This patch was a standard update. It included a modification to the 'SafeStop' timeout parameter, increasing it from 200ms to 450ms. The IT department\u2019s change management log confirms that no hardware components were altered during this deployment. This was a software-only change.\n\nHowever, following the incident, I reviewed the logs and the video from Cam-07. The robot arm exhibited an erratic, non-linear movement pattern. This is consistent with a software glitch in the new patch. The 'SafeStop' timeout increase may have introduced a latency that caused the arm to move outside its programmed workspace before the safety stop could fully engage. The 'Joint Limit Exceeded' error code at 11:42:06 AM supports this. This code is typically triggered by software logic errors in position calculation.\n\nJulian Vane\u2019s hand was outside the fence, yes, the video shows it. But the robot should not have been moving into that space with that speed and that trajectory. The arm moved at 1.2 m/s, which is normal, but the *path* was not. It was erratic. It was a glitch. The arm moved outside its defined Cartesian workspace of 2.5 meters radius. It was a software failure.\n\nI am not saying Julian was safe. I am saying the robot did not behave as it should have. The patch caused a movement anomaly. The arm reacted in a way that was not standard. It was a software glitch.\n\n=== DOCUMENT 5: Witness Statement of Tom Hale ===\n\n**STATEMENT OF: TOM HALE**\n**Role:** Safety Engineer\n**Date:** October 16, 2023\n\nI am reviewing the incident at Station 7 to determine the root cause of the injury to Julian Vane.\n\nThe safety fence at Station 7 is 1.8 meters high and made of 19mm diameter steel mesh. It is a physical barrier. The KUKA KR210 R2100 robot arm is programmed to operate within a defined Cartesian workspace of 2.5 meters radius from its base. The emergency stop button was found in the disengaged position immediately after the incident.\n\nThe video from Cam-07, positioned 3 meters from the fence, shows Julian Vane\u2019s left arm extending beyond the plane of the safety fence. His hand was positioned 15 cm outside the mesh fence at the time of contact. This is a clear violation of the safety boundary.\n\nThe robot arm followed its standard, predictable linear path. It did not deviate from its programmed trajectory. It moved only as far as the worker's hand forced it to react. The 'Joint Limit Exceeded' error code is not proof of a software glitch. It is a standard response to a physical obstruction or a limit switch being triggered.\n\nJulian Vane reached for a bolt. He put his hand in the robot's operational zone. The robot was moving at 1.2 m/s, which is within its normal operating range. The arm did not punch through the fence. The fence was intact. The worker\u2019s hand was outside the fence. The robot did not move outside its workspace; the worker moved into the robot's space.\n\nSarah Glick claims a software glitch. That is not supported by the trajectory data. The path was linear. It was predictable. The error code was triggered by the physical obstruction of the worker's hand hitting the arm's limit switch, not by a software calculation error. The robot did what it was supposed to do. The worker did what he was not supposed to do.\n\n=== DOCUMENT 6: Witness Statement of Elena Rostova ===\n\n**STATEMENT OF: ELENA ROSTOVA**\n**Role:** Maintenance Supervisor\n**Date:** October 17, 2023\n\nI inspected the Station 7 cell after the incident.\n\nThe mesh fence was compromised and loose at Station 7. It was not tight. It was not secure. The gap in the mesh was larger than it should have been. This allowed the robot's gripper to pass through the barrier without breaking the structure. The fence was in poor condition. We had reported this, but no maintenance was scheduled.\n\nBecause the fence was loose, the robot arm was able to extend its end-effector through the mesh. The worker\u2019s hand was in the path. The fence should have stopped the robot, or at least prevented the gripper from passing through so easily. The compromised state of the fence contributed to the injury.\n\nI am not saying the robot malfunctioned. I am saying the barrier was not effective. The fence was loose. It allowed the robot to pass through. That is a maintenance issue. The fence was not doing its job.\n\n=== DOCUMENT 7: Witness Statement of Priya Shah ===\n\n**STATEMENT OF: PRIYA SHAH**\n**Role:** Quality Assurance Inspector\n**Date:** October 17, 2023\n\nI inspected the Station 7 safety fence and the surrounding area.\n\nThe fence was tight and secure. There was no compromise in the mesh. The 19mm diameter steel mesh was intact. The fence was 1.8 meters high and in good condition.\n\nThe robot arm did not pass through the fence. The worker\u2019s hand passed outside the fence's boundary. Julian Vane reached his hand through the gap in the fence. His hand was 15 cm outside the mesh. The robot arm did not punch through the fence. The fence was secure.\n\nElena Rostova claims the fence was loose. That is incorrect. I checked the tension and the structure. It was secure. The barrier was effective. The worker bypassed the barrier. He put his hand outside the fence. The robot did not need to punch through anything. The worker\u2019s hand was in the robot\u2019s zone.\n\nThe fence was tight and secure. The robot arm did not pass through the fence. The worker\u2019s hand passed outside the fence's boundary. That is the fact.\n\n=== DOCUMENT 8: Witness Statement of David Chen ===\n\n**STATEMENT OF: DAVID CHEN**\n**Role:** Software Developer\n**Date:** October 18, 2023\n\nI worked on the logic for the KUKA robot arm.\n\nThe 'Joint Limit Exceeded' code was generated because the software miscalculated the arm's position. The 'SafeStop' timeout change in Patch v4.2.1 introduced a delay. This delay caused the position calculation to be off. The arm jerked forward unexpectedly. It was a software logic error.\n\nThe arm moved outside its programmed workspace. The Cartesian workspace is 2.5 meters radius. The arm went beyond that. The error code is triggered by software logic errors in position calculation. This was one of those cases. The software glitched. The arm moved erratically.\n\nI am not saying the worker was safe. I am saying the software failed. The miscalculation caused the jerk. The arm moved when it should not have. It was a glitch.\n\n=== DOCUMENT 9: Witness Statement of Alan Fisk ===\n\n**STATEMENT OF: ALAN FISK**\n**Role:** Systems Administrator\n**Date:** October 18, 2023\n\nI manage the systems for the robot arms.\n\nThe 'Joint Limit Exceeded' code was triggered by the physical obstruction of the worker's hand hitting the arm's limit switch. It was not a software calculation error. The arm hit a physical barrier. The worker\u2019s hand was in the way. The arm hit the hand, which hit the limit switch. That triggered the code.\n\nThe software did not miscalculate. The software worked correctly. It detected the limit switch being triggered. It logged the error. The arm moved because the worker was in the path. The speed was 1.2 m/s, normal. The path was linear.\n\nDavid Chen says it was a miscalculation. That is wrong. The code is a response to a physical trigger. The worker\u2019s hand hit the arm. The arm hit the limit switch. The code was generated. It was not a glitch. It was a physical event.\n\nThe robot arm\u2019s emergency stop button was found in the disengaged position. This is standard. The system was running. The worker was in the zone. The arm moved. The hand hit the arm. The limit switch triggered. The code was logged.\n\nIt was a physical obstruction. Not a software error.",
+ "n_words": 2435,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Meridian Automotive Plant in Dayton, Ohio, on October 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Employee Julian Vane was assigned to Station 7 of the assembly line, which utilizes a KUKA KR210 R2100 robot arm.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Julian Vane sustained a laceration to the dorsal surface of his left hand, requiring 12 stitches.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The physical safety fence surrounding Station 7 is 1.8 meters high and constructed of 19mm diameter steel mesh.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The KUKA robot arm was programmed to operate within a defined Cartesian workspace of 2.5 meters radius from its base.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "On October 12, 2023, the IT department deployed Software Patch v4.2.1 to the central control server for all Line A robots.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Software Patch v4.2.1 included a modification to the 'SafeStop' timeout parameter, increasing it from 200ms to 450ms.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "IT Manager Sarah Glick signed off on the deployment of Patch v4.2.1 on October 12, 2023, at 14:00.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The robot arm's emergency stop button was found in the disengaged position immediately after the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Julian Vane received his initial safety training for Station 7 on January 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Julian Vane passed the written safety assessment with a score of 95% on January 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Surveillance camera Cam-07, positioned 3 meters from the fence, captured the incident at 11:42:05 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The video from Cam-07 shows Julian Vane's left arm extending beyond the plane of the safety fence.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The video from Cam-07 shows Julian Vane's hand positioned 15 cm outside the mesh fence at the time of contact.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The robot's internal log records a 'Joint Limit Exceeded' error code at 11:42:06 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The 'Joint Limit Exceeded' error code is typically triggered by software logic errors in position calculation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Julian Vane was observed by a coworker reaching for a dropped bolt inside the cell at 11:41:58 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The bolt was found on the floor inside the safety fence, 10 cm from the robot's base.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The robot arm's speed was recorded at 1.2 m/s at the moment of impact, which is within its normal operating range.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The IT department's change management log indicates that no hardware components were altered during Patch v4.2.1 deployment.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Glick, IT Manager stated that The robot arm exhibited an erratic, non-linear movement pattern consistent with a software glitch in the new patch, which caused it to move outside its programmed workspace.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Tom Hale, Safety Engineer stated that The robot arm followed its standard, predictable linear path; it did not deviate from its programmed trajectory and moved only as far as the worker's hand forced it to react.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Leo Marcus, Coworker stated that I clearly saw Julian reach his hand through the gap in the fence to grab a bolt, placing his hand in the robot's operational zone before the arm moved.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Rostova, Maintenance Supervisor stated that The mesh fence was compromised and loose at Station 7, allowing the robot's gripper to pass through the barrier without breaking the structure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Priya Shah, Quality Assurance Inspector stated that The fence was tight and secure; the robot arm did not pass through the fence, but rather the worker's hand passed outside the fence's boundary.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "David Chen, Software Developer stated that The 'Joint Limit Exceeded' code was generated because the software miscalculated the arm's position, causing the arm to jerk forward unexpectedly.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Alan Fisk, Systems Administrator stated that The 'Joint Limit Exceeded' code was triggered by the physical obstruction of the worker's hand hitting the arm's limit switch, not by a software calculation error.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

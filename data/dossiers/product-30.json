@@ -1,0 +1,166 @@
+{
+ "dossier_id": "product-30",
+ "split": "test",
+ "domain": "product",
+ "title": "Magnetic Bead Ingestion Incident: Case 2023-042",
+ "premise": "A toddler ingested a detached, colorful magnetic bead from a premium stacking toy, prompting the manufacturer to issue a voluntary recall for the specific production batch.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log - Vance Residence, Oakhaven ===\n\n**Date:** October 12, 2023\n**Time:** 14:30\n**Location:** Vance Family Residence, Oakhaven\n**Weather:** Clear, 18\u00b0C (Indoor incident)\n\n**Subject:** Ingestion of foreign object by Leo Vance (Age 2)\n\n**Narrative Entry:**\nAt 14:30, parents of Leo Vance reported the child had a detached component in his mouth. The component was identified as a bright blue magnetic bead, 15mm in diameter, from the toy model 'StackPro 2000'. The bead was removed manually by the father prior to emergency transport.\n\n**Item Identification:**\n*   **Toy Model:** StackPro 2000\n*   **Serial Number:** Located on base; matches Batch #492-B code.\n*   **Batch Details:** #492-B, produced August 5, 2023, at Northbridge facility.\n*   **Purchase Date:** July 20, 2023, from major retail chain, city center.\n*   **Packaging:** Warning label present: \"Choking Hazard: Small Parts. Not for children under 3 years.\"\n\n**Observations:**\nThe bead was found to be 15mm in diameter. This dimension is below the small parts cylinder threshold of 31.7mm for children under 3. The toy utilizes a snap-fit mechanism requiring 15 Newtons of force to separate, which is a standard accepted in the industry. The specific color of the bead, bright blue, was noted by pediatric development specialists to be highly attractive to toddlers.\n\n**Action Taken:**\nChild taken to St. Mary's Hospital at 15:00 for standard observation.\n\n=== DOCUMENT 2: Medical Report - St. Mary's Hospital ===\n\n**Patient:** Leo Vance\n**DOB:** [Redacted] (Age 2)\n**Date of Visit:** October 12, 2023\n**Time of Arrival:** 15:00\n**Attending Physician:** Dr. A. Smith\n\n**Chief Complaint:**\nIngestion of foreign object (magnetic bead).\n\n**History of Present Illness:**\nPatient presented with a 15mm magnetic bead in the oral cavity. The bead was removed by parental intervention prior to arrival. Patient reports no pain at time of examination.\n\n**Physical Examination:**\n*   **Oral Cavity:** No residual foreign body.\n*   **Lip:** Minor abrasion on the lower lip, measuring 3mm in length.\n*   **General:** Patient is alert, oriented, and asymptomatic.\n\n**Assessment:**\nIngestion event with minor traumatic abrasion. No evidence of airway compromise or internal injury.\n\n**Plan:**\nStandard observation protocol initiated. Patient monitored for 2 hours.\n\n**Discharge Summary:**\nPatient remained asymptomatic throughout the 2-hour monitoring period. No complications observed. Discharged home with instructions to monitor for delayed symptoms. Injury described as minor and self-limiting.\n\n=== DOCUMENT 3: Email Correspondence - PlayWell Industries ===\n\n**From:** Marcus Thorne, Head of Communications, PlayWell Industries\n**To:** Leo Vance, Sarah Vance\n**Date:** October 14, 2023\n**Subject:** Voluntary Recall Notice - Batch #492-B\n\nDear Mr. and Mrs. Vance,\n\nWe are writing to inform you of a voluntary recall notice issued today, October 14, 2023, targeting only Batch #492-B of the StackPro 2000 toy. Our records indicate that your unit, purchased on July 20, 2023, falls within this specific batch produced on August 5, 2023, at the Northbridge facility.\n\nWe understand the distress this incident has caused. Please be assured that the recall notice was distributed via email to registered users within 48 hours of the incident report. We take all safety concerns seriously.\n\nOur internal records show that 99.8% of units in Batch #492-B passed internal quality control tests for magnet retention prior to shipment. The toy\u2019s design uses a snap-fit mechanism that requires 15 Newtons of force to separate, a standard accepted in the industry.\n\nAs a gesture of goodwill, PlayWell Industries has arranged to provide a free replacement toy to your family. This replacement will be delivered on October 15, 2023.\n\nWe stand by the safety of our product and the adequacy of our warning labels, which state \"Choking Hazard: Small Parts. Not for children under 3 years.\"\n\nSincerely,\n\nMarcus Thorne\nHead of Communications\nPlayWell Industries\n\n=== DOCUMENT 4: Witness Statement - SafePlay Advocates ===\n\n**Witness:** Dr. Elena Ross\n**Role:** Lead Engineer, SafePlay Advocates\n**Date:** October 15, 2023\n\nI am filing this statement in response to the ingestion incident involving Leo Vance. The facts are clear and damning.\n\nThe bead detached due to a manufacturing defect in the snap-fit mechanism, which was weaker than industry standards. PlayWell Industries claims the child applied excessive force, but this is a deflection. A 2-year-old does not generate the force required to break a mechanism designed to 15 Newtons unless the mechanism itself is flawed. We have seen this before; it is a systemic design flaw.\n\nFurthermore, the recall was issued too late, as the manufacturer knew about potential defects in Batch #492-B before the incident. They sat on this data while children were at risk. The fact that they distributed the recall via email within 48 hours does not excuse the delay in the initial announcement.\n\nThe injury was severe, as the child experienced significant distress and required immediate medical intervention. To call this \"minor\" is to ignore the trauma inflicted on the family. The bright blue color of the bead, highly attractive to toddlers, makes this an even greater hazard.\n\nWe filed a formal complaint with the regulatory body on October 15, 2023. We will not rest until PlayWell Industries is held accountable for this failure.\n\n**Witness:** Sarah Jenkins\n**Role:** Consumer Safety Officer, SafePlay Advocates\n**Date:** October 15, 2023\n\nI am adding my perspective on the warning labels and the severity of the incident.\n\nThe warning label was insufficiently prominent and did not adequately convey the specific risk of magnetic bead ingestion. A generic \"Choking Hazard\" label is not enough when the product contains high-attraction magnetic components. The label was buried in the packaging, not prominently displayed on the front where parents would see it.\n\nThe injury was severe, as the child experienced significant distress and required immediate medical intervention. The abrasion on the lip, while small in measurement, is a testament to the force involved and the danger posed. The child was not just \"asymptomatic\"; he was in distress until the bead was removed.\n\nWe published a press release on October 16, 2023, highlighting the incident as a systemic design flaw. This is not an isolated case; it is a pattern of negligence.\n\n=== DOCUMENT 5: Regulatory Body Acknowledgment ===\n\n**To:** SafePlay Advocates\n**From:** Office of Consumer Safety, Regulatory Body\n**Date:** October 17, 2023\n**Re:** Formal Complaint - Case 2023-042\n\nDear Dr. Ross and Ms. Jenkins,\n\nWe acknowledge receipt of your formal complaint filed on October 15, 2023, regarding the ingestion incident involving Leo Vance and the PlayWell Industries StackPro 2000 toy (Batch #492-B).\n\nWe have reviewed the initial documentation, including the incident log from the Vance residence, the medical report from St. Mary's Hospital, and the voluntary recall notice issued by PlayWell Industries on October 14, 2023.\n\nWe note that PlayWell Industries reported that 99.8% of units in Batch #492-B passed internal quality control tests for magnet retention prior to shipment. We also note that no other injuries or reports of detached beads were recorded for Batch #492-B in the 30 days following the recall.\n\nHowever, we take the concerns raised by SafePlay Advocates seriously. A review of the case has been scheduled for November 1, 2023. This review will assess the cause of the bead detachment, the adequacy of the warning labels, and the timeliness of the recall.\n\nPlease be advised that this acknowledgment does not constitute a final determination on the merits of the complaint. We will maintain neutrality in our review.\n\nSincerely,\n\nOffice of Consumer Safety\nRegulatory Body",
+ "n_words": 1207,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 12, 2023, at 14:30, a 2-year-old child named Leo Vance was found with a detached 15mm magnetic bead in his mouth at the Vance family residence in Oakhaven.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The child experienced a minor abrasion on the lower lip, measuring 3mm in length, following the ingestion event.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The specific toy involved, model 'StackPro 2000', was manufactured in Batch #492-B, produced on August 5, 2023, at the Northbridge facility.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The detached bead was found to be 15mm in diameter, which is below the small parts cylinder threshold of 31.7mm for children under 3.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The manufacturer, PlayWell Industries, issued a voluntary recall notice on October 14, 2023, targeting only Batch #492-B.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The recall notice was distributed via email to registered users within 48 hours of the incident report.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "PlayWell Industries reported that 99.8% of units in Batch #492-B passed internal quality control tests for magnet retention prior to shipment.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The toy packaging included a warning label stating 'Choking Hazard: Small Parts. Not for children under 3 years.'",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The Vance family purchased the toy on July 20, 2023, from a major retail chain in the city center.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "No other injuries or reports of detached beads were recorded for Batch #492-B in the 30 days following the recall.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The consumer-safety group, SafePlay Advocates, filed a formal complaint with the regulatory body on October 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The bead's color was bright blue, which was noted to be highly attractive to toddlers by pediatric development specialists.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The toy's design uses a snap-fit mechanism that requires 15 Newtons of force to separate, a standard accepted in the industry.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The child was taken to St. Mary's Hospital at 15:00 on October 12, 2023, for a standard observation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The hospital discharge summary noted that the child was asymptomatic and released after 2 hours of monitoring.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "SafePlay Advocates published a press release on October 16, 2023, highlighting the incident as a systemic design flaw.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "PlayWell Industries provided a free replacement toy to the Vance family on October 15, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The regulatory body acknowledged the complaint on October 17, 2023, and scheduled a review for November 1, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The toy's serial number was located on the base and matched the batch code provided in the recall notice.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The weather on October 12, 2023, in Oakhaven was clear with a temperature of 18\u00b0C, unrelated to the indoor incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Elena Ross, Lead Engineer at SafePlay Advocates stated that The bead detached due to a manufacturing defect in the snap-fit mechanism, which was weaker than industry standards.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenkins, Consumer Safety Officer at SafePlay Advocates stated that The warning label was insufficiently prominent and did not adequately convey the specific risk of magnetic bead ingestion.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Elena Ross, Lead Engineer at SafePlay Advocates stated that The recall was issued too late, as the manufacturer knew about potential defects in Batch #492-B before the incident.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Consumer Safety Officer at SafePlay Advocates stated that The injury was severe, as the child experienced significant distress and required immediate medical intervention.",
+   "favors": "A",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": []
+}

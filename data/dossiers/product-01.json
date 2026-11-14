@@ -1,0 +1,190 @@
+{
+ "dossier_id": "product-01",
+ "split": "dev",
+ "domain": "product",
+ "title": "Delaminated Grip Tape Spinal Injury",
+ "premise": "A professional skateboarder fractured her spine after landing on a board with a delaminated grip tape, prompting the deck producer to launch a global recall citing a batch-specific adhesive failure.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Log ===\n\n**INCIDENT REPORT: SPORTS EQUIPMENT FAILURE**\n**Date:** 14 June 2023\n**Time:** 14:30 Local Time\n**Location:** Portland, Oregon (Riverside Skate Park, North Sector)\n**Subject:** Elara Vane (Professional Skateboarder)\n**Equipment:** Kinetik Boards Inc. 'Volt-9' Deck\n**Serial Number:** KB-2023-00492\n\n**1. Incident Description**\nAt approximately 14:30, the subject, Elara Vane, was observed attempting a drop-in from a 1.5-meter concrete ledge. During the descent, the grip tape on the skateboard deck failed to maintain adhesion to the deck surface. The subject lost traction, resulting in a fall. The fall trajectory indicated a significant impact to the thoracic region. Emergency services were dispatched to the scene at 14:35.\n\n**2. Equipment Identification**\nThe skateboard deck involved in the incident is identified as the 'Volt-9' model, manufactured by Kinetik Boards Inc. The serial number KB-2023-00492 was confirmed on the underside of the deck. The deck was recovered from the scene and placed in evidence storage. Visual inspection of the recovered board revealed extensive delamination of the grip tape, particularly at the edges and the center of the deck.\n\n**3. Purchase History**\nRecords indicate that the subject purchased the specific deck (Serial No. KB-2023-00492) from a local retailer in Seattle on 10 May 2023. The original receipt, provided by the subject, lists the purchase price as $145.00.\n\n**4. Medical Outcome**\nThe subject was transported to St. Jude's Hospital. Medical records confirm that Elara Vane sustained a compression fracture in the T12 vertebra. The injury is consistent with a high-impact axial load to the spine.\n\n**5. Post-Incident Actions**\nOn 15 June 2023, the subject filed a formal complaint with the Consumer Safety Group, alleging negligence on the part of the manufacturer. As of 1 July 2023, the subject\u2019s medical bills for the spinal fracture totaled $42,000. The subject has also reported a loss of 6 months of competitive season income due to the injury.\n\n**6. Manufacturer Response**\nKinetik Boards Inc. issued a global recall notice for 'Volt-9' decks on 25 June 2023. The recall notice stated that the recall covers batches produced between 1 May 2023 and 31 May 2023. Kinetik Boards Inc. reported that 12 other users had reported grip tape delamination in the same batch during the first week of June 2023. The company stated that the adhesive failure was limited to a specific supplier batch of resin. Kinetik Boards Inc. offered a full refund and replacement board to all affected customers. Additionally, the company implemented a new quality control step requiring adhesive shear testing on every 10th board.\n\n=== DOCUMENT 2: Witness Statement of Elara Vane ===\n\nI am Elara Vane, a professional skateboarder. I am providing this statement regarding the incident that occurred on 14 June 2023 in Portland, Oregon.\n\nI want to be clear about what happened. I was warming up before my session, and I noticed the grip tape on my board felt loose. It was lifting at the edges. I didn't just ignore it. I went to the local shop where I had recently interacted with staff and warned them about it. I told them the tape was lifting. They looked at it and said it was normal wear. They dismissed my concern. That was a critical error in judgment on their part, and it set the stage for what happened next.\n\nI had used this specific board, the 'Volt-9' with serial number KB-2023-00492, for only 10 hours prior to the incident. Ten hours. That is a very short amount of time for a professional board. This means the defect was present from the start. It was not wear and tear; it was a manufacturing defect. The adhesive simply wasn't holding.\n\nWhen I went for the drop-in from the 1.5-meter ledge, the grip tape failed completely. I lost my footing instantly. It wasn't a mistake in my technique; it was a failure of the equipment. I fell and suffered a compression fracture in my T12 vertebra.\n\nI am not asking for charity. I am asking for accountability. I filed a formal complaint with the Consumer Safety Group on 15 June 2023 because I believe Kinetik Boards Inc. was negligent. They knew or should have known that this batch of boards had issues. They are now offering a refund and a replacement board, but that does not cover my $42,000 in medical bills or the 6 months of competitive season income I have lost. I am requesting a public apology from Kinetik Boards Inc. for the defective product. They need to own up to the fact that they shipped a dangerous product to a professional athlete. The fact that they had zero spinal injuries in the previous five years is irrelevant; it doesn't change the fact that they hurt me. I need them to acknowledge that the product was faulty and that they failed in their duty to ensure safety.\n\n=== DOCUMENT 3: Witness Statement of Marcus Thorne ===\n\nI am Marcus Thorne, Head of Communications at Kinetik Boards Inc. I am providing this statement in response to the allegations made by Elara Vane regarding the incident on 14 June 2023.\n\nFirst, I want to address the claim that we were aware of the defect. There is no record of any warning from Elara Vane or any other customer regarding this specific board's grip tape before the incident. Our customer service logs are clear. We did not receive a complaint about serial number KB-2023-00492 prior to the fall. Elara\u2019s claim that she \"warned the shop\" is not supported by any documentation we have. The local shop is a third-party retailer, and we do not have visibility into their internal conversations, but we can confirm that no report was sent to our headquarters.\n\nRegarding the usage of the board, Elara claims she used it for only 10 hours. Our tracking data suggests the board was used extensively for at least 50 hours before the incident, which could contribute to wear. This is a significant discrepancy. If the board was used for 50 hours, it is reasonable to assume that some degree of wear and tear is expected, even in professional use. We cannot accept the assertion that a board used for 50 hours is \"defective from the start\" without further investigation.\n\nWe also want to address the claims made by Sarah Jenkins regarding \"leaked emails.\" No such emails exist; Kinetik had no prior notice of any adhesive defects from suppliers or internal testing. We maintain that we had no prior knowledge of adhesive failure in the 'Volt-9' line before the incident. The claim that suppliers flagged issues in early May and that we ignored them is false and baseless. We have a rigorous testing process, and this issue was an anomaly that we identified and addressed promptly.\n\nWe are proud of our safety record. Kinetik Boards Inc. has maintained a safety record of zero spinal injuries from their products in the previous five years. This incident is an isolated event caused by a specific supplier batch of resin, which we have since identified. We issued a global recall notice for 'Volt-9' decks on 25 June 2023, covering batches produced between 1 May 2023 and 31 May 2023. This recall scope was scientifically precise, targeting only the batch with the faulty resin, and was approved by independent auditors. We offered a full refund and replacement board to all affected customers, and we implemented a new quality control step requiring adhesive shear testing on every 10th board. We are committed to safety, and we are taking the necessary steps to ensure this does not happen again. We do not believe that a public apology is warranted, as we did not act with negligence, but rather with responsiveness to a newly identified defect.\n\n=== DOCUMENT 4: Witness Statement of Sarah Jenkins ===\n\nI am Sarah Jenkins, a Consumer Safety Advocate. I am providing this statement regarding the Kinetik Boards Inc. 'Volt-9' recall and the incident involving Elara Vane.\n\nI am deeply concerned by the handling of this situation by Kinetik Boards Inc. While the company has issued a recall, I believe it is insufficient and that they have failed to protect all consumers. The recall notice excluded boards from a wider production window that also showed signs of delamination, failing to protect all consumers. Kinetik claims that the recall scope was \"scientifically precise,\" but I disagree. The evidence suggests that the adhesive failure was not limited to the single batch they identified. There are reports of delamination in boards outside the 1 May to 31 May window. By limiting the recall, they are leaving consumers at risk.\n\nFurthermore, I want to address the claim that Kinetik had no prior knowledge of the defect. Internal emails leaked to the press show Kinetik's suppliers flagged adhesive issues in early May, which the manufacturer ignored. This is not speculation; it is documented evidence. If Kinetik knew about the adhesive issues in early May and did not act, they are liable for negligence. Marcus Thorne claims that \"no such emails exist,\" but this is contradicted by the leaked documents. The fact that they implemented a new quality control step requiring adhesive shear testing on every 10th board only after the incident suggests that they were not diligent in their testing prior to that.\n\nElara Vane\u2019s experience is a clear example of the dangers posed by these defective boards. She sustained a compression fracture in her T12 vertebra, a severe injury that has cost her $42,000 in medical bills and 6 months of competitive season income. Kinetik\u2019s offer of a full refund and replacement board is a token gesture that does not address the severity of the injury. They need to take responsibility for the fact that they shipped a product with a known or suspected defect. The claim that they had a safety record of zero spinal injuries in the previous five years is irrelevant; it does not excuse their failure to ensure the safety of the 'Volt-9' line. I urge Kinetik Boards Inc. to expand the recall scope and to provide a public apology for their negligence. Consumers deserve to know the truth about the safety of the products they use.",
+ "n_words": 1687,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On 14 June 2023, at 14:30 local time, professional skateboarder Elara Vane fell from a 1.5-meter ledge in Portland, Oregon.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Medical records from St. Jude's Hospital confirm Elara Vane sustained a compression fracture in the T12 vertebra.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The skateboard deck involved in the incident is a 'Volt-9' model manufactured by Kinetik Boards Inc.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The serial number on the skateboard deck is KB-2023-00492.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Kinetik Boards Inc. issued a global recall notice for 'Volt-9' decks on 25 June 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The recall notice stated that the recall covers batches produced between 1 May 2023 and 31 May 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Elara Vane purchased the skateboard deck from a local shop in Seattle on 10 May 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The receipt for the skateboard deck shows a purchase price of $145.00.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Kinetik Boards Inc. reported that 12 other users reported grip tape delamination in the same batch during the first week of June 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Kinetik Boards Inc. stated that the adhesive failure was limited to a specific supplier batch of resin.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Kinetik Boards Inc. offered a full refund and replacement board to all affected customers.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Kinetik Boards Inc. implemented a new quality control step requiring adhesive shear testing on every 10th board.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Kinetik Boards Inc. has maintained a safety record of zero spinal injuries from their products in the previous five years.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Kinetik Boards Inc. stated that they had no prior knowledge of adhesive failure in the 'Volt-9' line before the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Elara Vane reported that the grip tape on her board felt loose during her warm-up routine on 14 June 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Elara Vane stated that she had used the same board for only 10 hours prior to the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elara Vane filed a formal complaint with the Consumer Safety Group on 15 June 2023, alleging negligence.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Elara Vane's medical bills for the spinal fracture totaled $42,000 as of 1 July 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Elara Vane lost 6 months of competitive season income due to the injury.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Elara Vane requested a public apology from Kinetik Boards Inc. for the defective product.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elara Vane, Professional Skateboarder stated that I noticed the grip tape lifting at the edges during my warm-up and warned the shop about it, but they said it was normal wear.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Head of Communications at Kinetik Boards Inc. stated that There is no record of any warning from Elara Vane or any other customer regarding this specific board's grip tape before the incident.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elara Vane, Professional Skateboarder stated that I only used the board for 10 hours total before the accident, meaning the defect was present from the start.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Thorne, Head of Communications at Kinetik Boards Inc. stated that Our tracking data suggests the board was used extensively for at least 50 hours before the incident, which could contribute to wear.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Consumer Safety Advocate stated that Internal emails leaked to the press show Kinetik's suppliers flagged adhesive issues in early May, which the manufacturer ignored.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Head of Communications at Kinetik Boards Inc. stated that No such emails exist; Kinetik had no prior notice of any adhesive defects from suppliers or internal testing.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Consumer Safety Advocate stated that The recall notice excluded boards from a wider production window that also showed signs of delamination, failing to protect all consumers.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne, Head of Communications at Kinetik Boards Inc. stated that The recall scope was scientifically precise, targeting only the batch with the faulty resin, and was approved by independent auditors.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

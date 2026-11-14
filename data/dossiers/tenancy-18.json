@@ -1,0 +1,184 @@
+{
+ "dossier_id": "tenancy-18",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Hale v. Ironwood Residential Trust",
+ "premise": "A long-term tenant in a public housing project in Detroit, Michigan, files a counterclaim against eviction, arguing the landlord\u2019s systemic neglect of building infrastructure has rendered the entire complex uninhabitable.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Ironwood Residential Trust \u2013 Incident and Maintenance Log ===\n**Date Range:** August 1, 2023 \u2013 January 5, 2024\n**Complex:** Ironwood Commons (4 Buildings, 120 Total Units)\n**Unit:** 402 (North-Facing Wing, Fourth Floor)\n\n**Aug 12, 2023:** Work Order #4402 opened. Vendor: Apex Fix-It. Issue: Emergency boiler system failure reported by management. Status: In Progress. Note: Boiler system installed in 1974.\n\n**Sep 05, 2023:** Maintenance Ticket #4510. Unit 402. Technician: S. Jenkins. Action: Professional cleaning of bedroom surfaces. Reason: Reported discoloration. Status: Closed. Final inspection passed.\n\n**Sep 14, 2023:** Administrative Record. Petition received from 15 tenants in the North-Facing Wing regarding general maintenance issues. Filed by Tenants' Association.\n\n**Oct 15, 2023:** Administrative Record. Formal written notice received from Tenant M. Hale (Unit 402). Content: Specific structural defects in hallway.\n\n**Oct 20, 2023:** Phone Log. Call from Unit 402 to Management Office. Duration: 4 minutes. Topic: Building condition.\n\n**Oct 28, 2023:** Maintenance Log. Call from Tenant M. Hale. Topic: Heating system status.\n\n**Nov 10, 2023:** Event Log. Community meeting held at Ironwood Commons community center. Attendees: Various tenants. Organizer present: E. Rostova. Topic: Building issues.\n\n**Nov 20, 2023:** Administrative Record. 30-Day Notice to Quit issued to Tenant M. Hale. Reason: Non-payment of rent for October 2023. Monthly Rent Amount: $1,150.00 (includes water/sewage utilities).\n\n**Nov 20, 2023:** Environmental Report. Air quality testing conducted in Unit 402 bedroom. Consultant: Dr. A. Thorne. Result: High levels of *Stachybotrys chartarum* spores detected.\n\n**Nov 25, 2023:** Legal Correspondence. Letter from Landlord\u2019s Counsel to Tenant\u2019s Attorney. Reference: Previous warning letter for late rent payment issued July 2023.\n\n**Dec 01, 2023:** Inspection Report. Detroit Department of Buildings. Inspector: City Official. Location: Exterior of Ironwood Commons, North-Facing Wing. Observation: Visible water stains on brickwork, fourth floor.\n\n**Dec 05, 2023:** Maintenance Log. Boiler failure reported. Heat loss in North-Facing Wing.\n\n**Dec 12, 2023:** Maintenance Log. Heat restored to North-Facing Wing. Duration of outage: 7 days.\n\n**Jan 01, 2024:** Insurance Record. Ironwood Residential Trust property insurance policy renewed. Coverage Limit: $5,000,000.\n\n**Jan 05, 2024:** Legal Filing. Counterclaim filed by Tenant\u2019s Attorney. Allegation: Unit uninhabitable due to lack of heat for seven days in December. Cite: Michigan Residential Code Section 525.210.\n\n=== DOCUMENT 2: Witness Statement of Marcus Hale ===\n**Statement of Marcus Hale, Tenant, Unit 402**\n**Date:** January 12, 2024\n**Sworn and Subscribed**\n\nI have lived in Unit 402 at Ironwood Commons since March 12, 2019. My lease expires on June 30, 2024. I am a responsible tenant, but the landlord has treated this building as a dump, and I am finally forced to take legal action to protect my health and safety.\n\nFirst, I want to address the absurd claim that I failed to pay my October rent because of \"personal financial difficulties.\" This is a lie. I withheld the $1,150 rent payment because the heating system in my unit was completely inoperative for ten days in October. The apartment was freezing. It was uninhabitable. I had to stay in a hotel because I could not physically exist in that cold box. I did not withhold rent to be difficult; I withheld it because the landlord failed to provide basic services. I did contact the maintenance office, but they did nothing.\n\nFurthermore, the landlord is trying to hide the fact that my bedroom is full of black mold. Dr. Thorne\u2019s report proves it. The air quality testing showed high levels of *Stachybotrys chartarum*. This is a persistent biological hazard. Sarah Jenkins, their maintenance technician, says it is just \"condensation.\" That is nonsense. I have been coughing and sneezing for months. The discoloration is mold, and it is dangerous.\n\nRegarding the hallway, the situation is even worse. The main hallway on the fourth floor floods with at least two inches of standing water every time it rains. It creates a massive slip hazard. I have seen residents slip and fall. It damages personal property. The distance from my door to the main entrance is 350 feet, and I have to wade through this water every single day. Tommy Vane, the security guard, claims the floors are dry and safe. He is wrong. He has not been paying attention, or he is lying to protect the management. The water is there. It is visible. It is dangerous.\n\nFinally, the boiler failure in December was the final straw. The boiler failed because the landlord ignored repeated requests from tenants to service the aging equipment. The building was constructed in 1974. The equipment is old and neglected. I filed a formal notice on October 15, 2023, detailing the structural defects in the hallway, and they ignored it. Then in December, the heat went out for seven days. This rendered the unit uninhabitable. My counterclaim cites Michigan Residential Code Section 525.210, which prohibits landlords from knowingly renting units that are unfit for human habitation. This building is unfit. The landlord is negligent, and I am holding them accountable.\n\n=== DOCUMENT 3: Witness Statement of David Sterling ===\n**Statement of David Sterling, Property Manager, Ironwood Residential Trust**\n**Date:** January 12, 2024\n**Sworn and Subscribed**\n\nI have managed the Ironwood Commons complex for the past five years. The complex consists of four buildings with 120 residential units. I am prepared to state the facts clearly to refute the tenant\u2019s baseless accusations.\n\nFirst, regarding the non-payment of rent for October 2023. The tenant, Mr. Hale, failed to pay rent due to personal financial difficulties. He chose not to contact the maintenance office until the 28th of the month, well after the due date. This is not a case of withholding rent for heating issues; it is a case of a tenant who had cash flow problems and delayed communication. Our records show his bank statements for October 2023 show no deposit of rent into the landlord's designated account. We issued a 30-day notice to quit on November 20, 2023, in accordance with the lease and state law.\n\nSecond, regarding the mold allegations. There is no active mold in Unit 402. The discoloration observed in the bedroom is caused by condensation from high humidity, not mold. Professional cleaning was performed in September 2023 by our lead maintenance technician, Sarah Jenkins, and the unit passed the final inspection. The air quality testing conducted by Dr. Thorne is an isolated incident that does not reflect the overall condition of the unit. The 2022 annual safety inspection report for the complex listed the building as 'Compliant' with all state safety codes. We take safety seriously.\n\nThird, regarding the hallway flooding. The hallway has never flooded. Residents occasionally track in wet shoes, but the floors are dry and safe. No standing water has been observed in the three years I have worked here. The security guard, Tommy Vane, confirms this. The tenant\u2019s claim of two inches of standing water is exaggerated and false.\n\nFinally, regarding the boiler repairs. The boiler failure was caused by the tenant's improper use of the thermostat settings, which locked out the system. The landlord promptly hired Apex Fix-It to reset the unit, restoring heat within 24 hours. The tenant is trying to blame the landlord for his own misuse of the equipment. We hired a reputable vendor, Apex Fix-It, to perform emergency repairs on the building's boiler system in August 2023. The system is functioning properly. The tenant\u2019s counterclaim is meritless and an attempt to avoid paying rent and vacating the unit.\n\n=== DOCUMENT 4: Witness Statement of Elena Rostova ===\n**Statement of Elena Rostova, Tenants' Union Organizer**\n**Date:** January 12, 2024\n**Sworn and Subscribed**\n\nI am the organizer for the tenants of Ironwood Commons. I attended a community meeting on November 10, 2023, where tenants discussed various building issues. I am speaking on behalf of the residents who are suffering under the neglect of Ironwood Residential Trust.\n\nThe main hallway on the fourth floor floods with at least two inches of standing water every time it rains. This is not an occasional issue; it is a chronic problem. It creates a slip hazard and damages personal property of residents. We have seen elderly residents slip and fall. We have seen water damage to carpets and furniture. The landlord\u2019s claim that the floors are dry and safe is a blatant lie. The water is there, and it is dangerous.\n\nThe building is a disaster. The heating system in the north-facing wing is unreliable. In December, the heat was out for seven days. This rendered the units uninhabitable. The boiler failed because the landlord ignored repeated requests from tenants to service the aging equipment. The building was constructed in 1974, and the infrastructure is failing. The landlord has not invested in maintenance. They have only focused on collecting rent.\n\nThe tenant in Unit 402, Mr. Hale, is not acting alone. He is part of a larger group of tenants who are being neglected. In September 2023, 15 other tenants in the north-facing wing signed a petition regarding general maintenance issues. The landlord ignored this petition. They ignored the formal notice Mr. Hale submitted on October 15, 2023. They ignored the phone call he made on October 20, 2023. They are in contempt of the tenants' rights.\n\nThe mold in Unit 402 is real. Dr. Thorne\u2019s report confirms it. The landlord is trying to dismiss it as condensation, but the spores are there. The health of the tenants is at risk. The landlord\u2019s insurance policy, renewed on January 1, 2023, with a coverage limit of $5 million, is not enough to cover the negligence they have shown. We demand that the landlord be held accountable for the uninhabitable conditions they have created.\n\n=== DOCUMENT 5: Witness Statement of Robert Kline ===\n**Statement of Robert Kline, Project Manager, Apex Fix-It**\n**Date:** January 12, 2024\n**Sworn and Subscribed**\n\nI am the Project Manager for Apex Fix-It, the maintenance vendor hired by Ironwood Residential Trust. I am prepared to state the technical facts regarding the boiler system in the Ironwood Commons complex.\n\nIn August 2023, we were hired to perform emergency repairs on the building's boiler system. The system is aging, having been installed in 1974, but it was functioning properly until the incident in December.\n\nThe boiler failure in December was caused by the tenant's improper use of the thermostat settings in Unit 402. The tenant had locked out the system by setting the thermostat to a mode that prevented the boiler from igniting. This is a common user error. The landlord promptly hired us to reset the unit. We arrived on the scene and restored heat within 24 hours. The system is now functioning correctly.\n\nI have reviewed the maintenance logs and the tenant\u2019s usage patterns. The data supports my conclusion that the failure was due to user error, not mechanical neglect. The landlord did not ignore requests for service; they responded promptly when the issue was reported. The tenant\u2019s claim that the landlord ignored repeated requests is false. The landlord\u2019s responsibility was to maintain the boiler, and they did so by hiring us to perform the necessary repairs.\n\nThe distance between the tenant's unit and the main entrance is 350 feet, but this is irrelevant to the boiler issue. The boiler is a central system, and its operation is not affected by the distance from the entrance. The tenant\u2019s counterclaim is based on a misunderstanding of how the system works. I stand by my technical assessment that the failure was due to improper use of the thermostat.",
+ "n_words": 1898,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "Tenant Marcus Hale has resided in Unit 402 of the Ironwood Commons complex since March 12, 2019.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "On October 15, 2023, the tenant submitted a formal written notice to the landlord's management office detailing specific structural defects in the hallway.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The landlord issued a 30-day notice to quit on November 20, 2023, citing non-payment of rent for the month of October.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Unit 402 is located on the fourth floor of the north-facing wing of the Ironwood Commons building, which was constructed in 1974.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The tenant's monthly rent for Unit 402 is $1,150, which includes utilities for water and sewage.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "On December 1, 2023, a representative from the Detroit Department of Buildings inspected the exterior of the building and noted visible water stains on the brickwork of the fourth floor.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The landlord's property management company, Ironwood Residential Trust, hired a maintenance vendor, Apex Fix-It, to perform emergency repairs on the building's boiler system in August 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The tenant's bank statements for October 2023 show no deposit of rent into the landlord's designated account.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The Ironwood Commons complex consists of four buildings with a total of 120 residential units.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "On January 5, 2024, the tenant's attorney filed a counterclaim alleging that the building's lack of heat for seven days in December rendered the unit uninhabitable.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "In September 2023, 15 other tenants in the north-facing wing signed a petition regarding general maintenance issues in their respective units.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The landlord provided a copy of the 2022 annual safety inspection report for the complex, which listed the building as 'Compliant' with all state safety codes.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The tenant's lease expires on June 30, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "On October 20, 2023, the landlord's office logged a phone call from the tenant regarding the building's condition.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The tenant's counterclaim cites the Michigan Residential Code Section 525.210, which prohibits landlords from knowingly renting units that are unfit for human habitation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The landlord's counsel submitted a letter dated November 25, 2023, stating that the tenant had previously received a warning letter for late rent payment in July 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The distance between the tenant's unit and the main entrance of the building is 350 feet.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The tenant's union organizer, Elena Rostova, attended a community meeting on November 10, 2023, where tenants discussed various building issues.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The landlord's insurance policy for the Ironwood Commons complex was renewed on January 1, 2023, with a coverage limit of $5 million.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Marcus Hale, Tenant stated that I withheld rent because the heating system in my unit was completely inoperative for ten days in October, making the unit uninhabitable and forcing me to stay in a hotel.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Sterling, Landlord's Property Manager stated that The tenant failed to pay rent due to personal financial difficulties and chose not to contact the maintenance office until the 28th of the month, well after the due date.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Independent Environmental Consultant stated that Air quality testing conducted on November 20, 2023, detected high levels of Stachybotrys chartarum (black mold) spores in the bedroom of Unit 402, indicating a persistent biological hazard.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Jenkins, Lead Maintenance Technician stated that The discoloration observed in the bedroom is caused by condensation from high humidity, not mold; professional cleaning was performed in September 2023, and the unit passed the final inspection.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Rostova, Tenants' Union Organizer stated that The main hallway on the fourth floor floods with at least two inches of standing water every time it rains, creating a slip hazard and damaging personal property of residents.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Tommy Vane, Building Security Guard stated that The hallway has never flooded; residents occasionally track in wet shoes, but the floors are dry and safe, and no standing water has been observed in the three years I have worked here.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Hale, Tenant stated that The boiler failed in December because the landlord ignored repeated requests from tenants to service the aging equipment, leading to a total loss of heat.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Robert Kline, Apex Fix-It Project Manager stated that The boiler failure was caused by the tenant's improper use of the thermostat settings, which locked out the system; the landlord promptly hired us to reset the unit, restoring heat within 24 hours.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

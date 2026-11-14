@@ -1,0 +1,166 @@
+{
+ "dossier_id": "tenancy-08",
+ "split": "dev",
+ "domain": "tenancy",
+ "title": "Vale Health Clinic v. Sterling Property Group",
+ "premise": "A community health clinic tenant fights an eviction notice issued after the landlord refused to upgrade electrical wiring to support medical equipment, resulting in frequent power outages that forced the clinic to suspend services and miss payments.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement Excerpts and Financial Ledger (Sterling Property Group Records) ===\n\n**EXCERPT FROM COMMERCIAL LEASE AGREEMENT**\n**Parties:** Sterling Property Group (\"Landlord\") and Vale Health Clinic (\"Tenant\")\n**Date of Execution:** January 12, 2022\n\n**Section 4.1: Landlord Obligations**\nThe Landlord shall maintain all electrical systems, including the main distribution panel and associated wiring, in compliance with all local safety codes and regulations throughout the term of this Lease. The Landlord is responsible for the structural integrity of the building\u2019s electrical infrastructure.\n\n**Section 4.2: Tenant Obligations and Alterations**\nAny alterations to the building structure or systems require written approval from the Landlord 60 days in advance. The Tenant agrees that any modifications for specific equipment usage are the sole responsibility of the Tenant unless otherwise agreed in writing.\n\n**Section 7.1: Rent and Cure Periods**\nRent is due on the first day of each month. Failure to pay rent within the cure period specified in local statute constitutes a material breach. The Tenant must provide 90 days' notice before seeking relocation or lease termination.\n\n**Section 9.3: Quiet Enjoyment**\nThe Landlord covenants that the Tenant shall have quiet enjoyment of the Premises. The Landlord shall not interfere with the Tenant's lawful use of the Premises.\n\n**SECTION: FINANCIAL LEDGER - MARCH 2024**\n**Account:** Vale Health Clinic\n**Status:** Delinquent\n\n| Date | Description | Amount | Status |\n| :--- | :--- | :--- | :--- |\n| 03/01/2024 | Rent Due | $18,500.00 | Pending |\n| 03/15/2024 | Payment Received | $18,500.00 | Late (14 days) |\n\n*Note: Payment received on March 15, 2024. This constitutes a 14-day delay from the due date.*\n\n**Insurance Compliance Log**\n**Period:** Q1 2024\n**Status:** Non-Compliant\n**Detail:** The Tenant failed to submit the required monthly insurance certificate for January 2024 to the Landlord's management office. No certificate was received by February 28, 2024.\n\n=== DOCUMENT 2: Electrical Inspection Report and Maintenance Logs ===\n\n**ELECTRICAL SYSTEM INSPECTION REPORT**\n**Date:** February 20, 2024\n**Inspector:** Licensed Electrician, Sterling Property Group Vendor\n**Location:** Vale Health Clinic, Suite 400, Sterling Tower\n\n**Findings:**\n1.  **Wiring Gauge:** The existing wiring gauge in the main corridor leading to the diagnostic suite is insufficient for the installed MRI machine. The current gauge is rated for 60 amps; the MRI machine requires a dedicated 200-amp circuit.\n2.  **Main Panel Age:** The building's main electrical panel was installed in 1995. This unit is older than the recommended 25-year lifespan for commercial high-load panels.\n3.  **Load Capacity:** The building's main panel does not currently provide the capacity for the dedicated 200-amp circuit required by the MRI machine.\n4.  **Code Compliance:** Local fire code Section 4.2 mandates that medical facilities must have backup power sources for critical diagnostic equipment. No backup generator or UPS system for the MRI was observed.\n\n**RECOMMENDATION:**\nImmediate upgrade of wiring and main panel is required to meet code and operational safety standards.\n\n**MAINTENANCE LOGS - STERLING PROPERTY GROUP**\n**Period:** June 2023 \u2013 January 2024\n**Property:** Sterling Tower\n**Category:** Electrical Systems\n\n| Date | Work Order ID | Description | Status |\n| :--- | :--- | :--- | :--- |\n| *No entries found* | *N/A* | *N/A* | *N/A* |\n\n*Note: Review of maintenance logs confirms no record of any service calls or work orders regarding the electrical system between June 2023 and January 2024.*\n\n**Portfolio Maintenance Summary**\n**Entity:** Sterling Property Group\n**Asset Class:** Commercial\n**Count:** 12 properties\n**Performance Metric:** On-time maintenance responses\n**Status:** Documented history of on-time maintenance responses for other tenants across the portfolio.\n\n=== DOCUMENT 3: Correspondence and Internal Communications ===\n\n**EMAIL 1**\n**From:** Julian Vane, Tenants' Union Legal Advisor\n**To:** Sterling Property Group Legal Department\n**Date:** March 1, 2024\n**Subject:** Formal Request for Wiring Upgrade\n\nDear Counsel,\n\nThis letter serves as a formal request from the tenant, Vale Health Clinic, to initiate the wiring upgrade project immediately. The clinic is currently facing operational risks due to the electrical infrastructure. We expect the landlord to act in accordance with their maintenance obligations.\n\nBest,\nJulian Vane\n\n**EMAIL 2**\n**From:** David Okafor, Landlord's Accounting Lead\n**To:** Priya Sharma, Clinic Financial Officer\n**Date:** March 18, 2024\n**Subject:** RE: March Rent Payment\n\nMs. Sharma,\n\nWe have received the rent payment for March 2024 today. Please note that this payment was submitted 14 days late. We remind you that consistent late payments are a breach of the lease terms. We also note that we have not received the insurance certificate for January 2024. Please rectify this immediately.\n\nRegards,\nDavid Okafor\n\n**INTERNAL MEMO - STERLING PROPERTY GROUP**\n**From:** Marcus Thorne, Property Manager\n**To:** Legal Department\n**Date:** April 10, 2024\n**Subject:** Eviction Strategy - Vale Health Clinic\n\nLegal,\n\nI am preparing the 30-day notice to quit for Vale Health Clinic. The sole reason is non-payment of rent (specifically the late payment and the lack of a cure for the late payment status).\n\nNote: The tenant claims the outages are our fault. Our Chief Electrician, Leo Gable, says the outages are because the tenant connected high-draw equipment to circuits not rated for it, despite warnings in the tenant manual. However, the lease says we maintain electrical systems. I think we should stick to the non-payment angle because the notice form is strict.\n\nAlso, the tenant's attorney sent a letter on March 1st asking for the upgrade. We haven't responded yet.\n\nMarcus\n\n**EMAIL 3**\n**From:** Rachel Stone, Landlord's Litigation Counsel\n**To:** Marcus Thorne\n**Date:** April 12, 2024\n**Subject:** RE: Eviction Strategy - Vale Health Clinic\n\nMarcus,\n\nI have reviewed the lease and the payment history. The eviction notice will comply with all statutory requirements for form and delivery time. We will cite non-payment of rent as the sole reason.\n\nRegarding the \"quiet enjoyment\" clause the tenant might argue: In this jurisdiction, for health-related tenants, if the landlord fails to cure a breach of quiet enjoyment, it can take precedence. However, we have no record of a specific \"interference\" other than the power issues which the electrician attributes to the tenant's load. I will draft the notice to focus strictly on the rent default.\n\nRachel Stone\n\n=== DOCUMENT 4: Witness Statements ===\n\n**STATEMENT OF DR. ELENA ROSTOVA, MEDICAL DIRECTOR, VALE HEALTH CLINIC**\n**Date:** May 5, 2024\n\nI am the Medical Director at Vale Health Clinic. I have been with the clinic for six years.\n\nThe landlord was contractually and legally obligated to upgrade the wiring because the MRI machine was part of the approved tenant fit-out plan discussed in pre-lease negotiations. We discussed this extensively before signing the lease in January 2022. The lease explicitly requires the landlord to maintain all electrical systems in compliance with local safety codes. When we installed the MRI, which requires a dedicated 200-amp circuit, we assumed the landlord would ensure the building could support it.\n\nThe situation became critical in February 2024. We suspended all patient services for 45 consecutive days starting February 25, 2024, due to repeated power failures. This was not a choice; it was a safety imperative. The lack of stable power compromised the integrity of patient records stored on local servers during the outage period. This is a severe liability for us.\n\nOur revenue dropped by 60% in February 2024 compared to the same month in 2023, directly correlating with the period of service suspension. Our operating budget for 2024 allocated 15% for potential equipment upgrades, but no funds were set aside for building infrastructure modifications because we relied on the landlord's obligations.\n\nThe late rent payment in March 2024 was a direct result of the revenue loss caused by the mandatory service suspension, which was forced by the landlord's negligence in maintaining the building. We were not in a position to pay on time when our primary revenue stream was halted.\n\n**STATEMENT OF MARCUS THORNE, PROPERTY MANAGER, STERLING PROPERTY GROUP**\n**Date:** May 5, 2024\n\nI am the Property Manager for Sterling Property Group. I oversee the Sterling Tower.\n\nThe wiring upgrade was a tenant-specific modification request that fell outside the scope of standard maintenance, requiring the tenant to bear the cost or seek third-party financing. The lease agreement specifies that any alterations to the building structure or systems require written approval from the landlord 60 days in advance. The tenant did not submit a formal request for alteration with the required timeline; they simply installed the machine.\n\nWe maintain a portfolio of 12 commercial properties in the city, with a documented history of on-time maintenance responses for other tenants. We do not ignore maintenance issues. The landlord's maintenance logs show no record of any service calls or work orders regarding the electrical system between June 2023 and January 2024, which indicates the system was stable until the tenant's new equipment was connected.\n\nThe tenant failed to submit the required monthly insurance certificate for January 2024 to the landlord's management office. This is a breach of the lease. Furthermore, the tenant's attorney submitted a letter on March 1, 2024, formally requesting the landlord to initiate the wiring upgrade project. We issued a formal 30-day notice to quit on April 15, 2024, citing non-payment of rent as the sole reason. The notice is valid because the tenant did not formally dispute the amount owed within the 10-day cure period.\n\n**STATEMENT OF SARAH JENKINS, HEAD NURSE, VALE HEALTH CLINIC**\n**Date:** May 5, 2024\n\nI am the Head Nurse at Vale Health Clinic. I manage the daily operations of the nursing staff.\n\nThe frequent outages were caused by the landlord's failure to replace the deteriorated main panel, which created a safety hazard that the landlord ignored after being notified. We reported the flickering lights and tripped breakers to management in late January 2024. They said they would look into it, but nothing happened.\n\nOur staff recorded 12 distinct power outages exceeding 15 minutes between February 1 and February 20, 2024. These outages were chaotic. The MRI machine would drop, alarms would go off, and we had to manually stabilize patients. It was a violent disruption to our care. We had to suspend services on February 25 because we could not guarantee patient safety.\n\nThe lease contains a 'quiet enjoyment' clause that prohibits the landlord from interfering with the tenant's lawful use of the premises. The constant power failures are a direct interference. We were forced to stop seeing patients, which caused our revenue to drop by 60% in February 2024 compared to the same month in 2023. This loss directly caused the late rent payment in March.\n\n**STATEMENT OF LEO GABLE, CHIEF ELECTRICIAN, STERLING PROPERTY GROUP**\n**Date:** May 5, 2024\n\nI am the Chief Electrician for Sterling Property Group. I inspected the clinic on February 20, 2024.\n\nThe outages were caused by the tenant's unauthorized connection of high-draw medical equipment to circuits not rated for such loads, despite clear warnings in the tenant manual. The tenant manual, provided at move-in, explicitly states that tenants must not exceed the amperage rating of the existing circuits without written approval and upgrades.\n\nThe wiring gauge was insufficient for the installed MRI machine, as I noted in my report. The MRI requires a dedicated 200-amp circuit, which the building's main panel does not currently provide. The panel was installed in 1995, which is older than the recommended 25-year lifespan, but it was functioning for the standard office loads it was designed for. The tenant's decision to plug a 200-amp machine into a 60-amp circuit is a violation of the lease and electrical codes.\n\nLocal fire code Section 4.2 mandates that medical facilities must have backup power sources for critical diagnostic equipment. The tenant did not install this. The outages were a direct result of the tenant's load exceeding the circuit capacity.\n\n**STATEMENT OF PRIYA SHARMA, CLINIC FINANCIAL OFFICER, VALE HEALTH CLINIC**\n**Date:** May 5, 2024\n\nI am the Financial Officer for Vale Health Clinic.\n\nThe late rent payment in March 2024 was a direct result of the revenue loss caused by the mandatory service suspension, which was forced by the landlord's negligence in maintaining the building. We were in a cash flow crisis.\n\nHowever, I must clarify that the clinic was still receiving insurance reimbursements for services rendered in prior months. We had funds available. The late payment was a discretionary choice by the tenant to prioritize other operational expenses over the lease obligation, such as keeping staff on payroll during the suspension period. We were not insolvent; we were managing a crisis caused by the landlord's failure to maintain the electrical system.\n\nThe lease requires the landlord to maintain electrical systems. They did not. The maintenance logs show no record of any service calls or work orders regarding the electrical system between June 2023 and January 2024. This proves they were not monitoring the system.\n\n**STATEMENT OF DAVID OKAFOR, LANDLORD'S ACCOUNTING LEAD, STERLING PROPERTY GROUP**\n**Date:** May 5, 2024\n\nI am the Accounting Lead for Sterling Property Group.\n\nThe late rent payment was a discretionary choice by the tenant to prioritize other operational expenses over the lease obligation, as the clinic was still receiving insurance reimbursements for services rendered in prior months. The payment was received on March 15, 2024, which was 14 days late.\n\nThe tenant's claim that the outage caused the late payment is not supported by the financial records. The revenue drop in February 2024 was due to the service suspension, but the rent for March was due on March 1. The tenant had time to pay.\n\nThe eviction notice was issued on April 15, 2024, citing non-payment of rent as the sole reason. This is a strict obligation. The tenant did not formally dispute the amount owed within the 10-day cure period. The notice complied with all statutory requirements for form and delivery time.\n\n**STATEMENT OF JULIAN VANE, TENANTS' UNION LEGAL ADVISOR**\n**Date:** May 5, 2024\n\nI am the Legal Advisor for the Tenants' Union, representing Vale Health Clinic.\n\nThe eviction notice was invalid because the landlord failed to cure the breach of the 'quiet enjoyment' clause, which takes precedence over the non-payment clause in this specific jurisdiction for health-related tenants.\n\nThe landlord is in breach of Section 4.1 of the lease, which requires them to maintain electrical systems in compliance with local safety codes. The wiring gauge was insufficient, and the main panel was deteriorated. The landlord ignored our requests for repair.\n\nThe tenant failed to submit the required monthly insurance certificate for January 2024, but this does not justify the eviction for non-payment when the primary issue is the landlord's failure to maintain the premises. The landlord's action to evict is an interference with the tenant's quiet enjoyment.\n\n**STATEMENT OF RACHEL STONE, LANDLORD'S LITIGATION COUNSEL**\n**Date:** May 5, 2024\n\nI am the Litigation Counsel for Sterling Property Group.\n\nThe eviction notice was valid and enforceable because the primary breach was non-payment of rent, a strict obligation, and the tenant did not formally dispute the amount owed within the 10-day cure period.\n\nThe argument regarding the 'quiet enjoyment' clause is meritless in the context of the eviction notice because the notice was issued specifically for non-payment. The tenant's failure to pay rent on time is a clear breach. The maintenance issues are separate legal claims that do not automatically void a non-payment eviction notice.\n\nThe notice complied with all statutory requirements for form and delivery time. We are prepared to proceed with the eviction if the rent is not cured.",
+ "n_words": 2548,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement signed on January 12, 2022, explicitly requires the landlord to maintain all electrical systems in compliance with local safety codes.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Vale Health Clinic's monthly rent payment for March 2024 was submitted 14 days late.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "A licensed electrician inspected the clinic on February 20, 2024, and reported that the wiring gauge was insufficient for the installed MRI machine.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Sterling Property Group issued a formal 30-day notice to quit on April 15, 2024, citing non-payment of rent as the sole reason.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Vale Health Clinic suspended all patient services for 45 consecutive days starting February 25, 2024, due to repeated power failures.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The lease contract includes a clause stating that tenants must provide 90 days' notice before seeking relocation or lease termination.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The clinic's revenue dropped by 60% in February 2024 compared to the same month in 2023, directly correlating with the period of service suspension.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Sterling Property Group maintains a portfolio of 12 commercial properties in the city, with a documented history of on-time maintenance responses for other tenants.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The MRI machine installed by the clinic requires a dedicated 200-amp circuit, which the building's main panel does not currently provide.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The tenant failed to submit the required monthly insurance certificate for January 2024 to the landlord's management office.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Local fire code Section 4.2 mandates that medical facilities must have backup power sources for critical diagnostic equipment.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The landlord's maintenance logs show no record of any service calls or work orders regarding the electrical system between June 2023 and January 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The clinic's staff recorded 12 distinct power outages exceeding 15 minutes between February 1 and February 20, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The lease agreement specifies that any alterations to the building structure or systems require written approval from the landlord 60 days in advance.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The clinic's medical director testified that the lack of stable power compromised the integrity of patient records stored on local servers during the outage period.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Sterling Property Group's legal counsel confirmed that the eviction notice complied with all statutory requirements for form and delivery time.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The clinic's operating budget for 2024 allocated 15% for potential equipment upgrades, but no funds were set aside for building infrastructure modifications.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's attorney submitted a letter on March 1, 2024, formally requesting the landlord to initiate the wiring upgrade project.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The building's main electrical panel was installed in 1995, which is older than the recommended 25-year lifespan for commercial high-load panels.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The lease contains a 'quiet enjoyment' clause that prohibits the landlord from interfering with the tenant's lawful use of the premises.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Sterling Property Manager stated that The wiring upgrade was a tenant-specific modification request that fell outside the scope of standard maintenance, requiring the tenant to bear the cost or seek third-party financing.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Leo Gable, Chief Electrician for Sterling stated that The outages were caused by the tenant's unauthorized connection of high-draw medical equipment to circuits not rated for such loads, despite clear warnings in the tenant manual.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "David Okafor, Landlord's Accounting Lead stated that The late rent payment was a discretionary choice by the tenant to prioritize other operational expenses over the lease obligation, as the clinic was still receiving insurance reimbursements for services rendered in prior months.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Rachel Stone, Landlord's Litigation Counsel stated that The eviction notice was valid and enforceable because the primary breach was non-payment of rent, a strict obligation, and the tenant did not formally dispute the amount owed within the 10-day cure period.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": []
+}

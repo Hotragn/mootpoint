@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-04",
+ "split": "dev",
+ "domain": "tenancy",
+ "title": "Vance v. Sterling Heights Management LLC",
+ "premise": "A high-rise condo owner facing eviction for violating building rules disputes the claim that his custom kitchen renovation caused damage, arguing that the pre-existing structural cracks were concealed by the landlord\u2019s previous negligent repairs.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement (Excerpt) - Unit 402, Sterling Heights ===\n\n**LEASE AGREEMENT**\n\nThis Lease Agreement (\"Agreement\") is entered into as of **October 12, 2021**, by and between Sterling Heights Management LLC (\"Landlord\") and the Tenant named herein.\n\n**1. PREMISES**\nLandlord leases to Tenant the apartment unit known as Unit 402 (the \"Premises\") within the building located at 4500 Sterling Avenue.\n\n**2. TERM**\nThe initial term of this Lease shall be for twelve (12) months, commencing on November 1, 2021.\n\n**3. USE AND ALTERATIONS**\nTenant shall use the Premises solely for residential purposes. Tenant shall not make any structural modifications, alterations, or improvements to the Premises without the prior written consent of the Landlord. Any modification performed without such written consent shall be deemed a material breach of this Agreement and shall be at the sole expense of the Tenant to reverse.\n\n**4. MAINTENANCE AND REPAIRS**\nLandlord shall maintain the structural integrity of the building, including roofs, walls, and ceilings. Tenant shall promptly notify Landlord of any damage or defect discovered.\n\n**5. ASSIGNMENT AND SUBLETTING**\nTenant may not assign this Lease or sublet the Premises without written consent.\n\n**Signatures:**\n\n_________________________\nSterling Heights Management LLC\nBy: Marcus Sterling, Agent\nDate: October 12, 2021\n\n_________________________\nTenant (Elena Vance)\nDate: October 12, 2021\n\n***\n\n**ADDENDUM A: BUILDING HISTORY RECORDS**\n\n*Submitted by Sterling Heights Management LLC*\n\n**Building Occupancy Log for Unit 402**\n*   **2018 - 2021:** Occupied by Previous Tenant (J. Miller).\n*   **2021 - Present:** Occupied by Current Tenant (E. Vance).\n\n**Maintenance Log Excerpt - Unit 402**\n*   **January 1, 2023 - March 9, 2023:** No entries recorded for Unit 402.\n*   **March 10, 2023:** Repair to kitchen ceiling performed. Technician: R. Henderson. Notes: \"Applied patch to visible crack in plaster. Applied skim coat. No structural assessment performed.\"\n*   **June 5, 2023:** Elevator scheduled stop for routine inspection (Building-wide record). No specific unit-specific maintenance noted.\n\n=== DOCUMENT 2: Correspondence and Incident Log ===\n\n**EMAIL**\n**From:** Marcus Sterling <m.sterling@sterlingheights.com>\n**To:** Elena Vance <evance.tenant@gmail.com>\n**Date:** June 12, 2023\n**Subject:** Notice of Violation - Unit 402\n\nDear Ms. Vance,\n\nI am writing to formally notify you of a violation of Section 3 of your Lease Agreement. A review of the Premises has revealed unauthorized structural modifications to the kitchen area. Specifically, the installation of heavy custom cabinetry has not been approved in writing by Landlord.\n\nFurthermore, recent inspections have identified visible cracking in the plaster of the kitchen ceiling, which we believe is directly related to the unauthorized modifications.\n\nPursuant to the Lease, you are hereby demanded to remove the kitchen renovation and restore the unit to its original condition within thirty (30) days of the date of this email. Failure to comply will result in legal action and potential eviction proceedings.\n\nSincerely,\n\nMarcus Sterling\nAgent, Sterling Heights Management LLC\n\n***\n\n**NOTICE OF VIOLATION**\n**Issued By:** Sterling Heights Management LLC\n**Date Issued:** June 1, 2023\n**Recipient:** Tenant, Unit 402\n**Reason:** Building Code Compliance - Unauthorized Structural Modifications\n\nThis notice informs the Tenant that the building management has identified issues regarding compliance with local building codes. The specific concern is the lack of documented consent for interior modifications that may affect structural load-bearing elements. The Tenant is required to provide documentation of approval or cease the usage of the modified areas pending review.\n\n***\n\n**SECURITY CAMERA FOOTAGE LOG**\n**Building:** Sterling Heights\n**Camera:** Hallway outside Unit 402\n**Timestamp:** June 10, 2023, 2:15 PM\n**Description:** Footage shows two individuals entering the hallway. One individual (identified as Tenant) is carrying a box. Another individual (identified as Landlord\u2019s Agent) is following. The footage is clear and continuous for 45 seconds. No physical altercation is visible. The audio track is corrupted.\n\n***\n\n**CITY HOUSING AUTHORITY COMPLAINT FILING**\n**Filed By:** Elena Vance (Tenant Representative: Union Organizer)\n**Date Filed:** July 1, 2023\n**Subject:** Retaliatory Notice and Unsafe Conditions\n\nThis complaint alleges that the Landlord issued a Notice of Violation on June 1, 2023, and subsequently sent a removal demand on June 12, 2023, in retaliation for the Tenant\u2019s participation in union organizing activities and reporting of building maintenance issues. The Tenant asserts that the conditions cited are minor and that the unit was previously inspected and found safe.\n\n=== DOCUMENT 3: Expert Reports and Technical Records ===\n\n**STRUCTURAL ENGINEERING REPORT**\n**Prepared By:** David O\u2019Malley, P.E., Structural Engineer\n**Date:** July 5, 2023\n**Client:** Counsel for Tenant, Elena Vance\n**Subject:** Assessment of Unit 402 Structural Integrity\n\n**Findings:**\nI was engaged to assess the structural integrity of Unit 402 following disputes regarding kitchen renovations. Upon inspection, I observed that the walls are structurally sound. The load-bearing capacity of the floor and surrounding walls is adequate for the current configuration. The visible cracking in the ceiling plaster is cosmetic in nature and does not indicate a failure of the primary structural elements. There is no evidence of significant structural risk posed by the current state of the unit.\n\n**Signed:**\nDavid O\u2019Malley, P.E.\n\n***\n\n**PHOTOGRAPHIC EVIDENCE**\n**Submitted By:** Counsel for Landlord\n**Date of Photo:** May 2, 2023\n**Location:** Kitchen Ceiling, Unit 402\n**Description:** The photograph shows visible cracking in the plaster of the kitchen ceiling. The cracks appear to radiate from the center of the ceiling panel. The lighting is natural. No other items are visible in the frame.\n\n***\n\n**HARDWARE PURCHASE RECORD**\n**Store:** Sterling Heights Hardware & Supply\n**Date:** February 15, 2023\n**Customer:** E. Vance\n**Items Purchased:**\n*   12 units of heavy-duty wood cabinets\n*   200 feet of mounting hardware\n*   5 gallons of industrial adhesive\n*   10 sheets of plywood\n**Total Amount:** $4,500.00 (Note: Receipts provided by Tenant for installation labor and materials total this amount).\n\n***\n\n**FIRE SAFETY INSPECTION REPORT**\n**Building:** Sterling Heights\n**Date of Inspection:** May 20, 2023\n**Inspector:** City Fire Department\n**Result:** PASS\n**Citations:** None issued.\n**Notes:** All units, including Unit 402, met current fire safety codes. No hazards noted in common areas or interior units during the visual sweep.\n\n***\n\n**CONSTRUCTION COST ESTIMATE**\n**From:** Apex Restoration & Repair Firm\n**Date:** July 10, 2023\n**To:** Sterling Heights Management LLC\n**Subject:** Estimate for Repair of Unit 402\n\nBased on the damage observed in Unit 402, including ceiling plaster damage and potential load-bearing stress, we estimate the cost to repair and restore the unit to pre-renovation condition at **$8,000.00**. This includes material and labor for ceiling replacement and structural reinforcement.\n\n=== DOCUMENT 4: Witness Statements ===\n\n**STATEMENT OF ELENA VANCE**\n**Date:** July 15, 2023\n**Location:** Sterling Heights, Unit 402\n\nI have been a tenant in Unit 402 since late 2021. I moved in after the previous tenant, who lived there from 2018 to 2021. When I first moved in, the kitchen ceiling already had some issues. The cracks in the kitchen ceiling were present before I moved in and were covered up by the landlord\u2019s previous repairs. I know this because I saw the old patches when I was unpacking my boxes in November 2021.\n\nIn December 2022, I approached the building manager about installing a custom kitchen. I received verbal consent from the building manager in December 2022 to install the custom kitchen. He told me it was fine as long as I didn\u2019t drill into the main beams. I trusted him because he is the manager. I then purchased the cabinets and had them installed in January 2023. The total cost for the custom cabinetry installation was $4,500, as shown in my receipts.\n\nAfter the installation, I noticed the ceiling looked worse. I reported the ceiling issue to the landlord on March 15, 2023, and was told it would be fixed. I waited for them to come, but nothing happened until March 10, which was before I even reported it? No, wait, the maintenance log says March 10. I reported it in March. They sent someone on March 10 to patch it. I thought it was handled.\n\nThen, out of nowhere, they sent a notice on June 1. I was shocked. I called Marcus Sterling and he was rude. He said I had to remove everything. I told him I had permission. He said he never gave it. I am a member of the tenants' union, and I have been vocal about our rights. I believe this is retaliation. My engineer, Mr. O\u2019Malley, came out on July 5 and said the walls are structurally sound. The kitchen renovation does not pose any safety risk, as confirmed by my own engineer. The ceiling cracks are just cosmetic. They are trying to scare me out of my apartment.\n\n***\n\n**STATEMENT OF MARCUS STERLING**\n**Date:** July 15, 2023\n**Location:** Sterling Heights Management Office\n\nI am the agent for Sterling Heights Management LLC. I have managed Unit 402 since the lease was signed on October 12, 2021. The lease agreement includes a clause prohibiting structural modifications without written landlord consent. This is standard practice.\n\nIn January 2023, we received no notification that the tenant was planning to install heavy custom cabinets. The tenant\u2019s union organizer noted that the unit\u2019s water pressure was measured at 60 PSI on April 15, 2023, which is within the standard range, but that is irrelevant to the structural issue.\n\nThe cracks appeared after the tenant installed heavy custom cabinets, which shifted the load on the ceiling. We have the hardware store receipt from February 15, 2023, showing she purchased heavy-duty materials. The maintenance log shows a repair to the kitchen ceiling was performed on March 10, 2023. This repair was initiated by our maintenance staff who noticed the cracking during a routine check, not because the tenant reported it. The landlord was never notified of any ceiling damage before the violation notice was issued in June. The tenant claims she reported it in March, but there is no record of that in our system. The maintenance log shows no entries for Unit 402 between January 1, 2023, and March 9, 2023, except for the March 10 repair.\n\nI did not give verbal consent. No written consent was ever granted, and the manager was not authorized to approve structural changes. The manager, Mr. Davis, has confirmed that he does not have the authority to override the lease terms regarding structural integrity.\n\nThe renovation created a significant structural hazard that required immediate correction to protect other units. The cracking is not just cosmetic; it indicates stress. Our construction firm estimates the repair costs at $8,000. We are concerned about the safety of the building. The tenant\u2019s engineer says the walls are sound, but that doesn\u2019t address the ceiling load issue. We sent the email on June 12, 2023, demanding removal of the kitchen renovation within 30 days. This was necessary to protect the building.\n\n=== DOCUMENT 5: Additional Supporting Records ===\n\n**WITNESS STATEMENT - NEIGHBOR**\n**Name:** Sarah Jenkins\n**Unit:** 403\n**Date:** June 20, 2023\n\nI live in Unit 403, directly across the hall from Unit 402. I have lived here since 2019. On June 20, 2023, I was asked to provide a statement. I can confirm that I did not hear any unusual noises from Unit 402 during the renovation period in January or February. I also did not hear any unusual noises after the renovation was completed. The building is quiet. I heard the elevator stop on June 5 for routine inspection, as is normal. I did not see any construction equipment in the hallway. I am a neutral party and am not affiliated with either the tenant or the landlord.\n\n***\n\n**VIDEO EVIDENCE LOG**\n**Recorded By:** Tenant\u2019s Union Organizer\n**Date:** June 14, 2023\n**Location:** Kitchen, Unit 402\n**Description:** The video shows the kitchen floor. A level tool is placed on the floor. The bubble is centered. The video pans to show the cabinets. The floor appears level and stable. There is no visible sagging or movement. The audio includes the organizer stating, \"Look at the floor. It\u2019s perfectly level. No issues here.\"\n\n***\n\n**RECEIPT - PROFESSIONAL CLEANING SERVICE**\n**Company:** Sparkle Clean Co.\n**Date:** May 25, 2023\n**Client:** Elena Vance\n**Service:** Deep cleaning of Unit 402, including kitchen and ceiling dust removal.\n**Amount Paid:** $350.00\n\n***\n\n**BUILDING CODE NOTICE DETAILS**\n**Issued By:** City Building Department\n**Date:** June 1, 2023\n**Recipient:** Tenant, Unit 402\n**Violation:** Unapproved structural modification.\n**Description:** Records indicate that no permit was filed for the installation of heavy cabinetry in Unit 402. The building code requires permits for modifications that alter load-bearing paths. The tenant has failed to provide evidence of such a permit or written landlord consent.",
+ "n_words": 2057,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 402 at Sterling Heights was signed on October 12, 2021.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Landlord's counsel submitted a photo dated May 2, 2023, showing visible cracking in the plaster of the kitchen ceiling.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The tenant's union organizer noted that the unit's water pressure was measured at 60 PSI on April 15, 2023, which is within the standard range for the building.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "A notice of violation regarding building code compliance was issued to the tenant on June 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The tenant provided receipts totaling $4,500 for custom cabinetry installation in January 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Building records show that Unit 402 was occupied by a previous tenant from 2018 to 2021.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The landlord's maintenance log indicates a repair to the kitchen ceiling was performed on March 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The tenant's attorney submitted a statement from a structural engineer dated July 5, 2023, stating the walls are structurally sound.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Security camera footage from the hallway outside Unit 402 is timestamped June 10, 2023, at 2:15 PM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The landlord's agent sent an email on June 12, 2023, demanding removal of the kitchen renovation within 30 days.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant's union organizer recorded a video on June 14, 2023, showing the kitchen floor was level and stable.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The building's fire safety inspection passed on May 20, 2023, with no citations issued.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The landlord's counsel presented a report from a local hardware store dated February 15, 2023, listing materials purchased for the unit.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The tenant provided a witness statement from a neighbor, Unit 403, dated June 20, 2023, stating no unusual noises were heard.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The lease agreement includes a clause prohibiting structural modifications without written landlord consent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The tenant's union organizer filed a complaint with the city housing authority on July 1, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The landlord's maintenance log shows no entries for Unit 402 between January 1, 2023, and March 9, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's attorney submitted a receipt for a professional cleaning service dated May 25, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The building's elevator maintenance records show a scheduled stop on June 5, 2023, for routine inspection.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The landlord's counsel presented a letter from a construction firm dated July 10, 2023, estimating repair costs at $8,000.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Vance, Tenant stated that The cracks in the kitchen ceiling were present before I moved in and were covered up by the landlord's previous repairs.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Sterling, Landlord's Agent stated that The cracks appeared after the tenant installed heavy custom cabinets, which shifted the load on the ceiling.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Vance, Tenant stated that I reported the ceiling issue to the landlord on March 15, 2023, and was told it would be fixed.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Sterling, Landlord's Agent stated that The landlord was never notified of any ceiling damage before the violation notice was issued in June.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Vance, Tenant stated that I received verbal consent from the building manager in December 2022 to install the custom kitchen.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Sterling, Landlord's Agent stated that No written consent was ever granted, and the manager was not authorized to approve structural changes.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Vance, Tenant stated that The kitchen renovation does not pose any safety risk, as confirmed by my own engineer.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Sterling, Landlord's Agent stated that The renovation created a significant structural hazard that required immediate correction to protect other units.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

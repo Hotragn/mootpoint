@@ -1,0 +1,178 @@
+{
+ "dossier_id": "workplace-11",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Vantage Heights Scaffolding Collapse",
+ "premise": "In a high-rise construction site, a scaffolder fell due to a snapped coupling, with the general contractor blaming the subcontractor for improper assembly and the subcontractor citing the architect's ambiguous blueprints.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Site Incident Log and Activity Record ===\n\n**Project:** Vantage Heights Complex\n**Date:** November 14, 2023\n**Location:** Level 42, North Face\n**Recorded By:** Site Operations Center\n\n**09:15 AM:**\nWeather monitoring systems register sustained winds exceeding 25 mph. Site Foreman issues a mandatory pause for all exterior activities. All personnel on scaffolding structures are ordered to secure loose materials and await further instructions.\n\n**09:30 AM:**\nSite Manager observes minor tool placement irregularities on the 42nd floor scaffolding. A verbal reprimand is issued to the active crew regarding tool organization protocols. No formal citation is filed.\n\n**09:40 AM:**\nWind speeds drop below threshold limits. Site Foreman issues the \"all-clear\" signal. Exterior work resumes.\n\n**09:45 AM:**\nEmergency alarm triggered on Level 42. Report of structural failure on the north-facing scaffold platform. Immediate lockdown of the area initiated.\n\n**10:05 AM:**\nFirst responders and medical personnel on scene. Injured worker identified as Marcus Thorne (Employee ID: AS-4921). Thorne is found resting on the suspended platform.\n\n**10:20 AM:**\nPolice arrive to secure the scene. The specific coupling component involved in the failure is identified. The component is removed from the debris field and sealed in evidence bag #402 by Officer R. Miller.\n\n**11:30 AM:**\nInitial assessment of the injured worker indicates he was wearing a standard ANSI-approved harness. The harness is confirmed to have been attached to a lifeline anchor point.\n\n**14:00 PM:**\nMeridian Build Safety Officer David Chen begins preliminary documentation. Apex Structures Foreman Elena Ross provides initial verbal account to site management.\n\n**16:00 PM:**\nSite operations on Level 42 suspended pending full investigation.\n\n=== DOCUMENT 2: Medical Report and Injury Assessment ===\n\n**Patient:** Marcus Thorne\n**Date of Injury:** November 14, 2023\n**Attending Physician:** Dr. Aris Thorne, Orthopedic Specialist\n**Hospital:** St. Jude General Hospital\n\n**Clinical Summary:**\nMr. Thorne was admitted following a fall from a height at the Vantage Heights construction site. Upon admission, the patient presented with acute pain in the lumbar region and left shoulder.\n\n**Diagnostic Findings:**\n1.  **Lumbar Region:** Imaging (MRI) confirms a Grade II lumbar sprain. There is no evidence of disc herniation or spinal fracture.\n2.  **Left Clavicle:** X-ray and CT scan reveal a non-displaced fracture of the left clavicle.\n3.  **Soft Tissue:** Contusions noted on the left hip and lower back consistent with impact against a rigid surface.\n\n**Mechanism of Injury:**\nPatient reports that he slipped from the working platform. The safety harness arrested the fall. Based on the patient's description and physical examination, the vertical drop was limited to approximately 3.5 feet before the patient came to rest on the suspended platform. The harness functioned as intended, preventing a free fall to the ground.\n\n**Treatment Plan:**\n1.  Surgical intervention for the clavicle fracture was evaluated but deemed unnecessary due to the non-displaced nature of the break. A sling and immobilization brace were prescribed.\n2.  Physical therapy for the lumbar sprain to be initiated upon discharge.\n3.  Pain management via oral analgesics.\n\n**Prognosis and Hospitalization:**\nThe patient requires inpatient monitoring for pain management and observation of the fracture healing process. Estimated hospitalization duration is 14 days. Outpatient physical therapy will follow.\n\n**Administrative Note:**\nMr. Thorne is employed by Apex Structures. He has been employed by this subcontractor for exactly 2 years and 4 months as of the date of injury. He completed the mandatory 16-hour scaffolding safety certification course in June 2023, which is noted in his personnel file.\n\n=== DOCUMENT 3: Email Correspondence ===\n\n**From:** legal@meridianbuild.com\n**To:** risk@apexstructures.com\n**Cc:** d.chen@meridianbuild.com; e.ross@apexstructures.com\n**Date:** November 15, 2023\n**Subject:** Re: Incident at Vantage Heights - Insurance and Liability\n\nDear Apex Structures Risk Management Team,\n\nFollowing the scaffolding collapse on November 14, 2023, we are initiating the claims process. Please note that Marcus Thorne filed his workers' compensation claim on November 15, 2023, the day after the incident.\n\nRegarding liability coverage, please be advised that Meridian Build\u2019s liability insurance policy includes a $10 million limit per occurrence. Your company\u2019s policy includes a $5 million limit per occurrence. We expect these limits to cover the immediate medical expenses and potential third-party claims.\n\nWe are also reviewing the site protocols. It has come to our attention that Meridian Build failed to conduct the weekly scaffold inspection as required by our internal protocol. We are currently compiling the records to address this procedural gap.\n\nAdditionally, our records indicate that Apex Structures had a record of three previous safety violations on this project in the last 12 months. We need to determine if these violations were related to the equipment used or the crew\u2019s adherence to safety standards.\n\nSincerely,\n\nMeridian Build Legal Department\n\n***\n\n**From:** e.ross@apexstructures.com\n**To:** d.chen@meridianbuild.com\n**Date:** November 15, 2023\n**Subject:** RE: Incident at Vantage Heights - Equipment Recall\n\nDavid,\n\nI am reviewing the incident logs regarding the coupling failure. The snapped component was a proprietary model 'SteelGrip X-9' manufactured by IronClad Hardware.\n\nI want to bring to your attention that IronClad Hardware\u2019s recall notice for the 'SteelGrip X-9' series was issued on October 2, 2023, due to potential metal fatigue. This recall was widely distributed to the industry. It is critical we establish whether this specific unit was part of the recalled batch and if it was removed from inventory prior to the incident.\n\nWe need to clarify the assembly process. As the Foreman, I can confirm that the coupling was assembled to the manufacturer's specified torque of 80 ft-lbs using a calibrated wrench. We adhere strictly to these specifications to ensure structural integrity.\n\nElena Ross\nForeman, Apex Structures\n\n***\n\n**From:** d.chen@meridianbuild.com\n**To:** e.ross@apexstructures.com\n**Date:** November 16, 2023\n**Subject:** RE: RE: Incident at Vantage Heights - Equipment Recall\n\nElena,\n\nI am aware of the IronClad Hardware recall notice issued on October 2, 2023. However, my on-site observations contradict your account of the assembly process.\n\nI observed that the coupling was hand-tightened without a torque wrench, leaving it significantly under-torqued. We do not have a record of a calibrated wrench being used for this specific assembly on the morning of the incident.\n\nFurthermore, regarding the load distribution, I observed that a concentrated pile of steel beams was stacked on the corner nearest the coupling, creating a point load that exceeded structural limits. The blueprints specified a load capacity of 500 lbs per square foot for the scaffolding platform. While the total weight of materials on the platform at the time of the incident was calculated at 420 lbs, the distribution is the critical factor here.\n\nDavid Chen\nSafety Officer, Meridian Build\n\n***\n\n**From:** j.porter@skylinearchitects.com\n**To:** legal@meridianbuild.com\n**Date:** November 17, 2023\n**Subject:** Clarification on Vantage Heights Blueprints\n\nTo the Legal Department,\n\nI am the Senior Architect at Skyline Architects. The architectural drawings for the 42nd floor of the Vantage Heights complex were issued by our firm on September 1, 2023.\n\nI have reviewed the inquiry regarding the corner joint reinforcement. I must clarify that the blueprints contained ambiguous notations regarding corner joint reinforcement, which Apex misinterpreted. The standard assembly method was not explicitly detailed in the notation for that specific corner, leading to potential confusion on the part of the subcontractor.\n\nJames Porter\nSenior Architect, Skyline Architects\n\n=== DOCUMENT 4: Witness Statement of Marcus Thorne ===\n\n**Statement of:** Marcus Thorne\n**Role:** Injured Worker\n**Date:** November 16, 2023\n\nI was working on the 42nd floor scaffolding when the coupling snapped. It happened fast. I was standing near the edge, and suddenly the piece just broke.\n\nI want to make it clear that I was doing everything right. I had been working for Apex Structures for over two years, and I know the safety rules. I completed the 16-hour certification back in June, so I knew what to do.\n\nThe materials were distributed evenly across the platform, well within the 500 lbs/sq ft limit. I didn't see any weird piles or heavy stuff stacked on one corner. We were just working normally. The total weight was fine; I don't think we were anywhere near the limit.\n\nWhen the coupling went, I fell, but my harness caught me. It hurt, but it saved my life. I dropped only a few feet, maybe three and a half, before I hit the platform below. I broke my collarbone and hurt my back bad.\n\nI was wearing the harness properly, attached to the anchor point. It worked. But the equipment was bad. I don't know why they used that SteelGrip thing that was recalled. It just failed. I feel like it was careless of them to use known bad parts.\n\n=== DOCUMENT 5: Witness Statement of Elena Ross ===\n\n**Statement of:** Elena Ross\n**Role:** Apex Structures Foreman\n**Date:** November 16, 2023\n\nI was on site when the incident happened. I was in the process of moving to the next section when I heard the bang.\n\nI stand by my team's work. The coupling was assembled to the manufacturer's specified torque of 80 ft-lbs using a calibrated wrench. We do not skip steps. We follow the manual. The idea that it was hand-tightened is false. We have our logs, and we use the right tools.\n\nI also want to address the inspection claims. Robert Lee, our lead scaffolder, performed a visual check at 09:00 AM and confirmed all couplings were secure and undamaged. We were ready to go. The weather delay was annoying, but we were prepared.\n\nThe blueprints clearly indicated the standard assembly method for the corner joints. There was no ambiguity. Apex Structures followed the drawings as given. If Skyline Architects made a mistake in the notation, that is on them, but we did our best with what we had.\n\nThe materials were spread out. We didn't pile everything in one corner. It was a standard load. I don't know why Meridian is trying to pin this on load distribution. The equipment failed. The coupling snapped. That's the fact.",
+ "n_words": 1621,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on November 14, 2023, at 09:45 AM at the 42nd floor of the Vantage Heights complex.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Marcus Thorne, the injured worker, was wearing a standard ANSI-approved harness attached to a lifeline anchor point.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The harness arrested Thorne's fall, limiting his vertical drop to 3.5 feet before he came to rest on a suspended platform.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Thorne sustained a Grade II lumbar sprain and a fractured left clavicle, requiring 14 days of hospitalization.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Thorne completed the mandatory 16-hour scaffolding safety certification course in June 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The snapped coupling was a proprietary model 'SteelGrip X-9' manufactured by IronClad Hardware.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "IronClad Hardware's recall notice for the 'SteelGrip X-9' series was issued on October 2, 2023, due to potential metal fatigue.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The subcontractor, Apex Structures, had a record of three previous safety violations on this project in the last 12 months.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The general contractor, Meridian Build, failed to conduct a weekly scaffold inspection as required by their internal protocol.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The site was under a 30-minute weather delay at 09:15 AM due to high winds, pausing all exterior work.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Thorne resumed work at 09:40 AM after the all-clear was given by the site foreman.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The architectural drawings for the 42nd floor were issued by the firm 'Skyline Architects' on September 1, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The blueprints specified a load capacity of 500 lbs per square foot for the scaffolding platform.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The total weight of materials on the platform at the time of the incident was calculated at 420 lbs.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Thorne had worked for Apex Structures for exactly 2 years and 4 months at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The specific coupling that snapped was removed from the scene and sealed in evidence bag #402 by the police.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Meridian Build's liability insurance policy includes a $10 million limit per occurrence.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Apex Structures' insurance policy includes a $5 million limit per occurrence.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The site manager issued a verbal reprimand to Thorne's crew for a minor tool placement issue at 09:30 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Thorne filed a workers' compensation claim on November 15, 2023, the day after the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Ross, Apex Structures Foreman stated that The coupling was assembled to the manufacturer's specified torque of 80 ft-lbs using a calibrated wrench.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Chen, Meridian Build Safety Officer stated that The coupling was hand-tightened without a torque wrench, leaving it significantly under-torqued.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Marcus Thorne, Injured Worker stated that The materials were distributed evenly across the platform, well within the 500 lbs/sq ft limit.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Robert Lee, Apex Structures Lead Scaffolder stated that I performed a visual check at 09:00 AM and confirmed all couplings were secure and undamaged.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Ross, Apex Structures Foreman stated that The blueprints clearly indicated the standard assembly method for the corner joints.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "James Porter, Skyline Architects Senior Architect stated that The blueprints contained ambiguous notations regarding corner joint reinforcement, which Apex misinterpreted.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

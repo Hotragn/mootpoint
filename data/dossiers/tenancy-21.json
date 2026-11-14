@@ -1,0 +1,178 @@
+{
+ "dossier_id": "tenancy-21",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Whitfield vs. Blackwood Estate",
+ "premise": "A retired academic in a historic Victorian mansion disputes the structural integrity of the original wood beams after a storm, but the owner argues that the tenant's heavy bookshelves exacerbated pre-existing damage.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Municipal Emergency Services Incident Log ===\n**Incident ID:** MS-2023-1012-044\n**Date:** October 12, 2023\n**Time of Report:** 15:15\n**Location:** 42 Blackwood Lane, Oakhaven\n**Reporting Agency:** Oakhaven Municipal Fire & Emergency Services\n**Responding Unit:** Engine 4, Ladder 2\n\n**Weather Conditions at Time of Incident:**\nPer data from the Oakhaven Metropolitan Meteorological Station, wind speeds reached 62 mph with recorded gusts up to 75 mph between 14:00 and 15:00.\n\n**Narrative:**\nUnits responded to a call for structural collapse at a historic residence. Upon arrival at 14:45, crews observed significant roof damage, specifically the loss of shingles and exposure of underlayment in the North and East sections. Interior assessment was limited due to safety concerns regarding ceiling integrity.\n\n**Structural Observations:**\nCrews noted a fracture in the primary ceiling beam of the East Wing library. Debris from the beam and associated plaster was scattered across the floor. No fire or smoke was present. The cause of the fracture could not be determined from the exterior. The storm damage report notes 'significant roof damage' but does not specify the mechanism of internal structural failure.\n\n**Personnel Present:**\nTenant, Dr. Elias Thorne, was present on the premises and assisted in securing the area. He provided timestamped photographs to the responding officers documenting the state of the room at 14:35.\n\n**Investigative Note:**\nA private investigator, identified later as acting on behalf of the property owner, was observed monitoring the scene from the sidewalk between 14:30 and 15:00.\n\n=== DOCUMENT 2: Witness Statement of Dr. Elias Thorne ===\n**Date of Statement:** October 14, 2023\n**Witness:** Dr. Elias Thorne\n**Role:** Tenant / Retired Professor of History, State University\n\nI have been a tenant at 42 Blackwood Lane since June 2021. As a historian with 35 years of service at the State University, I treat the preservation of physical materials with extreme care. I have paid my rent on time for 28 consecutive months, and I have always adhered to the terms of our lease.\n\nThe storm on Tuesday, October 12, was catastrophic. I was in the East Wing when the wind force became extreme. The house shook violently; the windows rattled in their frames. It was clear that the extreme wind force from the storm stressed the aging Victorian timber beyond its limits. The primary beam fractured not because of anything I did, but because the weather was simply too violent for a structure from 1892 to handle.\n\nMy collection is housed in solid oak bookshelves in the East Wing. These shelves weigh a combined 1,800 kg. I have always been careful with their placement. The 1,800 kg of books were distributed across a 20 sqm area of the room. This results in a load of 90 kg per square meter, which is well within the 150 kg limit specified in our lease. Mr. Blackwood\u2019s claim that I violated the weight limit is factually incorrect and an attempt to shift blame for a weather event.\n\nFurthermore, there was no prior structural damage that would have caused this. The crack I reported in March 2023 was superficial cosmetic cracking in the plaster, not the wood beam. The beam was sound until the storm broke it. I documented the event with timestamped photographs at 14:35, showing the beam intact until the moment of fracture.\n\nI have hired a professional structural engineer to assess the damage, as shown in the invoice dated November 20, 2023, for which I paid $1,200. I intend to hold the landlord accountable for the failure to maintain this historic property properly.\n\n=== DOCUMENT 3: Witness Statement of Mr. Arthur Blackwood ===\n**Date of Statement:** October 14, 2023\n**Witness:** Mr. Arthur Blackwood\n**Role:** Landlord / Property Owner\n\nI own a portfolio of 12 Victorian-era properties in the region, and I take my responsibilities as a landlord seriously. The property at 42 Blackwood Lane was constructed in 1892 and listed as a Historic Landmark in 1975, which requires the preservation of original timber structures. I have maintained the roof and gutters in accordance with code. The failure was unrelated to maintenance neglect.\n\nThe incident on October 12 was caused by tenant negligence. The lease agreement, signed on June 1, 2021, and renewed in June 2022 with no amendments to the weight restrictions clause, explicitly prohibits the installation of floor-load exceeding 150 kg per square meter in the East Wing.\n\nDr. Thorne\u2019s claim that his books were distributed over 20 square meters is false. The books were concentrated in a 10 sqm section of the East Wing. This resulted in a load of 180 kg per square meter, violating the 150 kg limit. The primary beam fractured because the tenant's 1,800 kg of bookshelves exceeded the structural load capacity of the original floor joists.\n\nThere was significant structural damage evident and reported in March 2023. The tenant\u2019s maintenance request on that date indicated the beam was already compromised before the storm. The storm merely finished the job that the excessive weight had started. My property insurance policy, effective January 1, 2023, excludes coverage for 'wear and tear' and 'tenant negligence,' which is precisely what this situation represents.\n\nI had a private investigator monitor the tenant's activities on October 12, 2023, to ensure that no further unauthorized alterations were being made during the storm. The tenant\u2019s presence and his documentation of the event do not change the fact that he is liable for the damage he caused through non-compliance with the lease terms.\n\n=== DOCUMENT 4: Legal Correspondence and Court Filings ===\n\n**Letter from Ms. Sarah Jenkins to Mr. Robert Vance**\n**Date:** October 25, 2023\n**From:** Ms. Sarah Jenkins, Legal Counsel for Dr. Elias Thorne\n**To:** Mr. Robert Vance, Legal Counsel for Mr. Arthur Blackwood\n\nDear Mr. Vance,\n\nI write on behalf of my client, Dr. Elias Thorne, regarding the recent eviction attempt by your client, Mr. Arthur Blackwood. This eviction is frivolous and based on a misinterpretation of the damage caused by the October 12 storm.\n\nMy client has a perfect rental history, having paid rent on time for 28 consecutive months prior to the storm. The damage to the East Wing was caused by the extreme weather conditions recorded by the Oakhaven Meteorological Station, not by any negligence on the part of my client.\n\nRegarding your client\u2019s assertion of prior damage: No prior structural damage existed. The crack reported in March 2023 was superficial cosmetic cracking in the plaster, not the wood beam. Your client\u2019s claim that the beam was compromised is without merit.\n\nFurthermore, my client\u2019s storage of 1,400 heavy encyclopedias and atlases, listed in the move-in inventory from June 2021, was done in compliance with the lease. The weight distribution was safe.\n\nPlease consider this a cease-and-desist letter regarding the eviction attempt. If your client proceeds with this action, we will pursue all available legal remedies, including damages for the wrongful eviction and the cost of the professional structural engineer who inspected the premises, as evidenced by the invoice dated November 20, 2023.\n\nSincerely,\nMs. Sarah Jenkins\n\n***\n\n**Motion for Summary Judgment**\n**Filed:** November 5, 2023\n**Case:** Whitfield vs. Blackwood Estate (Tenant/Landlord Dispute)\n**Submitted by:** Mr. Robert Vance, Counsel for Mr. Arthur Blackwood\n\n**I. Statement of Undisputed Facts**\n1. The property at 42 Blackwood Lane was constructed in 1892 and is a Historic Landmark.\n2. The lease agreement prohibits floor loads exceeding 150 kg per square meter in the East Wing.\n3. The tenant\u2019s move-in inventory lists 1,400 heavy encyclopedias and atlases in the East Wing.\n4. The tenant\u2019s bookshelves are constructed of solid oak and have a combined weight of 1,800 kg.\n5. The landlord\u2019s property insurance policy excludes coverage for 'wear and tear' and 'tenant negligence'.\n6. The property\u2019s last comprehensive structural inspection was conducted in 2018, prior to the tenant's arrival.\n7. The property's original blueprint from 1892 is missing from the local archives; only a copy from 1950 exists.\n\n**II. Argument**\nThe tenant\u2019s actions violated the explicit terms of the lease. The concentration of 1,800 kg of solid oak shelving and heavy books in the East Wing exceeded the structural load capacity of the original floor joists. The landlord had fully maintained the roof and gutters in accordance with code, and the failure was unrelated to maintenance neglect. The storm was an act of nature, but the structural failure was precipitated by the tenant\u2019s non-compliance with weight restrictions.\n\nThe tenant\u2019s claim that the load was distributed over 20 sqm is disputed. The landlord asserts the load was concentrated in 10 sqm. Given the missing original blueprints, the 1950 copy must be relied upon for historical context, but the current physical evidence of the fracture supports the landlord\u2019s position that the load was excessive.\n\nThe landlord submits this motion for summary judgment, arguing that there is no genuine issue of material fact regarding the tenant\u2019s breach of the lease and the resulting liability for the structural damage. The landlord\u2019s duty to repair was fulfilled, and the damage resulted from tenant negligence, which is excluded from coverage and liability.\n\n**III. Conclusion**\nFor the foregoing reasons, the landlord respectfully requests that the Court grant summary judgment in his favor and dismiss the tenant\u2019s claims.\n\nRespectfully submitted,\nMr. Robert Vance",
+ "n_words": 1524,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 12, 2023, at 14:30, a meteorological station in Oakhaven recorded wind speeds of 62 mph and gusts up to 75 mph.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The lease agreement signed on June 1, 2021, explicitly prohibits the installation of floor-load exceeding 150 kg per square meter in the East Wing.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The tenant, Dr. Elias Thorne, is a retired Professor of History with 35 years of service at the State University.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The building was constructed in 1892 and was listed as a Historic Landmark in 1975, requiring preservation of original timber structures.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A maintenance request submitted by the tenant on March 4, 2023, reported a visible crack in the ceiling of the East Wing library.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The landlord, Mr. Arthur Blackwood, owns a portfolio of 12 Victorian-era properties in the region.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "An invoice dated November 20, 2023, shows the tenant paid $1,200 for a professional structural engineer to inspect the premises.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The tenant's move-in inventory from June 2021 lists 1,400 heavy encyclopedias and atlases located in the East Wing.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The storm occurred on a Tuesday, a day when the tenant was present in the property and documented the event via timestamped photographs.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The landlord's property insurance policy, effective January 1, 2023, excludes coverage for 'wear and tear' and 'tenant negligence'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The lease agreement was last renewed in June 2022 with no amendments to the weight restrictions clause.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The tenant has paid rent on time for 28 consecutive months prior to the storm.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The landlord hired a private investigator to monitor the tenant's activities on October 12, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The property's original blueprint from 1892 is missing from the local archives and only a copy from 1950 exists.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The tenant's legal counsel, Ms. Sarah Jenkins, sent a cease-and-desist letter regarding the eviction attempt on October 25, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The landlord's counsel, Mr. Robert Vance, submitted a motion for summary judgment on November 5, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's bookshelves in the East Wing are constructed of solid oak and have a combined weight of 1,800 kg.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The storm damage report from the municipal emergency services noted 'significant roof damage' but did not specify internal structural failure.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The property's last comprehensive structural inspection was conducted in 2018, prior to the tenant's arrival.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Elias Thorne (Tenant) stated that The primary beam fractured due to the extreme wind force from the storm, which stressed the aging Victorian timber beyond its limits.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Mr. Arthur Blackwood (Landlord) stated that The primary beam fractured because the tenant's 1,800 kg of bookshelves exceeded the structural load capacity of the original floor joists.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Ms. Sarah Jenkins (Tenant's Counsel) stated that No prior structural damage existed; the crack reported in March 2023 was superficial cosmetic cracking in the plaster, not the wood beam.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mr. Robert Vance (Landlord's Counsel) stated that Significant structural damage was evident and reported in March 2023, indicating the beam was already compromised before the storm.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Elias Thorne (Tenant) stated that The 1,800 kg of books were distributed across a 20 sqm area, resulting in a load of 90 kg per square meter, which is within the 150 kg limit.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mr. Arthur Blackwood (Landlord) stated that The books were concentrated in a 10 sqm section of the East Wing, resulting in a load of 180 kg per square meter, violating the 150 kg limit.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mr. Robert Vance (Landlord's Counsel) stated that The landlord had fully maintained the roof and gutters in accordance with code, and the failure was unrelated to maintenance neglect.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

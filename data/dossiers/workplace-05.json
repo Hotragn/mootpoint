@@ -1,0 +1,180 @@
+{
+ "dossier_id": "workplace-05",
+ "split": "dev",
+ "domain": "workplace",
+ "title": "Dockside Container Fall Liability Dispute",
+ "premise": "A dock worker injured by a falling container maintains that the ship\u2019s captain failed to secure the cargo manifest, while the harbor authority argues the worker was standing in a prohibited area during rough seas.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Port Security & Operations Log - MV Aethelgard Docking Operations ===\n**Date:** 14 May 2023\n**Location:** Northgate Industrial Port, Pier 3\n**Record ID:** OPS-2023-0514-001\n**Log Type:** Automated Timestamped Event Log\n\n**06:00:00** - Vessel *MV Aethelgard* moored at Pier 3. Tug assistance disengaged.\n**07:30:15** - Cargo manifest for *MV Aethelgard* received via secure portal by Port Office. Submission timestamp confirmed by system server.\n**08:45:00** - Harbor Authority issues Storm Warning. Wind speed forecast rising. Alert broadcast to all active dock terminals.\n**09:00:00** - Unloading operations officially commence for *MV Aethelgard*. Crane systems initialized.\n**09:14:22** - Security Camera Zone 4 (Cam-04-Alpha) detects individual entering Restricted Load Area. Badge ID: T-HORNE, E. (Elias Thorne).\n**09:14:25** - Motion sensor in Zone 4 triggers. Zone designated 'Restricted Load Area' per Port Safety Manual Section 7.2.\n**09:16:05** - Incident detected in Zone 4. Container stack displacement recorded.\n**09:16:12** - Emergency stop issued to all cranes in Pier 3 sector.\n**09:20:00** - Ambulance dispatched to Pier 3, Zone 4.\n\n=== DOCUMENT 2: Medical Report - Elias Thorne ===\n**Hospital:** St. Jude\u2019s General Hospital\n**Patient Name:** Elias Thorne\n**Date of Admission:** 14 May 2023\n**Attending Physician:** Dr. Aris Thorne (Note: No relation)\n**Report Type:** Trauma Assessment and Surgical History\n\n**Clinical Summary:**\nPatient presented with severe blunt force trauma to the left lower extremity and abdominal region following a fall from height at an industrial site.\n\n**Injuries Identified:**\n1.  **Left Femur:** Closed fracture, comminuted pattern.\n2.  **Internal Trauma:** Hemorrhaging identified in the left flank region; splenic laceration noted during initial stabilization.\n\n**Surgical Interventions:**\nPatient underwent three separate surgical procedures during this admission:\n1.  **Emergency Laparotomy (14 May, 11:05 AM):** Performed to control internal bleeding and repair splenic laceration.\n2.  **Open Reduction Internal Fixation (ORIF) of Left Femur (15 May, 09:30 AM):** Plating and screw fixation of the femoral shaft.\n3.  **Secondary Debridement and Wound Closure (17 May, 02:15 PM):** Management of soft tissue damage and closure of abdominal incision.\n\n**Pre-Incident Status:**\nPatient is a 42-year-old male with 12 years of continuous employment as a dock handler. No prior history of orthopedic issues or cardiac conditions. At the time of admission, patient was wearing a certified high-visibility vest and a standard-issue hard hat.\n\n**Current Status:**\nPatient is stable but requires prolonged rehabilitation.\n\n=== DOCUMENT 3: Incident Investigation Report - Preliminary Findings ===\n**Case ID:** NIP-2023-INC-0514\n**Subject:** Dockside Container Fall Liability Dispute\n**Prepared By:** Sarah Jenkins, Claims Investigator\n**Date of Report:** 20 May 2023\n\n**1. Environmental and Operational Context**\nMeteorological records retrieved from the Northgate Industrial Port weather station confirm wind speeds of 35 knots at the site during the incident window (09:00\u201309:30). The harbor authority issued a storm warning at 08:45 AM, thirty minutes prior to the incident. The vessel involved, *MV Aethelgard*, had no prior safety violations in its last five years of operation. The vessel docked at Pier 3 at 06:00 AM.\n\n**2. Regulatory Compliance**\nPort regulations require cargo manifests to be submitted at least two hours before unloading begins. Unloading operations for the *MV Aethelgard* officially began at 09:00 AM. The manifest was submitted at 07:30 AM.\n\n**3. Incident Description**\nAt approximately 09:16 AM, a container weighing 4,500 kilograms fell from a stack in Zone 4, striking dock worker Elias Thorne. Zone 4 is designated as a 'Restricted Load Area' in the port's safety manual. The floor of Zone 4 was painted with white diagonal stripes to indicate restricted status. Security camera footage confirms Elias Thorne entered the Zone 4 area at 09:14:22.\n\n**4. Equipment and Personnel Status**\n*   **Vessel:** The *MV Aethelgard* used standard twist locks. These locks were tested and certified on the day of the incident.\n*   **Worker:** Elias Thorne was performing a routine visual inspection of container seals as part of his job description. He received a formal safety briefing on restricted zones three months prior to the incident. He did not have a personal radio channel open to the bridge at the time of the incident.\n\n**5. Contested Accounts**\n\n*   **Manifest Securing Status:**\n    *   *Captain Julian Vane states:* \"I failed to digitally sign the final cargo manifest before 09:00 AM due to a software glitch, causing a delay in securing protocols.\"\n    *   *Sarah Jenkins (Investigator) states:* \"The cargo manifest was fully secured and locked in the system at 07:30 AM, well before unloading began.\"\n\n*   **Worker Location Authorization:**\n    *   *Elias Thorne states:* \"I was in Zone 4 because a foreman verbally instructed me to check the seals there, as it was an authorized exception.\"\n    *   *Sarah Jenkins (Investigator) states:* \"Elias Thorne was in Zone 4 without any authorization and ignored the 'No Entry' signs during restricted operations.\"\n\n*   **Container Lock Integrity:**\n    *   *Captain Julian Vane states:* \"The specific twist lock on the falling container was defective and slipped due to the rough seas, despite being certified.\"\n    *   *Sarah Jenkins (Investigator) states:* \"The twist locks were functioning perfectly; the container fell because the worker's movement destabilized the stack.\"\n\n*   **Storm Warning Response:**\n    *   *Elias Thorne states:* \"I did not receive the storm warning via any communication channel, so I assumed operations were normal.\"\n    *   *Sarah Jenkins (Investigator) states:* \"A loud siren was activated and the warning was broadcast to all dock personnel at 08:45 AM, which Elias Thorne ignored.\"\n\n=== DOCUMENT 4: Email Correspondence - Post-Incident Communications ===\n**From:** Julian Vane, Captain, MV Aethelgard\n**To:** Sarah Jenkins, Claims Investigator, Northgate Industrial Port\n**Date:** 15 May 2023\n**Subject:** Re: Incident at Pier 3 - Clarification on Manifest and Locks\n\nMs. Jenkins,\n\nI am writing to address the inaccuracies in your preliminary report regarding the incident involving Elias Thorne.\n\nFirst, regarding the cargo manifest: I must clarify that I did not fail to submit the manifest. The system glitch I referenced was a temporary failure in the digital signature verification module, not a failure to submit. However, the system did not lock the file as \"Secured\" until the glitch resolved, which I believe contributed to the confusion in your timeline. I stand by my statement that the software glitch caused a delay in the final securing protocols, which is a systemic issue, not a personal oversight.\n\nSecond, regarding the twist locks: You state the locks were functioning perfectly. This is factually incorrect. The specific twist lock on the container that fell was exhibiting signs of wear. While it was tested and certified that morning, the certification process does not account for the sudden, violent stress placed on the mechanism by the 35-knot winds and the rough seas. The lock slipped because it was defective under that specific load condition. To blame the worker's movement for destabilizing a 4,500-kilogram container is absurd. The stack was compromised by the environment and the hardware failure.\n\nI request that the investigation consider the environmental factors and the hardware integrity before assigning liability to the vessel's crew or the worker.\n\nSincerely,\n\nJulian Vane\nCaptain, MV Aethelgard\n\n***\n\n**From:** Sarah Jenkins, Claims Investigator, Northgate Industrial Port\n**To:** Julian Vane, Captain, MV Aethelgard\n**Date:** 15 May 2023\n**Subject:** Re: Incident at Pier 3 - Clarification on Manifest and Locks\n\nCaptain Vane,\n\nYour email contains several assertions that contradict the official port records.\n\n1.  **Manifest Status:** The port server logs clearly show the manifest was submitted and locked at 07:30 AM. There is no record of a \"delay in securing protocols\" in the port's central database. The system does not have a \"temporary failure\" that leaves a manifest unsecured after submission. The manifest was fully secured and locked in the system at 07:30 AM, well before unloading began. Your claim of a software glitch is not supported by the IT logs provided to this investigation.\n\n2.  **Twist Locks:** The twist locks used on the *MV Aethelgard* were tested and certified on the day of the incident. There is no maintenance report or witness account indicating the specific lock was defective. The physics of the incident suggest that the stack was destabilized by external factors. Your claim that the worker's movement destabilized the stack is a hypothesis, not a fact, but it remains the primary working theory pending further forensic analysis of the lock mechanism. We have not received any independent verification of your claim that the lock was \"defective and slipped.\"\n\n3.  **Worker Authorization:** It is important to note that Elias Thorne was in a Restricted Load Area. While he claims verbal authorization from a foreman, there is no written record of this exception. Zone 4 is designated as restricted for a reason. The white diagonal stripes on the floor and the 'No Entry' signage are clear indicators of restricted status.\n\n4.  **Storm Warning:** The harbor authority issued a storm warning at 08:45 AM. A loud siren was activated and the warning was broadcast to all dock personnel. The claim that Mr. Thorne did not receive this warning is disputed by the standard operating procedures for storm alerts, which include audible sirens across the pier.\n\nWe will proceed with the investigation based on the documented facts.\n\nRegards,\n\nSarah Jenkins\nClaims Investigator\nNorthgate Industrial Port\n\n***\n\n**From:** Elias Thorne\n**To:** Sarah Jenkins, Claims Investigator, Northgate Industrial Port\n**Date:** 16 May 2023\n**Subject:** My Statement - Zone 4 Entry\n\nMs. Jenkins,\n\nI am writing to formally state my side of the incident. I have been a dock handler for 12 years. I was performing a routine visual inspection of container seals as part of my job description. I was in Zone 4 because a foreman verbally instructed me to check the seals there. It was an authorized exception. I did not ignore the signs; I was given a specific task to do in that area.\n\nRegarding the storm warning: I did not receive the storm warning via any communication channel. I did not have a personal radio channel open to the bridge at the time of the incident. I was focused on the seals. I assumed operations were normal because I had not been told otherwise by my immediate supervisor or via radio. I was wearing my certified high-visibility vest and hard hat. I did not expect a container to fall.\n\nI request that the investigation consider that I was doing my job as instructed.\n\nSincerely,\n\nElias Thorne\nDock Handler",
+ "n_words": 1688,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on 14 May 2023 at the Northgate Industrial Port.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Meteorological records show wind speeds of 35 knots at the site during the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The worker, Elias Thorne, has 12 years of continuous employment as a dock handler.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elias Thorne was wearing a certified high-visibility vest and hard hat at the time of the fall.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Security camera footage confirms Elias Thorne entered the Zone 4 area at 09:14:22.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Zone 4 is designated as a 'Restricted Load Area' in the port's safety manual.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The container involved weighed 4,500 kilograms.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Elias Thorne sustained a fractured left femur and internal bleeding.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The ship 'MV Aethelgard' docked at Pier 3 at 06:00 AM on the day of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Captain Julian Vane submitted his cargo manifest to the port office at 07:30 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Port regulations require cargo manifests to be submitted at least 2 hours before unloading begins.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Unloading operations for the 'MV Aethelgard' officially began at 09:00 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Elias Thorne received a formal safety briefing on restricted zones 3 months prior to the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The 'MV Aethelgard' used standard twist locks that were tested and certified on the day of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The harbor authority issued a storm warning at 08:45 AM, 30 minutes before the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Elias Thorne was performing a routine visual inspection of container seals as part of his job description.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The floor of Zone 4 was painted with white diagonal stripes to indicate restricted status.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The 'MV Aethelgard' had no prior safety violations in its last 5 years of operation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Elias Thorne did not have a personal radio channel open to the bridge at the time of the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Medical records show Elias Thorne required three surgeries to repair his injuries.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elias Thorne, Dock Worker stated that I was in Zone 4 because a foreman verbally instructed me to check the seals there, as it was an authorized exception.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sarah Jenkins, Claims Investigator stated that Elias Thorne was in Zone 4 without any authorization and ignored the 'No Entry' signs during restricted operations.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Julian Vane, Captain stated that The specific twist lock on the falling container was defective and slipped due to the rough seas, despite being certified.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Sarah Jenkins, Claims Investigator stated that The twist locks were functioning perfectly; the container fell because the worker's movement destabilized the stack.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elias Thorne, Dock Worker stated that I did not receive the storm warning via any communication channel, so I assumed operations were normal.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Sarah Jenkins, Claims Investigator stated that A loud siren was activated and the warning was broadcast to all dock personnel at 08:45 AM, which Elias Thorne ignored.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": [
+  "C1"
+ ]
+}

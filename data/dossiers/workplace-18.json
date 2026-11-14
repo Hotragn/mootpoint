@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-18",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Voss v. Krell Industrial Foods: Conveyor Blade Injury",
+ "premise": "A food processing plant worker was cut by a conveyor belt blade, leading to a dispute over whether the injury resulted from a missing safety interlock or the worker's failure to remove a wristwatch while operating the machine.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Initial Response Log ===\n\n**KRELL INDUSTRIAL FOODS - SECTOR 4 PRODUCTION AREA**\n**INCIDENT REPORT NO. 2023-1012-07**\n**Date of Incident:** October 12, 2023\n**Time of Incident:** 09:14 AM\n**Location:** Conveyor Line 7, Sector 4\n**Facility Address:** 4500 Industrial Way, Sector 4\n\n**1. Overview**\nThis report documents the injury sustained by Elias Voss, assigned operator for Conveyor Line 7, on October 12, 2023. The facility employs 145 full-time workers in the Sector 4 production area. The incident involved the active blade section of Conveyor Line 7, which utilizes a standard 200-millimeter stainless steel cutting unit. At the time of the incident, the conveyor belt was moving at a speed of 1.5 meters per second. The control panel for Conveyor Line 7 is located 2 meters away from the active blade section.\n\n**2. Chronology of Events**\n*   **09:00 AM:** Shift begins. Elias Voss assumes the operator position at the primary control panel for Conveyor Line 7.\n*   **09:14 AM:** Incident occurs. Voss sustains a laceration to his left wrist.\n*   **09:15 AM:** Voss reports the injury to Sarah Jenson, Shift Supervisor.\n*   **09:20 AM:** Emergency services contacted. Voss is transported to St. Mary\u2019s Hospital.\n\n**3. Safety Equipment and Compliance**\n*   **Personal Protective Equipment (PPE):** Voss was wearing standard-issue steel-toed boots during the incident.\n*   **Facility Policy:** It is noted that Krell Industrial Foods policy requires all employees to remove personal items, including wristwatches, before operating conveyor systems.\n*   **Surveillance:** The facility\u2019s security camera covering the immediate area of Conveyor Line 7 has a field of view that does not capture the wrist of the operator while they are standing at the primary control panel.\n\n**4. Maintenance and Training Records**\n*   **Safety Interlock:** The safety interlock mechanism on Conveyor Line 7 was last inspected and certified as functional on September 1, 2023.\n*   **Maintenance Log:** The maintenance log for Conveyor Line 7 shows no entries between the September 1 inspection and the October 12 incident.\n*   **Training:** Elias Voss completed the mandatory machine safety training course on August 15, 2023.\n*   **Employee History:** Records indicate Elias Voss has worked at Krell Industrial Foods for 12 years without a prior record of safety violations.\n\n**5. Insurance and Liability**\nThe facility\u2019s insurance policy limits liability for workplace injuries to $2,000,000 per occurrence.\n\n=== DOCUMENT 2: Witness Statement - Sarah Jenson, Shift Supervisor ===\n\n**STATEMENT OF WITNESS**\n**Date:** October 13, 2023\n**Witness:** Sarah Jenson, Shift Supervisor\n**Subject:** Incident at Conveyor Line 7, October 12, 2023\n\nI was on the floor at Sector 4 when the alarm went off at 09:14 AM. I was near the packaging station, which is a reasonable distance from Line 7, but I heard the clatter of the emergency stop being hit and the belt slowing down. I ran toward the line immediately.\n\nWhen I got to the control panel, Elias was standing there, holding his left arm. He looked shaken, which I understand, but he was upright and conscious. I checked his wrist right away to assess the bleeding. His wrist was bare. I clearly saw the skin and the cut, but there was no watch, no band, nothing on his wrist. He had followed the rules on this one. We have strict policies about removing personal items before operating the conveyors, and in this instance, he was compliant. I saw the bare skin of his wrist as I approached him at 09:15 AM.\n\nRegarding the interlock, I was not inside the danger zone, so I cannot speak to the mechanical engagement of the gate from that specific moment. However, I want to address the claim that the maintenance log is inaccurate. I have been working with the maintenance team for years. I recall that about a week before this incident, a technician mentioned that the interlock on Line 7 was sticking. It was a minor annoyance, not a total failure, but it was a complaint. I believe this was noted verbally but perhaps not logged formally in the digital system, which is why the log appears empty for that period. The log is incomplete because it misses these verbal reports from the floor.\n\nI did not see Elias leaning over the guardrail. He was standing at the panel, which is two meters away from the blade. I believe he was doing his job safely until the accident happened.\n\n=== DOCUMENT 3: Witness Statement - Elias Voss, Injured Worker ===\n\n**STATEMENT OF WITNESS**\n**Date:** October 15, 2023\n**Witness:** Elias Voss, Operator, Conveyor Line 7\n**Subject:** Injury on October 12, 2023\n\nI have worked at Krell Industrial Foods for 12 years. I have never had a safety violation. I am the assigned operator for Conveyor Line 7.\n\nOn the morning of October 12, I was at the primary control panel. The panel is 2 meters away from the active blade section. I was standing upright, monitoring the belt speed, which was at 1.5 meters per second. I was not leaning over the guardrail. I was not placing my arm within the path of the rotating blade assembly. My arm was not near the machinery in any way that suggests I was careless.\n\nThe safety interlock gate did not engage. I opened the access panel to check a sensor, and the gate did not lock, allowing the belt to remain active while I was inside the danger zone. The mechanism failed to stop the belt. This is a clear mechanical failure. The interlock was supposed to cut power to the blade immediately. It did not.\n\nWhen I stepped back, the blade struck my left wrist. I was wearing standard-issue steel-toed boots, as required. I did not have a wristwatch on. I removed it before my shift, as per policy. I walked to the break room after the incident, and I was aware of my surroundings. I did not have anything on my wrist.\n\nI reported the injury to Sarah Jenson at 09:15 AM. I was in shock, but I was coherent. The incident was caused by the failure of the safety equipment, not by my actions.\n\n=== DOCUMENT 4: Witness Statement - David Krell, Plant Manager ===\n\n**STATEMENT OF WITNESS**\n**Date:** October 14, 2023\n**Witness:** David Krell, Plant Manager\n**Subject:** Incident at Conveyor Line 7, October 12, 2023\n\nI arrived on the scene shortly after the alarm. My priority was to ensure the line was secured and the injured worker was stabilized.\n\nI observed that Elias Voss had sustained a severe laceration. Regarding the safety interlock, I can confirm that the system is fully functional. The safety interlock was fully functional and automatically stopped the belt when the gate was opened. The emergency stop was triggered, and the belt ceased movement. There was no mechanical failure of the interlock mechanism itself. The system performed as designed, albeit after the injury had already occurred due to the operator's position.\n\nI also reviewed the maintenance logs. The maintenance log is accurate and complete. No complaints or defects were recorded for the interlock mechanism in the 42 days prior to the incident. The last inspection was on September 1, 2023, and it was certified as functional. There are no entries between September 1 and October 12. Any claim that a technician complained about the interlock sticking is not supported by the official record. We do not operate on verbal reports; we operate on logged data.\n\nRegarding the operator's position, I spoke to Elias after he was stabilized. He was leaning over the guardrail. This is a critical safety violation. By leaning over, he was placing his left arm directly within the path of the rotating blade assembly. The control panel is 2 meters away, but he bypassed the safe distance by leaning into the danger zone. This action placed him in immediate proximity to the 200-millimeter stainless steel cutting unit.\n\nI also want to address the issue of personal items. I reviewed the security footage available, though the camera angle is limited. However, I have been informed by security that a watch was observed. I do not dispute that policy requires removing watches. The operator's decision to lean over the guardrail was the primary cause of the injury, regardless of whether a watch was present or not.\n\n=== DOCUMENT 5: Medical Report and Ancillary Records ===\n\n**ST. MARY\u2019S HOSPITAL**\n**PATIENT MEDICAL REPORT**\n**Patient:** Elias Voss\n**Date of Admission:** October 12, 2023\n**Attending Physician:** Dr. A. Sterling\n\n**Diagnosis:**\nSevere laceration of the left wrist.\n\n**Findings:**\nThe patient presented with a laceration to his left wrist measuring 12 centimeters in length. The wound was deep enough to damage two tendons. Surgical intervention was required to repair the wrist.\n\n**Pre-existing Conditions:**\nReview of patient history indicates a pre-existing condition of mild carpal tunnel syndrome in his right hand. There is no record of carpal tunnel syndrome in the left hand.\n\n**Treatment Plan:**\nPost-surgical recovery requires physical therapy for 6 weeks following the surgery to repair his wrist.\n\n**INCIDENTAL RECORD: Security Observation Note**\n**Facility:** Krell Industrial Foods\n**Date:** October 12, 2023\n**Time:** 09:25 AM\n**Observer:** Marcus Thorne, Security Guard\n\nI was stationed near the break room entrance. At approximately 09:25 AM, I observed Elias Voss walking toward the break room. He was holding his left arm in a protective manner. As he passed the doorway, I observed Elias wearing a dark leather-strapped wristwatch on his left wrist. I noted this because facility policy requires the removal of such items during operation. I did not see him remove it. The watch was visible on his wrist as he walked.\n\n**INCIDENTAL RECORD: Insurance Policy Summary**\n**Insurer:** Global Risk Assurance\n**Client:** Krell Industrial Foods\n**Policy Limit:** $2,000,000 per occurrence for workplace injuries.",
+ "n_words": 1604,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Krell Industrial Foods facility located at 4500 Industrial Way, Sector 4.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Elias Voss, was the assigned operator for Conveyor Line 7.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The injury happened at 09:14 AM on October 12, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elias Voss suffered a laceration to his left wrist measuring 12 centimeters in length.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Elias Voss was wearing standard-issue steel-toed boots during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The conveyor belt was moving at a speed of 1.5 meters per second at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The safety interlock mechanism on Conveyor Line 7 was last inspected and certified as functional on September 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Elias Voss completed the mandatory machine safety training course on August 15, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The facility\u2019s security camera covering the immediate area of Conveyor Line 7 has a field of view that does not capture the wrist of the operator while they are standing at the primary control panel.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elias Voss reported the injury to his supervisor, Sarah Jenson, at 09:15 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The medical report from St. Mary\u2019s Hospital indicates that the laceration was deep enough to damage two tendons.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Krell Industrial Foods employs 145 full-time workers in the Sector 4 production area.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The blade on Conveyor Line 7 is a standard 200-millimeter stainless steel cutting unit.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elias Voss has worked at Krell Industrial Foods for 12 years without a prior record of safety violations.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The facility\u2019s policy requires all employees to remove personal items, including wristwatches, before operating conveyor systems.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The maintenance log for Conveyor Line 7 shows no entries between the September 1 inspection and the October 12 incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elias Voss was required to undergo physical therapy for 6 weeks following the surgery to repair his wrist.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The control panel for Conveyor Line 7 is located 2 meters away from the active blade section.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The facility\u2019s insurance policy limits liability for workplace injuries to $2,000,000 per occurrence.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Elias Voss\u2019s medical records indicate he has a pre-existing condition of mild carpal tunnel syndrome in his right hand, not his left.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elias Voss, Injured Worker stated that The safety interlock gate did not engage, allowing the belt to remain active while I was inside the danger zone.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Krell, Plant Manager stated that The safety interlock was fully functional and automatically stopped the belt when the gate was opened.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenson, Shift Supervisor stated that Elias was not wearing a wristwatch; his wrist was bare and visible when I approached him immediately after the incident.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Thorne, Security Guard stated that I observed Elias wearing a dark leather-strapped wristwatch on his left wrist as he walked to the break room after the incident.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elias Voss, Injured Worker stated that I was standing at the control panel, which is 2 meters away from the blade, and my arm was not near the machinery.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "David Krell, Plant Manager stated that Elias was leaning over the guardrail, placing his left arm directly within the path of the rotating blade assembly.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenson, Shift Supervisor stated that The maintenance log is incomplete; I recall a technician complaining about the interlock sticking just a week before the incident.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Krell, Plant Manager stated that The maintenance log is accurate and complete; no complaints or defects were recorded for the interlock mechanism in the 42 days prior to the incident.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

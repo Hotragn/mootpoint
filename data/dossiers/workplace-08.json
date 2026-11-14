@@ -1,0 +1,184 @@
+{
+ "dossier_id": "workplace-08",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Hartwood v. Kestrel Timber",
+ "premise": "A forestry worker claims that the landowner failed to clear a hazardous ridge, causing a tree fall accident, while the landowner argues the worker entered the property without permission to harvest timber.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Site Conditions Report ===\n\n**INCIDENT REPORT NO:** KT-2023-1014-009\n**DATE OF INCIDENT:** October 14, 2023\n**TIME OF INCIDENT:** 09:15 AM\n**LOCATION:** North Ridge, Northern Sector, Kestrel Timber Property\n**REPORTING OFFICER:** J. Dole, Site Supervisor\n\n**1. SITE METEOROLOGICAL AND ENVIRONMENTAL DATA**\nWeather data recorded by the on-site station indicates that rainfall in the district totaled 4.2 inches over the 48 hours preceding the incident. At the time of the event, the ambient temperature at the site was recorded at 12 degrees Celsius. The North Ridge is located in the northern sector of the Kestrel property, which spans a total of 1,200 acres. Geological surveys of the specific area confirm that the soil composition at the North Ridge consists primarily of clay-rich loam. The topographical survey of this sector indicates that the slope at the North Ridge has an average gradient of 18 degrees.\n\n**2. ACCESS AND SECURITY RECORDS**\nSecurity logs for the main entrance gate were reviewed for the morning of October 14, 2023. The gate to the Kestrel property was found closed and locked at 08:00 AM on October 14, 2023. The electronic access logs show no record of Elias Thorne passing through the main entrance gate between 06:00 AM and 09:00 AM. There is no badge scan or manual entry log associated with Thorne during this period.\n\n**3. INCIDENT DESCRIPTION**\nAt 09:15 AM, worker Elias Thorne slipped on the muddy bank of the North Ridge. The slip occurred 15 meters from the edge of the designated work zone. Upon discovery of the incident by patrol staff, a first aid kit was found 50 meters from the incident site, positioned near the boundary marker of the active harvesting area.\n\n**4. INVENTORY AND MATERIALS**\nTimber harvested by Thorne prior to the incident was located in an unmarked area not designated for Kestrel inventory. The logs were stacked haphazardly, distinct from the organized piles of authorized inventory.\n\n**5. POLICY AND COMPLIANCE NOTES**\nElias Thorne is not listed on the Kestrel Timber employee roster for Q3 2023. Kestrel Timber issued a cease-and-desist letter regarding unauthorized harvesting on October 1, 2023. Kestrel Timber's insurance policy excludes coverage for incidents occurring outside designated work zones. Kestrel safety protocols mandate that all personnel on the property wear high-visibility vests.\n\n=== DOCUMENT 2: Witness Statement of Elias Thorne ===\n\n**STATEMENT OF ELIAS THORNE**\n**DATE:** October 16, 2023\n**LOCATION:** Millbrook\n**RE:** Incident at Kestrel Timber, October 14, 2023\n\nI am Elias Thorne, 34 years old, and I reside in Millbrook. I have been in this line of work for a long time; in fact, I have 12 years of experience in forestry operations. I know the terrain, I know the risks, and I know how to handle the equipment. I was on that property because I was doing a job, plain and simple.\n\nI want to be clear about how I got in there. I received a verbal authorization from the site manager to work on the North Ridge that morning. I didn't just wander in over the fence; I had permission. The site manager told me to get to the North Ridge early because the light was good and the machines were ready. I trusted that because I\u2019ve worked with that crew before.\n\nWhen I got to the ridge, the ground was a mess. It was unstable due to the landowner's failure to clear the muddy accumulation. They let that mud build up for days after the rain, and they never sent anyone out to fix it. It was a slippery, slick mess. I was unaware that the ridge was deemed hazardous and off-limits until I slipped. There were no signs that told me, \"Stop, you can't go here.\" I just saw an area that needed work, so I went in.\n\nI was performing duties within the scope of my employment for Kestrel at the time. I was cutting timber, stacking it, and doing what I was hired to do. I wasn't out there for fun, and I wasn't operating independently. I was an employee doing his job.\n\nThe injury I sustained was severe. I looked down and saw the swelling immediately. The ground gave way under me, and I went down hard. It wasn't my shoes that caused the problem; the terrain was the problem. The landowner left a dangerous condition, and I paid for it. I reported the injury to my supervisor within 10 minutes of the slip. I called him as soon as I could get a signal up there. He knew I was hurt, he knew where I was, and he knew I was working.\n\nI didn't wear the vest because I was in the thick of the trees, not on the main road, but that doesn't change the fact that I was authorized and employed there. I was doing my job, and I got hurt because the ground was unsafe.\n\n=== DOCUMENT 3: Witness Statement of Sarah Kestrel ===\n\n**STATEMENT OF SARAH KESTREL**\n**DATE:** October 15, 2023\n**LOCATION:** Kestrel Timber Headquarters\n**RE:** Unauthorized Entry and Injury of Elias Thorne\n\nI am Sarah Kestrel, the owner of the Kestrel property. I am writing to clarify the events of October 14, 2023, regarding the individual Elias Thorne.\n\nFirst, I must address the claim that this man was an employee or was authorized to be on my land. I never authorized Thorne to enter; he was trespassing after the cease-and-desist order. We sent a formal letter on October 1, 2023, explicitly telling him and his crew to stop unauthorized harvesting. He ignored it. He is not listed on our employee roster for Q3 2023. He is not on our payroll. He is not on our schedule.\n\nHe claims he was \"acting within the scope of employment.\" This is a lie. Thorne was operating independently and was not acting as an employee at the time of the incident. He was stealing timber. The logs he cut were not part of any legitimate operation. They were stacked in an unmarked area, away from our designated inventory zones, which is where he tries to hide his theft.\n\nAs for his presence on the North Ridge that morning, the security logs are clear. The gate to the Kestrel property was found closed and locked at 08:00 AM on October 14, 2023. The logs show no record of Elias Thorne passing through the main entrance gate between 06:00 AM and 09:00 AM. If he had authorization, he would have gone through the gate. He didn't. He sneaked in.\n\nHe claims he was unaware the ridge was off-limits. That is false. The area was clearly marked. He was trespassing in a restricted zone. We do not accept responsibility for injuries sustained by individuals who break the law to steal property. He slipped because he was in a place he was not allowed to be. He had no right to be there, and therefore, he has no claim against us.\n\n=== DOCUMENT 4: Witness Statement of Mark Vane, Safety Officer ===\n\n**STATEMENT OF MARK VANE**\n**DATE:** October 15, 2023\n**LOCATION:** Kestrel Timber Safety Office\n**RE:** Investigation of Incident KT-2023-1014-009\n\nI am Mark Vane, the Safety Officer for Kestrel Timber. I have reviewed the site, the weather data, and the personnel records regarding the incident involving Elias Thorne.\n\nI want to address the narrative that the terrain was inherently dangerous due to negligence. The ridge was clearly marked as a hazard zone with red tape, which Thorne ignored. We put up the tape after the heavy rainfall because we knew the clay-rich loam would become unstable. The slope at the North Ridge has an average gradient of 18 degrees, which is manageable for experienced workers, but only if they follow safety protocols. Thorne ignored the tape. He ignored the warning.\n\nThorne claims that the injury was caused by the terrain. I disagree. The injury was caused by Thorne's failure to wear proper traction footwear, not the terrain. Any competent worker knows that 18 degrees is a standard slope, but on wet clay, you need the right boots. He was not wearing the proper gear. In fact, he wasn't even wearing the mandatory high-visibility vest required by Kestrel safety protocols. He was non-compliant on multiple levels.\n\nRegarding his authorization, I have no record of him being authorized for that sector. He is not on the Q3 roster. He is not on the Q4 roster. He is not a Kestrel employee. He was on the property without permission. The cease-and-desist letter was sent on October 1, 2023. He knew he wasn't supposed to be there.\n\nHe claims he reported the injury to his supervisor. I have no record of such a report in my safety logs. The first time we knew he was hurt was when the patrol found him. He is not a Kestrel employee, so he does not have a \"supervisor\" in the traditional sense. He was an independent actor who made a poor choice to enter a marked hazard zone without proper equipment or authorization.\n\n=== DOCUMENT 5: Medical Report and Insurance Correspondence ===\n\n**MEDICAL REPORT**\n**PATIENT:** Elias Thorne\n**DATE OF BIRTH:** 1989\n**ADDRESS:** Millbrook\n**TREATING PHYSICIAN:** Dr. A. Sterling\n**DATE OF EXAM:** October 14, 2023\n\n**DIAGNOSIS:**\nThe patient presented with severe pain and swelling in the left knee. Imaging and physical examination confirm that Elias Thorne sustained a Grade II ligament tear in his left knee.\n\n**TREATMENT PLAN:**\nImmediate immobilization, ice, and referral to orthopedic specialist for potential surgical intervention.\n\n**INSURANCE CORRESPONDENCE**\n**FROM:** Claims Dept., Kestrel Timber Insurance\n**TO:** Elias Thorne\n**DATE:** October 20, 2023\n**RE:** Claim Denial KT-2023-1014-009\n\nDear Mr. Thorne,\n\nWe have reviewed the claim for medical expenses related to the incident on October 14, 2023.\n\nOur review of the incident log and site records indicates that the incident occurred 15 meters from the edge of the designated work zone. Kestrel Timber's insurance policy excludes coverage for incidents occurring outside designated work zones.\n\nFurthermore, our records indicate that Mr. Thorne is not listed on the Kestrel Timber employee roster for Q3 2023. Consequently, he is not considered an employee for the purposes of workers' compensation coverage.\n\nBased on the exclusion clause regarding location and the status of the claimant, we are unable to approve this claim.\n\nSincerely,\nClaims Department",
+ "n_words": 1705,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 14, 2023, at 09:15 AM, worker Elias Thorne slipped on the muddy bank of the North Ridge.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Medical records show Elias Thorne sustained a Grade II ligament tear in his left knee.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The slope at the North Ridge has an average gradient of 18 degrees.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Rainfall in the district was 4.2 inches over the 48 hours preceding the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The soil composition at the North Ridge consists primarily of clay-rich loam.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Elias Thorne has 12 years of experience in forestry operations.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The slip occurred 15 meters from the edge of the designated work zone.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The gate to the Kestrel property was found closed and locked at 08:00 AM on October 14, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Kestrel Timber issued a cease-and-desist letter regarding unauthorized harvesting on October 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elias Thorne is not listed on the Kestrel Timber employee roster for Q3 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Security logs show no record of Elias Thorne passing through the main entrance gate between 06:00 AM and 09:00 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The timber harvested by Thorne was stacked in an unmarked area not designated for Kestrel inventory.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Kestrel Timber's insurance policy excludes coverage for incidents occurring outside designated work zones.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elias Thorne did not wear the mandatory high-visibility vest required by Kestrel safety protocols.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The temperature at the site was 12 degrees Celsius at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Elias Thorne is 34 years old and resides in Millbrook.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The North Ridge is located in the northern sector of the Kestrel property.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "A first aid kit was found 50 meters from the incident site.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The Kestrel property spans 1,200 acres.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elias Thorne (Worker) stated that I received a verbal authorization from the site manager to work on the North Ridge that morning.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Sarah Kestrel (Landowner) stated that I never authorized Thorne to enter; he was trespassing after the cease-and-desist order.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elias Thorne (Worker) stated that I was unaware that the ridge was deemed hazardous and off-limits until I slipped.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mark Vane (Safety Officer) stated that The ridge was clearly marked as a hazard zone with red tape, which Thorne ignored.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elias Thorne (Worker) stated that The ground was unstable due to the landowner's failure to clear the muddy accumulation.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mark Vane (Safety Officer) stated that The injury was caused by Thorne's failure to wear proper traction footwear, not the terrain.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elias Thorne (Worker) stated that I was performing duties within the scope of my employment for Kestrel at the time.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Sarah Kestrel (Landowner) stated that Thorne was operating independently and was not acting as an employee at the time of the incident.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

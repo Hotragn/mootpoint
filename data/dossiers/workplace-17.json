@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-17",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Maren vs. Vexon Labs",
+ "premise": "A pharmaceutical lab assistant was exposed to a toxic vapor when a fume hood malfunctioned, triggering a conflict between the university's lack of maintenance funding and the fume hood manufacturer's claim of user error.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Report and Initial Response Log, Kestrel University Chemistry Building ===\n\n**Incident ID:** KUC-2023-1014-04B\n**Date of Incident:** October 14, 2023\n**Time of Incident:** 14:22 EST\n**Location:** Kestrel University Chemistry Building, Lab 4B\n**Reported By:** Emergency Response Team (ERT) Lead, J. Halloway\n**Subject:** Chemical Exposure and Equipment Failure in Lab 4B\n\n**1. Incident Overview**\nAt 14:22 EST, an emergency alert was triggered by the building\u2019s environmental monitoring system in Lab 4B. The alert indicated a spike in volatile organic compound (VOC) concentrations exceeding safety thresholds. Emergency personnel arrived on scene at 14:25 EST. Upon entry, it was confirmed that Elara Maren, a third-year laboratory assistant, was the only individual present in the laboratory at the time of the incident.\n\nMs. Maren was found standing near the central fume hood, exhibiting signs of acute respiratory distress. She reported immediate contact with chemical vapors. Paramedics were called at 14:26 EST. Ms. Maren was transported to Kestrel General Hospital at 14:35 EST for treatment of chemical burns and respiratory issues.\n\n**2. Equipment Identification**\nThe equipment involved in the incident is a Vexon Industrial Systems fume hood, Model VH-900. This unit was installed in Lab 4B in 2019. According to the university\u2019s asset registry, the VH-900 is currently under the manufacturer\u2019s two-year warranty period, which remains active as of the incident date. The ventilation system in Lab 4B is rated for a maximum airflow capacity of 1,200 cubic feet per minute.\n\n**3. Immediate Observations**\nUpon arrival, ERT personnel noted that the fume hood sash was in a raised position. The specific height of the sash at the moment of the incident is disputed and subject to further investigation. The interior of the hood contained residue consistent with Dichloromethane, a volatile organic compound commonly used in organic synthesis. The amber warning light on the fume hood control panel was observed to be inactive after the incident was contained.\n\n**4. Personnel Status**\nElara Maren, the injured worker, was certified in chemical safety protocols as of January 2023. She is currently listed as unable to return to her laboratory duties due to the nature of her injuries.\n\n**5. Administrative Notes**\nIt is noted for the record that Kestrel University\u2019s maintenance budget for the Chemistry Building was reduced by 15% in the fiscal year 2023. The university has no contractual obligation to perform daily inspections of the fume hood beyond the manufacturer's recommendation. The last scheduled preventative maintenance for the VH-900 unit was performed on September 1, 2023.\n\n=== DOCUMENT 2: Witness Statement of Elara Maren ===\n\n**Statement of Elara Maren**\n**Date:** October 15, 2023\n**Interviewer:** Legal Counsel for Plaintiff\n**Context:** Formal deposition regarding incident of October 14, 2023\n\nI was working in Lab 4B on October 14th, conducting routine organic synthesis. I am a third-year laboratory assistant, and I have been certified in chemical safety protocols since January 2023. I was alone in the lab at the time, as is standard for my specific procedure.\n\nI was using the Vexon VH-900 fume hood to process Dichloromethane. I want to be very clear about the safety measures I was taking. The sash was fully lowered to the 12-inch position, well within the safety zone, when the vapor escaped. The standard operating procedure requires the sash to be kept below the 15-inch mark, and I followed this strictly. I was handling a standard 50ml beaker, which is the maximum recommended volume for open-air processing in this hood. There was no excess volume, no unstable vapor column, nothing that would suggest I was careless.\n\nThe machine failed without warning. The amber warning light for airflow insufficiency was off and unresponsive throughout the procedure. I relied on the equipment to do its job because I had followed every protocol. Suddenly, the suction stopped, and the vapor from the Dichloromethane rushed out of the hood. It hit my left forearm and upper chest immediately. I felt the heat of the chemical burn instantly, and then the fumes filled my lungs.\n\nI was in acute respiratory distress immediately following the exposure. I tried to breathe, but the air was thick with the chemical. I managed to step back, but the damage was done. I have been unable to return to my laboratory duties since that day. My medical bills have totaled $42,000 as of November 2023. This equipment is supposed to protect me, but it didn't. The fan stopped, the light didn't warn me, and the vapor escaped because the machine itself was defective, not because of anything I did.\n\n=== DOCUMENT 3: Witness Statement of Dr. Aris Thorne, University Safety Officer ===\n\n**Statement of Dr. Aris Thorne**\n**Date:** October 16, 2023\n**Interviewer:** Legal Counsel for Defendant\n**Context:** Formal deposition regarding incident of October 14, 2023\n\nI am the University Safety Officer at Kestrel University. I reviewed the scene and the available data following the incident in Lab 4B on October 14, 2023. Elara Maren was the only person present in the lab at the time.\n\nRegarding the position of the fume hood sash: The sash was raised to the 24-inch position, significantly above the 15-inch limit, compromising containment. This is a critical safety violation. The standard operating procedure for Dichloromethane is explicit: the sash must be kept below the 15-inch mark. By raising it to 24 inches, the worker created a large, uncontrolled opening that allowed vapors to escape easily once the airflow was compromised.\n\nFurthermore, the volume of chemical being handled was a major factor. The worker was using a 200ml beaker, exceeding the 50ml recommendation and creating an unstable vapor column. Handling such a large volume in an open configuration is reckless and contrary to basic safety training. I cannot accept the claim that she was using a 50ml beaker; the visual evidence and the scale of the vapor release suggest a much larger volume was involved.\n\nAs for the equipment failure: The fan motor seized due to a pre-existing mechanical defect in the bearing assembly that was not detectable during standard maintenance. The last scheduled preventative maintenance for the VH-900 unit was performed on September 1, 2023. The maintenance log for that date indicates the fan belt was replaced. While the maintenance was performed, the bearing issue was latent. However, it is important to note that the university's maintenance budget for the Chemistry Building was cut by 15% in the fiscal year 2023, which may have affected the depth of inspections, though we adhered to the scheduled timeline.\n\nThe VH-900 is manufactured by Vexon Industrial Systems and was installed in 2019. It is under warranty. The ventilation system has a maximum airflow capacity of 1,200 cubic feet per minute. The failure of the fan, combined with the worker's failure to maintain the sash at the required height and her use of an excessive volume of chemical, led to the exposure.\n\n=== DOCUMENT 4: Witness Statement of Kaelen Vex, Vexon Technical Support ===\n\n**Statement of Kaelen Vex**\n**Date:** October 20, 2023\n**Interviewer:** Legal Counsel for Defendant\n**Context:** Technical assessment and deposition regarding VH-900 failure\n\nI am Kaelen Vex, Technical Support Specialist for Vexon Industrial Systems. I inspected the VH-900 unit in Lab 4B following the incident on October 14, 2023. The unit was manufactured by Vexon and installed in 2019. It is covered by our two-year warranty, which is active as of the incident date.\n\nMy investigation focused on the cause of the fan malfunction. The fan motor seized because the user failed to clean the intake grille, causing debris to jam the impeller. This is a common issue when users do not follow basic maintenance guidelines. The intake grille was clogged with significant amounts of dust and chemical residue, which obstructed airflow and caused the motor to overheat and seize. This is not a defect in the bearing assembly; the bearing was intact.\n\nRegarding the warning system: The amber warning light was flashing continuously for at least thirty seconds prior to the exposure, indicating low airflow. The system was functioning as designed. The light was clearly visible on the control panel. It is difficult to understand how a trained laboratory assistant would fail to notice a flashing amber warning light for thirty seconds. This indicates a failure of user attention, not equipment failure.\n\nThe fume hood model VH-900 is designed to handle standard laboratory procedures. The specific chemical involved was Dichloromethane, a volatile organic compound. The standard operating procedure for this chemical requires the sash to be kept below the 15-inch mark. The ventilation system in Lab 4B has a maximum airflow capacity of 1,200 cubic feet per minute, which is sufficient for the intended use. The failure to clean the intake grille was the primary cause of the airflow loss. Vexon Industrial Systems does not accept liability for failures caused by user neglect of routine cleaning protocols.\n\n=== DOCUMENT 5: Medical Report and Financial Summary, Kestrel General Hospital ===\n\n**Patient Name:** Elara Maren\n**Date of Service:** October 14, 2023\n**Attending Physician:** Dr. S. R. Halloway\n**Department:** Emergency Medicine / Occupational Health\n\n**1. Clinical Presentation**\nPatient presented to the Emergency Department at 14:35 EST following a chemical exposure incident at Kestrel University Chemistry Building, Lab 4B. Patient reported acute respiratory distress immediately following exposure to volatile organic compounds.\n\n**2. Diagnosis and Treatment**\n*   **Chemical Burns:** Patient sustained second-degree chemical burns to the left forearm and upper chest. The area of injury is consistent with contact with Dichloromethane vapor and liquid.\n*   **Respiratory Distress:** Patient exhibited acute respiratory distress, including tachypnea and wheezing, immediately following the exposure. Bronchodilators and oxygen therapy were administered.\n*   **Treatment:** Wound debridement and burn care were performed. Patient was admitted for observation due to respiratory complications.\n\n**3. Prognosis and Work Status**\nPatient is advised to remain away from laboratory environments and any potential chemical exposure sites for a minimum of 6 weeks. Patient has been certified as unable to return to her laboratory duties at Kestrel University since October 14, 2023, due to pain, restricted mobility, and respiratory sensitivity.\n\n**4. Financial Summary**\nAs of November 2023, the total medical bills incurred by the patient related to this incident have reached $42,000. This includes emergency room fees, hospitalization, burn care, and follow-up appointments. Additional costs are expected as the patient undergoes physical therapy and respiratory rehabilitation.\n\n**5. Notes**\nThe medical records confirm that the patient was treated for acute respiratory distress immediately following the exposure. The severity of the burns and respiratory issues is consistent with a significant and sudden release of toxic vapors, suggesting a failure in containment or ventilation systems at the time of the incident.",
+ "n_words": 1754,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Kestrel University Chemistry Building, specifically in Lab 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Elara Maren, was a third-year laboratory assistant at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The incident date was October 14, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elara Maren sustained chemical burns to her left forearm and upper chest.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Medical records show Elara Maren was treated for acute respiratory distress immediately following the exposure.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The fume hood in Lab 4B was manufactured by Vexon Industrial Systems.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The fume hood model VH-900 was installed in the building in 2019.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Kestrel University\u2019s maintenance budget for the Chemistry Building was cut by 15% in the fiscal year 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The last scheduled preventative maintenance for the VH-900 unit was performed on September 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The maintenance log for September 1, 2023, indicates the fan belt was replaced.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Elara Maren was certified in chemical safety protocols as of January 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The specific chemical involved was Dichloromethane, a volatile organic compound.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The standard operating procedure for Dichloromethane requires the sash to be kept below the 15-inch mark.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elara Maren\u2019s medical bills have totaled $42,000 as of November 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Elara Maren has been unable to return to her laboratory duties since October 14, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Vexon Industrial Systems provides a two-year warranty on the VH-900 model.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The VH-900 unit is currently under warranty as of the incident date.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The ventilation system in Lab 4B has a maximum airflow capacity of 1,200 cubic feet per minute.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Kestrel University has no contractual obligation to perform daily inspections of the fume hood beyond the manufacturer's recommendation.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Elara Maren was the only person present in Lab 4B at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elara Maren (Injured Worker) stated that The sash was fully lowered to the 12-inch position, well within the safety zone, when the vapor escaped.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Dr. Aris Thorne (University Safety Officer) stated that The sash was raised to the 24-inch position, significantly above the 15-inch limit, compromising containment.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne (University Safety Officer) stated that The fan motor seized due to a pre-existing mechanical defect in the bearing assembly that was not detectable during standard maintenance.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Kaelen Vex (Vexon Technical Support) stated that The fan motor seized because the user failed to clean the intake grille, causing debris to jam the impeller.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elara Maren (Injured Worker) stated that The amber warning light for airflow insufficiency was off and unresponsive throughout the procedure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Kaelen Vex (Vexon Technical Support) stated that The amber warning light was flashing continuously for at least thirty seconds prior to the exposure, indicating low airflow.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elara Maren (Injured Worker) stated that I was handling a standard 50ml beaker, which is the maximum recommended volume for open-air processing in this hood.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Dr. Aris Thorne (University Safety Officer) stated that The worker was using a 200ml beaker, exceeding the 50ml recommendation and creating an unstable vapor column.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

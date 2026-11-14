@@ -1,0 +1,172 @@
+{
+ "dossier_id": "protest-23",
+ "split": "test",
+ "domain": "protest",
+ "title": "Wexler Ave Memorial Incident",
+ "premise": "A spontaneous memorial for a recent fatal shooting in a Chicago neighborhood turns violent when a lone officer draws his sidearm, prompting a crowd of hundreds to surge forward before backup arrives.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Radio Transcripts - Chicago Police Department ===\n\n**INCIDENT REPORT NO:** 23-1012-449\n**LOCATION:** Intersection of Wexler Ave and 4th Street, Southside District\n**DATE:** October 12, 2023\n**OFFICER ON DUTY:** Marcus Thorne, Badge #4921\n**STATUS:** Closed\n\n**1. INITIAL RESPONSE AND ARRIVAL**\nAt 19:12, Officer Marcus Thorne arrived at the scene in Patrol Unit 74. The unit arrived alone; no additional officers were present at the scene at the time of arrival. The area contained a gathering of approximately 50 individuals situated near the pedestrian crosswalk.\n\n**2. RADIO LOG EXTRACT**\n*   **19:15:02** [Thorne to Dispatch]: \"Unit 74 requesting backup to Wexler and 4th. Crowd is becoming unmanageable. Requesting immediate support.\"\n*   **19:15:05** [Dispatch to Thorne]: \"Copy, Unit 74. Backup en route. Stay safe.\"\n*   **19:31:10** [Dispatch to Thorne]: \"Units 22 and 30 are on scene. Stand by for handoff.\"\n\n*Note: Backup units arrived at 19:31, which is seven minutes after the initial request for assistance.*\n\n**3. EVIDENCE LOG**\n*   **Item 101:** Bystander video file, \"Wexler_Memorial_1845.mp4,\" submitted by anonymous citizen.\n*   **Item 102:** Security camera footage from 24-hour laundromat at 1415 Wexler Ave.\n*   **Item 103:** Corrupted body camera file, Unit 74. File integrity check failed. Footage is unplayable from timestamp 19:22:00 to 19:25:00.\n*   **Item 104:** Digital clock overlay from Laundromat camera showing time 19:24:14.\n\n**4. PROPERTY DAMAGE**\nA 2017 Ford F-150 pickup truck, driven by citizen J. Miller, was struck by a projectile. The front bumper sustained denting. The projectile was recovered and identified as a standard 2-inch gravel stone.\n\n**5. PERSONNEL INJURIES**\nThree individuals in the crowd were transported to the local emergency room. Medical personnel diagnosed them with mild concussion injuries. The injuries resulted from being struck by falling debris from a nearby storefront awning.\n\n=== DOCUMENT 2: Witness Statement of Dr. Elena Rostova ===\n\n**STATEMENT OF DR. ELENA ROSTOVA**\n**Date of Statement:** October 14, 2023\n**Role:** Researcher/NGO Representative\n\nI was present at the memorial gathering on Wexler Avenue and 4th Street. It was a somber, peaceful event. I have a ten-year history of mediating community disputes, and in all that time, I have never recorded an instance of violence from the groups I work with. We were simply standing there, honoring the deceased.\n\nAt 18:45, I was recorded on a bystander\u2019s phone speaking into a megaphone. I was directing the crowd to remain in the pedestrian crosswalk, which is where we belonged. We were respectful.\n\nWhen Officer Thorne arrived at 19:12, he did not attempt to talk to us. He stood there, looking aggressive. I watched him closely. He was visibly intoxicated. He was stumbling before the confrontation even began. His movements were erratic, and he lacked the steady posture of a professional officer. This compromised his ability to de-escalate the situation safely. It was clear to anyone watching that he was impaired.\n\nThe crowd surged forward only because Officer Thorne drew his sidearm and pointed it at the gathering. He created an immediate threat perception. We did not move out of malice; we moved because he made us feel unsafe.\n\nRegarding the physical contact, I can state clearly that police officers made the first physical contact. After the surge began, Thorne and the arriving backup shoved the front row of the crowd back. This action escalated the violence. I was located 50 meters away from the officer when the crowd began to surge, so I had a clear view of the entire sequence. The officers were the aggressors in that moment, pushing people who were merely trying to be heard.\n\nI also want to note that at 19:20, I explicitly told the crowd, \"Do not advance toward the officer.\" This was to keep the peace, not to incite. The audio analysis of my megaphone recording confirms this. The crowd was not trying to harm him. We were trying to survive his aggression.\n\n=== DOCUMENT 3: Witness Statement of Officer Marcus Thorne ===\n\n**STATEMENT OF OFFICER MARCUS THORNE**\n**Date of Statement:** October 15, 2023\n**Role:** Chicago Police Department, Badge #4921\n\nI have served 12 years with the Chicago Police Department. I have dealt with hundreds of crowds, and I know how to handle them. I arrived at the scene at 19:12 to manage a situation that was already volatile.\n\nI request backup at 19:15 because the crowd was becoming unmanageable. This is standard procedure for a growing crowd. It is not a sign of impairment, as some have claimed. I was alert and professional. I was performing my duty to ensure public safety.\n\nThe crowd surged forward because an unidentified individual in the back of the line began throwing objects. This forced a defensive reaction from the officers. I did not draw my weapon to threaten anyone; I drew it because I was being attacked. The first physical contact was made by the crowd. A protester grabbed my baton, prompting the officers to clear the area to prevent further injury.\n\nI was not intoxicated. I was focused on the threat. The crowd was attempting to breach the police line and physically tackle the officer. I saw the aggressive forward momentum and heard the shouts. They were not peaceful. They were a violent mob trying to overpower me.\n\nThe debris that fell from the awning was a result of the chaos created by the crowd\u2019s aggression. I did not shove anyone. I maintained my position until backup arrived. The narrative that I was stumbling is false. I was doing my job under fire.\n\n=== DOCUMENT 4: Witness Statement of Mr. Silas Vane ===\n\n**STATEMENT OF MR. SILAS VANE**\n**Date of Statement:** October 16, 2023\n**Role:** Memorial Organizer\n\nI organized the memorial for the victim of the recent fatal shooting. We did not file a prior permit with the City of Chicago Parks and Recreation Department because we believed a spontaneous gathering at an intersection did not require one. We were wrong, but our intent was peaceful.\n\nI was present at the scene. I was not visible in any of the captured video footage until 19:26. Before that, I was moving through the crowd to check on people.\n\nThe crowd was attempting to surround the officer to demand an apology for the recent fatal shooting, not to physically assault him. We wanted answers. We wanted justice. When Officer Thorne arrived, he was not helpful. He was not listening.\n\nI disagree with the idea that we were trying to tackle him. We were trying to talk to him. But when he reacted with force, it changed everything. The crowd\u2019s movement was a reaction to his hostility. We were not a mob; we were mourners.\n\nI saw Officer Thorne act erratically. I believe he was not in the right state of mind. But regardless of his condition, the police response was disproportionate. We were just standing there, trying to be heard.\n\n=== DOCUMENT 5: Witness Statement of Citizen J. Miller ===\n\n**STATEMENT OF CITIZEN J. MILLER**\n**Date of Statement:** October 16, 2023\n**Role:** Bystander/Driver\n\nI was driving my 2017 Ford F-150 past the intersection when the trouble started. I saw the crowd from my vehicle. They were not just standing there. They were pushing. They were shouting.\n\nThe crowd was attempting to breach the police line and physically tackle the officer. I saw the aggressive forward momentum. I saw people in the front row reaching out. It looked like they were going to grab him.\n\nI heard the shouts. They were angry. They were not peaceful. I pulled over because I was afraid for the officer\u2019s safety. Then, a stone hit my truck. It was a standard 2-inch gravel stone. It dented my front bumper. I was lucky it didn\u2019t hit anyone else.\n\nI did not see Officer Thorne stumble or look drunk. He looked like a cop doing his job. He was holding his ground. The crowd was the problem. They were trying to overwhelm him. I think the officer had no choice but to defend himself.\n\n=== DOCUMENT 6: Witness Statement of Sergeant Alan Pierce ===\n\n**STATEMENT OF SERGEANT ALAN PIERCE**\n**Date of Statement:** October 17, 2023\n**Role:** Police Supervisor, Chicago Police Department\n\nI reviewed the incident on Wexler Avenue. Officer Thorne had served 12 years with the department before this incident. He is a veteran officer.\n\nOfficer Thorne was alert and professional; his request for backup was a standard procedure for a growing crowd, not a sign of impairment. I know Officer Thorne well. He does not drink on duty. The claim that he was stumbling is baseless.\n\nThe crowd was unmanageable. When an unidentified individual began throwing objects, the officer had to react. The first physical contact was made by the crowd when a protester grabbed the officer\u2019s baton. The officers cleared the area to prevent further violence.\n\nThe backup units arrived at 19:31, seven minutes after the request. This delay is a concern, but it does not change the fact that the officer was acting within his rights. The crowd\u2019s intent was to assault the officer. They were not there to apologize or to talk. They were there to cause chaos.\n\n=== DOCUMENT 7: Medical Report - Cook County Hospital ===\n\n**PATIENT REPORT**\n**Date of Admission:** October 12, 2023\n**Location:** Emergency Room, Cook County Hospital\n\n**Patient 1:**\n*   **Diagnosis:** Mild concussion.\n*   **Mechanism of Injury:** Struck by falling debris from nearby storefront awning.\n*   **Status:** Discharged after observation.\n\n**Patient 2:**\n*   **Diagnosis:** Mild concussion.\n*   **Mechanism of Injury:** Struck by falling debris from nearby storefront awning.\n*   **Status:** Discharged after observation.\n\n**Patient 3:**\n*   **Diagnosis:** Mild concussion.\n*   **Mechanism of Injury:** Struck by falling debris from nearby storefront awning.\n*   **Status:** Discharged after observation.\n\n**Note:** All three patients reported being in the crowd at the intersection of Wexler Avenue and 4th Street at approximately 19:24.\n\n=== DOCUMENT 8: Digital Forensics and Audio Analysis Report ===\n\n**REPORT NO:** 23-1012-450\n**DATE:** October 18, 2023\n**ANALYST:** Department of Digital Forensics\n\n**1. AUDIO ANALYSIS**\nA recording of a megaphone used by Dr. Elena Rostova was analyzed.\n*   **Timestamp 19:20:** The recording indicates Dr. Rostova explicitly stated, \"Do not advance toward the officer.\"\n*   **Context:** The statement was directed at the crowd.\n\n**2. VIDEO TIMELINE**\n*   **18:45:** Bystander phone video shows Dr. Rostova speaking into a megaphone.\n*   **19:12:** Officer Thorne arrives at the scene.\n*   **19:12 - 19:22:** Bystander footage from a window of 1420 Wexler Ave shows the crowd remaining stationary.\n*   **19:22:00 - 19:25:00:** Officer Thorne\u2019s body camera footage is corrupted and unplayable.\n*   **19:24:00:** Distance between the officer\u2019s initial position and the nearest member of the crowd was measured at 15 meters.\n*   **19:24:14:** A digital clock in the window of the laundromat shows the time as 19:24:14.\n*   **19:24:15:** Security camera from the adjacent 24-hour laundromat captures the crowd beginning to move forward.\n*   **19:26:** Mr. Silas Vane first becomes visible in the captured video footage.\n\n**3. ALCOHOL TEST**\n*   **Time:** 22:30\n*   **Subject:** Officer Marcus Thorne\n*   **Result:** Blood alcohol concentration of 0.08%.\n*   **Method:** Post-incident breath test.\n\n**4. PERMIT STATUS**\n*   **Record Check:** City of Chicago Parks and Recreation Department records show no prior permit filed for the memorial gathering at the intersection of Wexler Avenue and 4th Street.",
+ "n_words": 1859,
+ "facts": [
+  {
+   "fact_id": "F2",
+   "text": "Attendee Dr. Elena Rostova was recorded on a bystander phone at 18:45 speaking into a megaphone to direct the crowd to remain in the pedestrian crosswalk.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Officer Marcus Thorne arrived at the scene at 19:12 with a patrol unit that had no additional officers present at that time.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "A 2017 Ford F-150 pickup truck driven by citizen J. Miller was struck by a projectile and had its front bumper dented.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The Chicago Police Department radio logs show that Officer Thorne requested backup at 19:15, stating that the crowd was becoming 'unmanageable.'",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Bystander footage from a window of 1420 Wexler Ave shows the crowd remaining stationary for 10 minutes after Officer Thorne arrived.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Officer Thorne was found to have a blood alcohol concentration of 0.08% during a post-incident breath test administered at 22:30.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Three individuals in the crowd were diagnosed with mild concussion injuries after being struck by falling debris from a nearby storefront awning.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The memorial had no prior permit filed with the City of Chicago Parks and Recreation Department.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Audio analysis of the megaphone recording at 19:20 indicates Dr. Rostova explicitly told the crowd, 'Do not advance toward the officer.'",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Officer Thorne's body camera footage is corrupted and unplayable from the timestamp 19:22:00 to 19:25:00.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "A security camera from the adjacent 24-hour laundromat captured the crowd beginning to move forward at 19:24:15.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Dr. Rostova has a 10-year history of mediating community disputes without any recorded instances of violence.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Officer Thorne had served 12 years with the Chicago Police Department prior to the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The distance between the officer's initial position and the nearest member of the crowd was measured at 15 meters at 19:24:00.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Dr. Rostova was located 50 meters away from the officer when the crowd began to surge.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The projectile that struck the Ford F-150 was identified as a standard 2-inch gravel stone.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The memorial organizer, Mr. Silas Vane, was present at the scene but was not visible in any of the captured video footage until 19:26.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Elena Rostova (Researcher/NGO) stated that The crowd surged forward only because Officer Thorne drew his sidearm and pointed it at the gathering, creating an immediate threat perception.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Officer Marcus Thorne (Police Officer) stated that The crowd surged forward because an unidentified individual in the back of the line began throwing objects, forcing a defensive reaction from the officers.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Elena Rostova (Researcher/NGO) stated that Officer Thorne was visibly intoxicated and stumbling before the confrontation began, which compromised his ability to de-escalate the situation safely.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sergeant Alan Pierce (Police Supervisor) stated that Officer Thorne was alert and professional; his request for backup was a standard procedure for a growing crowd, not a sign of impairment.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Mr. Silas Vane (Memorial Organizer) stated that The crowd was attempting to surround the officer to demand an apology for the recent fatal shooting, not to physically assault him.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Citizen J. Miller (Bystander/Driver) stated that The crowd was attempting to breach the police line and physically tackle the officer, as evidenced by the aggressive forward momentum and shouts.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Dr. Elena Rostova (Researcher/NGO) stated that Police officers made the first physical contact by shoving the front row of the crowd back after the surge began, which escalated the violence.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Officer Marcus Thorne (Police Officer) stated that The first physical contact was made by the crowd when a protester grabbed Officer Thorne's baton, prompting the officers to clear the area.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 25,
+ "settled": []
+}

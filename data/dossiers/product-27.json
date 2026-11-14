@@ -1,0 +1,184 @@
+{
+ "dossier_id": "product-27",
+ "split": "test",
+ "domain": "product",
+ "title": "In re: Veldt Carbon Runner Structural Failure",
+ "premise": "A marathon runner suffered a stress fracture after a carbon plate running shoe failed to provide adequate arch support, leading to a product liability claim and a revision of the shoe's structural integrity testing.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log & Medical Intake Record ===\n\n**INCIDENT REPORT: 2023 HARBOR CITY MARATHON**\n**Date:** April 10, 2023\n**Incident ID:** HCM-2023-0410-25\n**Location:** Mile 25, Harbor City Marathon Course\n\n**Course Profile Certification:**\nThe 2023 Harbor City Marathon course was certified by the organizing committee as a 'flat and fast' profile. This certification implies a consistent gradient with minimal elevation changes, designed for high-speed running conditions.\n\n**Incident Description:**\nAt approximately 10:30 AM, participant Elena Rostova (Bib No. 4922) reported sharp pain in the arch of her left foot at the mile 24 marker. Despite the reported pain, the participant continued running for one mile. At the mile 25 marker, the participant stopped running and requested medical assistance.\n\n**Transportation and Intake:**\nThe participant was transported to St. Jude's Medical Center at 10:45 AM.\n\n**Medical Diagnosis:**\nDr. Aris Thorne, Orthopedic Surgeon, examined the participant upon arrival. The diagnosis recorded on April 10, 2023, is a metatarsal stress fracture in the left foot.\n\n**Participant History:**\nMedical records associated with the participant indicate that she has completed 12 marathons in the past five years without injury.\n\n**Registration Details:**\nParticipant Elena Rostova registered for the 2023 Harbor City Marathon on March 15, 2023.\n\n=== DOCUMENT 2: Product Inspection Report by Consumer Safety Group ===\n\n**REPORT ON STRUCTURAL INTEGRITY OF VELD T APEX CARBON RUNNERS**\n**Prepared By:** Marcus Vane, Lead Biomechanical Engineer, Consumer Safety Group\n**Date of Inspection:** April 15, 2023\n**Subject Item:** Left Veldt Apex Carbon Runner, Serial No. V-2023-8842 (Property of Elena Rostova)\n\n**1. Visual Examination of Failed Unit:**\nUpon receipt of the subject shoe, the sole of the left Veldt Apex Carbon Runner was found to be visibly worn down to the carbon plate layer. The carbon plate in the failed shoe was not visibly fractured or broken when examined by the consumer-safety group on April 15, 2023. The wear pattern suggests significant contact with the ground surface, exposing the internal structural components.\n\n**2. Batch Analysis:**\nThe Veldt Apex Carbon Runners were manufactured in Plant 4 in Ohio using a standard carbon fiber weave pattern. To assess consistency, the Consumer Safety Group conducted a review of 50 Veldt Apex Carbon Runners from the same production batch as the subject item. The review found no structural anomalies in 48 of them.\n\n**3. Engineer\u2019s Assessment on Arch Support Design Intent:**\nIn my professional capacity, I have evaluated the biomechanical properties of the Veldt Apex Carbon Runner. I assert that the Veldt Apex Carbon Runner's arch support was structurally compromised by design, failing to distribute load evenly under sustained high-impact stress. The geometry of the midsole does not provide the necessary support structure for high-volume runners, leading to uneven force distribution that places excessive strain on the metatarsals.\n\n**4. Engineer\u2019s Assessment on Material Degradation:**\nAnalysis of the carbon fiber weave in the subject unit reveals micro-fractures. I state that micro-fractures in the carbon fiber weave, caused by manufacturing defects, led to the rapid degradation of the shoe's structural integrity before the 350-mile mark. These defects were not visible to the naked eye during standard retail inspection but are evident under magnification and correlate with the accelerated wear observed on the sole.\n\n**5. Engineer\u2019s Assessment on User Error vs. Product Flaw:**\nGiven the participant's history and the physical condition of the shoe, I conclude that the shoe's failure was predictable and unavoidable for a runner of Elena Rostova's profile, making the product inherently unsafe for its intended use. The design does not account for the cumulative stress loads experienced by elite or high-mileage runners, rendering the product defective for this demographic.\n\n=== DOCUMENT 3: Veldt Sports Internal Records & Public Statement ===\n\n**INTERNAL MEMORANDUM: QUALITY CONTROL REVIEW**\n**To:** Legal Department\n**From:** Quality Assurance Division, Plant 4, Ohio\n**Date:** April 11, 2023\n**Re:** Batch 2023-JAN Compression Test Results\n\n**Quality Control Data:**\nVeldt Sports' internal quality control logs for Plant 4 show a 99.8% pass rate for compression tests on the specific batch produced in January 2023. The Veldt Apex Carbon Runners were manufactured in Plant 4 in Ohio using a standard carbon fiber weave pattern. All units in Batch 2023-JAN met the required durability thresholds during standard static compression testing.\n\n**PRODUCT MANUAL EXCERPT:**\nThe official product manual for the Veldt Apex Carbon Runners states: \"The average lifespan of the Veldt Apex Carbon Runners, as cited in the product manual, is 400 miles.\" Users are advised to replace footwear when tread depth is reduced by 50% or when the midsole shows visible compression set.\n\n**WARRANTY POLICY EXCERPT:**\nVeldt Sports' warranty policy explicitly states that wear and tear are not covered under the 1-year limited warranty. Coverage is void if the product has been subjected to abnormal usage, including but not limited to exceeding recommended mileage thresholds or continuing use after signs of distress.\n\n**PUBLIC STATEMENT:**\n**Issued by:** Veldt Sports Corporate Communications\n**Date:** April 12, 2023\n\n\"Following reports regarding the 2023 Harbor City Marathon, Veldt Sports wishes to clarify the safety and compliance of our Veldt Apex Carbon Runner. Veldt Sports issued a public statement on April 12, 2023, stating that the shoe model meets all ASTM F1427-18 standards for durability. We stand by the quality and safety of our products, which are rigorously tested to ensure they meet or exceed industry standards for performance and longevity.\"\n\n**HEAD OF PRODUCT DEVELOPMENT STATEMENT:**\n**From:** Lara Singh, Head of Product Development, Veldt Sports\n**Date:** April 14, 2023\n\n**Re: Response to Consumer Safety Group Findings**\n\nRegarding the assessment of arch support: The arch support was designed to meet industry standards for energy return and was not intended to provide medical-level orthotic support for high-mileage runners. The product is engineered for performance and responsiveness, not for orthopedic correction or load distribution for specific pathologies.\n\nRegarding material degradation: The visible wear on the sole is consistent with normal usage at 350 miles and does not indicate any manufacturing defect or premature material failure. The wear pattern is typical for a runner approaching the end of the shoe's expected lifespan.\n\nRegarding user error: The incident was an isolated result of user error, specifically the runner's decision to continue running on pain and the failure to monitor mileage thresholds. The warranty and user guidelines clearly advise against continued use once wear is visible or pain is experienced.\n\n=== DOCUMENT 4: Witness Statement of Elena Rostova (Plaintiff) ===\n\n**STATEMENT OF PLAINTIFF**\n**Name:** Elena Rostova\n**Date:** April 21, 2023\n\nI am filing this statement regarding the injury I sustained during the 2023 Harbor City Marathon. I purchased my Veldt Apex Carbon Runners from StoreX in Boston on February 1, 2023, for $185.00. I had logged approximately 350 miles on the specific pair of shoes involved in the incident by the time of the race.\n\nThe incident occurred during the 25th mile of the 2023 Harbor City Marathon on April 10, 2023. I reported a sharp pain in the arch of my left foot at mile 24, but continued running for one mile. I felt the shoe simply give way beneath me. The stress fracture was caused by a sudden failure of the shoe's cushioning, which created an impact spike that exceeded the bone's tolerance. It was not a gradual buildup; it was a sudden, violent break in the support structure.\n\nI have completed 12 marathons in the past five years without injury. My training log shows I increased my weekly mileage by 20% in the month prior to the marathon, but this is a standard progression for a runner of my experience. The shoe failed to protect me. I filed a product liability claim with Veldt Sports on April 20, 2023, citing inadequate arch support. The shoe was defective and dangerous.\n\n=== DOCUMENT 5: Witness Statement of Dr. Aris Thorne (Retained Expert) ===\n\n**EXPERT WITNESS STATEMENT**\n**Name:** Dr. Aris Thorne, Orthopedic Surgeon\n**Retained By:** Veldt Sports\n**Date:** April 18, 2023\n\nI was retained to provide an orthopedic analysis of the injury sustained by Ms. Rostova on April 10, 2023. I diagnosed Ms. Rostova with a metatarsal stress fracture in the left foot on April 10, 2023.\n\nIn my professional opinion, the stress fracture was caused by a progressive overload of the metatarsal due to the runner's recent increase in mileage, independent of the shoe's condition. The medical records indicate that Ms. Rostova has completed 12 marathons in the past five years without injury, suggesting a high baseline tolerance. However, her training log shows she increased her weekly mileage by 20% in the month prior to the marathon. This rapid increase in volume places significant repetitive stress on the metatarsal bones.\n\nThe shoe's condition, while worn, was not the primary causative agent of the fracture. The bone failed due to the cumulative mechanical load imposed by the runner's training regimen, not due to a sudden mechanical failure of the footwear. The shoe's wear is consistent with the 350 miles logged, which is near the 400-mile average lifespan cited in the product manual. The fracture is a result of physiological overload, not product defect.",
+ "n_words": 1493,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The plaintiff, Elena Rostova, registered for the 2023 Harbor City Marathon on March 15, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Elena Rostova purchased a pair of Veldt Apex Carbon Runners from StoreX in Boston on February 1, 2023, for $185.00.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The incident occurred during the 25th mile of the 2023 Harbor City Marathon on April 10, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elena Rostova stopped running at mile 25 and was transported to St. Jude's Medical Center at 10:45 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Dr. Aris Thorne diagnosed Elena Rostova with a metatarsal stress fracture in the left foot on April 10, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Elena Rostova's medical records indicate she has completed 12 marathons in the past five years without injury.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The Veldt Apex Carbon Runners were manufactured in Plant 4 in Ohio using a standard carbon fiber weave pattern.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Veldt Sports issued a public statement on April 12, 2023, stating that the shoe model meets all ASTM F1427-18 standards for durability.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The average lifespan of the Veldt Apex Carbon Runners, as cited in the product manual, is 400 miles.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elena Rostova had logged approximately 350 miles on the specific pair of shoes involved in the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The shoe sole of the left Veldt Apex Carbon Runner was found to be visibly worn down to the carbon plate layer after the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Veldt Sports' internal quality control logs for Plant 4 show a 99.8% pass rate for compression tests on the specific batch produced in January 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Elena Rostova's training log shows she increased her weekly mileage by 20% in the month prior to the marathon.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The carbon plate in the failed shoe was not visibly fractured or broken when examined by the consumer-safety group on April 15, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Elena Rostova reported a sharp pain in the arch of her left foot at mile 24, but continued running for one mile.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Veldt Sports' warranty policy explicitly states that wear and tear are not covered under the 1-year limited warranty.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The consumer-safety group conducted a review of 50 Veldt Apex Carbon Runners from the same production batch and found no structural anomalies in 48 of them.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Elena Rostova filed a product liability claim with Veldt Sports on April 20, 2023, citing inadequate arch support.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The 2023 Harbor City Marathon course was certified as a 'flat and fast' profile by the organizing committee.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Marcus Vane, Lead Biomechanical Engineer (Consumer Safety Group) stated that The Veldt Apex Carbon Runner's arch support was structurally compromised by design, failing to distribute load evenly under sustained high-impact stress.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Lara Singh, Head of Product Development (Veldt Sports) stated that The arch support was designed to meet industry standards for energy return and was not intended to provide medical-level orthotic support for high-mileage runners.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Elena Rostova, Plaintiff stated that The stress fracture was caused by a sudden failure of the shoe's cushioning, which created an impact spike that exceeded the bone's tolerance.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Dr. Aris Thorne, Orthopedic Surgeon (Veldt Sports' Retained Expert) stated that The stress fracture was caused by a progressive overload of the metatarsal due to the runner's recent increase in mileage, independent of the shoe's condition.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Marcus Vane, Lead Biomechanical Engineer (Consumer Safety Group) stated that Micro-fractures in the carbon fiber weave, caused by manufacturing defects, led to the rapid degradation of the shoe's structural integrity before the 350-mile mark.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Lara Singh, Head of Product Development (Veldt Sports) stated that The visible wear on the sole is consistent with normal usage at 350 miles and does not indicate any manufacturing defect or premature material failure.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Vane, Lead Biomechanical Engineer (Consumer Safety Group) stated that The shoe's failure was predictable and unavoidable for a runner of Elena Rostova's profile, making the product inherently unsafe for its intended use.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Lara Singh, Head of Product Development (Veldt Sports) stated that The incident was an isolated result of user error, specifically the runner's decision to continue running on pain and the failure to monitor mileage thresholds.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

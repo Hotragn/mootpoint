@@ -1,0 +1,174 @@
+{
+ "dossier_id": "tenancy-12",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Riverbend Housing Dispute",
+ "premise": "A family in a subsidized housing unit in Chicago faces an eviction notice for non-payment after the landlord failed to address a persistent bedbug infestation, despite repeated written complaints.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Residential Lease Agreement (Excerpt) - Unit 402 ===\n\n**Parties:**\nLandlord: Apex Property Management (\"Landlord\")\nTenant: Marcus Vane (\"Tenant\")\nProperty: Unit 402, Riverbend Apartments, 1402 Riverbend Ave, Chicago, IL.\n\n**Article 1: Premises and Rent**\n1.1 The Premises consist of Unit 402, comprising two bedrooms and a living area, totaling 750 square feet of habitable space.\n1.2 The Tenant agrees to pay the Landlord a monthly rent of $1,200.00. Rent is due on the first day of each calendar month.\n1.3 Failure to pay rent within the period specified in Article 5 shall constitute a material breach of this Lease.\n\n**Article 2: Maintenance and Repairs**\n2.1 The Landlord shall maintain the Premises in a sanitary condition, free from pests and infestations.\n2.2 **Pest Notification Clause:** The Tenant is required to notify the Landlord in writing of any observed pest infestation within twenty-four (24) hours of discovery. Failure to provide timely notification may relieve the Landlord of immediate liability for remediation costs associated with infestations that have spread due to delayed reporting.\n\n**Article 5: Default and Eviction**\n5.1 **Non-Payment Notice:** In the event of non-payment of rent, the Landlord must provide a written notice specifying the amount due.\n5.2 **Cure Period:** The Lease specifies that eviction for non-payment requires a seven (7)-day notice period after the rent due date has passed. The Tenant must cure the default within this period to avoid further legal action.\n\n**Article 8: Insurance and Liability**\n8.1 The Landlord maintains general liability insurance. However, the policy explicitly excludes coverage for damages or losses resulting from pest-related incidents.\n8.2 In the event of a covered claim involving property damage, the Landlord\u2019s deductible is set at $1,000.00.\n\n**Signatures:**\nMarcus Vane, Tenant (Signed: 05/01/2019)\nDavid Rost, Manager, Apex Property Management (Signed: 05/01/2019)\n\n***\n\n=== DOCUMENT 2: Financial and Maintenance Ledger - Riverbend Apartments (Q2 2023) ===\n\n**Prepared By:** Apex Property Management Accounting Department\n**Date Range:** April 1, 2023 \u2013 June 30, 2023\n**Unit:** 402\n\n**A. Rent Receipts and Disbursements**\n\n| Date | Description | Amount | Status |\n| :--- | :--- | :--- | :--- |\n| 04/01/2023 | Rent Payment - April 2023 | $1,200.00 | Received |\n| 05/05/2023 | Rent Payment - May 2023 (Direct Bank Transfer) | $1,200.00 | Received |\n| 06/01/2023 | Rent Due - June 2023 | $1,200.00 | **OUTSTANDING** |\n\n*Note: The June 2023 rent payment was not received by the end of the fiscal quarter. No partial payments were recorded for this period.*\n\n**B. Operational Expenses and Maintenance Logs**\n\n| Date | Vendor/Action | Description | Cost |\n| :--- | :--- | :--- | :--- |\n| 03/12/2023 | Internal Log | Received written complaint from Tenant (M. Vane) regarding insect presence. | $0.00 |\n| 06/01/2023 | EcoShield Pest Control | Treatment of Unit 402 for bedbug infestation. | $450.00 |\n| 06/10/2023 | Internal Log | Received second written complaint from Tenant regarding treatment efficacy. | $0.00 |\n| 06/20/2023 | Legal Dept. | Issued eviction notice to Tenant for non-payment of June rent. | $0.00 |\n\n**C. Building-Wide Maintenance Summary**\nA review of the central maintenance database for Riverbend Apartments confirms that no other units received pest control services during the calendar year 2023. Unit 402 is the only unit on record with pest-related interventions in the current fiscal year.\n\n**D. Financial Performance Summary**\n**Q2 2023 Net Operating Income:** -$18,400.00\n**Notes:** The Riverbend Apartments complex recorded a net operating loss for the second quarter of 2023. This loss is attributed primarily to high vacancy rates in units 301, 305, and 404, which remained unoccupied for significant portions of the quarter. The financial distress of the complex does not alter the contractual obligations of individual leases.\n\n***\n\n=== DOCUMENT 3: City of Chicago Housing Inspection Report ===\n\n**Case Number:** CHD-2023-05-04-882\n**Inspector:** Sarah Jenkins, Senior Housing Inspector\n**Date of Inspection:** May 4, 2023\n**Location:** Unit 402, Riverbend Apartments\n\n**I. Visual Assessment**\nThe inspector conducted a walkthrough of the 750-square-foot unit, including the two bedrooms and the living area. Visual evidence of insect activity was observed in the bedroom area, specifically along the baseboards and near electrical outlets. The conditions were assessed against the Chicago Residential Landlord and Tenant Ordinance (RLTO).\n\n**II. Findings**\n1. **Sanitary Conditions:** The unit failed to meet the minimum sanitary standards required for habitable housing. The presence of live insects and exoskeletal debris constituted a violation of the maintenance code.\n2. **Citation Issued:** A formal citation was issued to Apex Property Management for failing to maintain sanitary conditions.\n3. **Remediation Requirement:** The landlord is required to abate the violation within 30 days of the citation date.\n\n**III. Notes**\nNo structural defects were noted during the inspection. The electrical and plumbing systems appeared to be in standard working order. The focus of this report is strictly on the sanitary violations identified.\n\n**Inspector Signature:**\nSarah Jenkins\nCity of Chicago Dept. of Housing\n\n***\n\n=== DOCUMENT 4: Medical Records Summary and Utility Account Statement ===\n\n**A. Medical Records - Patient: Elena Vane (Dependent of Tenant)**\n**Provider:** Dr. Aris Thorne, Pediatrician\n**Patient Age:** 6 years old\n**Period:** May 2023\n\n**Visit 1: May 8, 2023**\n**Chief Complaint:** Itching and redness on extremities.\n**Diagnosis:** Contact dermatitis, likely allergic reaction.\n**Treatment:** Antihistamines prescribed.\n\n**Visit 2: May 19, 2023**\n**Chief Complaint:** Worsening rash, sleep disruption.\n**Diagnosis:** Acute allergic reaction, secondary to environmental irritants.\n**Treatment:** Topical steroids, oral antihistamines.\n\n**Visit 3: May 27, 2023**\n**Chief Complaint:** Persistent skin irritation.\n**Diagnosis:** Recurrent allergic reaction.\n**Treatment:** Follow-up care, prescription adjustment.\n\n*Note: Records indicate three separate visits during May 2023 for allergic reactions. The specific causative agent was not definitively identified in the clinical notes as \"bedbugs,\" but listed as \"environmental irritants.\"*\n\n**B. Utility Account Statement - Unit 402**\n**Provider:** City of Chicago Utility Services\n**Period:** May 1, 2023 \u2013 May 31, 2023\n\n| Item | Amount |\n| :--- | :--- |\n| Electricity | $145.00 |\n| Water | $65.00 |\n| **Total Due** | **$210.00** |\n| **Payment Status** | **PAID IN FULL** |\n\n**C. Tenant Credit Report Summary**\n**Subject:** Marcus Vane\n**Reporting Period:** 2021 \u2013 2023\n**Summary:** The credit report indicates a history of on-time payments for the preceding 24 months. No late payments or defaults were recorded in the 24 months prior to the dispute period. The June 2023 rent default is the first recorded delinquency in this specific timeframe.\n\n***\n\n=== DOCUMENT 5: Mediation Session Transcript and Correspondence ===\n\n**Date:** July 15, 2023\n**Location:** Chicago Rental Arbitration Center\n**Attendees:**\n*   Marcus Vane (Tenant)\n*   Elena Vane (Tenant\u2019s Representative/Union Rep)\n*   David Rost (Landlord Manager, Apex Property Management)\n\n**Transcript Excerpt:**\n\n**Moderator:** We are here to discuss the dispute regarding Unit 402, Riverbend Apartments. We will address the contested points of fact as presented by both parties.\n\n**Elena Vane (Tenant Representative):** I want to address the effectiveness of the treatment first. The pest control treatment on June 1 was ineffective because bedbugs were still observed in the bedroom within 48 hours. My husband went to work early on June 3 and saw live bugs on the mattress frame. This proves the company failed to do their job.\n\n**David Rost (Landlord Manager):** That is incorrect. The pest control treatment on June 1 was effective and eliminated the infestation, as confirmed by the pest control company's certification. EcoShield provided a completion certificate stating the area was treated and clear. We did the work; if you see bugs later, it\u2019s a new issue, not a failed initial treatment.\n\n**Moderator:** Moving to the payment issue. The June rent of $1,200 was not paid.\n\n**Elena Vane (Tenant Representative):** The non-payment of June rent was due to the tenant's inability to afford the additional costs of moving out due to the unsafe living conditions. My daughter was sick three times in May. We had to pay for doctors, and the unit was uninhabitable. We couldn't afford to stay and pay, or leave and pay penalties. It wasn't malicious; it was financial strain caused by your negligence.\n\n**David Rost (Landlord Manager):** The non-payment of June rent was a deliberate refusal to pay, unrelated to any habitability issues, as the unit was in compliance with basic standards. The city inspector cited us, but we fixed it. The lease is clear: rent is due on the first. You have a history of on-time payments, so you knew the rules. This is a leverage tactic to avoid paying for damages we don't owe.\n\n**Moderator:** Regarding the timeline of the landlord's response.\n\n**Elena Vane (Tenant Representative):** The landlord failed to address the infestation in a timely manner, ignoring the March 12 complaint for over two months before taking action. We wrote to you in March. You did nothing until June 1. That is over two months of neglect.\n\n**David Rost (Landlord Manager):** The landlord responded in a timely manner by scheduling the pest control for June 1, which was within the reasonable timeframe given the company's availability. We contacted EcoShield immediately upon receiving the second wave of complaints. Their schedule was full. We did our best to get them in as soon as possible. Waiting two months is not \"ignoring\"; it is administrative processing.\n\n**Moderator:** Finally, regarding the health impact.\n\n**Elena Vane (Tenant Representative):** The infestation directly caused severe health issues for the tenant's daughter, necessitating three medical visits in May 2023. The correlation is clear. She was bitten, she got sick, she went to the doctor. Three times. Your bugs made my child sick.\n\n**David Rost (Landlord Manager):** The medical issues were unrelated to the infestation and were likely caused by seasonal allergies, as the unit had no visible signs of severe distress. May is peak allergy season. The medical records say \"allergic reaction,\" not \"bedbug bite.\" You are trying to blame us for common seasonal issues to create sympathy for non-payment.\n\n**Moderator:** Both parties have stated their positions. The City of Chicago Housing Department received a formal complaint from the tenant on July 1, 2023. The mediation session concludes here. No agreement has been reached.\n\n**End of Transcript**",
+ "n_words": 1667,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "Unit 402 in the Riverbend Apartments building contains two bedrooms and a living area totaling 750 square feet.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The monthly rent for Unit 402, as defined in the 2019 lease agreement, is $1,200.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The tenant, Marcus Vane, submitted a written complaint to the landlord's office on March 12, 2023, regarding the presence of insects.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A city housing inspector visited Unit 402 on May 4, 2023, and issued a citation for failing to maintain sanitary conditions.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The tenant paid $1,200 in rent on May 5, 2023, via direct bank transfer to the landlord's account.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The tenant's lease contract includes a clause requiring the tenant to notify the landlord of any pest infestation within 24 hours of discovery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The landlord engaged a pest control company to treat Unit 402 on June 1, 2023, costing $450.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The tenant provided medical records showing that their daughter, age 6, was treated for allergic reactions on three occasions in May 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The tenant failed to pay the June 2023 rent of $1,200, which was due on June 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant submitted a second written complaint to the landlord on June 10, 2023, stating that the previous treatment was ineffective.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The landlord sent an eviction notice to the tenant on June 20, 2023, citing non-payment of June rent as the sole reason.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The building's maintenance log shows that no other units in the Riverbend Apartments received pest control services in 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The tenant's credit report shows a history of on-time payments for the preceding 24 months.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The landlord's insurance policy excludes coverage for pest-related damages, with a deductible of $1,000.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The tenant filed a formal complaint with the Chicago Department of Housing on July 1, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The lease agreement specifies that eviction for non-payment requires a 7-day notice period after the due date.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's utility bills for electricity and water in May 2023 total $210, paid in full.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The landlord's financial records show a net operating loss for the Riverbend Apartments in Q2 2023 due to high vacancy rates.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The tenant's union representative attended a mediation session with the landlord on July 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Vane (Tenant) stated that The pest control treatment on June 1 was ineffective because bedbugs were still observed in the bedroom within 48 hours.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Rost (Landlord Manager) stated that The pest control treatment on June 1 was effective and eliminated the infestation, as confirmed by the pest control company's certification.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Vane (Tenant) stated that The non-payment of June rent was due to the tenant's inability to afford the additional costs of moving out due to the unsafe living conditions.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "David Rost (Landlord Manager) stated that The non-payment of June rent was a deliberate refusal to pay, unrelated to any habitability issues, as the unit was in compliance with basic standards.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Vane (Tenant) stated that The infestation directly caused severe health issues for the tenant's daughter, necessitating three medical visits in May 2023.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Rost (Landlord Manager) stated that The medical issues were unrelated to the infestation and were likely caused by seasonal allergies, as the unit had no visible signs of severe distress.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 25,
+ "settled": [
+  "C3"
+ ]
+}

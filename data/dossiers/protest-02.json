@@ -1,0 +1,190 @@
+{
+ "dossier_id": "protest-02",
+ "split": "dev",
+ "domain": "protest",
+ "title": "Vellum Street Labor Rally Incident",
+ "premise": "A massive labor rally in a downtown financial district turned violent when a police horse bolted into the crowd, prompting counter-attacks that damaged a luxury bank facade.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log, Police Unit 7, Vellum Street Deployment ===\n\n**Date:** October 12, 2023\n**Time:** 14:00 \u2013 15:30\n**Location:** Intersection of Vellum Street and 4th Avenue\n**Reporting Officer:** Lieutenant Marcus Vance, Police Unit 7\n**Status:** Finalized\n\n**1. Initial Deployment and Crowd Size**\nAt 14:00, Police Unit 7 was deployed to the intersection of Vellum Street and 4th Avenue to manage the gathering of the United Workers Coalition (UWC). The UWC, led by Elias Thorne, had organized a labor rally. Upon arrival, our crowd estimation officers recorded a gathering of approximately 1,200 protesters. The deployment consisted of 45 foot officers and 12 mounted units. The police line was established to maintain order and ensure public safety.\n\n**2. Incident Timeline**\n*   **14:15:** A mounted unit horse, a silver gelding identified as 'Bolt', began to run. Video footage from the intersection surveillance camera (Cam 4) confirms that Bolt moved away from the police line before entering the crowd. The horse galloped approximately 50 meters into the center of the protesters.\n*   **14:16:** The sudden movement of the horse caused a significant surge in the crowd. This surge resulted in the collapse of a temporary barricade located near the entrance of the First National Bank.\n*   **14:17:** Three protesters were trampled during the surge. Medical personnel on scene reported that all three individuals sustained fractured legs and were transported to the hospital.\n*   **14:18:** Protesters began throwing stones at officers positioned near the bank.\n*   **14:19 \u2013 14:33:** Stone throwing continued for approximately 15 minutes. Four officers reported injuries from being struck by projectiles.\n*   **14:30:** The police line remained intact throughout the incident. No retreat was ordered or observed.\n*   **15:00:** The UWC issued a public statement condemning the violence.\n*   **15:30:** The crowd dispersed, and the protest officially ended.\n\n**3. Property Damage and Use of Force**\nThe facade of the First National Bank sustained damage. Three windows and the main entrance door were broken. The estimated cost to repair the bank facade is $50,000.\nIt is noted for the record that no pepper spray or tear gas was deployed by Police Unit 7 during the timeframe of 14:00 to 14:30.\n\n**4. Personnel Positioning**\nOfficer Sarah Jenkins was positioned at the northern edge of the police line. At the time the horse began to run, Officer Jenkins was standing 20 meters away from the horse.\n\n**5. Aftermath**\nThe police chief has stated that the crowd's reaction to the horse was unpredictable and spontaneous. The UWC has a documented history of non-violent protests over the last five years.\n\n=== DOCUMENT 2: Witness Statement \u2013 Elias Thorne ===\n\n**Witness:** Elias Thorne\n**Role:** Leader, United Workers Coalition (UWC)\n**Date:** October 13, 2023\n**Location:** UWC Headquarters\n\nI am writing to clarify the events of October 12 regarding the labor rally on Vellum Street. I have been present at protests for decades, and I can state with absolute certainty that the UWC does not engage in the kind of chaos the police are trying to paint us with. We have a history of non-violent protests over the last five years, and we were proud of that until the police broke it.\n\nAt 14:00, we gathered at the intersection of Vellum Street and 4th Avenue. We had about 1,200 people there, peaceful and ready to discuss our labor rights. The police had set up their line with 45 officers and 12 mounted units. They were aggressive from the start. Their positioning was tight, and they were shouting commands that felt like threats. It was a deliberate tactic to provoke the crowd. We were not looking for a fight; we were looking for justice.\n\nThen, at 14:15, the horse named Bolt spooked. I saw it happen. The horse was spooked by the police's aggressive positioning and shouting, which was a deliberate tactic to provoke the crowd. It galloped 50 meters into the center of us. It wasn't just a horse; it was a weapon of intimidation unleashed by the state. The surge was immediate and terrifying. People were crushed. I saw three of our comrades fall. They were hospitalized with fractured legs because of the trampling caused by that surge.\n\nThe collapse of the temporary barricade near the bank entrance was a direct result of the horse\u2019s charge. The damage to the bank facade\u2014three windows and the main door\u2014was a result of the chaotic surge caused by the horse, not direct action by the protesters. The crowd was pushed into the bank by the momentum of the horse. We did not target the property.\n\nAfter the horse incident, the police did nothing to de-escalate. They just stood there. Then, at 14:18, some protesters began throwing stones. I condemn that violence. It was not organized by me. It was a reactive defense by protesters who felt cornered and endangered by the police line. We were trapped between the horse\u2019s chaos and the unyielding police wall.\n\nAt 15:00, I issued a statement condemning the violence and calling for an investigation. We were not responsible for the injuries to the four officers, nor were we responsible for the property damage. The police failed to de-escalate the situation and instead allowed the confrontation to escalate, violating use-of-force guidelines. They let the horse run, they let the crowd surge, and they let the violence happen.\n\nThe protest ended at 15:30 when we dispersed. We went home with broken hearts and broken bones, not broken laws.\n\n=== DOCUMENT 3: Witness Statement \u2013 Officer Sarah Jenkins ===\n\n**Witness:** Sarah Jenkins\n**Role:** Officer, Police Unit 7\n**Date:** October 13, 2023\n**Location:** Precinct 4 Interview Room\n\nI was part of the 45 officers deployed to manage the UWC protest on October 12. We were at the intersection of Vellum Street and 4th Avenue at 14:00. The crowd was large, around 1,200 people. We had 12 mounted units with us. My job was to hold the line and ensure safety.\n\nAt 14:15, I was standing 20 meters away from the horse, Bolt. I was monitoring the crowd. Suddenly, Bolt started to run. I looked around to see what spooked him. I did not see any aggressive shouting from the police that would spook a horse. The police line was calm and professional. The horse was spooked by a firecracker thrown by a protester, which was not visible to the police at the time. I heard a small pop, and then Bolt was gone, galloping 50 meters into the crowd.\n\nThe surge was instant. I saw people falling. Three protesters were trampled. I saw the barricade near the bank collapse. It was chaotic.\n\nThen, at 14:18, the stone throwing started. It was not a random reaction. It was a premeditated attack led by agitators within the crowd to damage property and injure officers. I saw specific individuals breaking off pieces of the curb and throwing them at us. Four of us were hit. I was struck on the shoulder. The stone throwing continued for approximately 15 minutes. It was violent and targeted.\n\nThe damage to the bank was caused by specific individuals within the crowd who intentionally targeted the property. They smashed the windows and the door. It wasn't just a surge; it was a deliberate destruction. The cost to repair the bank facade is estimated at $50,000, and that is on the protesters, not the police.\n\nThe police line remained intact. We did not retreat. We held our position to prevent further violence and protect the public and property. The police response was proportional and necessary to prevent further violence and protect the public and property. We did not use pepper spray or tear gas. We tried to hold the line.\n\nThe crowd's reaction to the horse was unpredictable and spontaneous, as the chief stated. But the stone throwing was not spontaneous. It was organized. The UWC, led by Elias Thorne, claims it was a reactive defense. That is a lie. They were trying to protect their own from being arrested, but they were attacking us.\n\nThe protest ended at 15:30. We dispersed the crowd. The UWC has a history of non-violent protests, but this time, they allowed agitators to turn it into a violent riot.\n\n=== DOCUMENT 4: Medical Report \u2013 City General Hospital ===\n\n**Patient Records: October 12, 2023**\n**Attending Physician:** Dr. Linda Chen\n\n**Patient 1: Male, 34 years old**\n**Time of Admission:** 14:22\n**Injuries:** Fracture of the tibia and fibula in the left leg.\n**Mechanism:** Trampled by crowd during surge.\n**Treatment:** Set and cast.\n**Notes:** Patient states he was pushed by the crowd after a horse ran through the intersection.\n\n**Patient 2: Female, 28 years old**\n**Time of Admission:** 14:25\n**Injuries:** Fracture of the femur in the right leg.\n**Mechanism:** Trampled by crowd during surge.\n**Treatment:** Surgery for internal fixation.\n**Notes:** Patient states she fell after the horse charged.\n\n**Patient 3: Male, 41 years old**\n**Time of Admission:** 14:28\n**Injuries:** Fracture of the patella in the left leg.\n**Mechanism:** Trampled by crowd during surge.\n**Treatment:** Cast.\n**Notes:** Patient states he was crushed against the barricade.\n\n**Summary:**\nAll three patients were treated within 1 hour of the incident. The injuries are consistent with trampling and impact from a crowd surge. No evidence of direct assault by police officers was found.\n\n=== DOCUMENT 5: Email Correspondence \u2013 UWC Leadership ===\n\n**From:** maria.gonzalez@uwc.org\n**To:** elias.thorne@uwc.org\n**Subject:** Re: Vellum Street Incident\n**Date:** October 12, 2023, 15:05\n\nElias,\n\nI just saw the news reports. The damage to the bank is huge. We need to be careful with our statement.\n\nI was on the ground near the bank. The stone throwing was a reactive defense by protesters who felt cornered and endangered by the police line. We were trapped. The police line was unyielding. The horse incident made it worse. We were not attacking the bank. The damage was from the surge.\n\nI know Detective Miller is calling it a premeditated attack. That is not true. There were agitators, but they were not us. We need to condemn the violence but explain the context.\n\nThe police failed to de-escalate. They let the horse run. They let the crowd surge. They violated use-of-force guidelines.\n\nLet's issue a statement condemning the violence and calling for an investigation. We have a history of non-violent protests. We need to protect that.\n\nMaria\n\n**From:** elias.thorne@uwc.org\n**To:** maria.gonzalez@uwc.org\n**Subject:** Re: Vellum Street Incident\n**Date:** October 12, 2023, 15:10\n\nMaria,\n\nAgreed. We will issue the statement at 15:00.\n\nWe must emphasize that the damage to the bank was a result of the chaotic surge caused by the horse, not direct action by the protesters. The police are trying to blame us for everything.\n\nWe will also state that the horse was spooked by the police's aggressive positioning. We have to be firm on that point.\n\nElias",
+ "n_words": 1788,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "At 14:00 on October 12, 2023, a crowd of 1,200 protesters gathered at the intersection of Vellum Street and 4th Avenue.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The protest was organized by the United Workers Coalition (UWC) under the leadership of Elias Thorne.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Police Unit 7 was deployed to manage the crowd with 45 officers and 12 mounted units.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "At 14:15, a silver horse named 'Bolt' from the mounted unit galloped 50 meters into the center of the crowd.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Three protesters were hospitalized with fractured legs after being trampled by the crowd surge.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The surge caused by the horse resulted in the collapse of a temporary barricade near the bank entrance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Video footage from a surveillance camera shows the horse moving away from the police line before entering the crowd.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Officer Sarah Jenkins was standing 20 meters away from the horse when it began to run.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The police line remained intact and did not retreat after the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "At 14:18, protesters began throwing stones at the officers near the bank.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Four officers reported injuries from being struck by projectiles.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The stone throwing continued for approximately 15 minutes before being stopped.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The luxury bank facade sustained damage to three windows and the main entrance door.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "No pepper spray or tear gas was deployed by the police during the 14:00-14:30 timeframe.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The cost to repair the bank facade is estimated at $50,000.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The UWC issued a statement at 15:00 condemning the violence and calling for an investigation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The police chief stated that the crowd's reaction to the horse was unpredictable and spontaneous.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Medical records show the injured protesters were treated within 1 hour of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The protest ended at 15:30 when the crowd dispersed.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The UWC has a history of non-violent protests over the last five years.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elias Thorne, UWC Leader stated that The horse was spooked by the police's aggressive positioning and shouting, which was a deliberate tactic to provoke the crowd.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Officer Sarah Jenkins, Police Unit 7 stated that The horse was spooked by a firecracker thrown by a protester, which was not visible to the police at the time.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Maria Gonzalez, UWC Organizer stated that The stone throwing was a reactive defense by protesters who felt cornered and endangered by the police line.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Detective Robert Miller, Police Unit 7 stated that The stone throwing was a premeditated attack led by agitators within the crowd to damage property and injure officers.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Alan Smith, Human Rights Expert stated that The police failed to de-escalate the situation and instead allowed the confrontation to escalate, violating use-of-force guidelines.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Captain James Davis, Police Unit 7 stated that The police response was proportional and necessary to prevent further violence and protect the public and property.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elias Thorne, UWC Leader stated that The damage to the bank was a result of the chaotic surge caused by the horse, not direct action by the protesters.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Detective Robert Miller, Police Unit 7 stated that The damage to the bank was caused by specific individuals within the crowd who intentionally targeted the property.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

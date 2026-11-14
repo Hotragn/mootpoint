@@ -1,0 +1,174 @@
+{
+ "dossier_id": "tenancy-33",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vane v. Obsidian Heights LLC",
+ "premise": "A tech executive in a luxury loft in San Francisco challenges an eviction notice that was served via email, arguing that structural cracks compromising the building's safety void the lease's maintenance clauses.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement and Building Inspection Records ===\n\n**LEASE AGREEMENT**\n**Parties:** Julian Vane (Tenant) and Obsidian Heights LLC (Landlord)\n**Date:** March 1, 2021\n**Property:** Unit 1402, Obsidian Heights, 402 Silver Street, San Francisco, CA 94102 (14th Floor Loft)\n\n**1. TERM AND RENEWAL**\nThis Lease is for an initial two-year term commencing March 1, 2021, and expiring on February 28, 2023. Upon expiration of the initial term, this Lease shall automatically renew for successive one-month periods (month-to-month) unless either party provides written notice of non-renewal in accordance with Section 12.\n\n**2. RENT**\nThe monthly rent is set at $8,500.00. Rent is due on the first day of each calendar month. Tenant agrees to pay rent via automatic bank transfer from a designated account.\n\n**3. MAINTENANCE AND STRUCTURAL INTEGRITY**\nLandlord is responsible for the maintenance of the building\u2019s common areas and the structural integrity of the building\u2019s load-bearing elements. Landlord shall maintain the premises in a safe and habitable condition.\n\n**4. NOTICES**\nAll formal notices, including but not limited to eviction warnings, lease termination notices, and notices of renewal terms, must be delivered via certified mail with return receipt requested to the address listed in the Tenant\u2019s profile. Electronic transmission via email is not a valid method for formal legal notice under this Agreement.\n\n**5. MANAGEMENT**\nLandlord is Obsidian Heights LLC, a corporation registered in the State of Delaware.\n\n***\n\n**CITY INSPECTION REPORT**\n**Building:** Obsidian Heights, 402 Silver Street\n**Date of Inspection:** August 15, 2023\n**Inspector:** City of San Francisco Building & Safety\n**Building History:** Original construction completed in 1978; Certificate of Occupancy issued in 1979.\n\n**Findings:**\n1.  **Fire Safety:** The building\u2019s fire safety system was tested and certified compliant by the Fire Department on July 1, 2023. No defects noted.\n2.  **Common Areas:** Hallway walls on floors 1-20 exhibit minor cosmetic wear.\n3.  **Structural:** No structural failures identified in the main load-bearing columns or foundation during the routine inspection.\n4.  **Recommendations:** Routine painting of hallway walls recommended. No immediate safety hazards identified.\n\n***\n\n**RECORDS OF RENT PAYMENTS**\n**Tenant:** Julian Vane\n**Payment Method:** Automatic Bank Transfer\n\n| Month | Due Date | Payment Date | Amount | Status |\n| :--- | :--- | :--- | :--- | :--- |\n| Mar 2021 | Mar 1 | Mar 1 | $8,500 | On Time |\n| Apr 2021 | Apr 1 | Apr 1 | $8,500 | On Time |\n| ... | ... | ... | ... | ... |\n| Aug 2023 | Aug 1 | Aug 1 | $8,500 | On Time |\n| Sep 2023 | Sep 1 | Sep 5 | $8,500 | Late (5 days) |\n\n*Note: Tenant made all rent payments on time for the first 22 months of the lease term (March 2021 through August 2023). The payment for September 2023 was processed on September 5, 2023.*\n\n=== DOCUMENT 2: Building Service Tickets and Concierge Logs ===\n\n**BUILDING DIGITAL SERVICE TICKET SYSTEM**\n**Building:** Obsidian Heights\n**Status:** Active/Inactive Logs\n\n**Ticket #4922**\n*   **Date Opened:** September 20, 2023, 14:12 PST\n*   **Tenant:** Julian Vane, Unit 1402\n*   **Category:** Maintenance - Interior\n*   **Description:** \"New crack appearing in bedroom wall. It looks like it\u2019s growing. Please check.\"\n*   **Priority:** Standard\n*   **Status:** Open\n*   **Assigned To:** [Unassigned]\n\n**Ticket #4923 - #4930**\n*   *No tickets logged for Unit 1402 between September 20, 2023, and October 12, 2023.*\n\n**Maintenance Crew Visit Logs**\n*   **Period:** September 20, 2023 \u2013 October 12, 2023\n*   **Unit 1402:** No maintenance crew visits were logged in the system during this period.\n\n***\n\n**CONCIERGE CALL LOG**\n**Building:** Obsidian Heights\n**Staffing:** 24-hour concierge service staffed by three employees rotating shifts.\n\n**Date:** September 21, 2023\n**Shift:** Night/Evening (Liam O\u2019Neil, Head Concierge)\n\n| Time | Caller ID | Caller Name | Reason | Duration |\n| :--- | :--- | :--- | :--- | :--- |\n| 08:00 | Unknown | Guest | Package inquiry | 2 min |\n| 10:45 | Verified | M. Henderson, Unit 1201 | Cleaning service access | 5 min |\n| 14:30 | Unknown | Delivery | Package drop-off | 1 min |\n| 18:15 | Verified | J. Vane, Unit 1402 | No entry recorded | 0 min |\n| 22:00 | Unknown | Guest | Information | 3 min |\n\n*Note: The log reflects all incoming calls registered in the digital system for the specified shift. No incoming phone calls regarding maintenance from the tenant are recorded for September 21, 2023.*\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF JULIAN VANE**\n**Tenant, Unit 1402**\n**Date:** October 20, 2023\n\nI am a senior software engineer at a major tech firm, earning a salary of $320,000 per year. I have been a model tenant, paying my rent of $8,500 monthly via automatic transfer. While I paid on the 5th of September, I have never missed a payment in the first 22 months of my lease.\n\nOn September 20, 2023, I noticed a significant crack in my bedroom wall. I submitted a maintenance request via the building's app at 2:12 PM that day. I was alarmed because the building is old (built in 1978) and I feared for my safety. The next day, September 21, 2023, I called the front desk to follow up. I spoke to a concierge who explicitly told me the maintenance team would be sent the next day. I relied on this assurance. I was shocked when no one came.\n\nThen, on October 12, 2023, at 9:14 AM, I received an email from 'admin@obsidianheights.com' containing a 30-day notice to vacate. I was furious. The lease clearly states that formal notices must be delivered via certified mail. I checked my records; there was no certified mail confirmation from the landlord's legal counsel prior to that email. This email was sent in bad faith to force me out. The landlord knew the building had latent defects\u2014they knew about the crack, they ignored it, and now they are trying to evict me to cover up their negligence. This is a violation of my rights and the lease agreement.\n\n***\n\n**STATEMENT OF LIAM O\u2019NEIL**\n**Head Concierge, Obsidian Heights LLC**\n**Date:** October 20, 2023\n\nI have managed the concierge desk at Obsidian Heights for three years. We operate a 24-hour service with three staff members rotating shifts. My role involves overseeing the logs and ensuring accurate record-keeping.\n\nRegarding the incident in Unit 1402, I reviewed the digital call logs for September 21, 2023. The concierge log shows no incoming phone calls regarding maintenance from the tenant on that date. The only interaction recorded for Mr. Vane on that day was a digital ticket submission on September 20. Mr. Vane claims he called and spoke to a concierge who promised a visit. This is false. Our system logs every call. If he had called, it would be in the record. The fact that it is not means the call did not happen, or he is misremembering a different interaction.\n\nWe received the digital ticket on September 20. It was categorized as a standard interior maintenance issue. It was placed in the queue. We did not have a crew visit because the ticket was not escalated or marked urgent by the building engineer at that time. The management company, Obsidian Heights LLC, handles all structural assessments. We do not ignore tickets, but we follow the triage process established by our engineers. The tenant\u2019s claim of a \"promise\" is unsupported by our official records.\n\n=== DOCUMENT 4: Expert Opinions and Legal Correspondence ===\n\n**EMAIL CORRESPONDENCE**\n**From:** admin@obsidianheights.com\n**To:** j.vane@techfirm.com\n**Date:** October 12, 2023, 9:14 AM PST\n**Subject:** 30-Day Notice to Vacate - Unit 1402\n\nDear Mr. Vane,\n\nPlease be advised that you are receiving a 30-day notice to vacate Unit 1402 at Obsidian Heights, 402 Silver Street. This notice is effective immediately.\n\n[Attachment: Notice_to_Vacate.pdf]\n\nSincerely,\nObsidian Heights LLC Administration\n\n***\n\n**EMAIL CORRESPONDENCE**\n**From:** legal@obsidianheights.com\n**To:** j.vane@techfirm.com\n**Date:** October 15, 2023, 10:05 AM PST\n**Subject:** Cease and Desist - Social Media Posts\n\nDear Mr. Vane,\n\nOur client, Obsidian Heights LLC, has noted your recent social media posts regarding the condition of the building at 402 Silver Street. These posts contain defamatory statements and unauthorized disclosures of building records.\n\nYou are hereby ordered to cease and desist from publishing any further content related to the building\u2019s maintenance or structural status. Failure to comply may result in legal action.\n\nRegards,\nCounsel for Obsidian Heights LLC\n\n***\n\n**STATEMENT OF SARAH JENKINS**\n**Structural Engineer, Tenants' Union**\n**Date:** October 22, 2023\n\nI have reviewed the maintenance ticket #4922 and the photos provided by Mr. Vane regarding the crack in the bedroom wall of Unit 1402. Based on my analysis of the photos and the building's age (constructed in 1978), I conclude that the crack in the bedroom wall is a structural failure indicating subsidence, posing an immediate safety risk to the tenant.\n\nFurthermore, regarding the lease terms, the automatic renewal clause was ambiguous and should not apply because the landlord failed to provide the required 60-day written notice of renewal terms. The shift from a two-year term to month-to-month requires clear communication of the new terms, which was not provided.\n\nLastly, regarding the eviction notice: The email was sent in bad faith to force the tenant out without following legal service protocols because the landlord knew the building had latent defects. The use of the general administrative inbox ('admin@obsidianheights.com') rather than legal counsel, combined with the lack of certified mail receipt in the tenant's logs prior to October 12, 2023, demonstrates an intent to bypass the lease's strict notice requirements. The tenant's inbox logs show no receipt of certified mail confirmation from the landlord's legal counsel prior to the email notice, proving the email was the primary, and invalid, method of service.\n\n***\n\n**STATEMENT OF MARCUS THORNE**\n**Building Engineer, Obsidian Heights LLC**\n**Date:** October 22, 2023\n\nI am the designated Building Engineer for Obsidian Heights LLC. I have reviewed the ticket regarding the wall in Unit 1402. I conducted a visual inspection on September 25, 2023. The crack is a non-structural shrinkage crack caused by seasonal humidity changes and is purely cosmetic. It does not affect the load-bearing capacity of the wall, which is consistent with the City Inspector's report from August 15, 2023, which noted only minor cosmetic wear and no structural failures.\n\nRegarding the lease renewal: The lease clearly states automatic month-to-month renewal, and the tenant continued to pay rent after the initial term, thereby accepting the renewal terms. The tenant's payment of rent in September 2023, despite being five days late, constitutes acceptance of the month-to-month status. There is no ambiguity in the lease document signed on March 1, 2021.\n\nRegarding the eviction notice: The email was a standard administrative courtesy sent alongside the certified mail, which was delayed due to postal service backlogs, and was not intended as the sole legal notice. The certified mail was dispatched on October 10, 2023, but due to US Postal Service delays in the San Francisco region, it had not yet been delivered or confirmed by the time the tenant received the email. The email served as a courtesy heads-up to ensure the tenant was aware of the situation while the formal legal process completed its course. The tenant's claim that the email was the *only* notice is factually incorrect; the certified mail was in transit. The use of the administrative inbox is standard practice for our property management company, Obsidian Heights LLC, to ensure tenants are informed promptly.",
+ "n_words": 1908,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement dated March 1, 2021, specifies that all formal notices, including eviction warnings, must be delivered via certified mail with return receipt requested.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "An email from the property manager's address was sent to the tenant on October 12, 2023, at 9:14 AM PST, containing a 30-day notice to vacate.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The tenant's email inbox logs show no receipt of certified mail confirmation from the landlord's legal counsel prior to October 12, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The loft unit is located on the 14th floor of the Obsidian Heights building at 402 Silver Street, San Francisco.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The monthly rent for the unit is $8,500, due on the first day of each month via automatic bank transfer.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The tenant made all rent payments on time for the first 22 months of the lease term.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The building's original construction was completed in 1978, and it received a Certificate of Occupancy in 1979.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "A routine building inspection was conducted by the city inspector on August 15, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The city inspector's report from August 15, 2023, noted 'minor cosmetic wear' on the hallway walls but did not list any structural failures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant submitted a maintenance request via the building's app on September 20, 2023, reporting a new crack in the bedroom wall.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "No maintenance crew visit was logged in the building's digital service ticket system between September 20, 2023, and October 12, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The lease agreement contains a clause stating that the landlord is responsible for maintaining the structural integrity of the building's load-bearing elements.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The landlord's property management company is Obsidian Heights LLC, registered in Delaware.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The tenant, Julian Vane, is a senior software engineer at a major tech firm, earning a salary of $320,000 per year.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The eviction notice email was sent from the address 'admin@obsidianheights.com', which is the general administrative inbox for the building.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The building's fire safety system was tested and certified compliant by the fire department on July 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The tenant's lease was signed on March 1, 2021, for a two-year term ending February 28, 2023, and automatically renewed for one month at a time thereafter.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The landlord's legal counsel sent a cease-and-desist letter regarding the tenant's social media posts about the building conditions on October 15, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The tenant's apartment building has a 24-hour concierge service staffed by three employees rotating shifts.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Jenkins, Structural Engineer for Tenants' Union stated that The crack in the bedroom wall is a structural failure indicating subsidence, posing an immediate safety risk to the tenant.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Building Engineer for Obsidian Heights LLC stated that The crack is a non-structural shrinkage crack caused by seasonal humidity changes and is purely cosmetic.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Structural Engineer for Tenants' Union stated that The email was sent in bad faith to force the tenant out without following legal service protocols because the landlord knew the building had latent defects.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Building Engineer for Obsidian Heights LLC stated that The email was a standard administrative courtesy sent alongside the certified mail, which was delayed due to postal service backlogs, and was not intended as the sole legal notice.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Structural Engineer for Tenants' Union stated that The automatic renewal clause was ambiguous and should not apply because the landlord failed to provide the required 60-day written notice of renewal terms.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne, Building Engineer for Obsidian Heights LLC stated that The lease clearly states automatic month-to-month renewal, and the tenant continued to pay rent after the initial term, thereby accepting the renewal terms.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 25,
+ "settled": [
+  "C2"
+ ]
+}

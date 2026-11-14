@@ -1,0 +1,184 @@
+{
+ "dossier_id": "workplace-19",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Volk v. Helios Grid Services",
+ "premise": "A power grid lineman was electrocuted while repairing a transformer, with the utility company blaming the subcontractor's improper grounding technique and the subcontractor pointing to the grid's unexpected voltage surge as the primary cause.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Site Data Report ===\n\n**CASE FILE:** VOLK v. HELIOS GRID SERVICES\n**INCIDENT DATE:** November 14, 2023\n**LOCATION:** Helios Substation, 402 Industrial Parkway\n**RECORDED BY:** Site Safety Manager J. Halloway\n**STATUS:** Finalized\n\n**1.0 Incident Timeline**\nThe following timestamps are derived from substation telemetry, access control logs, and field radio communications.\n\n*   **08:45 AM:** Lockout/Tagout (LOTO) procedure initiated and applied to Transformer Unit T-4. The primary isolation switch was verified in the open position.\n*   **08:50 AM:** Subcontractor Apex Electrical (Crew Chief: E. Rostova) submitted a digital work order indicating completion of grounding installation tasks.\n*   **09:00 AM:** Marcus Volk (Senior Power Grid Lineman, Helios Grid Services) entered the work zone. Radio check confirmed start of maintenance operations on Transformer Unit T-4.\n*   **09:15 AM:** Arc flash event recorded. High-voltage contact detected at transformer terminals. Emergency shutdown protocols activated.\n*   **09:16 AM:** Medical response team arrived on site.\n\n**2.0 Environmental and Technical Conditions**\n*   **Ambient Temperature:** 55 degrees Fahrenheit.\n*   **Weather Conditions:** Clear, dry. No precipitation.\n*   **Transformer Status:** De-energized prior to incident.\n*   **Recorded Voltage:** At the moment of contact (09:15 AM), the voltage recorded at the transformer terminals was 14.2 kV.\n*   **Grounding Configuration:**\n    *   Grounding Clamp Model: Standard Industry Model #GC-45.\n    *   Conductor Specification: 2/0 AWG copper conductor.\n    *   Distance from Grounding Stake to Transformer Casing: 15 feet.\n\n**3.0 Procedural Compliance Data**\n*   **Standard Operating Procedure (SOP) Requirement:** LOTO duration must be at least 30 minutes after de-energizing before personnel may enter the work zone.\n*   **Observed Duration:** LOTO applied at 08:45 AM; personnel entry at 09:00 AM. Total duration: 15 minutes.\n*   **Verification Protocol:** No secondary verification signature was recorded for the grounding completion by Helios Grid Services personnel.\n\n**4.0 Personnel Present**\n*   Marcus Volk (Helios Grid Services)\n*   Elena Rostova (Apex Electrical)\n*   Dr. Aris Thorne (Helios Grid Engineer, arrived 09:25 AM)\n\n=== DOCUMENT 2: Medical Report and Injury Assessment ===\n\n**PATIENT:** Marcus Volk\n**DATE OF BIRTH:** [Redacted]\n**ATTENDING PHYSICIAN:** Dr. Sarah Jenkins, Trauma Unit, St. Mary\u2019s Hospital\n**DATE OF REPORT:** November 15, 2023\n**INSURANCE REF:** HGS-EMP-2023-8842\n\n**1.0 Diagnosis**\nPatient presented to the emergency department at 09:22 AM on November 14, 2023, following an electrical arc flash incident at the Helios Substation.\n\n**2.0 Injury Details**\n*   **Burn Classification:** Third-degree burns.\n*   **Total Body Surface Area (TBSA) Affected:** 35%.\n*   **Locations:** Extensive damage to the left arm, left shoulder, and anterior chest. Secondary second-degree burns noted on the face and neck.\n*   **Electrical Injury Specifics:** Deep tissue necrosis observed in the left deltoid region. Cardiac arrhythmia was present upon admission and stabilized within four hours.\n\n**3.0 Patient History and Occupational Context**\nThe patient is a senior power grid lineman with Helios Grid Services. According to patient intake forms, he has 12 years of experience in this role. He reports no prior history of electrical injury or burn susceptibility.\n\n**4.0 Treatment Plan**\nPatient was admitted to the burn unit for debridement, skin grafting, and cardiac monitoring. Prognosis is guarded. Full recovery is estimated to exceed 12 months, with significant risk of permanent scarring and functional impairment to the left upper extremity.\n\n**5.0 Notes on Incident Mechanism**\nWhile this report focuses on medical outcomes, it is noted for the record that the severity of the burns is consistent with a high-voltage discharge of 14.2 kV, as reported by the facility\u2019s telemetry logs. The rapid onset of third-degree tissue damage suggests direct contact or close-proximity arc exposure without adequate grounding protection.\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF: MARECUS VOLK**\n**ROLE:** Senior Power Grid Lineman, Helios Grid Services\n**DATE:** November 16, 2023\n\nI have been a lineman for twelve years. I know the protocols. I know the risks. When I walked onto that site at 09:00 AM, I did it because I believed the job was safe. I was told the transformer was dead. I was told the ground was set.\n\nI looked at the grounding clamp on the casing. To me, it looked sloppy. It was only partially engaged and not fully tightened when I began my work. I saw the gap. I saw the slack in the cable. I didn't say anything because I assumed the crew chief had verified it, but I didn't trust it. I started my work, and within fifteen minutes, the air around me changed. I felt the static build up. It wasn't just a spark; it was a violent surge. The transformer was de-energized, and the sudden charge came from an internal surge within the grid system. It hit me like a physical blow. The heat was instant. I tried to move, but I couldn't. The insulation on the transformer was compromised, causing a flashover that the proper grounding should have handled but did not due to the surge. I was left burning on the concrete. I heard Elena Rostova screaming, but she was too far away to help.\n\n**STATEMENT OF: ELENA ROSTOVA**\n**ROLE:** Crew Chief, Apex Electrical\n**DATE:** November 16, 2023\n\nI have worked in electrical subcontracting for ten years. I follow the rules. My team and I arrived early to ensure the grounding was secure before the main crew started. We used the standard industry model #GC-45 clamp. We installed a 2/0 AWG copper conductor, which is what we were told to use for this flat fee job. We were paid $5,000 for this specific task.\n\nI personally checked the clamp. The grounding clamp was fully seated and tightened on the transformer casing before I left the area. I verified the torque. I verified the connection. We completed and verified the grounding installation at 08:50 AM as stated in the work order. When Marcus Volk started his work at 09:00 AM, the ground was in place. He claimed it was loose, but he is wrong. He was careless. He was working with a live hazard because he didn't check his own connection. The charge resulted from the failure of the subcontractor's grounding to dissipate residual induction from the nearby active feeder, but that is a technicality. The fact is, I left a secure ground. He ignored it.\n\n**STATEMENT OF: DR. ARIS THORNE**\n**ROLE:** Helios Grid Engineer\n**DATE:** November 17, 2023\n\nI reviewed the telemetry data and the physical state of the transformer post-incident. The insulation was intact; the hazard was solely created by the improper grounding technique which failed to neutralize the potential difference. The 14.2 kV reading at the terminals is not an internal surge. It is the result of residual induction from the adjacent active feeder. Because the grounding conductor was underspecified and potentially not properly seated, the potential difference was not dissipated to earth. This created a localized high-voltage environment. Marcus Volk\u2019s claim of an \"internal surge\" is not supported by the grid data. The grid was stable. The failure was local. The failure was the ground.\n\n=== DOCUMENT 4: Correspondence and Administrative Records ===\n\n**EMAIL 1**\n**FROM:** dispatch@heliosgridservices.com\n**TO:** e.rostova@apexelectrical.com\n**DATE:** November 13, 2023\n**SUBJECT:** Grounding Specs for T-4\n\nElena,\n\nPer the manufacturer's specification for the transformer grounding, we require a 4/0 AWG copper conductor for this unit. Please ensure your crew brings the correct cable size. The standard 2/0 is not sufficient for the load profile on this transformer.\n\nRegards,\nJ. Halloway\nSite Safety Manager, Helios Grid Services\n\n**EMAIL 2**\n**FROM:** e.rostova@apexelectrical.com\n**TO:** dispatch@heliosgridservices.com\n**DATE:** November 13, 2023\n**SUBJECT:** RE: Grounding Specs for T-4\n\nHi J.,\n\nWe are set for tomorrow. We will use our standard kit which includes the 2/0 AWG cable. It is compliant with general industry standards for temporary grounding. We are under a flat fee for this job, so we are sticking to our standard equipment list to keep costs down. If you need the 4/0, you would need to modify the contract.\n\nThanks,\nElena\n\n**WORK ORDER: APEX ELECTRICAL #2023-114**\n**CLIENT:** Helios Grid Services\n**TASK:** Installation of temporary grounding for Transformer T-4\n**DATE:** November 14, 2023\n**CREW CHIEF:** E. Rostova\n**TIME COMPLETED:** 08:50 AM\n**DESCRIPTION:** Installed Model #GC-45 clamp to transformer casing. Connected 2/0 AWG copper conductor to ground stake located 15 feet from casing.\n**PAYMENT TERMS:** Flat fee $5,000.00\n**VERIFICATION:** [BLANK - NO SECONDARY SIGNATURE PRESENT]\n\n**INSPECTION REPORT: TRANSFORMER T-4**\n**DATE:** October 1, 2023\n**INSPECTOR:** Helios Grid Services Technical Team\n**STATUS:** PASS\n**NOTES:**\n*   Insulation resistance tested at 500V. Result: Within acceptable limits.\n*   Oil levels normal.\n*   No visible physical damage to casing.\n*   Next scheduled maintenance: November 14, 2023.\n\n**SAFETY RECORD SUMMARY: HELIOS GRID SERVICES**\n**PERIOD:** Previous 12 Months (November 2022 \u2013 October 2023)\n**LOST-TIME INCIDENTS:** 0\n**NOTES:** Helios Grid Services maintains a safety record with zero lost-time incidents in the previous 12 months. This incident on November 14, 2023, is the first recordable incident in this period.",
+ "n_words": 1445,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on November 14, 2023, at 09:15 AM at the Helios Substation located at 402 Industrial Parkway.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Marcus Volk, was employed by Helios Grid Services as a senior power grid lineman.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Marcus Volk sustained third-degree burns covering 35% of his body surface area.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The voltage recorded at the transformer terminals at the moment of contact was 14.2 kV.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The standard operating procedure for this transformer requires a lockout/tagout duration of at least 30 minutes after de-energizing.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The lockout/tagout was applied at 08:45 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Marcus Volk began working on the transformer at 09:00 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The grounding cable used by the subcontractor was a 2/0 AWG copper conductor.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The manufacturer's specification for the transformer grounding requires a 4/0 AWG copper conductor.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The subcontractor, Apex Electrical, was paid a flat fee of $5,000 for the grounding installation.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Apex Electrical submitted a work order stating they completed the grounding task at 08:50 AM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Helios Grid Services did not provide a secondary verification signature for the grounding completion.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The transformer was last serviced and inspected by Helios technicians on October 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The inspection report from October 1, 2023, listed the insulation resistance as within acceptable limits.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Marcus Volk has 12 years of experience as a power grid lineman with Helios Grid Services.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The subcontractor's crew chief, Elena Rostova, was present on site during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The ambient temperature at the site was 55 degrees Fahrenheit.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The distance from the grounding stake to the transformer casing was 15 feet.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Helios Grid Services has a safety record with zero lost-time incidents in the previous 12 months.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The subcontractor's grounding clamp was a standard industry model #GC-45.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Rostova, Crew Chief for Apex Electrical stated that The grounding clamp was fully seated and tightened on the transformer casing before I left the area.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Volk, Injured Lineman stated that The grounding clamp was only partially engaged and not fully tightened when I began my work.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Marcus Volk, Injured Lineman stated that The transformer was de-energized, and the sudden charge came from an internal surge within the grid system.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Dr. Aris Thorne, Helios Grid Engineer stated that The charge resulted from the failure of the subcontractor's grounding to dissipate residual induction from the nearby active feeder.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Rostova, Crew Chief for Apex Electrical stated that We completed and verified the grounding installation at 08:50 AM as stated in the work order.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Marcus Volk, Injured Lineman stated that The transformer insulation was compromised, causing a flashover that the proper grounding should have handled but did not due to the surge.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Dr. Aris Thorne, Helios Grid Engineer stated that The insulation was intact; the hazard was solely created by the improper grounding technique which failed to neutralize the potential difference.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

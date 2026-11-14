@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-22",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vane v. Kessler: Loft Dispute",
+ "premise": "A startup founder in a converted loft building accuses the landlord of blocking essential fire exits with stored construction materials, while the property manager claims the tenant sublet the space to an unapproved pop-up gallery.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Residential Lease Agreement (Excerpts) ===\n\n**AGREEMENT FOR RENT AND OCCUPANCY**\n\n**Property:** Unit 4B, 120 Meridian Street\n**Landlord:** Meridian Lofts Management LLC\n**Tenant:** Jada Vane\n\n**1. PREMISES AND USE**\n1.1 The Landlord leases to the Tenant the premises identified as Unit 4B, a converted loft structure characterized by exposed brick walls and steel beams.\n1.2 The monthly rent is fixed at $4,500.00, payable on the 1st day of each month.\n1.3 The Premises shall be used exclusively for office and residential purposes consistent with the Tenant\u2019s business registration. The Tenant represents that their business entity, FluxCore, is registered as a technology service provider.\n\n**2. SUBLETTING AND ASSIGNMENT**\n2.1 The Tenant shall not sublet, assign, or permit the use of any portion of the Premises by any third party without the prior written consent of the Landlord.\n2.2 Any violation of this clause shall constitute a material breach of this Agreement, entitling the Landlord to immediate termination of the lease and pursuit of damages.\n\n**3. MAINTENANCE AND SAFETY**\n3.1 The Landlord is responsible for the maintenance of all common areas, including stairwells, hallways, and structural elements.\n3.2 The Tenant shall keep the interior of the Premises clean and free of hazards. The Tenant shall not store materials in common areas that obstruct egress or violate fire codes.\n\n**4. SIGNATURES**\n\n_________________________\nJada Vane, Tenant\nDate: 15 January 2023\n\n_________________________\nMarcus Thorne, Authorized Agent for Landlord\nDate: 15 January 2023\n\n=== DOCUMENT 2: Financial Ledger and Building Management Ticket Log ===\n\n**MERIDIAN LOFTS MANAGEMENT LLC**\n**FINANCIAL RECORDS AND TICKETING SYSTEM**\n\n**Account ID:** ML-4B-JV\n**Tenant:** Jada Vane\n**Unit:** 4B\n\n**Transaction History:**\n| Date | Description | Amount | Method | Status |\n| :--- | :--- | :--- | :--- | :--- |\n| 01/01/2024 | Rent - January 2024 | $4,500.00 | ACH | Cleared |\n| **02/02/2024** | **Rent - February 2024** | **$4,500.00** | **Wire Transfer** | **Cleared** |\n| 01/03/2024 | Rent - March 2024 | $4,500.00 | ACH | Pending |\n\n*Note: Payment for February 2024 received via wire transfer on 2 February 2024. Reference ID: WT-889201.*\n\n**TICKETING SYSTEM LOG**\n**Ticket ID:** 8921\n**Date Opened:** 12 March 2024\n**Priority:** High\n**Category:** Safety / Fire Code\n**Reported By:** Jada Vane (Tenant, Unit 4B)\n**Subject:** Obstruction of North Stairwell\n\n**Description:**\nWritten complaint submitted by Tenant regarding obstruction of the North Stairwell. Tenant reports that wooden pallets are stacked in the stairwell, impeding egress. Tenant requests immediate removal. Tenant asserts that the obstruction was placed by the landlord's construction crew.\n\n**Status:** Open / Under Review\n**Assigned To:** Marcus Thorne (Property Manager)\n\n=== DOCUMENT 3: Fire Marshal Inspection Report ===\n\n**CITY FIRE DEPARTMENT**\n**INSPECTION REPORT**\n\n**Date of Inspection:** 10 March 2024\n**Inspector:** Lt. D. R. Halloway\n**Location:** 120 Meridian Street, Unit 4B and Common Areas\n**Property Type:** Converted Loft (Brick/Steel)\n\n**I. OBSERVATIONS**\n\n1.  **North Stairwell:**\n    *   The inspector observed that the North Stairwell, which serves as one of the two primary exits from Unit 4B, was obstructed.\n    *   The obstruction consisted of twelve (12) wooden pallets stacked two high.\n    *   Measurements taken on-site indicate each pallet is 48 inches in length, 40 inches in width, and 6 inches in height.\n    *   The width of the North Stairwell at the point of obstruction was measured at 36 inches. The stacked pallets exceeded this width, creating a physical barrier.\n    *   The emergency lighting system in the North Stairwell was tested and found to be functional.\n\n2.  **South Stairwell:**\n    *   The South Stairwell, the second primary exit from Unit 4B, was inspected.\n    *   The South Stairwell was found to be unobstructed and clear for egress.\n\n3.  **Unit 4B Interior:**\n    *   The interior of Unit 4B was observed to contain office equipment and workstations.\n    *   No active fire hazards were noted within the interior of the unit.\n\n**II. VIOLATIONS**\n\n*   **Code Section 1006.3:** Obstruction of egress. The North Stairwell was blocked by stored materials (pallets).\n*   **Code Section 1006.2.1:** The width of the egress path was reduced below the required minimum due to the obstruction.\n\n**III. CORRECTIVE ACTION REQUIRED**\n\nThe occupant and/or management must remove the obstruction from the North Stairwell immediately to restore full egress capacity. The property is cited for failure to maintain clear egress paths.\n\n**Inspector Signature:**\nLt. D. R. Halloway\nCity Fire Department\n\n=== DOCUMENT 4: Security Camera Footage Log and Doorman Statement ===\n\n**BUILDING SECURITY LOG**\n**Date:** 20 March 2024\n**Time Range:** 10:00 AM \u2013 11:00 AM\n**Location:** Loading Dock / Exterior of Unit 4B\n\n**Incident Log Entry:**\n\n*   **10:00 AM:** A delivery van arrives at the loading dock outside Unit 4B. The vehicle is white with black lettering. The branding on the side of the van reads \"PopUp Art.\"\n*   **10:00 AM \u2013 10:45 AM:** The van remains parked at the loading dock for a duration of 45 minutes.\n*   **10:30 AM:** Two (2) individuals are observed exiting Unit 4B through the main entrance. They are carrying large canvas frames. The frames are wrapped in protective plastic.\n*   **10:32 AM:** The individuals place the canvas frames into the rear of the \"PopUp Art\" van.\n*   **10:45 AM:** The van departs the property.\n\n**DOORMAN STATEMENT**\n**Witness:** Samuel O\u2019Leary\n**Position:** Building Doorman\n**Date:** 21 March 2024\n\nI was on duty at the front desk and the loading dock area on 20 March 2024. At approximately 10:30 AM, I observed two individuals exiting Unit 4B carrying large canvas frames. I approached them to inquire about the delivery. They did not acknowledge me and continued to load the items into the van.\n\nI have worked at this building for three years. I know Jada Vane and the staff of her startup, FluxCore. The two individuals exiting the unit did not resemble any of the known employees or contractors associated with FluxCore. FluxCore is a software company, and I have never seen them transporting large art canvases. The van had \"PopUp Art\" on it, which is not associated with any approved tenant or vendor in the building. I did not recognize these individuals as employees of Jada Vane\u2019s startup. I reported the incident to Marcus Thorne immediately after the van left.\n\n=== DOCUMENT 5: Witness Statements ===\n\n**STATEMENT OF TENANT**\n**Name:** Jada Vane\n**Date:** 25 March 2024\n**Re:** Dispute regarding Unit 4B and North Stairwell Obstruction\n\nI am the tenant of Unit 4B and the founder of FluxCore, a technology service provider registered as a software startup. We operate exclusively from this space, using it for software development. There are no public art displays held in our office. Our business registration confirms we are not an art gallery.\n\nRegarding the incident on 20 March 2024, the individuals seen exiting my unit were contractors hired by the building management to repair the HVAC system. It is common for management to use third-party vendors for such repairs, and they often use their own vehicles and branding for equipment transport. The \"PopUp Art\" van was likely a mislabeled service vehicle or a vendor with confusing branding, but the individuals were definitely maintenance staff working on the building's systems, not part of my business. I have no knowledge of any unapproved pop-up gallery operating in my unit.\n\nRegarding the pallets in the North Stairwell, these were placed there by the landlord's construction crew for a pending renovation project. I was informed by Mr. Thorne last month that renovations were coming. It is the landlord\u2019s sole responsibility for clearing the obstruction as it involves common area safety and building maintenance. I filed my complaint on 12 March 2024 precisely because I am not responsible for common area hazards created by the landlord\u2019s crews. The fire marshal\u2019s report confirms the pallets were in the common stairwell, not inside my unit. I am a responsible tenant who pays rent on time, and I should not be held liable for the landlord\u2019s failure to manage their own construction materials.\n\n**STATEMENT OF PROPERTY MANAGER**\n**Name:** Marcus Thorne\n**Date:** 25 March 2024\n**Re:** Dispute regarding Unit 4B and North Stairwell Obstruction\n\nI am the Property Manager for Meridian Lofts. I am filing this statement to correct the false narrative presented by the tenant, Jada Vane.\n\nFirst, regarding the identity of the individuals and the van: The individuals exiting Unit 4B on 20 March 2024 were staff from an unapproved pop-up gallery operating in the unit. The van clearly displayed \"PopUp Art\" branding. My doorman, Samuel O\u2019Leary, confirmed that these individuals were not recognized as FluxCore employees. FluxCore is a tech company; they do not have an HVAC repair crew that uses art vans. The tenant is attempting to obscure the fact that she is using her office space for a public-facing art gallery for ticketed events, which is a direct violation of the lease terms regarding business use and subletting.\n\nSecond, regarding the pallets: The pallets in the North Stairwell were stored by the tenant to hold inventory for an unapproved retail operation. The tenant has been using the stairwell to store goods related to her gallery activities. The lease explicitly prohibits storing materials in common areas that obstruct egress. The tenant is responsible for clearing the obstruction as the items were placed there by the tenant's activities. I have not authorized any renovation work in the North Stairwell, and there is no construction crew working there. The tenant is shifting blame to the landlord to avoid liability for her illegal use of the space and her negligence in blocking the emergency exit. I request that the tenant be held fully liable for all fines and damages resulting from the fire code violation.",
+ "n_words": 1589,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 4B at 120 Meridian Street was signed by Jada Vane on 15 January 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Jada Vane operates a software startup named 'FluxCore' from Unit 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The building at 120 Meridian Street is a converted loft structure with brick walls and exposed steel beams.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The monthly rent for Unit 4B is $4,500, payable on the 1st of each month.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Jada Vane paid the rent for February 2024 on 2 February 2024 via wire transfer.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "A fire marshal inspection report dated 10 March 2024 noted that the north stairwell was obstructed by pallets.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The obstruction in the north stairwell consisted of twelve wooden pallets stacked two high.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The pallets were measured to be 48 inches by 40 inches by 6 inches each.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The width of the north stairwell at the obstruction point was 36 inches.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Jada Vane submitted a written complaint to the property management company on 12 March 2024 regarding the stairwell.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The property management company received the complaint and logged it in their ticketing system as ID 8921.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The lease agreement contains a clause prohibiting the subletting of any part of the premises without written consent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Security camera footage from 20 March 2024 shows a delivery van with 'PopUp Art' branding parked outside Unit 4B.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The van remained parked at the loading dock for 45 minutes, from 10:00 AM to 10:45 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Two individuals carrying large canvas frames were observed exiting Unit 4B at 10:30 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The individuals were not recognized as employees of Jada Vane's startup by the building's doorman.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Jada Vane's startup, FluxCore, is registered as a technology service provider, not an art gallery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The north stairwell is one of two primary exits from Unit 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The other exit, the south stairwell, was unobstructed during the 10 March 2024 inspection.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The building's emergency lighting system in the north stairwell was functional during the inspection.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Jada Vane, Tenant stated that The individuals were contractors hired by the building management to repair the HVAC system.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Property Manager stated that The individuals were staff from an unapproved pop-up gallery operating in the unit.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Jada Vane, Tenant stated that The pallets were placed there by the landlord's construction crew for a pending renovation project.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Thorne, Property Manager stated that The pallets were stored by the tenant to hold inventory for an unapproved retail operation.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Jada Vane, Tenant stated that The space is used exclusively for software development and no public art displays are held.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Property Manager stated that The space is being used as a public-facing art gallery for ticketed events.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Jada Vane, Tenant stated that The landlord is solely responsible for clearing the obstruction as it involves common area safety and building maintenance.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne, Property Manager stated that The tenant is responsible for clearing the obstruction as the items were placed there by the tenant's activities.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

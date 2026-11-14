@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-27",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Kestrel Textiles Hose Rupture Incident",
+ "premise": "During a high-pressure steam cleaning operation in a textile factory, a hose burst and scalded a line worker, prompting a dispute over whether the hose supplier used substandard materials or if the factory\u2019s pressure regulation system was not calibrated according to the manufacturer\u2019s specifications.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log - Kestrel Textiles Plant, Millbrook ===\n\n**INCIDENT REPORT: HIGH-PRESSURE HOSE RUPTURE**\n**Date:** April 14, 2023\n**Time:** 10:42 AM\n**Location:** Millbrook Plant, Line 4, High-Pressure Cleaning Station\n**Reported By:** K. O\u2019Malley, Shift Supervisor\n\n**1. Incident Description**\nAt 10:42 AM, a rupture occurred in the high-pressure steam hose connected to the 500kW boiler unit (installed 2019). The rupture released a high-velocity jet of steam directly toward the operator\u2019s station. The incident resulted in injury to one employee, Sarah Jenkins. No other employees were injured.\n\n**2. Environmental and Operational Data**\n*   **Ambient Temperature:** Factory floor temperature was recorded at 22 degrees Celsius in the minutes preceding the incident.\n*   **Boiler Settings:** Factory logs indicate the boiler pressure regulator was set to 110 PSI prior to the shift start.\n*   **Steam Pressure:** Post-incident measurements of the steam release indicate a measured pressure of 145 PSI at the point of burst.\n*   **Emergency Systems:** The factory\u2019s emergency stop button, located 3 meters from the work area, was functional and engaged immediately after the rupture.\n\n**3. Equipment Identification**\n*   **Component:** High-pressure steam hose.\n*   **Manufacturer:** Apex Industrial Supply.\n*   **Serial Number:** 8842-B (recorded in factory maintenance log).\n*   **Safety Valve Maintenance:** The steam system\u2019s safety valve was last serviced by a certified technician on March 1, 2023.\n*   **Calibration History:** The factory\u2019s maintenance manual requires a pressure calibration check every 6 months. The last check was recorded in October 2022.\n\n**4. Immediate Actions**\n*   Emergency stop button activated.\n*   Area evacuated.\n*   Injured worker transported to medical bay.\n*   Line closed for 2 hours to clean the area and secure the scene.\n*   Burst hose fragment recovered and sealed in evidence bag #A-104 for third-party laboratory material analysis.\n\n**5. Witness Statements (Initial)**\n*   **Sarah Jenkins (Injured Worker):** Reported hearing a \"sharp pop\" sound immediately before the steam release. Stated she was standing 1.5 meters from the burst point.\n*   **Kevin O\u2019Malley (Shift Supervisor):** Confirmed the location of the burst and the activation of the emergency stop.\n\n**6. Regulatory Notification**\nSarah Jenkins filed a formal complaint with the state occupational safety board within 48 hours of the incident. This report is submitted in accordance with internal safety protocols and regulatory requirements.\n\n***\n\n=== DOCUMENT 2: Medical Record - Patient Sarah Jenkins ===\n\n**CLINICAL SUMMARY AND INJURY REPORT**\n**Patient:** Sarah Jenkins\n**Date of Injury:** April 14, 2023\n**Treating Physician:** Dr. Aris Thorne, Occupational Medicine\n**Facility:** Millbrook General Hospital, Burn Unit\n\n**History of Present Illness**\nThe patient was admitted via ambulance following a workplace accident at the Kestrel Textiles Plant. The patient reports being struck by a release of high-pressure steam from a ruptured hose. The patient was wearing standard-issue protective gloves and an apron during the operation. The patient has 5 years of experience operating high-pressure cleaning equipment at this facility.\n\n**Physical Examination**\nUpon admission, the patient presented with significant thermal injuries. Examination revealed second-degree scalds covering 18% of her total body surface area. The injuries were concentrated on the left arm, chest, and lower back, consistent with a directional steam jet impact. The protective apron and gloves provided partial mitigation but were insufficient to prevent full-thickness dermal damage in the exposed areas.\n\n**Diagnostic Findings**\n*   **Burn Depth:** Second-degree (partial thickness).\n*   **Extent:** 18% Total Body Surface Area (TBSA).\n*   **Associated Injuries:** No respiratory distress observed. No fractures identified.\n*   **Vital Signs (Admission):** BP 110/70, HR 98, Temp 37.1\u00b0C.\n\n**Treatment Plan**\n*   Fluid resuscitation per Parkland formula.\n*   Topical antimicrobial dressings applied to all burn sites.\n*   Pain management protocol initiated.\n*   Wound debridement scheduled for Day 2.\n\n**Prognosis**\nThe patient requires ongoing monitoring for infection and potential scarring. Recovery timeline estimated at 8-12 weeks depending on wound healing response.\n\n**Signed:**\nDr. Aris Thorne\n*Occupational Medicine Specialist*\n\n***\n\n=== DOCUMENT 3: Forensic Analysis Report - Apex Industrial Supply & Kestrel Textiles ===\n\n**MATERIALS FORENSIC ANALYSIS REPORT**\n**Reference No:** LAB-2023-0414-KT\n**Item Analyzed:** Hose Fragment (Serial No. 8842-B)\n**Submitted By:** Kestrel Textiles Maintenance Department\n**Date of Analysis:** April 20, 2023\n\n**Scope of Work**\nAnalysis of the recovered hose fragment to determine the mode of failure and material integrity. The fragment was submitted for microscopic examination and chemical composition analysis.\n\n**Findings: Material Composition**\nThe hose material was identified as a synthetic rubber compound. The manufacturer\u2019s specification sheet for this specific hose model lists a maximum operating pressure of 120 PSI. Apex Industrial Supply provided a certificate of conformity for the hose batch, stating it met ISO 1402 standards.\n\n**Findings: Failure Mode Analysis**\nThe fracture surface exhibits irregular tearing patterns.\n\n*   **Statement by Dr. Alan Priest, Materials Forensic Expert:**\n    \"The hose material exhibited signs of fatigue and micro-structural degradation consistent with the use of substandard rubber compounds by the supplier. The degradation patterns suggest that the material had already compromised its structural integrity prior to the incident, making it susceptible to failure at pressures well below the rated limit.\"\n\n*   **Statement by Mr. Leo Vance, Apex Industrial Quality Control Manager:**\n    \"The hose material was within specification limits, and the burst was caused by an external shock or pressure spike that exceeded the design limit, not material failure. The fracture pattern is consistent with a sudden, catastrophic overload event rather than gradual degradation.\"\n\n**Note:** The laboratory does not render a final determination on the root cause of the failure. The conflicting interpretations of the microscopic data are noted for review by the adjudicating body.\n\n***\n\n=== DOCUMENT 4: Witness Statements - Contested Points ===\n\n**STATEMENT OF MS. ELENA ROSS, FACTORY MAINTENANCE SUPERVISOR**\n**Date:** April 15, 2023\n\nI am the Maintenance Supervisor at Kestrel Textiles. I am providing this statement regarding the pressure regulator calibration.\n\nThe pressure regulator had drifted out of calibration prior to the incident, causing it to allow higher pressure than the set point, despite the last formal check being within the required interval. We know the boiler was set to 110 PSI, but the regulator was clearly not holding that line. The drift is a known issue with these units if they aren't manually verified daily, which we failed to do. The regulator was the point of failure that allowed the pressure to climb to 145 PSI.\n\n**STATEMENT OF MR. DAVID STONE, BOILER OPERATOR**\n**Date:** April 15, 2023\n\nI am the Boiler Operator for Line 4. I am providing this statement regarding the pressure regulator.\n\nThe pressure regulator was functioning correctly and remained within the 110 PSI set point until the moment of burst, indicating the system did not fail to regulate pressure. I was monitoring the gauges. The needle was steady at 110 PSI. There was no drift. The pressure spike was not caused by the regulator failing; it was caused by the hose failing and creating a sudden vacuum or shockwave that confused the gauge readings for a split second. The regulator did its job.\n\n**STATEMENT OF MS. PRIYA PATEL, FACTORY PROCUREMENT OFFICER**\n**Date:** April 15, 2023\n\nI am the Procurement Officer for Kestrel Textiles. I am providing this statement regarding the supplier inspection records.\n\nThe batch of hoses from Apex was received with missing individual unit test reports, which is a violation of the supplier quality agreement and suggests skipped quality checks. We require individual unit reports for high-pressure components. The fact that these were missing is a red flag that Apex did not perform the necessary quality control on each unit before shipping. This negligence contributed to the presence of a defective hose in our facility.\n\n**STATEMENT OF MR. LEO VANCE, APEX INDUSTRIAL QUALITY CONTROL MANAGER**\n**Date:** April 15, 2023\n\nI am the Quality Control Manager at Apex Industrial Supply. I am providing this statement regarding the supplier inspection records.\n\nThe batch-level certificate of conformity was sufficient and was provided in full; individual unit test reports are not required by the contract or industry standard for this volume. We provided the certificate stating the batch met ISO 1402 standards. This is standard practice. We did not skip quality checks; we performed batch testing which is the accepted norm for this type of industrial supply. The absence of individual unit reports is not a violation.\n\n**STATEMENT OF SARAH JENKINS, INJURED WORKER**\n**Date:** April 15, 2023\n\nI was operating the high-pressure cleaning equipment. I have 5 years of experience with this. I was wearing my standard-issue protective gloves and apron. I was standing 1.5 meters from the burst point.\n\nThe hose swelled visibly and made a groaning sound for ten seconds before bursting, indicating a gradual material failure. I saw it bulge. It sounded like it was about to give out. I tried to move, but the burst was too fast. The sound was a sharp pop immediately before the steam release, but the groaning came before that. It was a slow failure, not a sudden shock.\n\n**STATEMENT OF MR. KEVIN O\u2019MALLEY, SHIFT SUPERVISOR**\n**Date:** April 15, 2023\n\nI was supervising the shift. I was near the emergency stop button, which was 3 meters from the work area.\n\nThe hose burst instantly with no visible swelling or warning signs, indicating a sudden pressure shock rather than a gradual material degradation. I saw the steam jet appear out of nowhere. There was no groaning, no swelling. It was a sudden, violent release. The emergency stop was functional and I hit it immediately. The incident was instantaneous.",
+ "n_words": 1542,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred at the Kestrel Textiles Plant in Millbrook on April 14, 2023, at 10:42 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Sarah Jenkins, was standing 1.5 meters from the burst point when the hose ruptured.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Medical records show Sarah Jenkins sustained second-degree scalds covering 18% of her total body surface area.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The burst hose was manufactured by Apex Industrial Supply and serial number 8842-B was recorded in the factory maintenance log.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The hose burst released steam at a measured pressure of 145 PSI.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The manufacturer\u2019s specification sheet for the specific hose model lists a maximum operating pressure of 120 PSI.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The steam system\u2019s safety valve was last serviced by a certified technician on March 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Factory logs indicate the boiler pressure regulator was set to 110 PSI prior to the shift start.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Apex Industrial Supply provided a certificate of conformity for the hose batch, stating it met ISO 1402 standards.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The factory\u2019s maintenance manual requires a pressure calibration check every 6 months, and the last check was recorded in October 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Sarah Jenkins reported a sharp pop sound immediately before the steam release.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The factory floor temperature was recorded at 22 degrees Celsius in the minutes preceding the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Sarah Jenkins was wearing standard-issue protective gloves and an apron during the operation.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The burst hose fragment was recovered and sent to a third-party laboratory for material analysis.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The factory\u2019s emergency stop button was functional and located 3 meters from the work area.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Sarah Jenkins has 5 years of experience operating high-pressure cleaning equipment at Kestrel Textiles.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The steam source was a 500kW boiler unit installed in 2019.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "No other employees were injured during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The factory closed the line for 2 hours to clean the area after the burst.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Sarah Jenkins filed a formal complaint with the state occupational safety board within 48 hours of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Alan Priest, Materials Forensic Expert stated that The hose material exhibited signs of fatigue and micro-structural degradation consistent with the use of substandard rubber compounds by the supplier.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Mr. Leo Vance, Apex Industrial Quality Control Manager stated that The hose material was within specification limits, and the burst was caused by an external shock or pressure spike that exceeded the design limit, not material failure.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Ms. Elena Ross, Factory Maintenance Supervisor stated that The pressure regulator had drifted out of calibration prior to the incident, causing it to allow higher pressure than the set point, despite the last formal check being within the required interval.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mr. David Stone, Boiler Operator stated that The pressure regulator was functioning correctly and remained within the 110 PSI set point until the moment of burst, indicating the system did not fail to regulate pressure.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Injured Worker stated that The hose swelled visibly and made a groaning sound for ten seconds before bursting, indicating a gradual material failure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mr. Kevin O\u2019Malley, Shift Supervisor stated that The hose burst instantly with no visible swelling or warning signs, indicating a sudden pressure shock rather than a gradual material degradation.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Ms. Priya Patel, Factory Procurement Officer stated that The batch of hoses from Apex was received with missing individual unit test reports, which is a violation of the supplier quality agreement and suggests skipped quality checks.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mr. Leo Vance, Apex Industrial Quality Control Manager stated that The batch-level certificate of conformity was sufficient and was provided in full; individual unit test reports are not required by the contract or industry standard for this volume.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

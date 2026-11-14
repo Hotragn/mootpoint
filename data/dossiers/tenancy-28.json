@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-28",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Miller v. Hargrove: Dispute over Garden Maintenance and Snow Removal",
+ "premise": "A teacher in a suburban semi-detached house disputes the landlord's claim that garden overgrowth constitutes a violation, while the tenant asserts the landlord failed to provide snow removal services for the driveway as stipulated in the contract.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Residential Lease Agreement (Excerpt) ===\n**PARTIES:**\nLandlord: Hargrove Property Group, represented by David Stone, Full-Time Property Manager.\nTenant: Elena Miller.\n**PROPERTY:** 42 Birchwood Lane, Cedar Falls (Suburban semi-detached house).\n**DATE SIGNED:** January 15, 2023.\n\n**ARTICLE 4: RENT AND FEES**\n4.1 The Tenant agrees to pay a monthly rent of $1,200.00, due on the first day of each month.\n4.2 Standard snow plow service contracts provided by Hargrove Property Group are priced at $150.00 per season. This fee is inclusive in the monthly rent for the premises described herein.\n\n**ARTICLE 7: MAINTENANCE AND REPAIRS**\n7.1 **Structural Repairs:** The Landlord is solely responsible for all structural repairs, including but not limited to the roof, foundation, and load-bearing walls.\n7.2 **Tenant Maintenance - Lighting:** The Tenant is responsible for the replacement of all light bulbs within the interior and exterior lighting fixtures of the property.\n7.3 **Tenant Maintenance - Garden:** The Tenant shall maintain the rear garden, which has a surface area of approximately 400 square feet, in a neat and orderly condition. The Tenant is required to prevent excessive overgrowth and ensure the area does not pose a health or safety hazard.\n7.4 **Landlord Services - Snow Removal:** The Landlord shall provide snow removal services for the private driveway of the property. The driveway is paved with asphalt and measures 20 feet in width. The Landlord commits to performing snow removal within 48 hours of any snowfall event during the winter season.\n\n**ARTICLE 12: COMPLIANCE WITH LOCAL CODES**\n12.1 Both parties agree to adhere to the Local Municipal Code of Cedar Falls.\n12.2 **Municipal Code \u00a714-B:** Landlords are required to provide snow removal if the driveway is private and paved.\n12.3 **Municipal Code \u00a714-C:** Tenants are required to keep common areas and private grounds free of hazardous debris.\n\n**SIGNATURES:**\n__________________________\nElena Miller, Tenant\n\n__________________________\nDavid Stone, for Hargrove Property Group\n\n=== DOCUMENT 2: Incident Log and Correspondence Records - Hargrove Property Group ===\n**INTERNAL RECORD**\n**PROPERTY ID:** BH-42\n**MANAGER:** David Stone\n\n**ENTRY: 2024-03-12**\nSubject: Formal Notice of Breach - Property Maintenance\nAction: Drafted and mailed formal letter to tenant, Elena Miller.\nReason: Cited breach of contract regarding property maintenance. Specifically referenced Article 7.3 (Tenant Maintenance - Garden) and alleged failure to maintain the rear garden in a neat and orderly condition.\nStatus: Mailed via certified mail.\n\n**ENTRY: 2024-03-14**\nSubject: Receipt of Tenant Correspondence\nAction: Received registered letter from tenant.\nNote: Tenant acknowledges receipt of the March 12 notice.\n\n**ENTRY: 2024-03-18**\nSubject: Tenant Request for Records\nAction: Received email from tenant requesting a copy of the snow removal logs for the winter season 2023-2024.\nStatus: Pending. Assigned to administrative queue.\n\n**ENTRY: 2024-03-25**\nSubject: Status Check on Log Request\nAction: Review of administrative queue.\nNote: The request for snow removal logs dated March 18 has not been processed or responded to within the standard 7-day response window. No response sent to tenant.\n\n**ENTRY: 2024-03-20**\nSubject: External Filing Notification\nAction: Notified by local housing authority that a counter-claim has been filed against Hargrove Property Group by tenant Elena Miller.\nAllegation: Failure of service provision.\n\n=== DOCUMENT 3: Witness Statement of Sarah Jenkins ===\n**STATEMENT OF WITNESS**\n**Name:** Sarah Jenkins\n**Role:** Organizer, Cedar Falls Tenants' Union\n**Date:** March 25, 2024\n**Subject:** Dispute regarding 42 Birchwood Lane\n\nI am writing to support Elena Miller, a certified secondary school teacher at Oakwood High School and a dedicated member of our Cedar Falls Tenants' Union. I have visited the property at 42 Birchwood Lane multiple times to assess the situation, and I am appalled by the negligence displayed by Hargrove Property Group.\n\nFirst, regarding the garden: The landlord\u2019s claim that the garden was \"severely overgrown\" is a blatant lie designed to justify their harassment. When I visited, the garden was not overgrown; it contained only natural seasonal growth within normal limits. It looked like a typical late-winter garden, perhaps needing a trim, but certainly not a hazard. Mark Hargrove, the Landlord's Counsel, claims that \"The garden was severely overgrown with weeds exceeding 3 feet in height, constituting a violation.\" This is absurd. I saw no weeds of that height. The landlord is manufacturing a breach to distract from their own failures.\n\nSecond, and more critically, is the snow removal. The lease clearly states the landlord must remove snow every 48 hours. Hargrove Property Group employs a full-time property manager named David Stone, yet they failed to uphold this basic contractual obligation. Snow removal services were never provided for the driveway during the winter season. I watched Elena Miller struggling to clear the asphalt driveway herself, which is 20 feet wide and dangerous for a single person to handle without proper equipment. Mark Hargrove insists that \"Snow removal services were provided every 48 hours as stipulated in the contract.\" This is a complete fabrication. If they had provided the service, there would be no need for the tenant to risk injury on a private, paved driveway. The landlord\u2019s failure to provide these services is a fundamental breach of the lease. They are ignoring the Local Municipal Code \u00a714-B, which requires landlords to provide snow removal for private paved driveways.\n\nFurthermore, when Elena Miller submitted a request for a copy of the snow removal logs to Hargrove Property Group on March 18, 2024, the company went silent. The landlord intentionally ignored the request for logs to hide non-compliance. They knew they had no records to show because they never did the work. Mark Hargrove claims that \"The request was lost in administrative processing and no intent to hide existed.\" That is a convenient excuse for a corporation that profits from neglecting tenants. They had the logs, or they didn't, but either way, they chose not to share them, proving their guilt.\n\nFinally, regarding the severity of the issue: Any minor maintenance issues by the tenant do not constitute a fundamental breach, as Mark Hargrove argues. This is a deflection tactic. The tenant is a responsible professional; any minor issues are trivial compared to the landlord's systemic failure to provide essential services. The landlord\u2019s failure to provide services is a fundamental breach of the lease, and we are holding them accountable.\n\n=== DOCUMENT 4: Witness Statement of Mark Hargrove ===\n**STATEMENT OF WITNESS**\n**Name:** Mark Hargrove\n**Role:** Landlord's Counsel, Hargrove Property Group\n**Date:** March 25, 2024\n**Subject:** Response to Tenant Counter-Claim (Case No. HA-2024-0320)\n\nI represent Hargrove Property Group in this dispute. We are surprised by the counter-claim filed by Elena Miller with the local housing authority on March 20, 2024, which was subsequently logged under case number HA-2024-0320 on March 21, 2024. The tenant\u2019s allegations are unfounded and stem from a misunderstanding of the lease obligations and the actual condition of the property.\n\nRegarding the garden: The tenant is responsible for maintaining the rear garden, which covers approximately 400 square feet. Our inspection and the formal letter sent on March 12, 2024, clearly identified that the garden was severely overgrown with weeds exceeding 3 feet in height, constituting a violation of Article 7.3. The tenant\u2019s claim that it contained \"only natural seasonal growth\" is factually incorrect. The overgrowth posed a potential hazard and violated the requirement to keep the area free of hazardous debris as per Local Municipal Code \u00a714-C. We did not send the letter to harass; we sent it to enforce a clear contractual obligation.\n\nRegarding snow removal: The lease agreement, signed on January 15, 2023, explicitly requires the landlord to provide snow removal for the driveway every 48 hours. We have fulfilled this obligation. Snow removal services were provided every 48 hours as stipulated in the contract. The tenant\u2019s assertion that services were \"never provided\" is false. The driveway is a 20-foot wide asphalt surface, and our crews have access to the property regularly. The standard snow plow service contract costs $150 per season, a fee included in the tenant's $1,200 monthly rent, and this service was rendered. The tenant\u2019s struggle with snow, if any, is likely due to her own failure to clear minor accumulation between scheduled plows or her refusal to acknowledge our service.\n\nRegarding the log request: The tenant submitted a request for a copy of the snow removal logs on March 18, 2024. We did not respond within 7 days, as is standard for non-urgent administrative inquiries during peak season. The request was lost in administrative processing and no intent to hide existed. It is a common occurrence for emails to be missed in high-volume inboxes. To suggest that Hargrove Property Group \"intentionally ignored the request to hide non-compliance\" is a malicious and unsupported accusation. We are a professional management company, and our records are maintained digitally. If the logs exist, they can be produced upon proper legal request, but the delay does not equate to concealment.\n\nRegarding the severity of the breach: The tenant is trying to escalate a minor maintenance dispute into a fundamental breach. Any minor maintenance issues by the tenant do not constitute a fundamental breach. The tenant is responsible for light bulb replacements and garden maintenance. The landlord is responsible for structural repairs to the roof. The tenant is conflating her garden maintenance duties with our snow removal services. We have provided the snow removal; she has not maintained the garden. The breach, if any, lies with the tenant\u2019s failure to adhere to Article 7.3.\n\n=== DOCUMENT 5: Housing Authority Case Intake Form ===\n**FORM HA-2024-INTAKE**\n**CASE NUMBER:** HA-2024-0320\n**DATE LOGGED:** March 21, 2024\n**OFFICE:** Cedar Falls Local Housing Authority\n\n**CLAIMANT:** Elena Miller\n**RESPONDENT:** Hargrove Property Group\n\n**NATURE OF DISPUTE:**\nTenant alleges failure of service provision as per lease agreement.\nTenant counters Landlord's notice of breach regarding property maintenance.\n\n**FACTS ON FILE:**\n1. Lease Agreement dated January 15, 2023, on file.\n2. Letter from Hargrove Property Group to Tenant dated March 12, 2024, on file.\n3. Counter-claim filed by Tenant on March 20, 2024.\n4. Tenant is a member of the Cedar Falls Tenants' Union.\n5. Property is a semi-detached house at 42 Birchwood Lane, Cedar Falls.\n\n**PENDING ISSUES FOR MEDIATION:**\n1. Verification of garden condition at time of March 12 notice.\n2. Verification of snow removal service frequency during winter 2023-2024.\n3. Status of log request submitted March 18, 2024.\n\n**NOTE:** No preliminary determination made. Parties to provide evidence.",
+ "n_words": 1704,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement signed on January 15, 2023, between Elena Miller and Hargrove Property Group includes a clause requiring the tenant to maintain the rear garden.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The lease agreement signed on January 15, 2023, includes a clause requiring the landlord to provide snow removal services for the driveway every 48 hours during winter.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Elena Miller is a certified secondary school teacher at Oakwood High School.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The property is located at 42 Birchwood Lane, a suburban semi-detached house in the town of Cedar Falls.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "On March 12, 2024, Hargrove Property Group sent a formal letter to Elena Miller citing a breach of contract regarding property maintenance.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Elena Miller received the formal letter from Hargrove Property Group on March 14, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Elena Miller filed a counter-claim with the local housing authority on March 20, 2024, alleging failure of service provision.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The local housing authority logged the counter-claim under case number HA-2024-0320 on March 21, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "A standard snow plow service contract from Hargrove Property Group typically costs $150 per season.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elena Miller's monthly rent for the property is $1,200.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The rear garden of the property has a surface area of approximately 400 square feet.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Hargrove Property Group employs a full-time property manager named David Stone.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Elena Miller is a member of the Cedar Falls Tenants' Union.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The lease agreement specifies that the landlord is responsible for structural repairs to the roof.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The lease agreement specifies that the tenant is responsible for replacing light bulbs.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The driveway at 42 Birchwood Lane is paved with asphalt and is 20 feet wide.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elena Miller submitted a request for a copy of the snow removal logs to Hargrove Property Group on March 18, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Hargrove Property Group did not respond to the request for snow removal logs within 7 days.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The local municipal code requires landlords to provide snow removal if the driveway is private and paved.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The local municipal code requires tenants to keep common areas free of hazardous debris.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Jenkins, Tenants' Union Organizer stated that The garden was not overgrown; it contained only natural seasonal growth within normal limits.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Mark Hargrove, Landlord's Counsel stated that The garden was severely overgrown with weeds exceeding 3 feet in height, constituting a violation.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Jenkins, Tenants' Union Organizer stated that Snow removal services were never provided for the driveway during the winter season.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mark Hargrove, Landlord's Counsel stated that Snow removal services were provided every 48 hours as stipulated in the contract.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Jenkins, Tenants' Union Organizer stated that The landlord intentionally ignored the request for logs to hide non-compliance.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mark Hargrove, Landlord's Counsel stated that The request was lost in administrative processing and no intent to hide existed.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Tenants' Union Organizer stated that The landlord's failure to provide services is a fundamental breach of the lease.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mark Hargrove, Landlord's Counsel stated that Any minor maintenance issues by the tenant do not constitute a fundamental breach.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

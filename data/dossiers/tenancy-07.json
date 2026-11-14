@@ -1,0 +1,166 @@
+{
+ "dossier_id": "tenancy-07",
+ "split": "dev",
+ "domain": "tenancy",
+ "title": "Vulcan Data Systems v. Helios Property Group",
+ "premise": "A tech company data center operator disputes a lease termination where the landlord claims excessive energy usage damaged the grid, while the tenant provides data showing the landlord\u2019s outdated cooling systems were the source of the inefficiency.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement Excerpts and Amendment History (Case File 2023-CD-04) ===\n\n**AGREEMENT FOR LEASE**\n**BETWEEN:** Helios Property Group, L.L.C. (\"Landlord\")\n**AND:** Vulcan Data Systems, Inc. (\"Tenant\")\n**DATE OF EXECUTION:** January 15, 2022\n\n**SECTION 4: ENERGY CONSUMPTION AND OPERATIONAL PARAMETERS**\n4.1. \"Normal Operational Parameters\" are hereby defined as a monthly energy consumption ceiling of 500,000 kWh. Any consumption exceeding this ceiling shall be considered a material deviation from the agreed-upon usage profile unless otherwise approved in writing by the Landlord.\n\n**SECTION 7: MAINTENANCE AND REPAIR RESPONSIBILITIES**\n7.1. Tenant shall be responsible for the maintenance and repair of all equipment located within the leased premises, excluding central building infrastructure.\n7.2. Landlord shall be solely responsible for the maintenance, repair, and replacement of the central cooling infrastructure, including but not limited to the main cooling chiller, piping, and associated distribution systems.\n\n**SECTION 12: DISPUTE RESOLUTION**\n12.1. Any dispute regarding energy usage, structural stress, or operational violations must be resolved through mediation within 30 days of the initial notice of dispute. Failure to reach a mediation agreement within this timeframe may result in further legal proceedings.\n\n**AMENDMENT NO. 2 (2021)**\nEffective date: [Redacted], 2021.\nThe parties agree that the Landlord is authorized to sublet unused space in the basement levels to third-party entities, specifically including cold-storage facilities, provided such subletting does not interfere with Tenant\u2019s primary operations.\n\n***\n\n=== DOCUMENT 2: Building Maintenance and Inspection Logs (Helios Property Group Facilities Division) ===\n\n**RECORD TYPE:** Routine Maintenance Log\n**DATE:** February 20, 2023\n**SUBJECT:** Utility Company Correspondence\n**DETAILS:** Received formal warning letter from Metro Electric Cooperative. The letter notes that the building\u2019s main transformer efficiency has dropped below 85% due to aging components and load variance. The letter requests a schedule for remedial action to prevent potential grid instability.\n\n**RECORD TYPE:** Cooling System Service Log\n**DATE:** October 12, 2021\n**TASK:** Routine servicing of Main Cooling Chiller (Model CX-900).\n**TECHNICIAN:** J. Miller\n**NOTES:** Filter replaced. Refrigerant levels checked and within spec. Compressor running smooth.\n**STATUS:** Completed.\n\n**RECORD TYPE:** Cooling System Service Log\n**DATE:** August 4, 2022\n**TASK:** Routine servicing of Main Cooling Chiller (Model CX-900).\n**TECHNICIAN:** J. Miller\n**NOTES:** Coil cleaning performed. Belts adjusted. No leaks detected.\n**STATUS:** Completed.\n\n**RECORD TYPE:** Inspection Report\n**DATE:** January 5, 2023\n**SUBJECT:** Fire Suppression System\n**INSPECTOR:** State Certified Fire Safety Inspector\n**RESULT:** Passed all safety standards. System fully operational. Certificates updated.\n\n**RECORD TYPE:** Electrical Panel Inspection\n**DATE:** April 10, 2023\n**LOCATION:** North Wing, Electrical Panel A\n**OBSERVATIONS:** Visible signs of heat discoloration observed on copper busbars. Photos taken (see attached image P-4102). No immediate fire hazard detected, but thermal stress is evident.\n\n**RECORD TYPE:** Energy Meter Readings (North Wing)\n**DATE:** April 9, 2023\n**TIME:** 14:00 - 14:45\n**DATA:** Peak power draw recorded at 620 kW. Duration of peak: 45 minutes.\n**NOTE:** This reading exceeds the standard operational load for the wing.\n\n***\n\n=== DOCUMENT 3: Internal Communications and Financial Records (Helios Property Group) ===\n\n**EMAIL**\n**FROM:** Julian Vane, Chief Electrical Engineer\n**TO:** Regional Property Manager\n**DATE:** March 15, 2023\n**SUBJECT:** North Wing Revenue Strategy\n**BODY:**\nPer our Q1 review, the North Wing is generating significant interest. With the recent high-value server placement by Vulcan, we are looking at a strong case for adjusting the lease terms. I suggest we discuss potential rent increases for the North Wing. The infrastructure can handle the density, but we need to ensure the pricing reflects the premium nature of the space. Let\u2019s schedule a meeting for next week to finalize the numbers.\n\n**INVOICE**\n**VENDOR:** GridStabilize Solutions LLC\n**BILLED TO:** Helios Property Group, L.L.C.\n**DATE:** April 12, 2023\n**AMOUNT:** $45,000.00\n**DESCRIPTION:** Emergency grid stabilization services. Requested by Building Manager on April 11, 2023. Includes recalibration of breakers and installation of temporary load balancers in North Wing.\n**STATUS:** Paid.\n\n**INSURANCE POLICY EXCERPT**\n**POLICY HOLDER:** Helios Property Group, L.L.C.\n**COVERAGE:** Electrical Infrastructure\n**CLAUSE 9.2:** \"Wear and tear\" is a standard exclusion for claims filed after the year 2020. Any degradation of equipment due to age or routine operational stress is not covered under this policy.\n\n**UTILITY CREDIT STATEMENT**\n**DATE:** March 2023\n**AMOUNT:** $12,000.00\n**DESCRIPTION:** Credit issued to Helios Property Group for participation in the Peak-Demand Reduction Program.\n\n***\n\n=== DOCUMENT 4: Witness Statements (Depositions) ===\n\n**STATEMENT OF: DR. ARIS THORNE**\n**TITLE:** Senior Energy Engineer, Vulcan Data Systems\n**DATE:** May 2, 2023\n\n**Q: Please describe your assessment of the grid instability that occurred in April 2023.**\n**A:** The grid instability was caused by the landlord's failing cooling systems forcing the server racks to draw more power to compensate for heat, not by the servers themselves. We have robust hardware. The issue was that the ambient temperature in the room was rising because the cooling couldn't keep up, so the racks had to work harder. It\u2019s a simple cause and effect. The landlord\u2019s equipment is old and inefficient.\n\n**Q: Do you believe the server racks exceeded the 500,000 kWh monthly ceiling?**\n**A:** The energy usage data provided by the landlord is skewed because the building's metering system does not account for the inefficiency losses from the outdated cooling chiller. If you look at the raw data, you see the chiller is eating up power just to keep the room cool. That\u2019s not our fault. We are within our operational limits; the building is not.\n\n**Q: What was the purpose of the lease termination notice?**\n**A:** The lease termination is a pretextual move by the landlord to force the tenant out in order to raise rents or sublet the space to a more profitable entity. I\u2019ve seen the internal memos. They were already planning rent increases before this \"emergency\" happened. It\u2019s a financial maneuver, not a safety issue.\n\n**Q: Did your servers contribute to the heat load?**\n**A:** Our servers are equipped with individual power management software that automatically throttles performance when voltage drops are detected. They are self-regulating. We keep our backup generators running at 20% idle capacity during the day to ensure a 99.99% uptime guarantee for our clients. This is standard practice for a data center of our size. We were not being careless.\n\n***\n\n**STATEMENT OF: MR. JULIAN VANE**\n**TITLE:** Chief Electrical Engineer, Helios Property Group\n**DATE:** May 2, 2023\n\n**Q: What was the primary cause of the grid instability?**\n**A:** The grid instability was caused exclusively by the tenant's new high-density server racks exceeding the building's electrical capacity, regardless of cooling conditions. They installed three new racks in March, adding 12 tons of equipment. That is a massive jump in density. The building was not designed for that load. It\u2019s not the cooling; it\u2019s the sheer volume of power the racks are pulling.\n\n**Q: Did the emergency grid stabilization services fall under the tenant's responsibility?**\n**A:** The emergency grid stabilization was a direct result of the tenant's unauthorized increase in equipment density, which violated the lease's usage limits. They didn\u2019t get approval for the weight increase or the power draw. When the grid sagged, we had to stabilize it to prevent a fire. That\u2019s on them.\n\n**Q: Is the energy usage data accurate?**\n**A:** The energy usage data is accurate and directly correlates to the power draw of the tenant's servers, proving they exceeded the agreed-upon limits. We have the meter readings right there. 620 kW peak for 45 minutes. That\u2019s not a glitch. That\u2019s their servers.\n\n**Q: Was the lease termination for financial reasons?**\n**A:** The lease termination was a necessary safety measure to prevent a catastrophic electrical failure caused by the tenant's equipment, not a financial maneuver. The heat discoloration on the busbars proves the stress. We have a duty to the other tenants in the building to protect them from a fire hazard. The \"wear and tear\" exclusion in our insurance policy means we can\u2019t fix this indefinitely if it\u2019s caused by their abuse of the system.\n\n***\n\n=== DOCUMENT 5: Third-Party Audit and Technical Specifications ===\n\n**REPORT: ENERGY EFFICIENCY ASSESSMENT**\n**CLIENT:** Vulcan Data Systems, Inc.\n**CONTRACTOR:** Apex Energy Auditors\n**DATE OF ENGAGEMENT:** April 11, 2023\n**SITE:** Helios Property Group, North Wing\n\n**EXECUTIVE SUMMARY:**\nApex Energy Auditors was retained to assess the energy efficiency of the North Wing following the dispute regarding grid stability. Our findings indicate that the building\u2019s main cooling chiller, Model CX-900, installed in 2008, is operating at suboptimal efficiency levels. The age of the unit (15 years) correlates with higher energy consumption for thermal regulation.\n\n**FINDINGS:**\n1. **Cooling System Performance:** The CX-900 unit shows significant wear. The coefficient of performance (COP) is 15% below the manufacturer\u2019s rated baseline for this model.\n2. **Server Room Environment:** During the week of April 3-7, 2023, ambient temperatures in the server room averaged 28\u00b0C. This is within the recommended operating range for modern hardware, suggesting that the servers were not operating under thermal stress that would force them to exceed nominal power draw.\n3. **Metering Discrepancies:** The building\u2019s central meter does not isolate the power draw of the cooling system from the tenant\u2019s equipment. Therefore, any total building consumption figures include the landlord\u2019s infrastructure overhead.\n\n**EQUIPMENT SPECIFICATIONS (VULCAN DATA SYSTEMS):**\n*   **Installation Date:** March 1, 2023.\n*   **Equipment:** Three high-density server racks.\n*   **Weight Increase:** 12 tons total.\n*   **Power Management:** Racks are equipped with individual power management software. This software automatically throttles performance when voltage drops are detected to protect the hardware and stabilize local loads.\n\n**CONCLUSION:**\nThe audit suggests that while the server racks represent a significant load increase, the building\u2019s infrastructure, particularly the cooling system, is contributing significantly to the overall energy inefficiency. The data does not support the claim that the servers alone caused the grid instability without regard to the building\u2019s internal conditions.",
+ "n_words": 1597,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement signed on January 15, 2022, explicitly defines 'normal operational parameters' as a monthly energy consumption ceiling of 500,000 kWh.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Vulcan Data Systems installed three new high-density server racks in the North Wing on March 1, 2023, increasing their total equipment weight by 12 tons.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The building's main cooling chiller, Model CX-900, was installed in 2008, making it 15 years old at the time of the dispute.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The lease requires the tenant to maintain all equipment within the leased premises, but explicitly assigns responsibility for the central cooling infrastructure to the landlord.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "On April 9, 2023, the building's power meter recorded a peak draw of 620 kW for a duration of 45 minutes.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The local utility company issued a warning letter to Helios Property Group on February 20, 2023, noting that the building's transformer efficiency had dropped below 85%.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Vulcan Data Systems maintains a 99.99% uptime guarantee for its clients, which required them to keep their backup generators running at 20% idle capacity during the day.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Helios Property Group's internal memo from March 15, 2023, discusses potential rent increases for the North Wing due to 'high-value server placement'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The building's fire suppression system was last inspected and certified on January 5, 2023, passing all safety standards.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Vulcan Data Systems hired a third-party energy auditor on April 11, 2023, to assess the building's energy efficiency.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The lease states that any dispute regarding energy usage must be resolved through mediation within 30 days of the initial notice.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Helios Property Group received a $12,000 credit from the utility company in March 2023 for participating in a peak-demand reduction program.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The server racks installed by Vulcan Data Systems are equipped with individual power management software that automatically throttles performance when voltage drops are detected.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The building's electrical panel in the North Wing shows visible signs of heat discoloration on the copper busbars, documented by a photo taken on April 10, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Vulcan Data Systems' employees reported an average ambient temperature of 28\u00b0C in the server room during the week of April 3-7, 2023, which is within the recommended operating range for modern hardware.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The lease agreement was amended in 2021 to allow the landlord to sublet unused space in the basement to a cold-storage facility.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Helios Property Group's insurance policy for the building's electrical infrastructure lists 'wear and tear' as a standard exclusion for claims filed after 2020.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Senior Energy Engineer for Vulcan Data Systems stated that The grid instability was caused by the landlord's failing cooling systems forcing the server racks to draw more power to compensate for heat, not by the servers themselves.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Mr. Julian Vane, Chief Electrical Engineer for Helios Property Group stated that The grid instability was caused exclusively by the tenant's new high-density server racks exceeding the building's electrical capacity, regardless of cooling conditions.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Mr. Julian Vane, Chief Electrical Engineer for Helios Property Group stated that The emergency grid stabilization was a direct result of the tenant's unauthorized increase in equipment density, which violated the lease's usage limits.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Mr. Sam O'Connell, Lead Data Analyst for Vulcan Data Systems stated that The energy usage data provided by the landlord is skewed because the building's metering system does not account for the inefficiency losses from the outdated cooling chiller.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Mr. Julian Vane, Chief Electrical Engineer for Helios Property Group stated that The energy usage data is accurate and directly correlates to the power draw of the tenant's servers, proving they exceeded the agreed-upon limits.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Ms. Elena Rostova, Director of Facilities Management for Vulcan Data Systems stated that The lease termination is a pretextual move by the landlord to force the tenant out in order to raise rents or sublet the space to a more profitable entity.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Mr. Julian Vane, Chief Electrical Engineer for Helios Property Group stated that The lease termination was a necessary safety measure to prevent a catastrophic electrical failure caused by the tenant's equipment, not a financial maneuver.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": []
+}

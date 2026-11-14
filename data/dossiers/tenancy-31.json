@@ -1,0 +1,166 @@
+{
+ "dossier_id": "tenancy-31",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "The Mill Street Collective v. Vantage Development",
+ "premise": "A collective of artists occupying a decommissioned textile factory in Detroit confronts a developer who is attempting to evict them for unpaid rent while the building lacks working heat.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement and Property Records ===\n\n**EXHIBIT A: RESIDENTIAL LEASE AGREEMENT**\n**Property:** Unit 402, 402 Mill Street, Detroit, Michigan (Downtown Core District)\n**Landlord:** Vantage Development LLC\n**Tenant:** The Mill Street Collective (Nonprofit Organization, State of Michigan)\n**Date Executed:** January 15, 2023\n\n**1. TERM AND RENT**\nThis Agreement is for a term of three years, commencing January 1, 2023, and expiring December 31, 2025. The monthly rent shall be $1,200, due on the first day of each month.\n\n**2. SECURITY DEPOSIT**\nTenant shall pay a security deposit of $2,400 prior to occupancy.\n*Record Note: Bank transaction records confirm a deposit of $2,400 received on January 14, 2023.*\n\n**3. MAINTENANCE AND REPAIRS**\nLandlord is responsible for structural systems and central utilities, including the central boiler system. Tenant is responsible for maintaining their individual units in a clean and safe condition, excluding structural systems.\n\n**4. BREACH AND EVICTION**\nFailure to pay rent for two consecutive months constitutes a material breach of contract. In the event of such breach, Landlord may commence eviction proceedings in Wayne County Circuit Court.\n\n**5. RENT WITHHOLDING PROVISION**\nTenant may withhold rent if Landlord fails to provide essential services, such as heat, within seven days of a written notice. To be valid, such notice must be delivered in accordance with Section 12 (Communication Methods).\n\n**12. COMMUNICATION METHODS**\nFormal written notices for rent withholding or legal disputes must be delivered via certified mail or personal delivery to the Landlord\u2019s designated office. Electronic communications (email) are permitted for general inquiries and maintenance requests but do not constitute formal written notice for the purposes of rent withholding.\n\n**EXHIBIT B: PROPERTY INSURANCE POLICY**\n**Policy Holder:** Vantage Development LLC\n**Location:** 402 Mill Street, Detroit, MI\n**Coverage Type:** Property Damage\n**Coverage Limit:** $2,500,000\n\n**EXHIBIT C: MUNICIPAL AND INSPECTION RECORDS**\n\n*   **Fire Inspection Report:** Conducted by Detroit Fire Department on January 20, 2024. Result: No citations issued.\n*   **Boiler Inspection Report:** Conducted by Certified Technician J. Miller on November 12, 2023. Findings: System operational. No major defects noted.\n*   **Utility Bill:** Detroit Water and Power Department, Main Meter. Date: April 5, 2024. Balance: $0.00.\n*   **City Code Enforcement Log:** Officer M. Davis visited the building on April 12, 2024. Recorded indoor temperature in Unit 402: 48 degrees Fahrenheit.\n\n=== DOCUMENT 2: Financial and Correspondence Logs ===\n\n**EXHIBIT D: TENANT BANK RECORDS**\n**Account Holder:** The Mill Street Collective\n**Period:** January 1, 2024 \u2013 April 30, 2024\n\n*   **Jan 1, 2024:** Debit of $1,200 to Vantage Development (Rent).\n*   **Feb 1, 2024:** No transaction recorded.\n*   **Mar 1, 2024:** No transaction recorded.\n*   **Mar 15, 2024:** Bankruptcy filing notice received from Clerk of Court. Account frozen for non-essential disbursements.\n\n**EXHIBIT E: LANDLORD MAINTENANCE LOG**\n\n*   **Feb 15, 2024:** Email received from E. Rostova (Tenant Organizer): \"Immediate repair needed. Heating out since late Jan.\"\n*   **Feb 20, 2024:** Email received from E. Rostova: \"Following up. No response. Heat still off.\"\n*   **Feb 25, 2024:** Email received from E. Rostova: \"Final warning. If not fixed by end of week, we will withhold rent.\"\n*   **Mar 28, 2024:** Maintenance request submitted by Tenant via portal: \"Boiler repair required.\"\n*   **Apr 10, 2024:** Certified letter served on Tenant Representatives. Demand for payment of $2,400 in back rent.\n\n**EXHIBIT F: NEWS CLIP**\n**Source:** *The Detroit Chronicle*, March 1, 2024\n**Headline:** \"Freezing Conditions at Mill Street Loft\"\n**Body:** \"Residents of Unit 402 report extreme cold. A tenant stated that the indoor temperature in Unit 402 had not exceeded 45 degrees Fahrenheit since late January. The Mill Street Collective, a registered nonprofit, has been in negotiations with Vantage Development regarding the heating system.\"\n\n**EXHIBIT G: RECEIPTS**\n**Vendor:** Home Depot\n**Customer:** The Mill Street Collective\n**Items:** Emergency space heaters (various models)\n**Dates:** February 10, 2024 \u2013 March 1, 2024\n**Total Amount:** $850.00\n**Proof of Payment:** Credit card statement attached.\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF ELENA ROSTOVA**\n**Role:** Tenant Organizer, The Mill Street Collective\n**Date:** May 10, 2024\n\nI am the primary organizer for the tenants of Unit 402. We are a nonprofit organization dedicated to housing justice, and we have always acted in good faith. When the heat went out in late January, we were desperate. We did not just sit and wait; we acted immediately.\n\nRegarding the notification of the failure: I personally delivered a physical paper notice to the landlord's office on February 10, 2024. I walked into the lobby, handed the document to the receptionist, and she accepted it. This satisfied the lease requirement for written notice of disrepair. We have been clear that we did not want to withhold rent, but we were forced to by their inaction. The emails I sent in February were follow-ups because the office was unresponsive, but the physical notice was the formal trigger.\n\nThe building was uninhabitable. It was freezing. We had to buy our own space heaters because the landlord was negligent. This was not a financial issue; it was a moral one. We stopped paying rent in February and March as an intentional act of civil disobedience to protest the uninhabitable conditions. We were not broke; we were making a statement. To suggest we did it because we couldn't pay is insulting. We had the funds, but we refused to pay for a home that was freezing.\n\nAs for the boiler, it was clearly a pre-existing issue. It failed on February 5, 2024, due to a pre-existing crack in the main pressure valve. This was visible during the November 12 inspection but was ignored by the landlord's maintenance team. They knew it was a ticking time bomb and did nothing.\n\nFurthermore, the landlord claims they tried to fix it in March. This is a lie. A contractor named Michael O'Donnell was hired, but he was blocked from accessing the mechanical room by our security team for three days. Wait, that is not what I said. I am correcting myself: I am aware that a contractor was hired, but I am disputing the narrative that we blocked him. Our security team is professional. However, I must state that we did not facilitate any repair that was effective. The claim that we blocked access is part of their narrative to delay the eviction. We stand by our right to withhold rent due to the heat failure.\n\n**STATEMENT OF MARCUS THORNE**\n**Role:** Landlord\u2019s Counsel, Vantage Development\n**Date:** May 10, 2024\n\nI represent Vantage Development in this matter. The facts are clear and supported by documentation. The tenant, The Mill Street Collective, is in material breach of their lease.\n\nRegarding the notification of heating failure: No physical notice was ever received by our office on February 10, 2024. Our reception logs show no such delivery. The only communication was an email, which, under the lease's electronic communication clause, does not constitute formal written notice for rent withholding purposes. The lease is explicit: formal notice must be delivered via certified mail or personal delivery to the designated office. The tenant\u2019s claim of a \"physical paper notice\" is unsubstantiated and contradicted by our office records.\n\nThe cause of the boiler failure is also disputed by the tenant, but our engineers have determined the truth. The boiler failure on February 5, 2024, was caused by the tenant's unauthorized installation of a chemical solvent storage unit directly above the boiler. This caused a corrosive leak that damaged the pressure valve. This is not a pre-existing defect; it is direct negligence by the tenant that caused the system failure.\n\nRegarding the repair efforts: My client acted swiftly. On March 10, 2024, we hired Michael O'Donnell to repair the boiler. However, he was blocked from accessing the mechanical room by the tenant security team for three days. This prevented the repair from being completed in a timely manner. The tenant\u2019s security team is not to be trusted in this regard, as they have a history of obstructing necessary maintenance.\n\nFinally, regarding the rent payment: The failure to pay rent in February and March 2024 was not an act of civil disobedience. It was due to the tenant organization's bankruptcy filing on March 15, 2024, which rendered them legally unable to disburse funds for any obligations, including rent. The bank records show no deposit of rent between February 1, 2024, and March 31, 2024. The certified letter demanding payment of $2,400 in back rent was served on April 10, 2024, as per the lease. The eviction filing was submitted to Wayne County Circuit Court on May 2, 2024, in accordance with the material breach clause.\n\n=== DOCUMENT 4: Technical and Maintenance Reports ===\n\n**EXHIBIT H: BOILER FAILURE ANALYSIS REPORT**\n**Prepared By:** David Kim, Building Engineer\n**Date:** April 20, 2024\n**Subject:** Root Cause Analysis for Boiler Failure at 402 Mill Street\n\n**1. Overview**\nThe central boiler system at 402 Mill Street failed on February 5, 2024. This report details the findings from the inspection of the mechanical room and the surrounding infrastructure.\n\n**2. Findings**\nUpon inspection, a significant corrosion was found on the main pressure valve. The corrosion pattern is consistent with exposure to acidic chemicals.\n\n**3. Analysis**\nThe boiler failure on February 5, 2024, was caused by the tenant's unauthorized installation of a chemical solvent storage unit directly above the boiler. This unit was not present in the November 12, 2023, inspection. The solvent leaked through the floor, causing a corrosive leak that damaged the pressure valve. This was not a pre-existing crack; it was an external damage event caused by the tenant's equipment.\n\n**4. Conclusion**\nThe failure was directly attributable to the tenant's actions. Landlord maintenance logs indicate that a request for boiler repair was submitted by the tenant on March 28, 2024, which is after the failure had already occurred and the damage was evident.\n\n**EXHIBIT I: HEATING TECHNICIAN STATEMENT**\n**Prepared By:** Sarah Jenkins, Heating Technician\n**Date:** April 22, 2024\n**Subject:** Dispute of Root Cause Analysis\n\n**1. Statement**\nI am a certified heating technician. I was called to the site on February 6, 2024, to assess the failure.\n\n**2. Findings**\nThe boiler failed on February 5, 2024, due to a pre-existing crack in the main pressure valve. I observed that the crack was visible during the November 12 inspection but was ignored by the landlord's maintenance team. The corrosion mentioned in the Building Engineer's report is superficial and not the cause of the pressure failure. The valve had been weakening for months.\n\n**3. Conclusion**\nThe failure was a maintenance issue, not a tenant issue. The landlord failed to address a known defect.\n\n**EXHIBIT J: MAINTENANCE CONTRACTOR LOG**\n**Contractor:** Michael O'Donnell\n**Project:** Boiler Repair, 402 Mill Street\n**Dates:** March 10, 2024 \u2013 March 13, 2024\n\n*   **March 10, 2024:** Arrived at site. Hired by landlord. Attempted to enter mechanical room. Access denied by tenant security team.\n*   **March 11, 2024:** Attempted access again. Denied. Security team stated no authorization from tenant.\n*   **March 12, 2024:** Attempted access. Denied.\n*   **March 13, 2024:** Left site. Inability to access mechanical room prevented repair.\n\n**EXHIBIT K: TENANT SECURITY LOG**\n**Security Lead:** Chloe Smith\n**Date:** April 25, 2024\n\n**Statement:**\nNo contractor was ever hired by the landlord in March 2024. The claim of blocked access is a fabrication to delay the eviction process. Our security team never prevented any entry to the building. We are responsible for tenant safety, but we do not obstruct legitimate maintenance. The logs provided by Mr. O'Donnell are inaccurate and reflect a misunderstanding of our security protocols. We did not deny entry to any authorized personnel.",
+ "n_words": 1909,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement for Unit 402 of the former Mill Street Textile Factory, executed on January 15, 2023, specifies a monthly rent of $1,200.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Bank records for the tenant entity, The Mill Street Collective, show no deposit of rent between February 1, 2024, and March 31, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "A certified letter demanding payment of $2,400 in back rent was served on the tenant representatives on April 10, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The lease includes a clause stating that failure to pay rent for two consecutive months constitutes a material breach of contract.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The eviction filing was submitted to Wayne County Circuit Court on May 2, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The building's central boiler system was last inspected by a certified technician on November 12, 2023, and the report noted no major defects.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The landlord's maintenance logs indicate that a request for boiler repair was submitted by the tenant on March 28, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "A utility bill from the Detroit Water and Power Department for the building's main meter, dated April 5, 2024, shows a balance of $0.00.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The lease agreement requires tenants to maintain their individual units in a clean and safe condition, excluding structural systems.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The property insurance policy for the Mill Street Textile Factory lists a coverage limit of $2.5 million for property damage.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant entity, The Mill Street Collective, is registered as a nonprofit organization in the State of Michigan.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The lease term is for three years, commencing January 1, 2023, and expiring December 31, 2025.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The building is located at 402 Mill Street, Detroit, Michigan, within the boundaries of the Downtown Core district.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "A fire inspection of the building was conducted on January 20, 2024, and no citations were issued.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The tenant paid the full security deposit of $2,400 on January 14, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Three separate emails from tenant organizers to the landlord's property management company, dated February 15, 2024, February 20, 2024, and February 25, 2024, each requested immediate repair of the heating system.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "A local news article published on March 1, 2024, cited a tenant's statement that the indoor temperature in Unit 402 had not exceeded 45 degrees Fahrenheit since late January.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The lease agreement contains a provision allowing tenants to withhold rent if the landlord fails to provide essential services, such as heat, within seven days of a written notice.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "A city code enforcement officer visited the building on April 12, 2024, and recorded the indoor temperature in Unit 402 as 48 degrees Fahrenheit.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The tenant organizers provided proof of payment for emergency space heaters purchased between February 10, 2024, and March 1, 2024, totaling $850.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Landlord's Counsel stated that No physical notice was ever received by our office on February 10, 2024; the only communication was an email which, under the lease's electronic communication clause, does not constitute formal written notice for rent withholding purposes.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "David Kim, Building Engineer stated that The boiler failure on February 5, 2024, was caused by the tenant's unauthorized installation of a chemical solvent storage unit directly above the boiler, which caused a corrosive leak that damaged the pressure valve.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Robert Hale, Landlord's Financial Advisor stated that The failure to pay rent was due to the tenant organization's bankruptcy filing on March 15, 2024, which rendered them legally unable to disburse funds for any obligations, including rent.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Michael O'Donnell, Maintenance Contractor stated that I was hired by the landlord on March 10, 2024, to repair the boiler, but I was blocked from accessing the mechanical room by the tenant security team for three days.",
+   "favors": "A",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": []
+}

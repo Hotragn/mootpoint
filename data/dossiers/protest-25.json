@@ -1,0 +1,178 @@
+{
+ "dossier_id": "protest-25",
+ "split": "test",
+ "domain": "protest",
+ "title": "The Aldgate Bridge Standoff",
+ "premise": "A massive climate march in London fragments when a fringe subgroup attempts to block a bridge, leading to police using water cannons and protesters retreating into the crowded side streets.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Metropolitan Police Incident Log \u2013 Operation Bridge Guard ===\n**Date:** May 14, 2024\n**Location:** Aldgate Bridge, London\n**Incident ID:** OPS-24-0514-AGB\n**Status:** Closed / Under Review\n\n**10:00 AM**\nMain climate march commences at Waterloo Station. Route officially approved by the Metropolitan Police on May 10, 2024. Weather conditions stable; temperature recorded at 22\u00b0C at noon.\n\n**11:30 AM**\n450 officers deployed to the Aldgate Bridge perimeter. Crowd estimated at approximately 5,000 people gathering on the North Bank of the Thames. K9 units present at perimeter checkpoints but not deployed at any point during the incident.\n\n**12:15 PM**\nA group of 15 protesters linked themselves to the bridge railings. Visual confirmation via CCTV shows a mobile phone video of a protester holding a sign reading 'Close the Bridge'.\n\n**12:30 PM**\nWater cannon unit positioned 20 meters from the protest line. Bridge traffic suspended.\n\n**12:35 PM**\nPolice command vehicle records ambient noise at 95 decibels.\n\n**12:40 PM**\nPolice radio logs show the instruction 'Disperse' was issued.\n\n**12:42 PM**\nFirst water cannon discharge occurs. Water cannon operates for a total duration of 4 minutes and 15 seconds.\n\n**12:50 PM**\nTwo police officers report being struck by projectiles from the crowd.\n\n**13:00 PM**\nFour protesters arrested for obstructing the highway.\n\n**14:00 PM**\nMain march continues peacefully to its destination. Incident area cleared.\n\n=== DOCUMENT 2: Witness Statement \u2013 Sarah Jenks ===\n**Witness Name:** Sarah Jenks\n**Role:** Human Rights Researcher\n**Date of Statement:** May 15, 2024\n\nI was present on the North Bank of the Thames at approximately 12:30 PM. The atmosphere was tense but entirely peaceful. We had a clear, approved route, and the group of fifteen who had linked themselves to the railings were stationary. They were not moving. They were not climbing. They were simply standing there, holding their signs, one of which clearly read 'Close the Bridge'.\n\nThen, without warning, the water cannons turned on us. Police used the water cannons preemptively to disperse a peaceful, stationary group of linked protesters who had not moved. It was a shock to everyone. There was no provocation. The officers stood there, waiting, while the high-pressure jets hit people who were doing nothing but standing still. It was a violent and unnecessary escalation. We were not a threat. We were just people trying to make our voices heard. The police response was disproportionate and aggressive from the very first second.\n\n=== DOCUMENT 3: Witness Statement \u2013 Det. Sgt. Alan Thorne ===\n**Witness Name:** Det. Sgt. Alan Thorne\n**Role:** Metropolitan Police\n**Date of Statement:** May 15, 2024\n\nI was positioned near the command vehicle at the time of the incident. At 12:40 PM, we issued the 'Disperse' instruction. For several minutes, the crowd remained in place. However, the situation changed rapidly. Protesters began climbing the bridge railings, creating an imminent danger to public safety. People were scaling the barriers, putting themselves and others at risk of falling into the Thames.\n\nPolice used the water cannons only after protesters began climbing the bridge railings, creating an imminent danger to public safety. We had no choice. The safety of the public and the officers was at stake. We did not wait for someone to fall. We acted to prevent injury and death. The water cannon was a controlled measure to stop the climbing and disperse the immediate threat. It was a necessary response to a volatile and dangerous situation that escalated beyond simple non-compliance.\n\n=== DOCUMENT 4: Medical Examination Report \u2013 Dr. Elena Rostova ===\n**Patient Details:** Three (3) protesters\n**Date of Examination:** May 14, 2024\n**Examiner:** Dr. Elena Rostova, Medical Examiner\n\n**Findings:**\nThree patients presented with lacerations to the forearm. The wounds were deep, irregular, and consistent with high-velocity impact.\n\n**Analysis:**\nThe lacerations on the three protesters were consistent with impact from high-pressure water jets, not physical strikes. The pattern of injury\u2014deep, linear cuts on the anterior forearm\u2014matches the trajectory and force of a water cannon stream. There is no evidence of blunt force trauma or abrasions consistent with being struck by objects or by other individuals. The mechanism of injury is clearly attributable to the water cannon discharge that occurred at 12:42 PM.\n\n**Additional Notes:**\nAmbulance records indicate 12 people were treated for shock on-site. The physical injuries are limited to the three laceration cases described above.\n\n=== DOCUMENT 5: Witness Statement \u2013 Insp. Marcus Vale ===\n**Witness Name:** Insp. Marcus Vale\n**Role:** Crowd Management Lead, Metropolitan Police\n**Date of Statement:** May 15, 2024\n\nFollowing the water cannon discharge, the crowd retreated into the side streets. It was chaotic. People were running, pushing, and knocking into one another. In that confusion, I saw signs being swung and people hitting each other.\n\nThe lacerations were caused by protesters striking each other with metal signs during the chaotic retreat into the side streets. The water cannon was a dispersal tool, not a cutting tool. It does not cause deep lacerations of the type reported. The injuries are consistent with the violence that erupted among the protesters themselves as they fled the scene. It was a chaotic scene, and people were hurt by their own actions, not by the police.\n\n=== DOCUMENT 6: Witness Statement \u2013 Jamie Lee ===\n**Witness Name:** Jamie Lee\n**Role:** Protest Organizer\n**Date of Statement:** May 15, 2024\n\nI was on the bridge when the water cannons started. I saw a few individuals on the edge picking up small stones from the ground. It was not organized. It was a few people, maybe three or four, grabbing pebbles out of frustration.\n\nThe objects thrown at police were pebbles picked up from the ground by a few individuals, not organized weapons. There were no concrete blocks. There were no pre-fabricated items. It was just small rocks from the pavement. The police claim of 'concrete blocks' is a lie designed to justify their aggression. We were not armed. We were not violent. We were just a few people throwing small stones in panic.\n\n=== DOCUMENT 7: Witness Statement \u2013 Officer K. Singh ===\n**Witness Name:** Officer K. Singh\n**Role:** Patrol Unit 4, Metropolitan Police\n**Date of Statement:** May 15, 2024\n\nI was on the front line when the projectiles came at us. They were heavy. They were solid. I was hit in the shoulder. It hurt.\n\nThe projectiles thrown at officers were pre-fabricated concrete blocks brought to the bridge by the fringe subgroup. I saw them. They were not pebbles. They were blocks. They were heavy enough to cause serious injury. This was not a spontaneous reaction. It was planned. The fringe subgroup had brought these items with them. It was an organized attack on the police line. We were under siege by a violent mob using weapons.\n\n=== DOCUMENT 8: Expert Report \u2013 Prof. David Kim ===\n**Subject:** Crowd Dynamics Analysis\n**Date:** May 16, 2024\n**Author:** Prof. David Kim, Crowd Dynamics Expert\n\nI reviewed the video footage and police logs from the Aldgate Bridge incident on May 14, 2024. The footage, including the bystander video from the South Bank, shows the crowd\u2019s behavior prior to the water cannon discharge.\n\nPolice failed to attempt verbal de-escalation or offer a safe exit route before using force. The video shows the officers standing in a rigid line, with no visible attempt to create an exit path or to verbally engage the protesters in a way that would reduce tension. The 'Disperse' command was issued, but there was no follow-up de-escalation effort. The police went straight from command to force. This is a failure of crowd management protocol. A safe exit route was never opened. The protesters had no clear way to leave without being hit by the water cannon. This lack of de-escalation led to the use of force.\n\n=== DOCUMENT 9: Witness Statement \u2013 Det. Insp. Laura Chen ===\n**Witness Name:** Det. Insp. Laura Chen\n**Role:** Incident Commander, Metropolitan Police\n**Date of Statement:** May 16, 2024\n\nI was the Incident Commander for Operation Bridge Guard. My team followed standard protocol. We did not just use force. We tried to talk to them.\n\nPolice officers made three distinct verbal warnings and opened a clear 5-meter gap for evacuation before the crowd was dispersed. The radio logs confirm the 'Disperse' command at 12:40 PM. This was the third warning. The first two were issued earlier. We opened a gap on the left side of the bridge to allow people to leave safely. They did not take it. They stayed. They continued to climb the railings. We had no choice but to use the water cannon to protect the public and the officers. The de-escalation attempts were made. They were ignored. The force used was a last resort.",
+ "n_words": 1439,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The main climate march began at 10:00 AM on May 14, 2024, at Waterloo Station.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Police deployed 450 officers to the Aldgate Bridge perimeter by 11:30 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "A group of 15 protesters linked themselves to the bridge railings at 12:15 PM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The water cannon unit was positioned 20 meters from the protest line at 12:30 PM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Three protesters were hospitalized with lacerations to the forearm.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The police command vehicle recorded ambient noise at 95 decibels at 12:35 PM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "A crowd of approximately 5,000 people gathered on the North Bank of the Thames.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The first water cannon discharge occurred at 12:42 PM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Two police officers reported being struck by projectiles from the crowd.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The protest route was officially approved by the Metropolitan Police on May 10, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "A mobile phone video shows a protester holding a sign reading 'Close the Bridge'.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The water cannon operated for a total duration of 4 minutes and 15 seconds.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Ambulance records indicate 12 people were treated for shock on-site.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Police K9 units were present but not deployed at any point during the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The temperature was recorded at 22\u00b0C at noon on the day of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Four protesters were arrested for obstructing the highway.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The main march continued peacefully to its destination at 2:00 PM.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Police radio logs show the instruction 'Disperse' was issued at 12:40 PM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Jenks, Human Rights Researcher stated that Police used the water cannons preemptively to disperse a peaceful, stationary group of linked protesters who had not moved.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Det. Sgt. Alan Thorne, Metropolitan Police stated that Police used the water cannons only after protesters began climbing the bridge railings, creating an imminent danger to public safety.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Elena Rostova, Medical Examiner stated that The lacerations on the three protesters were consistent with impact from high-pressure water jets, not physical strikes.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Insp. Marcus Vale, Crowd Management Lead stated that The lacerations were caused by protesters striking each other with metal signs during the chaotic retreat into the side streets.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Jamie Lee, Protest Organizer stated that The objects thrown at police were pebbles picked up from the ground by a few individuals, not organized weapons.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Officer K. Singh, Patrol Unit 4 stated that The projectiles thrown at officers were pre-fabricated concrete blocks brought to the bridge by the fringe subgroup.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Prof. David Kim, Crowd Dynamics Expert stated that Police failed to attempt verbal de-escalation or offer a safe exit route before using force.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Det. Insp. Laura Chen, Incident Commander stated that Police officers made three distinct verbal warnings and opened a clear 5-meter gap for evacuation before the crowd was dispersed.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

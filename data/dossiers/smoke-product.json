@@ -1,0 +1,190 @@
+{
+ "dossier_id": "smoke-product",
+ "split": "pilot",
+ "domain": "product",
+ "title": "VoltRide E-Bike Battery Fire Incident Reports",
+ "premise": "Several users of a budget e-bike reported battery fires while charging.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: VoltRide Corporate Records and Product Specifications ===\n\nVoltRide, Inc.\nPrincipal Executive Office: 4500 Commerce Boulevard, Suite 200, Austin, Texas 78745\nIncorporated: Delaware\n\nPRODUCT SPECIFICATION SHEET \u2014 MODEL C-7 ELECTRIC BICYCLE\nLaunch Date: January 15, 2022\n\nVoltRide launched the Model C-7 on January 15, 2022 with a press release highlighting its 40-mile range per charge. The Model C-7 retails at $899, making it one of the five lowest-priced e-bikes in its frame class. VoltRide has sold approximately 42,000 Model C-7 e-bikes in North America between January 2022 and November 2023.\n\nBATTERY SPECIFICATIONS\n- Type: Lithium-ion\n- Voltage: 36 volts\n- Capacity: 10.4 amp-hours\n- Weight: 6.2 pounds\n- Warranty: 12-month limited warranty with specific exclusions for damage from aftermarket chargers\n\nCHARGER SPECIFICATIONS\n- AC Input: 100-240V\n- DC Output: 42V at 2.0 amps\n- Weight: 1.1 pounds\n\nUSER MANUAL SAFETY WARNINGS\nThe Model C-7 user manual includes 18 separate safety warnings regarding charging, covering outlet selection, ambient temperature, and charging intervals.\n\nBATTERY SUPPLIER CERTIFICATIONS\nVoltRide's battery supplier, CellTech Industries of Shenzhen, China, holds ISO 9001 and UN38.3 certifications for its lithium-ion battery packs.\n\nQUALITY ASSURANCE PROGRAM\nVoltRide's quality assurance program includes a 72-hour burn-in test on 5% of randomly sampled battery packs from each production lot before shipment.\n\nCUSTOMER SUPPORT OPERATIONS\nVoltRide maintains a customer support call center in Austin, Texas staffed by 34 representatives operating 7 days a week. VoltRide has responded to 312 customer inquiries regarding battery performance through its online portal since January 2023, with an average response time of 4.5 hours.\n\n---\n\n=== DOCUMENT 2: Fire Incident Reports and Regulatory Filings ===\n\nDAYTON FIRE DEPARTMENT INCIDENT REPORT 23-3147\nDate of Incident: March 14, 2023\nLocation: Torres residence, Dayton, Ohio\nTime of Report: 2:15 a.m.\n\nSummary: Dayton Fire Department Incident Report 23-3147 documents flames originating near the battery housing of a Model C-7 at the Torres residence. On March 14, 2023, Angela Torres of Dayton, Ohio reported that her Model C-7 battery ignited at 2:15 a.m. while plugged into a wall outlet in her garage.\n\n---\n\nSACRAMENTO METROPOLITAN FIRE DISTRICT \u2014 ENGINE 14 RESPONSE LOG\nDate of Incident: June 8, 2023\nLocation: 1847 River Road, Apartment 3B, Sacramento, California\nResponse Time: 11:42 p.m.\n\nSacramento Metropolitan Fire District records show Engine 14 responded to a balcony fire at 1847 River Road, Apartment 3B, on June 8, 2023 at 11:42 p.m. On June 8, 2023, Marcus Lee of Sacramento, California filed a complaint with the CPSC alleging his Model C-7 battery caught fire while charging on his apartment balcony.\n\n---\n\nPORTLAND FIRE BUREAU REPORT PF-2023-8891\nDate of Incident: September 22, 2023\nLocation: Nguyen residence, Portland, Oregon\n\nPortland Fire Bureau report PF-2023-8891 lists the cause of the Nguyen residence fire as \"undetermined\" with a Model C-7 battery noted as a potential ignition source. On September 22, 2023, Patricia Nguyen of Portland, Oregon submitted photographs of a charred Model C-7 battery to the consumer advocacy group SafeRide USA.\n\n---\n\nCONSUMER PRODUCT SAFETY COMMISSION DATABASE SEARCH RESULTS\nSearch Parameters: \"VoltRide Model C-7 battery\"\nDate Range: April 2023 \u2013 September 2023\nResults: 7 entries\n\nThe Consumer Product Safety Commission database contains 7 entries referencing VoltRide Model C-7 battery incidents submitted between April 2023 and September 2023.\n\n---\n\nSAFERIDE USA COMPLAINT LOG \u2014 MODEL C-7\nSafeRide USA has catalogued 11 fire-related complaints involving Model C-7 e-bikes between February 2023 and October 2023.\n\n---\n\n=== DOCUMENT 3: Witness Statement of Angela Torres ===\n\nWITNESS STATEMENT\nName: Angela Torres\nAddress: [Redacted], Dayton, Ohio\nDate of Statement: May 3, 2023\n\nMy name is Angela Torres. I purchased a VoltRide Model C-7 electric bicycle in January 2023 from a retailer in Dayton. I kept the e-bike in my garage and regularly charged it overnight.\n\nOn March 14, 2023, my Model C-7 battery ignited at 2:15 a.m. while plugged into a wall outlet in my garage. I was awakened by a loud popping sound and discovered flames coming from the area where the e-bike was charging. I called 911 and the Dayton Fire Department responded. The fire caused damage to my garage and destroyed the e-bike.\n\nRegarding the charger I used: I exclusively used the grey charger that came in the Model C-7 box from the day I purchased it and never purchased or used any other charger. I still have the original box the e-bike came in, and the charger compartment was empty after the fire because the charger was the one plugged into the wall when the fire started.\n\nRegarding communications with VoltRide: On April 10, 2023 a VoltRide representative called me and offered $5,000 and a replacement e-bike if I signed a confidentiality agreement and withdrew my CPSC complaint. I did not accept the offer. The caller identified himself as a customer support supervisor named Derek Halverson.\n\nI signed and submitted a complaint to the CPSC describing the incident.\n\n---\n\n=== DOCUMENT 4: Witness Statement of Derek Halverson ===\n\nWITNESS STATEMENT\nName: Derek Halverson\nTitle: Customer Support Supervisor, VoltRide, Inc.\nLocation: Austin, Texas Customer Support Center\nDate of Statement: May 10, 2023\n\nI am employed as a Customer Support Supervisor at VoltRide's call center in Austin, Texas, which is staffed by 34 representatives operating 7 days a week. I have held this position since November 2022.\n\nRegarding the Torres incident charger: Photographs of the charger recovered from the Torres garage show a black third-party charger inconsistent with any unit VoltRide has ever shipped. The Model C-7 battery charger is rated for 100-240V AC input and outputs 42V DC at 2.0 amps, weighing 1.1 pounds, and is grey in color. The charger depicted in the photographs taken by the Dayton Fire Department does not match this description. The Model C-7 battery pack carries a 12-month limited warranty with specific exclusions for damage from aftermarket chargers.\n\nRegarding prior fire complaints: No complaints mentioning fire, smoke, overheating, or thermal events appear anywhere in VoltRide's customer support database prior to March 14, 2023. VoltRide has responded to 312 customer inquiries regarding battery performance through its online portal since January 2023, with an average response time of 4.5 hours. None of these inquiries referenced fire, smoke, or thermal events prior to the Torres incident.\n\nRegarding settlement offers to Angela Torres: VoltRide has never offered Angela Torres any monetary settlement, replacement product, or confidentiality agreement of any kind. I did contact Ms. Torres by telephone on April 10, 2023, but the purpose of the call was to gather information about the incident for our internal investigation and to remind her of the warranty exclusions for damage caused by aftermarket chargers. No offer of compensation or confidentiality was discussed during that call or any other communication.\n\n---\n\n=== DOCUMENT 5: Witness Statements of SafeRide USA and VoltRide Technical Experts ===\n\nWITNESS STATEMENT\nName: Lena Vasquez\nTitle: Lead Investigator, SafeRide USA\nDate of Statement: May 15, 2023\n\nI serve as Lead Investigator for SafeRide USA, a consumer advocacy organization. SafeRide USA has catalogued 11 fire-related complaints involving Model C-7 e-bikes between February 2023 and October 2023. On September 22, 2023, Patricia Nguyen of Portland, Oregon submitted photographs of a charred Model C-7 battery to SafeRide USA. Portland Fire Bureau report PF-2023-8891 lists the cause of the Nguyen residence fire as \"undetermined\" with a Model C-7 battery noted as a potential ignition source.\n\nRegarding prior complaints known to VoltRide: A former VoltRide support representative told me the company had logged at least two battery overheating complaints from Model C-7 owners before March 14, 2023. The representative, whose identity I am preserving as a confidential source, stated that these complaints were received through VoltRide's customer support call center in Austin, Texas in late 2022 and early 2023. The representative indicated that the complaints were entered into the company's customer support database but were classified under general performance inquiries rather than safety reports.\n\nSafeRide USA is continuing to investigate the full scope of Model C-7 battery incidents and is coordinating with consumers who have filed reports with the CPSC.\n\n---\n\nWITNESS STATEMENT\nName: Dr. Raymond Okafor\nTitle: Battery Safety Consultant\nRetained by: SafeRide USA\nDate of Statement: May 20, 2023\n\nI am a battery safety consultant with expertise in lithium-ion battery systems. I was retained by SafeRide USA to conduct independent testing of the VoltRide Model C-7 battery pack.\n\nThe Model C-7 uses a 36-volt, 10.4-amp-hour lithium-ion battery pack weighing 6.2 pounds. VoltRide's battery supplier, CellTech Industries of Shenzhen, China, holds ISO 9001 and UN38.3 certifications for its lithium-ion battery packs. VoltRide's quality assurance program includes a 72-hour burn-in test on 5% of randomly sampled battery packs from each production lot before shipment.\n\nRegarding the battery management system thermal cutoff: My testing of three Model C-7 battery packs shows the thermal cutoff activates only at 87\u00b0C, which is 17 degrees above the safe threshold for this cell chemistry. Testing was conducted in a controlled laboratory environment using calibrated thermal sensors applied directly to the battery cells. All three packs exhibited thermal cutoff activation at or above 85\u00b0C, with the average activation temperature recorded at 87\u00b0C. This threshold is above the manufacturer-stated safe operating range for the cell chemistry used in these packs.\n\n---\n\nWITNESS STATEMENT\nName: Dr. Megan Pruitt\nTitle: Director of Product Safety, VoltRide, Inc.\nDate of Statement: May 22, 2023\n\nI serve as Director of Product Safety at VoltRide, Inc., which is incorporated in Delaware with its principal executive office located at 4500 Commerce Boulevard, Suite 200, Austin, Texas 78745. VoltRide launched the Model C-7 on January 15, 2022 with a press release highlighting its 40-mile range per charge. VoltRide has sold approximately 42,000 Model C-7 e-bikes in North America between January 2022 and November 2023.\n\nRegarding the battery management system thermal cutoff: Our production-line testing confirms the thermal cutoff on every Model C-7 battery pack activates between 65\u00b0C and 68\u00b0C, well within the safe operating range for this cell chemistry. This testing is conducted as part of VoltRide's quality assurance program, which includes a 72-hour burn-in test on 5% of randomly sampled battery packs from each production lot before shipment. The thermal cutoff values recorded during production-line testing are documented in batch quality records and are consistent with the specifications provided by CellTech Industries, our battery supplier, which holds ISO 9001 and UN38.3 certifications for its lithium-ion battery packs.\n\nThe Model C-7 user manual includes 18 separate safety warnings regarding charging, covering outlet selection, ambient temperature, and charging intervals. These warnings are designed to ensure that consumers operate the battery and charger within safe parameters.",
+ "n_words": 1743,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "VoltRide has sold approximately 42,000 Model C-7 e-bikes in North America between January 2022 and November 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The Model C-7 retails at $899, making it one of the five lowest-priced e-bikes in its frame class.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "On March 14, 2023, Angela Torres of Dayton, Ohio reported that her Model C-7 battery ignited at 2:15 a.m. while plugged into a wall outlet in her garage.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Dayton Fire Department Incident Report 23-3147 documents flames originating near the battery housing of a Model C-7 at the Torres residence.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The Model C-7 user manual includes 18 separate safety warnings regarding charging, covering outlet selection, ambient temperature, and charging intervals.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "VoltRide's battery supplier, CellTech Industries of Shenzhen, China, holds ISO 9001 and UN38.3 certifications for its lithium-ion battery packs.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "On June 8, 2023, Marcus Lee of Sacramento, California filed a complaint with the CPSC alleging his Model C-7 battery caught fire while charging on his apartment balcony.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "Sacramento Metropolitan Fire District records show Engine 14 responded to a balcony fire at 1847 River Road, Apartment 3B, on June 8, 2023 at 11:42 p.m.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "VoltRide launched the Model C-7 on January 15, 2022 with a press release highlighting its 40-mile range per charge.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The Model C-7 uses a 36-volt, 10.4-amp-hour lithium-ion battery pack weighing 6.2 pounds.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "VoltRide maintains a customer support call center in Austin, Texas staffed by 34 representatives operating 7 days a week.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "On September 22, 2023, Patricia Nguyen of Portland, Oregon submitted photographs of a charred Model C-7 battery to the consumer advocacy group SafeRide USA.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Portland Fire Bureau report PF-2023-8891 lists the cause of the Nguyen residence fire as 'undetermined' with a Model C-7 battery noted as a potential ignition source.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "VoltRide's quality assurance program includes a 72-hour burn-in test on 5% of randomly sampled battery packs from each production lot before shipment.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The Model C-7 battery pack carries a 12-month limited warranty with specific exclusions for damage from aftermarket chargers.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "SafeRide USA has catalogued 11 fire-related complaints involving Model C-7 e-bikes between February 2023 and October 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "VoltRide is incorporated in Delaware with its principal executive office located at 4500 Commerce Boulevard, Suite 200, Austin, Texas 78745.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The Consumer Product Safety Commission database contains 7 entries referencing VoltRide Model C-7 battery incidents submitted between April 2023 and September 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "VoltRide has responded to 312 customer inquiries regarding battery performance through its online portal since January 2023, with an average response time of 4.5 hours.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The Model C-7 battery charger is rated for 100-240V AC input and outputs 42V DC at 2.0 amps, weighing 1.1 pounds.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Angela Torres, Model C-7 owner stated that I exclusively used the grey charger that came in the Model C-7 box from the day I purchased it and never purchased or used any other charger.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Derek Halverson, VoltRide Customer Support Supervisor stated that Photographs of the charger recovered from the Torres garage show a black third-party charger inconsistent with any unit VoltRide has ever shipped.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Lena Vasquez, SafeRide USA Lead Investigator stated that A former VoltRide support representative told me the company had logged at least two battery overheating complaints from Model C-7 owners before March 14, 2023.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Derek Halverson, VoltRide Customer Support Supervisor stated that No complaints mentioning fire, smoke, overheating, or thermal events appear anywhere in VoltRide's customer support database prior to March 14, 2023.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Raymond Okafor, battery safety consultant retained by SafeRide USA stated that My testing of three Model C-7 battery packs shows the thermal cutoff activates only at 87\u00b0C, which is 17 degrees above the safe threshold for this cell chemistry.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Dr. Megan Pruitt, VoltRide Director of Product Safety stated that Our production-line testing confirms the thermal cutoff on every Model C-7 battery pack activates between 65\u00b0C and 68\u00b0C, well within the safe operating range for this cell chemistry.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Angela Torres, Model C-7 owner stated that On April 10, 2023 a VoltRide representative called me and offered $5,000 and a replacement e-bike if I signed a confidentiality agreement and withdrew my CPSC complaint.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Derek Halverson, VoltRide Customer Support Supervisor stated that VoltRide has never offered Angela Torres any monetary settlement, replacement product, or confidentiality agreement of any kind.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

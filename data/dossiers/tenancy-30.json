@@ -1,0 +1,190 @@
+{
+ "dossier_id": "tenancy-30",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Mara Vane vs. The Sterling Preservation Trust",
+ "premise": "A wheelchair-bound tenant in a historic Victorian townhouse in Boston sues after the landlord refuses to install a ramp despite a court order, citing preservation restrictions.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Case Filing and Pleading Record ===\n\n**UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS**\n\n**Case No. 24-cv-00142**\n\n**MARA VANE, Plaintiff,**\nv.\n**THE STERLING PRESERVATION TRUST, Defendant.**\n\n**PLAINTIFF\u2019S COMPLAINT AND COUNTERCLAIM**\n\n1. Plaintiff Mara Vane is a resident of 44 Beacon Hill Road, Boston, MA. She has occupied the premises continuously since March 1, 2019. The lease agreement executed in March 2019 governs the tenancy.\n2. Defendant The Sterling Preservation Trust is the owner of the subject property, an 1892 brick rowhouse located at 44 Beacon Hill Road, Boston, MA.\n3. On May 12, 2023, a federal court order was issued mandating the Defendant to install a portable wheelchair ramp at the primary entrance by June 1, 2023.\n4. Plaintiff submitted a medical certification from Dr. Aris Thorne on April 28, 2023, confirming that Plaintiff is wheelchair-bound and requires accessible access to the premises.\n5. On January 10, 2024, Defendant served a 30-day notice to vacate, citing \"failure to maintain premises.\"\n6. Plaintiff filed a counterclaim on January 20, 2024, seeking $15,000 in damages.\n\n**DEFENDANT\u2019S ANSWER AND MOTION FOR SUMMARY JUDGMENT**\n\n7. Defendant denies the allegations of retaliation.\n8. On February 28, 2024, Defendant\u2019s counsel, Marcus Hale, filed a motion for summary judgment.\n9. The lease agreement signed in March 2019 contains a clause prohibiting tenant-initiated modifications without written landlord consent.\n10. Defendant\u2019s insurance policy, effective January 1, 2023, covers liability claims up to $1 million.\n\n=== DOCUMENT 2: Administrative and Board Records ===\n\n**THE STERLING PRESERVATION TRUST**\n**Internal Correspondence and Board Minutes**\n\n**DATE:** May 15, 2023\n**FROM:** Marcus Hale, Esq.\n**TO:** U.S. District Court, District of Massachusetts\n**RE:** Letter of Appeal regarding Order dated May 12, 2023\n\nYour Honor,\n\nThis letter serves as formal notice of The Sterling Preservation Trust\u2019s intent to appeal the order mandating the installation of a portable wheelchair ramp. The Trust cites preservation bylaws governing the 1892 brick rowhouse at 44 Beacon Hill Road as the primary basis for this appeal. The Trust asserts that any alteration to the facade, even temporary, conflicts with the preservation standards established for the property.\n\n**DATE:** May 18, 2023\n**RE:** Board of Directors Meeting Minutes\n\nThe Board of Directors convened to discuss the pending court order regarding the portable ramp. The cost to rent the specified portable ramp for one year is $1,200. The Board voted 4-1 to refuse the installation of the portable ramp, citing the risks to the historic foundation and the precedent of non-compliance with preservation standards. The dissenting vote was cast by Director J. Miller.\n\n**DATE:** May 20, 2023\n**FROM:** Boston Landmarks Commission\n**TO:** The Sterling Preservation Trust\n**RE:** Comment on Proposed Alterations\n\nThe Commission notes that permanent structural alterations to the facade require a separate permit. The Commission does not currently endorse the installation of permanent fixtures without a full review of the architectural impact on the 1892 structure.\n\n**DATE:** February 14, 2024\n**FROM:** Boston Landmarks Commission\n**TO:** The Sterling Preservation Trust\n**RE:** Denial of Application\n\nThe Boston Landmarks Commission hereby denies the defendant's application for a permanent ramp. The Commission has determined that the proposed permanent structure would compromise the historical integrity of the facade.\n\n=== DOCUMENT 3: Financial and Maintenance Records ===\n\n**THE STERLING PRESERVATION TRUST**\n**Property Management Records**\n\n**RE:** Rent Ledger \u2013 44 Beacon Hill Road\n**Period:** March 2019 \u2013 December 2023\n\nTenant: Mara Vane\nMonthly Rent: $2,400\n\n| Month | Year | Amount Due | Amount Paid | Status |\n| :--- | :--- | :--- | :--- | :--- |\n| March | 2019 | $2,400 | $2,400 | Paid on time |\n| April | 2019 | $2,400 | $2,400 | Paid on time |\n| ... | ... | ... | ... | ... |\n| December | 2023 | $2,400 | $2,400 | Paid on time |\n\n*Note: No late fees or penalties were assessed during the specified period.*\n\n**RE:** Maintenance Log\n**Submitted by:** Elena Rostova, Property Manager\n**Date:** January 12, 2024\n\nThis log details all maintenance requests and actions taken for 44 Beacon Hill Road between June 2023 and December 2023.\n\n*   **June 2023 \u2013 December 2023:** No repairs were requested by the tenant.\n*   **Incident Report:** No reports of structural damage, glass breakage, or debris accumulation in the entryway were filed by tenants or staff during this period.\n*   **Noise Complaints:** Three noise complaints were filed by neighboring residents in November 2023, referencing excessive volume from the second-floor unit. These complaints were logged but did not result in formal lease violation notices at the time.\n\n**RE:** Insurance Policy\n**Policy Holder:** The Sterling Preservation Trust\n**Effective Date:** January 1, 2023\n**Coverage:** General Liability\n**Limit:** $1,000,000\n\n=== DOCUMENT 4: Witness Statements ===\n\n**STATEMENT OF MARA VANE**\n**Date:** January 22, 2024\n**Subject:** Conditions of Entryway and Retaliatory Eviction\n\nI have lived at 44 Beacon Hill Road since March 1, 2019. I am wheelchair-bound, as confirmed by my physician, Dr. Aris Thorne, in a certification submitted on April 28, 2023. The original blueprint of the building shows the front entrance has a step height of 18 inches, which is impossible for me to navigate without assistance or a ramp.\n\nThe condition of the entryway during the dispute period was abysmal. The entryway was blocked by construction debris and broken glass, making it impossible for my wheelchair to approach the door. The landlord\u2019s negligence created a hazardous environment that effectively locked me in my apartment for weeks. I was forced to rely on neighbors to bring me supplies because I could not safely exit the premises.\n\nFurthermore, the eviction notice served on January 10, 2024, was a retaliatory measure taken specifically because I refused to vacate despite the landlord's non-compliance with the accommodation order. The landlord has clearly used the \"failure to maintain premises\" citation as a pretext to remove me because I am exercising my legal rights. The Beacon Hill Housing Coalition, my tenant union, issued a public statement on January 15, 2024, supporting the tenant and highlighting the landlord\u2019s pattern of ignoring accessibility needs.\n\n**STATEMENT OF ELENA ROSTOVA, PROPERTY MANAGER**\n**Date:** January 22, 2024\n**Subject:** Response to Tenant Allegations\n\nI manage the property for The Sterling Preservation Trust. I categorically deny the allegations regarding the condition of the entryway. The entryway was clean and accessible, with only the standard 18-inch step, and no obstructions were present. Our maintenance logs confirm that no repairs were requested by the tenant between June 2023 and December 2023, and there were no reports of debris or glass in the entry area.\n\nThe eviction notice was based on a separate, unrelated breach of the lease regarding noise complaints filed by neighbors in November 2023. The tenant\u2019s claim of retaliation is unfounded. The lease agreement signed in March 2019 contains a clause prohibiting tenant-initiated modifications without written landlord consent. The tenant\u2019s refusal to accept the landlord\u2019s position on the ramp installation does not constitute a breach, but the noise complaints do represent a violation of the quiet enjoyment clause. We are committed to preserving the historic nature of the building while adhering to lease terms.\n\n=== DOCUMENT 5: Correspondence and Expert Testimony ===\n\n**EMAIL CORRESPONDENCE**\n\n**FROM:** Sam O'Keeffe <s.okeeffe@vanelegal.com>\n**TO:** Marcus Hale <m.hale@sterlingtrust.com>\n**DATE:** May 25, 2023\n**SUBJECT:** URGENT: Contempt Warning \u2013 44 Beacon Hill Road\n\nMr. Hale,\n\nThis firm represents Mara Vane. The landlord's office received the court order and explicitly acknowledged receipt in writing, promising compliance within 48 hours. Your client\u2019s failure to install the portable ramp by the June 1, 2023 deadline, as mandated by the May 12, 2023 order, is in direct violation of federal law.\n\nWe warn you that continued non-compliance will result in a petition for contempt. The portable ramp specified in the court order costs $1,200 to rent for one year, a trivial expense compared to the liability your client faces. We expect immediate compliance.\n\n**REPLY FROM:** Marcus Hale <m.hale@sterlingtrust.com>\n**DATE:** May 26, 2023\n**SUBJECT:** RE: URGENT: Contempt Warning \u2013 44 Beacon Hill Road\n\nMr. O'Keeffe,\n\nYour assertion is incorrect. The court order was served to a different address, and the landlord did not receive direct notice until the public record was reviewed in June 2023. There was no written acknowledgment of receipt, nor any promise of compliance within 48 hours. Your client\u2019s demand for immediate installation is premature given the preservation bylaws and the pending appeal filed on May 15, 2023. We will be filing a motion for summary judgment to address these procedural irregularities.\n\n**EXPERT REPORT: DR. ARIS THORNE**\n**Date:** May 5, 2023\n**Patient:** Mara Vane\n**Re:** Assessment of Portable Ramp Feasibility\n\nI am the attending physician for Ms. Vane. I confirm that she is wheelchair-bound. The portable ramp is medically necessary and safe for the patient to use daily, as it meets all ADA slope requirements. Without this ramp, Ms. Vane is at significant risk of injury and inability to access essential services. The 18-inch step at the entrance is a barrier that cannot be overcome without the ramp. I do not believe the historic foundation concerns raised by others outweigh the medical necessity for this patient.\n\n**EXPERT REPORT: LEO GRIST, STRUCTURAL ENGINEER**\n**Date:** June 10, 2023\n**Re:** Inspection of 44 Beacon Hill Road\n\nI was hired by The Sterling Preservation Trust to inspect the building on June 5, 2023. My findings indicate that the portable ramp is structurally unsafe for the historic foundation and poses a tripping hazard that violates safety codes. The 1892 brick structure has specific load-bearing limitations. The weight and anchoring points required for the portable ramp could destabilize the masonry at the entryway. Furthermore, the slope provided by the portable unit is steeper than what I deem safe for a high-traffic historic entryway. I recommend against installation.",
+ "n_words": 1612,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The defendant owns the 1892 brick rowhouse at 44 Beacon Hill Road, Boston, MA.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The plaintiff, Mara Vane, has been a resident of 44 Beacon Hill Road since March 1, 2019.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "A federal court order dated May 12, 2023, mandated the defendant install a portable wheelchair ramp by June 1, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The defendant submitted a formal letter of appeal to the court on May 15, 2023, citing preservation bylaws.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The Boston Landmarks Commission filed a comment on May 20, 2023, stating that permanent structural alterations to the facade require a separate permit.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Mara Vane paid her monthly rent of $2,400 on time for every month between March 2019 and December 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The defendant served a 30-day notice to vacate on January 10, 2024, citing 'failure to maintain premises'.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The lease agreement signed in March 2019 contains a clause prohibiting tenant-initiated modifications without written landlord consent.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Mara Vane submitted a medical certification from Dr. Aris Thorne on April 28, 2023, confirming she is wheelchair-bound.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The defendant's insurance policy, effective January 1, 2023, covers liability claims up to $1 million.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The Boston Landmarks Commission denied the defendant's application for a permanent ramp on February 14, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Mara Vane filed a counterclaim for $15,000 in damages on January 20, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The defendant hired a structural engineer, Leo Grist, to inspect the building on June 5, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The portable ramp specified in the court order costs $1,200 to rent for one year.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The defendant's board of directors voted 4-1 on May 18, 2023, to refuse the installation of the portable ramp.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Mara Vane's attorney, Sam O'Keeffe, sent a demand letter to the landlord on May 25, 2023, warning of contempt.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The building's original blueprint shows the front entrance has a step height of 18 inches.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The defendant's property manager, Elena Rostova, submitted a maintenance log showing no repairs were requested by the tenant between June 2023 and December 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The plaintiff's tenant union, the Beacon Hill Housing Coalition, issued a public statement on January 15, 2024, supporting the tenant.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The defendant's counsel, Marcus Hale, filed a motion for summary judgment on February 28, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Mara Vane, Tenant stated that The entryway was blocked by construction debris and broken glass, making it impossible for her wheelchair to approach the door.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Elena Rostova, Property Manager stated that The entryway was clean and accessible, with only the standard 18-inch step, and no obstructions were present.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sam O'Keeffe, Plaintiff's Attorney stated that The landlord's office received the court order and explicitly acknowledged receipt in writing, promising compliance within 48 hours.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Hale, Landlord's Counsel stated that The court order was served to a different address, and the landlord did not receive direct notice until the public record was reviewed in June 2023.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Aris Thorne, Plaintiff's Physician stated that The portable ramp is medically necessary and safe for the patient to use daily, as it meets all ADA slope requirements.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Leo Grist, Structural Engineer stated that The portable ramp is structurally unsafe for the historic foundation and poses a tripping hazard that violates safety codes.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Mara Vane, Tenant stated that The eviction notice was a retaliatory measure taken specifically because she refused to vacate despite the landlord's non-compliance with the accommodation order.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Elena Rostova, Property Manager stated that The eviction notice was based on a separate, unrelated breach of the lease regarding noise complaints filed by neighbors in November 2023.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

@@ -1,0 +1,168 @@
+{
+ "dossier_id": "tenancy-24",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Mold Contamination and Eviction Dispute at 44 Cobalt Street",
+ "premise": "A freelance photographer in a trendy downtown apartment claims mold from a burst pipe is toxic, whereas the landlord argues the tenant failed to disclose the leak for two weeks, allowing it to spread.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Maintenance Records ===\n\n**Apex Living Property Management**\n**Incident Log Entry #2023-0312-4B**\n**Date:** March 12, 2023\n**Time:** 2:15 PM\n**Location:** 44 Cobalt Street, Unit 4B, Downtown District\n**Unit Type:** Residential\n**Tenant of Record:** Elena Vane (Lease Agreement signed January 10, 2023; Occupancy commenced January 15, 2023)\n**Monthly Rent:** $2,450.00\n\n**Incident Description:**\nAt 2:15 PM, a maintenance call was received by the management office regarding a burst pipe located under the kitchen sink in Unit 4B. The caller identified themselves as the tenant, Ms. Vane. The report indicated immediate water discharge and visible moisture accumulation on the subfloor.\n\n**Standard Operating Procedure (SOP) Reference:**\nApex Living SOP Section 4.2 mandates that tenant notification regarding structural or plumbing damage must be confirmed within 24 hours of discovery by the property management staff.\n\n**Action Taken:**\nMaintenance staff dispatched to site at 2:45 PM. Water supply to Unit 4B was shut off. Preliminary assessment noted significant water damage to the lower cabinet and adjacent drywall.\n\n**Notes:**\nNo prior maintenance tickets for Unit 4B kitchen plumbing exist in the system since move-in on January 15, 2023. The pipe in question is part of the original building infrastructure, installed pre-2010.\n\n**Signed:**\n*J. Miller, Maintenance Supervisor*\n\n***\n\n**Apex Living Property Management**\n**Internal Correspondence**\n**Date:** March 26, 2023\n**From:** J. Miller, Maintenance Supervisor\n**To:** M. Thorne, Legal Counsel for Sterling Properties\n**Subject:** Follow-up on Unit 4B Leak Incident\n\nMarcus,\n\nI am forwarding the maintenance logs regarding the pipe burst in Unit 4B on March 12. I want to highlight a discrepancy in our records versus the tenant\u2019s recent communications.\n\nOur incident log clearly timestamps the initial report from the tenant at 2:15 PM on March 12. However, when I spoke with Ms. Vane during the recent inspection, she stated she had not contacted management until late in the month. I am attaching her email from March 26 where she first raised the issue of \"ongoing neglect.\"\n\nGiven that our SOP requires notification within 24 hours, and our log shows the notification occurred same-day, I believe the tenant\u2019s claim of delayed disclosure is factually incorrect based on our primary records. However, I am aware she is alleging that the delay was on our part in responding. We need to clarify the timeline before we proceed with any formal notices.\n\nRegards,\nJ. Miller\n\n=== DOCUMENT 2: Witness Statement of Elena Vane ===\n\n**Case File: Mold Contamination and Eviction Dispute at 44 Cobalt Street**\n**Witness:** Elena Vane\n**Role:** Tenant, Unit 4B\n**Date of Statement:** April 20, 2023\n\nI am a freelance photographer, and I have lived in Unit 4B at 44 Cobalt Street since January 15, 2023. My lease was signed on January 10, 2023, and I have always paid my rent of $2,450 on time. I moved into that unit specifically because I needed a quiet space to work on my portfolio, and I had already started shooting test photos there by February 1, 2023.\n\nOn March 12, 2023, around 2:15 PM, I heard a loud bang from the kitchen. I ran over and saw water gushing from under the sink. It was a total mess. The pipe had completely burst. I immediately called the management office at Apex Living. I reported the burst pipe to the management office on March 12, 2023, immediately after it occurred. I remember the clerk answering and telling me they would send someone. I was shocked that a pipe in a building that is supposed to be modern had just exploded.\n\nI told them the pipe was old and that I had noticed it looking rusty and worn down for months. I believe the pipe burst due to age and poor maintenance by the landlord. Sterling Properties has never once come to check the plumbing in my unit since I moved in. They just send emails.\n\nAfter the initial water was shut off, I waited for them to fix it properly. But they never did. They just stopped the water and left. The area under the sink remained damp. Within a few days, I started seeing black spots on the drywall. By the end of the month, the smell was unbearable. It smelled like wet dirt and rot.\n\nI tried to reach out to them again, but they ignored me. It wasn\u2019t until late March that I finally got a response, and by then the mold was everywhere. I am now facing health issues. I have been coughing constantly and my eyes are irritated. My health insurance policy number is HX-9921, and I have already filed a claim for medical attention related to this exposure.\n\nI submitted a claim for $1,200 in damages to the tenants' union on March 25, 2023, to cover the loss of my photography equipment that got ruined by the water and the mold spores. I cannot work in my own home. I have had to move my studio to a friend\u2019s apartment. This is not just a cosmetic issue; it is a toxic environment. I am being evicted for something that is the landlord\u2019s fault, and I will not stand for it.\n\n=== DOCUMENT 3: Witness Statement of Marcus Thorne ===\n\n**Case File: Mold Contamination and Eviction Dispute at 44 Cobalt Street**\n**Witness:** Marcus Thorne\n**Role:** Attorney for Sterling Properties / Landlord Counsel\n**Date of Statement:** April 21, 2023\n\nI represent Sterling Properties, the landlord of record for 44 Cobalt Street. The property is managed by their property management company, Apex Living. I am prepared to state the facts regarding the dispute with tenant Elena Vane.\n\nFirst, it is crucial to establish the timeline of events accurately. The tenant\u2019s narrative is riddled with inaccuracies. The incident log provided by Apex Living is the authoritative record. While the log shows a call on March 12, the content of that call and the subsequent actions are disputed by the tenant. The tenant failed to disclose the leak for two weeks, first mentioning it on March 26, 2023, in a formal email to our office. Prior to that date, there was no formal documentation of a \"burst pipe\" requiring remediation, only a minor water issue that was addressed by shutting off the valve.\n\nRegarding the cause of the damage, the tenant claims it was due to age. This is a deflection. The pipe burst due to the tenant's negligence in maintaining the sink area. Ms. Vane has a history of storing heavy equipment and chemicals near the sink, which compromises the structural integrity of the cabinetry and the plumbing behind it. The pipe failure was a direct result of her misuse of the space.\n\nSterling Properties issued a formal notice to cure on April 5, 2023, regarding building condition violations. This notice was sent in accordance with our lease agreement, which requires tenants to maintain the premises in a sanitary condition and to report damages immediately. Ms. Vane did not cure the violations.\n\nFurthermore, the cost of the repairs is substantial. The plumbing contractor issued an invoice for $3,500 to repair the burst pipe and replace the damaged subflooring. This cost is a direct result of the tenant\u2019s delay in reporting the full extent of the damage and her failure to maintain the unit.\n\nOn April 18, 2023, I filed a motion for eviction citing non-compliance with lease terms. The tenant is in breach of the lease by failing to maintain the property and by failing to disclose damages in a timely manner as per the lease clauses. We are not interested in a \"health crisis\" narrative; we are interested in a tenant who follows the rules.\n\n=== DOCUMENT 4: Medical and Environmental Assessment Reports ===\n\n**Report A: Medical Assessment**\n**Physician:** Dr. Aris Thorne\n**Patient:** Elena Vane\n**Date:** April 10, 2023\n**Insurance Policy:** HX-9921\n\n**Clinical Findings:**\nPatient presents with chronic cough, conjunctivitis, and respiratory irritation. Patient reports living in Unit 4B, 44 Cobalt Street, since January 2023. Patient reports significant exposure to mold spores following a water leak incident in March 2023.\n\n**Diagnosis:**\nAllergic rhinitis and asthma exacerbation secondary to environmental exposure.\n\n**Opinion:**\nBased on the clinical presentation and the environmental history provided by the patient, the mold in Unit 4B is toxic and poses a significant health risk to the tenant. The concentration of spores in the dwelling exceeds safe limits for prolonged exposure. I recommend immediate remediation and relocation of the patient from the affected unit.\n\n**Signed:**\nDr. Aris Thorne, MD\n\n***\n\n**Report B: Environmental Inspection**\n**Consultant:** Dr. Ben Carter\n**Site:** 44 Cobalt Street, Unit 4B\n**Date:** April 12, 2023\n**Commissioned By:** Sterling Properties / Apex Living\n\n**Methodology:**\nAir sampling and surface swabbing conducted in the kitchen area and adjacent living space.\n\n**Findings:**\nSamples revealed the presence of *Cladosporium* and *Penicillium* species. These are common environmental molds found in indoor settings with elevated humidity.\n\n**Conclusion:**\nThe mold is non-toxic and does not pose a health risk, merely a cosmetic issue. The levels detected are within typical ranges for urban residential buildings. There is no evidence of toxic black mold (*Stachybotrys chartarum*). The issue is one of aesthetics and maintenance, not a medical emergency. Remediation is required to maintain property standards but does not warrant a health-based eviction defense or urgent medical intervention.\n\n**Signed:**\nDr. Ben Carter, Ph.D., Environmental Consultant\n\n=== DOCUMENT 5: Witness Statement of Sarah Jenkins ===\n\n**Case File: Mold Contamination and Eviction Dispute at 44 Cobalt Street**\n**Witness:** Sarah Jenkins\n**Role:** Regional Organizer, Downtown Tenants' Alliance\n**Date of Statement:** April 22, 2023\n\nI am Sarah Jenkins, the regional organizer for the Downtown Tenants' Alliance. I met with Elena Vane on March 20, 2023, at her request. Ms. Vane is a tenant in Unit 4B at 44 Cobalt Street. She expressed concern about the condition of her apartment following a plumbing incident.\n\nI provided legal aid to Elena Vane on March 22, 2023, assisting her in documenting the conditions of her unit and preparing a claim for damages. The building is located in the downtown district, and we have seen similar issues with aging infrastructure in other Sterling Properties managed buildings.\n\nMs. Vane\u2019s account is consistent with the patterns we see in these cases. The landlord, through their management company Apex Living, has a standard operating procedure that requires tenant notification within 24 hours of damage discovery. However, the tenant\u2019s experience suggests that while the initial call was made, the response was inadequate, leading to a secondary issue: mold.\n\nThe landlord claims the tenant is responsible for the cleanup. This is a standard tactic to shift liability. The landlord is solely responsible for the cleanup and remediation of the mold. The plumbing infrastructure is the landlord\u2019s responsibility. The tenant is a photographer, not a plumber. She cannot be expected to repair burst pipes.\n\nThe dispute was heard in the Downtown Civil Court on May 1, 2023. I was present to support the tenant. The landlord\u2019s attorney, Marcus Thorne, argued that the tenant was negligent. I believe this is false. The tenant reported the issue when it happened. The delay in proper repair is on the landlord.\n\nThe cost of the repairs, which the landlord claims is $3,500, is a result of their failure to address the problem promptly. We are fighting for the tenant\u2019s right to a safe and habitable home. The mold is not just a cosmetic issue, as the landlord\u2019s consultant claims. It is a health hazard. We have the medical reports to prove it.\n\nI am here to ensure that the legal process is fair and that the tenant\u2019s rights are protected. The landlord\u2019s motion for eviction is unjustified. The tenant has paid her rent of $2,450 every month. She has done nothing wrong. The landlord is trying to evict her because she is demanding repairs that they are legally obligated to provide.",
+ "n_words": 1951,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On March 12, 2023, at 2:15 PM, a burst pipe under the sink in Unit 4B was reported to the building management office.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The tenant, Elena Vane, is a freelance photographer who moved into Unit 4B on January 15, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "A tenants' union representative, Sarah Jenkins, met with Elena Vane on March 20, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Elena Vane's monthly rent for Unit 4B is $2,450.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The lease agreement for Unit 4B was signed on January 10, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Sterling Properties issued a formal notice to cure on April 5, 2023, regarding building condition violations.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The building is located at 44 Cobalt Street in the downtown district.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Elena Vane submitted a claim for $1,200 in damages to the tenants' union on March 25, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Marcus Thorne filed a motion for eviction on April 18, 2023, citing non-compliance with lease terms.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Sarah Jenkins is the regional organizer for the Downtown Tenants' Alliance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The pipe burst occurred in the kitchen of Unit 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Sterling Properties claims the repair invoice from the plumbing contractor was $3,500.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elena Vane's health insurance policy number is HX-9921.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The tenants' union provided legal aid to Elena Vane on March 22, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The landlord's property management company is called Apex Living.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elena Vane's work portfolio includes photos taken in Unit 4B on February 1, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Apex Living's standard operating procedure requires tenant notification within 24 hours of damage discovery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The dispute was heard in the Downtown Civil Court on May 1, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Medical Expert stated that The mold in Unit 4B is toxic and poses a significant health risk to the tenant.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Dr. Ben Carter, Environmental Consultant stated that The mold is non-toxic and does not pose a health risk, merely a cosmetic issue.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Vane, Tenant stated that The pipe burst due to age and poor maintenance by the landlord.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Landlord Counsel stated that The pipe burst due to the tenant's negligence in maintaining the sink area.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Tenants' Union Organizer stated that The landlord is solely responsible for the cleanup and remediation of the mold.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne, Landlord Counsel stated that The tenant is partially responsible for the cleanup due to delayed disclosure.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 24,
+ "settled": [
+  "C1"
+ ]
+}

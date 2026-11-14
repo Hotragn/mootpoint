@@ -1,0 +1,184 @@
+{
+ "dossier_id": "workplace-25",
+ "split": "test",
+ "domain": "workplace",
+ "title": "In re: Vane v. Corex Industrial & Harbor Mutual",
+ "premise": "After a gas leak ignited in a confined space within a sewage treatment facility, the contractor\u2019s confined space entry permit was found to be improperly signed, leading to legal battles over whether the permit-issuing authority or the subcontractor\u2019s crew bore the blame for the fatal atmosphere exposure.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Confined Space Entry Permit & Incident Log ===\n\n**CASE NO:** 2023-CSE-0892\n**FACILITY:** Ridgeway Sewage Treatment Facility\n**DATE:** October 14, 2023\n**LOCATION:** Tank 4B\n\n**I. PERMIT DETAILS**\n\n**Permit Issuance Time:** 08:00 AM\n**Permit Expiration Time:** 12:00 PM\n**Authorized Entry Window:** 09:15 AM \u2013 11:45 AM\n**Issuing Authority:** David Ross, Safety Manager\n**Designated Safety Officer:** Sarah Jenkins\n\n**II. ATMOSPHERIC VERIFICATION**\n\n*Field: Atmospheric Test Results (O2, LEL, H2S)*\n*Status:* PASSED (Values within acceptable limits)\n*Signature:* S. Jenkins\n*Date/Time Signed:* 07:55 AM\n\n**III. ENTRY LOG**\n\n**09:15 AM:** Subcontractor crew (Apex Contracting) enters Tank 4B.\n*   Personnel Inside: Elias Vane, Marcus Thorne, [Third Worker - Redacted for Privacy]\n*   Entry Point: Manhole Cover A\n*   Ventilation Status: System 4B-Vent Active.\n\n**09:22 AM:** **INCIDENT REPORTED.**\n*   Alarm Triggered: Gas Ignition Sensor.\n*   Response: Emergency Evacuation Protocol Initiated.\n*   Injuries: One worker (Elias Vane) sustained severe thermal injuries. Two workers (Marcus Thorne, Third Worker) escaped without injury.\n\n**IV. EQUIPMENT CHECKLIST**\n\n*   Ventilation System 4B-Vent: Operational.\n*   Gas Detectors: Operational.\n*   Rescue Trip: Deployed.\n*   Personal Protective Equipment (PPE):\n    *   Hard Hats: Yes\n    *   Safety Boots: Yes\n    *   Full-Face Respirators: **Not Recorded on Checklist**\n\n=== DOCUMENT 2: Medical Report & Injury Assessment ===\n\n**PATIENT:** Elias Vane\n**DATE OF BIRTH:** 04/12/1988\n**DATE OF INCIDENT:** October 14, 2023\n**TREATING FACILITY:** St. Jude Regional Burn Center\n**ATTENDING PHYSICIAN:** Dr. Aris Thorne, MD, FACS\n\n**I. HISTORY OF PRESENT ILLNESS**\n\nPatient was transported via EMS at 09:28 AM following a reported gas ignition event at the Ridgeway Sewage Treatment Facility, Tank 4B. Patient is an employee of Apex Contracting, a subcontractor engaged for maintenance work in the facility. Patient reports 5 years of prior experience in confined space operations.\n\nUpon arrival at the Emergency Department, patient was in severe distress, exhibiting signs of acute airway compromise and extensive thermal injury.\n\n**II. PHYSICAL EXAMINATION & INJURY ASSESSMENT**\n\n**Total Body Surface Area (TBSA) Affected:** 45%\n**Burn Depth:** Predominantly Third-Degree (Full Thickness).\n**Distribution:**\n*   Face and Neck: 15% (Severe airway edema noted)\n*   Upper Extremities: 20%\n*   Torso: 10%\n\n**Specific Observations:**\n*   Facial injuries consistent with direct flame contact or flash fire exposure.\n*   No evidence of inhalation injury beyond thermal damage to the upper airway.\n*   Patient was not wearing a full-face respirator at the time of the incident, as evidenced by soot deposits on the face and neck and the absence of mask-related pressure marks.\n\n**III. TREATMENT PLAN**\n\n*   Aggressive fluid resuscitation per Parkland Formula.\n*   Surgical debridement and grafting scheduled for 48 hours post-admission.\n*   Airway management via intubation.\n\n**IV. PROGNOSIS**\n\nPatient is stable but critical. Long-term rehabilitation required. The severity of the third-degree burns covering 45% of the body indicates a high risk for systemic complications, including sepsis and renal failure.\n\n**V. ADDITIONAL NOTES**\n\nPatient reported that he was inside Tank 4B with two other crew members when the ignition occurred. He stated that he did not have a respirator on his face at the time of the event.\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF: SARAH JENKINS, DESIGNATED SAFETY OFFICER**\n**DATE:** October 15, 2023\n\nI am the designated safety officer for the Ridgeway Sewage Treatment Facility. I am stating the facts regarding the incident in Tank 4B on October 14, 2023.\n\nI want to be absolutely clear: **I never performed the atmospheric test for Tank 4B.** I was in the break room at 07:55 AM, reviewing equipment logs. I did not go to Tank 4B. I did not take any readings. I did not sign any permit.\n\nWhen I saw the incident report, I was shocked. The permit has a signature in the \"Atmospheric Verification\" field that looks like mine, but it is a forgery. I did not sign it. The permit was forged by someone who knew my name and used my title to authorize entry. This is a criminal act. I did not clear that tank for entry. I did not verify the air. I was not present. The permit was forged.\n\nI have no record of testing Tank 4B that morning. My personal log shows I was in the break room until 09:00 AM. I did not perform the test. The permit was forged.\n\n**STATEMENT OF: DAVID ROSS, SAFETY MANAGER**\n**DATE:** October 15, 2023\n\nI am the Safety Manager at Ridgeway Sewage Treatment Facility. I am providing this statement regarding the permit issued for Tank 4B on October 14, 2023.\n\nI issued the permit for Tank 4B. However, I was off-site at the main office, approximately 2 miles away, when the permit was physically signed and issued. I did not sign the permit myself. I was in a meeting with the regional director.\n\nSarah Jenkins, our designated safety officer, performed the atmospheric test and signed the permit on my behalf. This is standard protocol. When the Safety Manager is off-site, the Designated Safety Officer is authorized to perform the verification and sign the permit. Sarah Jenkins performed the test and signed the permit. She is the one who verified the atmosphere.\n\nI did not sign the permit. I was not present at the Tank 4B entrance. I was at the main office. The permit was signed by Sarah Jenkins, as per standard protocol. I am confident that the atmospheric test was performed correctly by Sarah Jenkins.\n\n**STATEMENT OF: MARCUS THORNE, CREW LEADER, APEX CONTRACTING**\n**DATE:** October 16, 2023\n\nI am Marcus Thorne, the crew leader for Apex Contracting. I was inside Tank 4B with Elias Vane and another worker when the gas ignited.\n\nI relied on the permit for entry authorization. We saw the permit signed and valid. I did not re-verify the atmosphere before entry because the permit said it was safe. I trusted the permit. I am not certified in confined space rescue, so I did not feel qualified to override the permit\u2019s authorization.\n\nRegarding the respirator: Elias Vane refused to wear the respirator provided to him. I told him he needed to wear it. He said he didn\u2019t need it. I tried to stop him, but he went in without it. I was worried, but I couldn\u2019t force him.\n\nRegarding the ventilation: The ventilation system was running. We could hear it. It was loud. I don\u2019t understand why Elias says it was off. It was running at full capacity. I heard the hum of the fans. It was definitely on.\n\nI was present at the Tank 4B entrance when David Ross signed the permit. I saw him do it. He was there, in his safety vest, signing the paper. He wasn\u2019t at the main office. He was right there with us.\n\n**STATEMENT OF: ELIAS VANE, INJURED WORKER**\n**DATE:** October 18, 2023\n\nMy name is Elias Vane. I was working in Tank 4B on October 14, 2023. I have 5 years of experience in confined space work.\n\nI did not wear a respirator because the crew leader, Marcus Thorne, told me it was not necessary. He said the air was fine and we didn\u2019t need to wear them. I trusted him. I didn\u2019t want to look stupid. He said, \"You don't need it, it's safe.\" So I didn\u2019t wear it.\n\nThe ventilation system was off when we entered. We noticed the noise was absent. There was no hum. No sound. It was silent. I thought that was strange, but I didn\u2019t say anything because I was waiting for Marcus to give the order. The ventilation was definitely off. I could tell because it was quiet.\n\nI was inside with Marcus and one other guy. Then the gas ignited. It was a flash fire. I got burned. It was terrible. I didn\u2019t see anything coming. It was instant.\n\nI am sure the ventilation was off. It was silent. I am sure Marcus told me I didn\u2019t need the respirator. He was the one who said it.\n\n=== DOCUMENT 4: Insurance Correspondence & Financial Records ===\n\n**EMAIL FROM: HARBOR MUTUAL INSURANCE CLAIMS DEPT**\n**TO:** LEGAL DEPT, COREX INDUSTRIAL\n**DATE:** October 20, 2023\n**SUBJECT:** RE: Claim Denial - Vane v. Corex Industrial & Harbor Mutual\n\nTo: Legal Team\n\nPlease find attached the formal denial letter for the claim filed by Elias Vane (Claim #88920) regarding the incident at the Ridgeway Sewage Treatment Facility on October 14, 2023.\n\nThe claim is denied based on the following grounds:\n\n1.  **Negligence of Subcontractor:** The injured worker, Elias Vane, was employed by Apex Contracting. Apex Contracting is responsible for the safety of its employees. The failure to ensure proper PPE (respirator) usage and the failure to re-verify atmospheric conditions prior to entry are failures of the subcontractor\u2019s duty of care.\n2.  **Proximate Cause:** The gas ignition was caused by a failure in atmospheric verification. The permit was signed, but the validity of that signature is contested. If the permit was forged or improperly issued, the liability lies with the party who authorized the entry without proper verification, which is the subcontractor\u2019s crew leader, Marcus Thorne, who admitted to relying on the permit without re-verification.\n3.  **Contributory Negligence:** The injured worker, Elias Vane, admits to not wearing a full-face respirator. This failure to use provided safety equipment contributed directly to the severity of his injuries.\n\nWe recommend denying the claim in full. The subcontractor, Apex Contracting, was paid $12,000 for the specific job in Tank 4B. This payment is the sole compensation for their services. They are responsible for their own employees\u2019 safety.\n\nRegards,\nClaims Manager\nHarbor Mutual\n\n**RECEIPT: APEX CONTRACTING**\n**DATE:** October 10, 2023\n**VENDOR:** Apex Contracting LLC\n**AMOUNT PAID:** $12,000.00\n**DESCRIPTION:** Confined Space Maintenance - Tank 4B, Ridgeway Sewage Treatment Facility.\n**AUTHORIZED BY:** David Ross, Safety Manager\n**PAYMENT METHOD:** Check #4421",
+ "n_words": 1593,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 14, 2023, at the Ridgeway Sewage Treatment Facility, specifically in Tank 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The confined space entry permit for Tank 4B was issued at 08:00 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The subcontractor\u2019s crew entered Tank 4B at 09:15 AM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "A gas ignition event occurred at 09:22 AM.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The injured worker, Elias Vane, was one of three workers inside Tank 4B at the time of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Elias Vane sustained third-degree burns covering 45% of his body.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The permit document was found with a signature in the 'Atmospheric Verification' field that was not from the designated safety officer.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The designated safety officer, Sarah Jenkins, stated she did not perform the atmospheric test.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The subcontractor\u2019s crew leader, Marcus Thorne, stated he relied on the permit for entry authorization.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The subcontractor\u2019s crew leader, Marcus Thorne, admitted he did not re-verify the atmosphere before entry.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The employer\u2019s insurer, Harbor Mutual, denied the initial claim on October 20, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The injured worker, Elias Vane, was employed by the subcontractor, Apex Contracting.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "Apex Contracting was paid $12,000 for the specific job in Tank 4B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The facility\u2019s safety manager, David Ross, issued the permit.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "David Ross stated he was off-site at the time of the permit issuance.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The injured worker, Elias Vane, had 5 years of experience in confined space work.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The injured worker, Elias Vane, did not wear a full-face respirator during the entry.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The subcontractor\u2019s crew leader, Marcus Thorne, was not certified in confined space rescue.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The permit was signed by a person identified as 'S. Jenkins' in the signature column.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Jenkins (Safety Officer) stated that I never performed the atmospheric test for Tank 4B; the permit was forged.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "David Ross (Safety Manager) stated that Sarah Jenkins performed the test and signed the permit on my behalf as per standard protocol.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "David Ross (Safety Manager) stated that I was at the main office, 2 miles away, when the permit was issued; I did not sign it.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Thorne (Crew Leader) stated that David Ross was present at the Tank 4B entrance and signed the permit directly.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elias Vane (Injured Worker) stated that I did not wear a respirator because the crew leader told me it was not necessary.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne (Crew Leader) stated that Elias Vane refused to wear the respirator provided to him.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elias Vane (Injured Worker) stated that The ventilation system was off when we entered; we noticed the noise was absent.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "David Ross (Safety Manager) stated that The ventilation system was running continuously and audibly at 100% capacity.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

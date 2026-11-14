@@ -1,0 +1,184 @@
+{
+ "dossier_id": "tenancy-29",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Hendricks v. Okafor Studio Dispute",
+ "premise": "A nurse in a small studio apartment claims the landlord replaced her working window with a broken one to prevent heat loss, while the owner insists the tenant's unauthorized pet caused the damage and the unit is now unfit for human habitation.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement Excerpt and Rent Ledger ===\n\n**LEASE AGREEMENT**\n**Landlord:** Marcus Okafor\n**Tenant:** Elena Hendricks\n**Unit:** 4B, 1420 Oak Avenue\n**Effective Date:** June 1, 2023\n\n**SECTION 4: USE OF PREMISES AND PROHIBITED ITEMS**\n4.1 The Tenant shall use the Premises solely as a residential dwelling for the Tenant and any authorized guests.\n4.2 The Tenant expressly agrees that no pets, including but not limited to dogs, cats, birds, or other animals, are permitted within the Premises or on any common areas associated with the Tenant\u2019s unit. Violation of this clause constitutes a material breach of this Lease.\n4.3 The Premises consists of a studio apartment measuring 220 square feet. The unit contains a single operable window located on the north-facing wall. There are no other operable windows within the unit.\n\n**RENT LEDGER \u2013 UNIT 4B**\n**Tenant:** Elena Hendricks\n**Period:** January 1, 2024 \u2013 March 31, 2024\n\n| Date | Description | Amount | Status |\n| :--- | :--- | :--- | :--- |\n| Jan 1, 2024 | Rent for January 2024 | $1,450.00 | Paid in Full |\n| Feb 1, 2024 | Rent for February 2024 | $1,450.00 | Paid in Full |\n| Mar 1, 2024 | Rent for March 2024 | $1,450.00 | Paid in Full |\n| **Total** | | **$4,350.00** | **Current** |\n\n*Note: Tenant has maintained employment as a nurse at St. Jude\u2019s Hospital since January 2022, providing consistent income verification for rent payments.*\n\n=== DOCUMENT 2: Incident Log and Maintenance Records ===\n\n**BUILDING MAINTENANCE LOG \u2013 UNIT 4B**\n\n**Entry Date:** March 12, 2024\n**Time:** 08:15 AM\n**Technician:** J. Miller\n**Description:** Standard double-hung window in Unit 4B removed from frame for replacement. Original window glass found shattered. Frame integrity compromised.\n\n**Entry Date:** March 13, 2024\n**Time:** 10:30 AM\n**Recipient:** M. Okafor (Landlord)\n**Source:** E. Hendricks (Tenant)\n**Description:** Written request for window repair received. Tenant states window is broken and causing drafts.\n\n**Entry Date:** March 14, 2024\n**Time:** 09:00 AM \u2013 01:00 PM\n**Vendor:** GlassPro Inc.\n**Description:** Installation of replacement double-hung window. Installation time logged at 4 hours.\n**Vendor Invoice Attached:**\n*   Item: Replacement Double-Hung Window (Standard)\n*   Labor: Installation\n*   Total Amount: $3,200.00\n*   Date Issued: March 15, 2024\n\n**Entry Date:** March 20, 2024\n**Time:** 02:00 AM\n**Sensor:** Smart Thermostat Unit 4B\n**Reading:** Indoor temperature recorded at 54 degrees Fahrenheit.\n\n**Entry Date:** February 28, 2024\n**Technician:** R. Vance, Certified HVAC Technician\n**Description:** Routine servicing of heating system in Unit 4B.\n**Findings:** Boiler pressure normal. Radiator valves functional. System tested and found fully operational. No leaks detected.\n\n=== DOCUMENT 3: Witness Statement of Marcus Okafor ===\n\n**STATEMENT OF MARCUS OKAFOR**\n**Date:** April 12, 2024\n**Re:** Hendricks v. Okafor Studio Dispute\n\nI am the landlord of Unit 4B and the owner of three other rental units in this complex. I am providing this statement to clarify the sequence of events leading to the eviction of tenant Elena Hendricks.\n\nMs. Hendricks moved into Unit 4B on June 15, 2023. Our lease agreement, signed on June 1, 2023, explicitly prohibits keeping any pets in the unit. Despite this clear contractual obligation, Ms. Hendricks has been in violation of the lease by keeping an unauthorized dog.\n\nThe window damage in question was caused by this unauthorized animal. On the night of March 11, 2024, I was informed that a scuffle occurred in Unit 4B. The tenant\u2019s dog, which she kept in violation of the lease, clawed at the window during this scuffle, causing the glass to shatter. I saw the damage the next morning. The window frame around the installation site shows visible scratches consistent with a sharp claw mark, which I believe is direct evidence of the animal\u2019s involvement.\n\nMs. Hendricks claims the window was already broken when she moved in and that I replaced it with a defective unit to justify eviction. This is false. The window was removed on March 12, 2024, and a new one was installed on March 14, 2024. I submitted a $3,200 repair invoice for the window replacement on March 15, 2024, to cover the costs of the damage caused by her pet.\n\nRegarding the timing of the repair request, Ms. Hendricks claims she notified me immediately upon installation on March 14. I did not receive any complaint about the window until the eviction notice was issued in April. I am unaware of any prior notification regarding the condition of the new window.\n\nThe heating issues are a direct result of the air infiltration through the broken window. The cold conditions are not due to a faulty radiator, but due to the breach in the envelope of the building caused by the window damage. I issued a 30-day notice to vacate to Elena Hendricks on April 1, 2024, due to the material breach of the no-pet clause and the resulting property damage. The eviction filing was submitted to the County Court on April 10, 2024.\n\nI stand by my assertion that the damage was caused by the tenant\u2019s unauthorized dog.\n\n**Signed,**\nMarcus Okafor\n\n=== DOCUMENT 4: Witness Statement of Elena Hendricks ===\n\n**STATEMENT OF ELENA HENDRICKS**\n**Date:** April 12, 2024\n**Re:** Hendricks v. Okafor Studio Dispute\n\nI am the tenant of Unit 4B. I have been employed as a nurse at St. Jude\u2019s Hospital since January 2022 and have always paid my rent in full. I paid the full rent of $1,450 for the months of January through March 2024. I have no interest in violating my lease or causing damage to the property.\n\nMr. Okafor\u2019s claim that my \"unauthorized dog\" caused the window damage is completely fabricated. I have never kept a dog in the unit. The neighbor\u2019s affidavit regarding a dog on the balcony is mistaken; I believe the neighbor was mistaken about the unit number. The dog seen was likely Mr. Okafor\u2019s, or perhaps a stray, but it was certainly not mine.\n\nThe window was already broken when I moved in, and the landlord replaced it with a defective unit to justify eviction. When the replacement window was installed on March 14, 2024, I immediately noticed a crack spanning 14 inches across the lower sash. The crack is located in the center of the glass pane, not at the edges, which suggests a manufacturing defect or poor installation rather than impact damage. I submitted a written request for window repair to the landlord on March 13, 2024, regarding the original window, and I notified him of the cracked new window immediately upon its installation on March 14.\n\nMr. Okafor claims he did not receive any complaint until April. This is untrue. I have documentation of my immediate notification. The \"scratches\" he mentions on the frame are likely from the removal of the original window, not from any animal.\n\nThe heating in my apartment is a serious safety issue. The studio apartment measures 220 square feet and contains no other operable windows. With the window cracked and the frame compromised, the indoor temperature in Unit 4B was recorded at 54 degrees Fahrenheit at 2:00 AM on March 20, 2024. This is unacceptable and hazardous, especially given that the heating system was serviced and found functional by a certified HVAC technician on February 28, 2024. The cold is due to the defective window, not a broken radiator.\n\nMr. Okafor\u2019s 30-day notice to vacate, issued on April 1, 2024, and the subsequent eviction filing on April 10, 2024, are retaliatory actions taken because I refused to pay for damage I did not cause and demanded a proper repair of the defective window. I demand that the court rule in my favor and find that the window was defective and that the eviction is unlawful.\n\n**Signed,**\nElena Hendricks\n\n=== DOCUMENT 5: Witness Statement of Dr. Aris Thorne and Samuel Grist ===\n\n**STATEMENT OF DR. ARIS THORNE, BUILDING ENGINEER**\n**Date:** April 15, 2024\n\nI was requested to evaluate the heating system in Unit 4B. My assessment is that the radiator in Unit 4B is functioning within normal parameters. The heating system was serviced on February 28, 2024, and found to be fully functional. The low temperatures recorded in the unit, such as the 54 degrees Fahrenheit reading on March 20, 2024, are due to air infiltration through the broken window. The envelope of the building is compromised, allowing cold air to enter and warm air to escape. The heating system is not at fault.\n\n**Signed,**\nDr. Aris Thorne, P.E.\n\n**STATEMENT OF SAMUEL GRIST, PROPERTY MANAGER**\n**Date:** April 15, 2024\n\nI manage the daily operations of the building complex. I am in direct disagreement with Dr. Thorne\u2019s assessment. The radiator in Unit 4B is broken and leaking steam, which is why the unit is cold and unfit for habitation. The leak has been visible for several days prior to the window incident. The air infiltration theory is a cover-up for the fact that the mechanical systems in this unit are failing. The tenant\u2019s complaint about the temperature is valid because the heating source itself is defective.\n\n**Signed,**\nSamuel Grist\n\n=== DOCUMENT 6: Notarized Affidavit and Insurance Record ===\n\n**AFFIDAVIT OF NEIGHBOR**\n**Unit 4A**\n**Date:** July 5, 2023\n\nI, [Name Redacted for Privacy], resident of Unit 4A, do hereby state under penalty of perjury that on July 4, 2023, I observed a dog on the balcony of Unit 4B. The dog appeared to be a medium-sized breed. I am certain this was the balcony belonging to Unit 4B.\n\n**Signed and Notarized**\n[Name Redacted]\nWitness: J. Doe, Notary Public\n\n**INSURANCE POLICY EXCERPT**\n**Policy Holder:** Marcus Okafor\n**Property:** 1420 Oak Avenue\n**Effective Date:** January 1, 2024\n\n**SECTION 7: EXCLUSIONS**\n7.1 The insurer does not cover any loss or damage caused by or resulting from:\n(a) Acts of war or nuclear reaction;\n(b) **Damage caused by unauthorized animals.**\n\n*Note: The building's insurance policy excludes coverage for damage caused by unauthorized animals. Any claim for damage attributed to pets in violation of the lease terms will be denied.*",
+ "n_words": 1653,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On March 12, 2024, a standard double-hung window in Unit 4B was removed from its frame.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The replacement window installed on March 14, 2024, has a crack spanning 14 inches across the lower sash.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Tenant Elena Hendricks paid the full rent of $1,450 for the months of January through March 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The lease agreement signed on June 1, 2023, explicitly prohibits keeping any pets in the unit.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The indoor temperature in Unit 4B was recorded at 54 degrees Fahrenheit at 2:00 AM on March 20, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Landlord Marcus Okafor submitted a $3,200 repair invoice for the window replacement on March 15, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The studio apartment measures 220 square feet and contains no other operable windows.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "A notarized affidavit from a neighbor in Unit 4A states they saw a dog on the balcony of Unit 4B on July 4, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The heating system in Unit 4B was serviced and found functional by a certified HVAC technician on February 28, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Marcus Okafor issued a 30-day notice to vacate to Elena Hendricks on April 1, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The window frame around the installation site shows visible scratches consistent with a sharp claw mark.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Elena Hendricks submitted a written request for window repair to the landlord on March 13, 2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The building's insurance policy excludes coverage for damage caused by unauthorized animals.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The crack in the new window is located in the center of the glass pane, not at the edges.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Elena Hendricks has been employed as a nurse at St. Jude\u2019s Hospital since January 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Marcus Okafor owns three other rental units in the same building complex.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The window vendor invoice lists the installation time as 4 hours, completed between 9:00 AM and 1:00 PM.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Elena Hendricks moved into Unit 4B on June 15, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The eviction filing was submitted to the County Court on April 10, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Hendricks, Tenant stated that The window was already broken when I moved in, and the landlord replaced it with a defective unit to justify eviction.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Okafor, Landlord stated that The tenant's unauthorized dog clawed the window during a scuffle, causing the glass to shatter.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Building Engineer stated that The radiator in Unit 4B is functioning within normal parameters; the cold is due to air infiltration through the broken window.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Samuel Grist, Property Manager stated that The radiator is broken and leaking steam, which is why the unit is cold and unfit for habitation.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Hendricks, Tenant stated that I notified the landlord of the broken window immediately upon its installation on March 14.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Okafor, Landlord stated that I did not receive any complaint about the window until the eviction notice was issued in April.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Hendricks, Tenant stated that I have never kept a dog in the unit; the neighbor was mistaken about the unit number.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Okafor, Landlord stated that The dog seen by the neighbor was mine, kept by the tenant in violation of the lease.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

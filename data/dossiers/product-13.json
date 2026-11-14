@@ -1,0 +1,190 @@
+{
+ "dossier_id": "product-13",
+ "split": "test",
+ "domain": "product",
+ "title": "The Sheared Fork Incident at Tour de France",
+ "premise": "A competitive cyclist in the Tour de France lost control and crashed into a barrier after the quick-release mechanism on her carbon fiber fork sheared under sudden braking force.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Telemetry Report ===\n\n**Incident ID:** TDF-2023-COL-PEYRE-014\n**Date:** July 14, 2023\n**Time:** 14:32 Local Time\n**Location:** Descent of Col de Peyre, Stage 7\n**Subject:** Elara Vance (Bib #442)\n**Weather Conditions:** Dry, 24\u00b0C, No Wind\n\n**Narrative Summary:**\nAt 14:32, cyclist Elara Vance, riding for the Apex Pro Cycling Team, experienced a mechanical failure while descending the Col de Peyre. The descent is rated as Category 1 for difficulty and technical complexity by the race organizers. Telemetry data indicates the bicycle was traveling at an estimated speed of 65 km/h at the moment of impact. The cyclist struck a concrete barrier located 12 meters from the designated safety runoff area. Emergency services were dispatched immediately.\n\n**Vehicle and Component Details:**\n*   **Bicycle Model:** Apex Pro Frame Set\n*   **Front Fork:** AeroX Carbon, manufactured by VeloTech Industries.\n*   **Component History:** The specific AeroX Carbon fork was introduced to the market in January 2022. Ms. Vance has been using this specific unit for 18 months prior to the incident.\n*   **Rider Weight:** 62 kg (per race registration data).\n\n**Telemetry Data:**\n*   **Impact Speed:** 65 km/h.\n*   **Braking Force:** The bicycle\u2019s onboard sensor data records a peak braking force of 3,200 Newtons applied by the cyclist at the time of failure.\n*   **Failure Mode:** Post-incident analysis reveals that the quick-release mechanism on the front fork sheared completely. This separation caused the front wheel to detach from the frame, resulting in the loss of control and subsequent collision with the concrete barrier.\n\n**Physical Inspection of Component:**\nThe detached AeroX Carbon fork was recovered from the scene. Examination of the quick-release mechanism reveals that it has sheared completely. The surface finish of the quick-release mechanism differs slightly from the factory standard gloss, showing minor abrasion marks. The component was secured in evidence bag #402-A.\n\n**Regulatory Note:**\nA review of the consumer safety authority database indicates that no other reports of quick-release shearing on AeroX Carbon forks have been filed in the 12 months preceding July 14, 2023.\n\n***\n\n=== DOCUMENT 2: Emergency Medical Report ===\n\n**Hospital:** Hospital Saint-Cloud\n**Patient:** Elara Vance\n**Date of Admission:** July 14, 2023\n**Attending Physician:** Dr. L. Moreau\n\n**Diagnosis:**\n1.  Fracture of the left tibia (compound, non-displaced).\n2.  Concussion (Grade 1).\n\n**Clinical Narrative:**\nPatient arrived via emergency transport at 14:45, 13 minutes post-impact. Upon triage, patient was conscious but disoriented. Neurological examination confirmed a concussion. Orthopedic assessment identified a fracture of the left tibia resulting from direct impact with the concrete barrier. The patient was stabilized, sedated, and taken to surgery for internal fixation of the tibia.\n\n**Treatment Plan:**\n*   Surgical fixation of left tibia.\n*   Rest and rehabilitation protocol for concussion.\n*   Expected return to full activity: 6-8 weeks.\n\n**Note:** The mechanism of injury is consistent with high-velocity impact and subsequent fall. No other injuries were noted.\n\n***\n\n=== DOCUMENT 3: Email Correspondence and Manufacturer Statement ===\n\n**From:** press@velotechindustries.com\n**To:** media@apexproteam.com; legal@velotechindustries.com\n**Date:** July 15, 2023\n**Subject:** Official Statement Regarding AeroX Carbon Fork Incident\n\n**Body:**\n\nTo the Press and Relevant Parties,\n\nVeloTech Industries is aware of the incident involving cyclist Elara Vance on July 14, 2023. We are in contact with the Apex Pro Cycling Team to provide full support.\n\nFollowing an initial review of our Quality Control logs for Q2 2023, we can confirm that the AeroX Carbon fork model passed all standard drop tests with a 2,000 Newton force during production. Our technical specification sheet states that the AeroX Carbon fork has a maximum load capacity of 4,500 Newtons.\n\nVeloTech Industries issued a public statement on July 15, 2023, stating that the component was installed correctly and within specification. We believe the failure was an isolated event. As a gesture of goodwill and commitment to our partners, VeloTech Industries provided a replacement fork and a full refund to the cyclist's team within 48 hours of the incident.\n\nWe remain available for further technical inquiries.\n\nRegards,\nMarcus Weber\nQuality Control Director, VeloTech Industries\n\n***\n\n**From:** j.thorne@apexproteam.com\n**To:** e.vance@apexproteam.com; legal@apexproteam.com\n**Date:** July 14, 2023\n**Subject:** Pre-Race Check Confirmation\n\n**Body:**\n\nElara,\n\nJust confirming the final check before the start. I inspected your bike this morning. I performed a full check on the front end. The torque on the quick-release was measured at 12 Nm, which is within the manufacturer's recommended range of 10-15 Nm. Everything looks good. You have my permission to race.\n\nBest,\nJulian\n\n***\n\n=== DOCUMENT 4: Witness Statements ===\n\n**Statement of Julian Thorne, Team Mechanic for Elara Vance**\n*Date: July 16, 2023*\n\nI have been the lead mechanic for Elara Vance for three years. I want to be clear about the maintenance history of this bike. Elara Vance stated that she had performed full maintenance on the bicycle, including tightening all quick-release levers, on the morning of July 14, 2023. I was present during this process. We checked every bolt. I used a calibrated torque wrench. The reading was 12 Nm. This is exactly what the spec sheet calls for. It is not \"loose\" or \"tight.\" It is correct.\n\nThe idea that the component failed because of how it was installed is nonsense. We followed the manual to the letter. The abrasion marks on the quick-release? That\u2019s normal. Elara has been using this specific fork for 18 months. In that time, she has ridden thousands of kilometers in competitive conditions. You expect wear. You expect the surface to change from the factory gloss. It doesn\u2019t mean we didn\u2019t lubricate it. It means it\u2019s a working part, not a museum piece.\n\nI stand by my work. The torque was correct. The installation was perfect. The failure was not because of us.\n\n**Statement of Sarah Jenkins, Independent Bicycle Engineer**\n*Date: July 16, 2023*\n\nI was contracted to review the failed AeroX Carbon fork. My findings are concerning. When I look at the quick-release lever, I see micro-scratches. These are not random wear patterns. Micro-scratches on the quick-release lever indicate that the torque was applied unevenly, suggesting a potential installation error by the rider's team.\n\nIf the torque had been applied evenly, as the mechanic claims, we would not see this asymmetrical stress marking. It suggests that the lever was tightened while the wheel was not fully seated, or that the mechanic used a technique that introduced lateral stress. This is a basic error, but it is a serious one. It changes the load distribution on the shear point. I believe the team\u2019s maintenance protocol failed here. The component did not fail in a vacuum; it failed because it was subjected to improper stress from the moment of installation.\n\n**Statement of Dr. Aris Thorne, Materials Science Expert**\n*Date: July 17, 2023*\n\nI analyzed the fracture surface of the sheared quick-release mechanism. The fracture pattern is definitive. It shows signs of metal fatigue. This is not a clean, sudden break caused by a single overload. The fracture pattern shows signs of metal fatigue, indicating that the component had been subjected to repeated stress cycles beyond its design life before the incident.\n\nWhen a metal part fails due to fatigue, it means it has been cycled too many times. The material has weakened internally. The final break at 3,200 Newtons was simply the straw that broke the camel's back. The component was already compromised. This suggests a design flaw or a material defect that allows for premature fatigue under standard cycling loads. It is not an installation issue; it is a material lifecycle issue. The part was tired.\n\n**Statement of Marcus Weber, Quality Control Director at VeloTech Industries**\n*Date: July 17, 2023*\n\nI reject the fatigue hypothesis entirely. I have reviewed the usage data for this specific serial number. The component had been used for 18 months, which is well within the expected lifespan for a pro-level carbon component. The fracture pattern is consistent with a single, catastrophic overload event, and the component had not exceeded its fatigue limit based on the usage hours.\n\nIf it were fatigue, we would see long, slow crack propagation. We do not. We see a sudden shear. The component was healthy. It was strong. It did its job until it was pushed past its limit in a single moment. The fact that the rider was braking hard at high speed on a Category 1 descent means the forces were extreme. But the component held until the very end. This is a failure of usage, not of the part itself.\n\n**Statement of Elara Vance, Competitive Cyclist**\n*Date: July 18, 2023*\n\nI remember the moment the front end just vanished. It wasn\u2019t a wobble. It was instant. I was braking hard, trying to control my speed on that descent. The sudden drop in speed data suggests that the braking force was significantly higher than the sensor reading, likely exceeding the component's load capacity due to a mechanical lock-up.\n\nI feel that the sensor is lying to me. I know how hard I was braking. The 3,200 Newton figure is too low. I was pushing the bike to its limit. The fork should have held. But it didn\u2019t.\n\nRegarding the abrasion marks on the quick-release: I maintain that the abrasion marks are consistent with normal wear from 18 months of competitive use and are not indicative of any lack of maintenance or improper handling. I checked the bike that morning. It was tight. It was clean. I do not accept the suggestion that I was careless. I am a professional. I take care of my equipment. The wear is just wear. It is not evidence of neglect.\n\n**Statement of Leo Vane, VeloTech Data Analyst**\n*Date: July 18, 2023*\n\nI have reviewed the raw data from the onboard sensors. The sensors are calibrated monthly. The data is reliable. The onboard sensor data is accurate and calibrated; the 3,200 Newton reading is the true peak force, which is well below the 4,500 Newton capacity limit.\n\nThere is no mechanical lock-up that would cause the sensor to under-read. The sensor measures force directly. If the force was higher, the sensor would have recorded it. The fact that it recorded 3,200 Newtons means that is the peak force the system experienced. This is well within the safe operating margin of the AeroX Carbon fork. The component should not have failed at this load level unless there was a pre-existing defect or improper installation. The data does not support the claim of a \"lock-up\" exceeding capacity. The numbers are the numbers.\n\n**Statement of Elena Ross, Consumer Safety Advocate**\n*Date: July 18, 2023*\n\nThis incident highlights a systemic risk in high-performance cycling components. The minor abrasion marks on the quick-release mechanism suggest that the component was not properly lubricated or maintained, leading to premature wear and failure.\n\nWhen we see surface finish deviations from the factory standard, we must ask why. If the rider claims they maintained it, why is the surface abraded? It suggests that the component was running dry, or that the maintenance was superficial. This is a safety hazard. If the quick-release is not lubricated properly, the friction changes, the torque reading becomes unreliable, and the component wears out faster. This is not just a failure of one part; it is a failure of the safety ecosystem. We need to know if other riders are experiencing similar wear patterns. We need to know if the \"normal wear\" argument is being used to dismiss genuine safety defects.",
+ "n_words": 1885,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On July 14, 2023, at 14:32 local time, cyclist Elara Vance crashed into a concrete barrier on the descent of the Col de Peyre.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The crash resulted in a fracture of the left tibia and a concussion, as documented in the emergency medical report from Hospital Saint-Cloud.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The bicycle used in the incident was equipped with a 'AeroX Carbon' fork manufactured by VeloTech Industries.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Post-incident analysis revealed that the quick-release mechanism on the front fork had sheared completely, separating the wheel from the frame.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "VeloTech Industries reported that the 'AeroX Carbon' fork passed all standard drop tests with a 2,000 Newton force in their Q2 2023 quality control logs.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Elara Vance stated that she had performed full maintenance on the bicycle, including tightening all quick-release levers, on the morning of July 14, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The speed of the bicycle at the moment of impact was estimated at 65 km/h by the race telemetry system.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The 'AeroX Carbon' fork has a stated maximum load capacity of 4,500 Newtons according to the manufacturer's technical specification sheet.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Elara Vance has been using the specific 'AeroX Carbon' fork for 18 months prior to the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The barrier into which the cyclist crashed was located 12 meters from the designated safety runoff area.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "VeloTech Industries issued a public statement on July 15, 2023, stating that the component was installed correctly and within specification.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The race organizers confirmed that the descent of Col de Peyre is rated as Category 1 for difficulty and technical complexity.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The quick-release mechanism was found to have a surface finish that differed slightly from the factory standard gloss, showing minor abrasion marks.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elara Vance's team mechanic, Julian Thorne, confirmed that the torque on the quick-release was measured at 12 Nm during the pre-race check, which is within the manufacturer's recommended range of 10-15 Nm.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The 'AeroX Carbon' fork was introduced to the market in January 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "No other reports of quick-release shearing on 'AeroX Carbon' forks have been filed with the consumer safety authority in the 12 months preceding July 14, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The weight of the cyclist, Elara Vance, was recorded as 62 kg in the race registration data.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The braking force applied by the cyclist was estimated at 3,200 Newtons by the bicycle's onboard sensor data.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "VeloTech Industries provided a replacement fork and a full refund to the cyclist's team within 48 hours of the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The weather conditions on July 14, 2023, were dry with temperatures of 24\u00b0C and no wind.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Jenkins, Independent Bicycle Engineer stated that Micro-scratches on the quick-release lever indicate that the torque was applied unevenly, suggesting a potential installation error by the rider's team.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Julian Thorne, Team Mechanic for Elara Vance stated that The torque wrench reading of 12 Nm confirms that the quick-release was tightened to the exact manufacturer specification, ruling out installation error.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Dr. Aris Thorne, Materials Science Expert stated that The fracture pattern shows signs of metal fatigue, indicating that the component had been subjected to repeated stress cycles beyond its design life before the incident.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Weber, Quality Control Director at VeloTech Industries stated that The fracture pattern is consistent with a single, catastrophic overload event, and the component had not exceeded its fatigue limit based on the usage hours.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elara Vance, Competitive Cyclist stated that The sudden drop in speed data suggests that the braking force was significantly higher than the sensor reading, likely exceeding the component's load capacity due to a mechanical lock-up.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "VeloTech Data Analyst, Leo Vane stated that The onboard sensor data is accurate and calibrated; the 3,200 Newton reading is the true peak force, which is well below the 4,500 Newton capacity limit.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Consumer Safety Advocate, Elena Ross stated that The minor abrasion marks on the quick-release mechanism suggest that the component was not properly lubricated or maintained, leading to premature wear and failure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Elara Vance, Competitive Cyclist stated that The abrasion marks are consistent with normal wear from 18 months of competitive use and are not indicative of any lack of maintenance or improper handling.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

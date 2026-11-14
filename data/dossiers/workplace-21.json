@@ -1,0 +1,178 @@
+{
+ "dossier_id": "workplace-21",
+ "split": "test",
+ "domain": "workplace",
+ "title": "Kovac v. Vertex Plastics Recycling",
+ "premise": "During a routine maintenance of a massive industrial shredder in a plastics recycling plant, an automated safety interlock failed to trigger when a technician entered the guarded chamber, sparking a dispute over whether the machine manufacturer or the plant\u2019s maintenance protocol was at fault.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Control Panel Data Extraction ===\n\n**VERTEX PLASTICS RECYCLING - DULUTH PLANT**\n**INCIDENT REPORT: XR-900 SHREDDER FAILURE**\n**DATE:** October 12, 2024\n**TIME:** 14:32 Local Time\n**LOCATION:** Bay 4, Line 2\n\n**1. Incident Overview**\nAt approximately 14:32, a Level 3 Maintenance Technician, Elias Thorne, sustained a laceration to his left forearm while performing maintenance on the Model XR-900 Industrial Shredder (Manufactured by Titan Dynamics Corp, installed 2019). The machine was in operation when the chamber door was opened. Emergency services were called at 14:35.\n\n**2. Equipment Specifications and Status**\n*   **Machine:** Model XR-900 Industrial Shredder.\n*   **Safety Interlock:** Magnetic reed switch located 4 inches from the chamber door hinge.\n*   **Chamber Door:** Weight 150 lbs; requires specific torque wrench for secure closure.\n*   **Control Panel Timestamp:** The last manual start command was logged at 14:31:58.\n*   **Operational Status:** At the time of the incident, the shredder\u2019s blades were spinning at full speed.\n\n**3. Maintenance History and Compliance**\n*   **Last Interlock Test:** March 15, 2024. This is 7 months prior to the incident date.\n*   **Protocol:** Vertex Plastics maintenance protocol mandates interlock testing every 6 months by a certified technician.\n*   **Manufacturer Recommendation:** Titan Dynamics user manual recommends testing the interlock mechanism every 3 months for high-usage machines.\n*   **Recent Audit:** A full safety audit of the XR-900 was conducted on September 30, 2024 (two weeks pre-incident). The audit checklist was signed off by the Plant Manager, listing the interlock as 'Operational.'\n*   **Fault Log:** The maintenance log for the XR-900 shows no recorded faults or errors between January 1, 2024, and October 12, 2024.\n\n**4. Worker Details**\n*   **Name:** Elias Thorne\n*   **Role:** Level 3 Maintenance Technician\n*   **Tenure:** 5 years prior to incident.\n*   **Training:** Completed 120 hours of safety training in 2023, including specific modules on lockout/tagout (LOTO) procedures.\n*   **PPE:** Wearing standard PPE, including safety goggles and heavy-duty gloves.\n\n**5. Injury Details**\n*   **Injury:** Laceration to left forearm.\n*   **Treatment:** Required 24 stitches.\n*   **Leave:** 3 weeks of medical leave authorized.\n*   **Proximity:** The distance from the interlock sensor to the point where the worker's arm entered the chamber was measured at 6 inches.\n\n**6. Insurance Notification**\n*   **Policy:** Vertex Plastics liability policy.\n*   **Limit:** $1,000,000 per occurrence.\n\n=== DOCUMENT 2: Witness Statement of Sarah Jenkins ===\n\n**STATEMENT OF WITNESS**\n**Name:** Sarah Jenkins\n**Title:** Shift Supervisor, Vertex Plastics\n**Date:** October 13, 2024\n\nI was present in the control room and via walkie-talkie during the maintenance window on October 12. I need to clarify the record because the narrative emerging from the plant floor is incorrect and misleading.\n\nElias Thorne is a competent technician, but he was clearly careless in his approach to the XR-900 that afternoon. He was rushing. We had a strict 15:00 deadline for the shift changeover, and he was visibly stressed about meeting it. I watched him through the bay camera as he approached the machine. He did not follow the Standard Operating Procedure 74-B. I saw him apply the lock and tag to the main breaker at 14:30, but he skipped the critical 'verify zero energy' step. He moved too quickly, treating the LOTO process like a formality rather than a life-saving protocol.\n\nWhen he opened the chamber door, the machine started. It was not an anomaly; it was a direct result of his failure to verify that the power was down. He was rushing to complete the shift before the 15:00 deadline, and that haste led him to bypass the safety verification. The machine's unexpected start was a procedural failure caused by Thorne's negligence, not a mechanical glitch. He knew the procedure; he just chose to ignore the verification step because he was in a hurry. This is not an equipment issue; it is a human error issue.\n\n=== DOCUMENT 3: Witness Statement of Elias Thorne ===\n\n**STATEMENT OF WITNESS**\n**Name:** Elias Thorne\n**Title:** Level 3 Maintenance Technician\n**Date:** October 13, 2024\n\nI have been with Vertex Plastics for five years. I am a Level 3 Maintenance Technician. I completed 120 hours of safety training in 2023, including specific modules on lockout/tagout procedures. I know SOP 74-B. I know the 5 distinct steps required for the XR-900.\n\nOn October 12, I was performing a routine maintenance task on the Model XR-900 Industrial Shredder. I was wearing my standard PPE, including safety goggles and heavy-duty gloves. I followed the procedure. I applied the lock and tag to the main breaker at 14:30. I did not skip any steps. I verified zero energy. I did exactly what SOP 74-B required.\n\nThe machine was not supposed to start. I opened the chamber door, and the shredder's blades were spinning at full speed. It was a violent and unexpected movement. I did not rush. I was careful. The fact that the blades were spinning means the machine was in a state that should have been impossible if the LOTO was done correctly. I am telling the truth. I followed the 5 steps. The machine failed.\n\n=== DOCUMENT 4: Witness Statement of Priya Nair ===\n\n**STATEMENT OF WITNESS**\n**Name:** Priya Nair\n**Title:** Control Room Operator\n**Date:** October 13, 2024\n\nI was monitoring the XR-900 from the control room at the time of the incident. The control panel timestamp shows a manual start command at 14:31:58. This is two seconds before the incident was logged at 14:32.\n\nAt 14:31, the machine was in 'Manual Override' mode. This is indicated by the amber status light visible on the control panel. In Manual Override mode, safety interlocks are bypassed. This is a known operational state for certain high-level maintenance tasks, but it requires strict supervision. The amber light was clearly visible to me. I did not see any indication that the machine was in 'Standard Safety' mode. If the interlocks were active, the door opening would not have allowed the blades to spin. The machine was in override, which explains why the safety interlock did not stop the machine when the door was opened.\n\n=== DOCUMENT 5: Witness Statement of Victor Stone ===\n\n**STATEMENT OF WITNESS**\n**Name:** Victor Stone\n**Title:** Technical Support Lead, Titan Dynamics\n**Date:** October 15, 2024\n\nI have reviewed the telemetry data and the incident report for the Model XR-900 Industrial Shredder at the Vertex Plastics facility in Duluth, Minnesota. The incident occurred on October 12, 2024, at 14:32 local time.\n\nRegarding the operational mode of the machine, the claim that it was in 'Manual Override' is incorrect. The machine was in 'Standard Safety' mode, which enforces interlocks. The amber light referenced in the witness statements was a routine maintenance indicator, not an override signal. Interlocks were active. The control panel timestamp of 14:31:58 for the last manual start command is consistent with a standard start sequence, not an override bypass.\n\nThe safety interlock on the XR-900 is a magnetic reed switch located 4 inches from the chamber door hinge. Titan Dynamics installed the interlock mechanism according to the 2019 installation manual, which specifies a 4-inch mounting distance. The system was designed to prevent the blades from spinning if the chamber door was opened while the machine was active.\n\n=== DOCUMENT 6: Witness Statement of Dr. Aris Thorne ===\n\n**STATEMENT OF WITNESS**\n**Name:** Dr. Aris Thorne\n**Title:** Forensic Engineer (Hired by Plaintiff)\n**Date:** October 16, 2024\n\nI have inspected the Model XR-900 Industrial Shredder at the Vertex Plastics facility. The safety interlock is a magnetic reed switch located 4 inches from the chamber door hinge.\n\nMy inspection reveals that the reed switch housing had accumulated 0.5 inches of plastic dust. This accumulation prevented the magnet from engaging with the switch. This debris rendered the interlock mechanically inoperable before Elias Thorne entered the chamber. The distance from the interlock sensor to the point where the worker's arm entered the chamber was 6 inches. This gap allowed the arm to enter the danger zone despite the door being open.\n\nThe failure was mechanical. The interlock did not function because it was clogged with debris. This is not a user error; it is a failure of the machine's safety system to protect the operator. The plastic dust is a byproduct of the recycling process, and the machine should have been designed to prevent such accumulation or have an effective cleaning protocol.\n\n=== DOCUMENT 7: Witness Statement of Marcus Vane ===\n\n**STATEMENT OF WITNESS**\n**Name:** Marcus Vane\n**Title:** Quality Control Manager, Titan Dynamics\n**Date:** October 16, 2024\n\nI have reviewed the forensic report and conducted a post-incident inspection of the Model XR-900 Industrial Shredder. The safety interlock is a magnetic reed switch located 4 inches from the chamber door hinge.\n\nPost-incident inspection revealed the reed switch was clean and fully functional. There was no significant debris accumulation that would prevent the magnet from engaging. The claim of 0.5 inches of plastic dust is not supported by our findings. The failure was due to external interference, not mechanical defect or debris accumulation.\n\nThe machine was operating within its design parameters. The interlock mechanism was installed according to the 2019 installation manual. The system was functional. The issue lies in how the machine was operated or maintained by the facility, not in the integrity of the interlock itself.\n\n=== DOCUMENT 8: Witness Statement of Chen Wei ===\n\n**STATEMENT OF WITNESS**\n**Name:** Chen Wei\n**Title:** Plant Maintenance Lead\n**Date:** October 13, 2024\n\nI was on the floor when the incident occurred. I saw the warning label on the chamber door of the XR-900. The label indicating 'DO NOT OPEN WHILE RUNNING' was peeling and half-removed from the door frame. It was difficult to see during the maintenance task. The label was not prominently displayed. It was in a state of disrepair. This is why Thorne may not have seen it. The label was not fully intact.\n\n=== DOCUMENT 9: Witness Statement of Owen Black ===\n\n**STATEMENT OF WITNESS**\n**Name:** Owen Black\n**Title:** Safety Compliance Officer\n**Date:** October 13, 2024\n\nI performed a routine visual check of the XR-900 that morning, before the shift began. I verified the presence and condition of all safety labels. The warning label indicating 'DO NOT OPEN WHILE RUNNING' was fully intact, legible, and prominently displayed on the door frame at the time of the incident. It was not peeling. It was not half-removed. It was clearly visible. The claim that it was difficult to see is false. The label was in perfect condition.",
+ "n_words": 1728,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The incident occurred on October 12, 2024, at 14:32 local time at the Vertex Plastics facility in Duluth, Minnesota.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Elias Thorne, was a Level 3 Maintenance Technician employed by Vertex Plastics for 5 years prior to the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The machine involved is a Model XR-900 Industrial Shredder manufactured by Titan Dynamics Corp, installed in 2019.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "The safety interlock on the XR-900 is a magnetic reed switch located 4 inches from the chamber door hinge.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "Titan Dynamics installed the interlock mechanism according to the 2019 installation manual, which specifies a 4-inch mounting distance.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Vertex Plastics conducted a full safety audit of the XR-900 on September 30, 2024, two weeks before the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The September 30, 2024 audit checklist was signed off by the Plant Manager, listing the interlock as 'Operational.'",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The maintenance log for the XR-900 shows no recorded faults or errors between January 1, 2024, and October 12, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Elias Thorne completed 120 hours of safety training with Vertex Plastics in 2023, including specific modules on lockout/tagout procedures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The lockout/tagout procedure required for the XR-900 involves 5 distinct steps, documented in the plant's Standard Operating Procedure 74-B.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Witnesses reported that the shredder's blades were spinning at full speed when the chamber door was opened.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Elias Thorne sustained a laceration to his left forearm, requiring 24 stitches and 3 weeks of medical leave.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The plant's maintenance protocol states that the interlock should be tested every 6 months by a certified technician.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The last documented interlock test for the XR-900 was performed on March 15, 2024, which is 7 months before the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Titan Dynamics' user manual recommends testing the interlock mechanism every 3 months for high-usage machines.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The chamber door of the XR-900 has a weight of 150 pounds and requires a specific torque wrench to close securely.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elias Thorne was wearing standard PPE, including safety goggles and heavy-duty gloves, during the maintenance task.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The shredder's control panel shows a timestamp of 14:31:58 for the last manual start command before the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "Vertex Plastics' insurance policy includes a liability limit of $1,000,000 per occurrence.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The distance from the interlock sensor to the point where Elias Thorne's arm entered the chamber was 6 inches.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Forensic Engineer (Hired by Plaintiff) stated that The reed switch housing had accumulated 0.5 inches of plastic dust, preventing the magnet from engaging, rendering the interlock mechanically inoperable before Thorne entered.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Vane, Titan Dynamics Quality Control Manager stated that Post-incident inspection revealed the reed switch was clean and fully functional; the failure was due to external interference, not mechanical defect or debris accumulation.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Chen Wei, Plant Maintenance Lead stated that The warning label indicating 'DO NOT OPEN WHILE RUNNING' was peeling and half-removed from the door frame, making it difficult to see during the maintenance task.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Owen Black, Safety Compliance Officer stated that The warning label was fully intact, legible, and prominently displayed on the door frame at the time of the incident, as verified by the routine visual check performed that morning.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Priya Nair, Control Room Operator stated that The machine was in 'Manual Override' mode, which bypasses safety interlocks, as indicated by the amber status light visible on the control panel at 14:31.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Victor Stone, Titan Dynamics Technical Support Lead stated that The machine was in 'Standard Safety' mode, which enforces interlocks; the amber light was a routine maintenance indicator, not an override signal, and interlocks were active.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 26,
+ "settled": []
+}

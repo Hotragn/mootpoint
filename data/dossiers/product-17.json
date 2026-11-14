@@ -1,0 +1,184 @@
+{
+ "dossier_id": "product-17",
+ "split": "test",
+ "domain": "product",
+ "title": "In re: StrideMax Midsole Failure",
+ "premise": "An urban runner in New York City tore her ACL after the shock-absorbing midsole of her high-performance running shoe compressed unevenly and caused her ankle to roll inward on pavement.",
+ "side_A": {
+  "role": "an advocate at a consumer-safety group",
+  "goal": "pushing for a recall of the product"
+ },
+ "side_B": {
+  "role": "the manufacturer's head of communications",
+  "goal": "showing the product is safe when used as directed"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Surveillance Record ===\n\n**INCIDENT REPORT NO:** INC-2023-0312-ER\n**DATE OF INCIDENT:** March 12, 2023\n**TIME OF INCIDENT:** 07:15 AM\n**LOCATION:** Union Square Park, New York City, Section 4 (Northwest Corner)\n**SUBJECT:** Elena Rostova\n**REPORTING PARTY:** NYPD Uniformed Officer, Badge #4922\n**STATUS:** Closed / Pending Civil Review\n\n**1.0 INCIDENT SUMMARY**\nAt approximately 07:15 AM on March 12, 2023, subject Elena Rostova sustained a fall on the paved walkway within Union Square Park. The incident occurred on a section of pavement composed of granite pavers. The specific area of the fall was measured post-incident and found to have a longitudinal incline of 2.5 degrees. The surface coefficient of friction for the dry granite pavers was recorded at 0.62.\n\n**2.0 PHYSICAL EVIDENCE AND MEASUREMENTS**\nUpon arrival, officers noted that the subject was wearing a pair of StrideMax Aero-Flux running shoes, size 8.5. Visual inspection of the footwear at the scene revealed a visible 3mm deviation in the height of the midsole on the left shoe relative to the right shoe. The left shoe midsole appeared compressed relative to the right.\n\nSurveillance footage from a municipal camera located 15 feet from the fall site (Resolution: 1080p) was retrieved. The footage captures the subject running along the path. The subject\u2019s speed, as recorded by her personal smartwatch GPS data later provided to this office, was 11.2 mph at the moment of impact. The video shows the subject\u2019s left foot striking the pavement, followed by an inward roll of the ankle, resulting in the subject falling to the ground.\n\n**3.0 SUBJECT BACKGROUND AND EQUIPMENT DETAILS**\nSubject Elena Rostova holds a valid New York City jogging permit, which requires annual medical clearance. Records indicate her last medical clearance was issued in February 2023.\n\nSubject states the footwear was purchased on January 10, 2023. The retail price of the StrideMax Aero-Flux model is $140.00. Market analysis indicates this price is 20% higher than the average price of comparable high-performance running shoes. The manufacturer, StrideMax, states the warranty for manufacturing defects is 18 months from the date of purchase.\n\nSubject reported the injury to StrideMax customer service within 24 hours of the incident.\n\n**4.0 MEDICAL TRANSPORT**\nSubject was transported to St. Mary\u2019s Hospital for evaluation. No immediate life-threatening injuries were noted by the responding paramedics, though the subject complained of severe pain in the left knee.\n\n**5.0 OFFICER\u2019S NOTE**\nThe scene was secured. No other parties were involved in the fall. The pavement appeared dry and free of debris at the time of inspection.\n\n=== DOCUMENT 2: Medical Report and MRI Findings ===\n\n**PATIENT:** Rostova, Elena\n**MRN:** 9948221\n**DATE OF SERVICE:** March 14, 2023\n**REFERRING PHYSICIAN:** Dr. Alan Pierce, Orthopedic Specialist\n**IMAGING TYPE:** MRI Left Knee (No Contrast)\n**CLINICAL INDICATION:** Evaluation of acute knee injury following traumatic fall.\n\n**1.0 HISTORY OF PRESENT ILLNESS**\nPatient presents with acute pain and instability in the left knee following a fall on March 12, 2023. Patient reports she was running in Union Square Park when her left ankle rolled inward, causing her to fall. She denies loss of consciousness.\n\nPatient reports wearing StrideMax Aero-Flux running shoes at the time of the incident. She states the shoes had been worn for approximately 140 miles prior to the fall. She reports completing a pre-incident warm-up routine consisting of 10 minutes of dynamic stretching.\n\n**2.0 PAST MEDICAL HISTORY**\nPatient has a history of two minor ankle sprains in the previous five years. Both were treated with physiotherapy and resolved without surgical intervention. No history of prior knee surgery or ligamentous instability.\n\n**3.0 PHYSICAL EXAMINATION**\n- **Inspection:** Mild swelling noted around the left knee joint.\n- **Palpation:** Tenderness over the lateral aspect of the knee.\n- **Range of Motion:** Limited flexion due to pain.\n- **Stability Testing:** Positive Lachman test and positive anterior drawer test, indicating anterior cruciate ligament (ACL) instability.\n\n**4.0 MRI FINDINGS**\n- **ACL:** Complete tear of the anterior cruciate ligament in the left knee. The ligament is discontinuous at the femoral attachment site.\n- **Menisci:** No significant tears noted in the medial or lateral menisci.\n- **Cartilage:** No significant chondral damage identified.\n- **Bone:** No fractures identified. Mild bone marrow edema in the lateral tibial plateau, consistent with contusion.\n\n**5.0 DIAGNOSIS**\n1. Complete tear of the Anterior Cruciate Ligament (ACL), Left Knee.\n2. Lateral Tibial Plateau Contusion.\n\n**6.0 TREATMENT PLAN AND COST ESTIMATE**\nSurgical reconstruction of the ACL is recommended. The estimated total cost for surgery and subsequent rehabilitation is projected to be $45,000.\n\n**7.0 ADDITIONAL NOTES**\nPatient provided the left shoe worn during the incident for examination. The shoe was stored in a plastic bag. The midsole of the left shoe exhibits visible compression asymmetry compared to the right shoe, as noted in the incident log.\n\n=== DOCUMENT 3: Statement of Elena Rostova ===\n\n**STATEMENT OF WITNESS: ELENA ROSTOVA**\n**DATE:** March 15, 2023\n**INTERVIEWER:** Legal Counsel for Plaintiff\n\nI want to be very clear about what happened. I was doing exactly what I\u2019ve been doing for years. I had my jogging permit, I had my medical clearance, and I had warmed up properly. I did ten minutes of dynamic stretching. I was ready to run.\n\nI was wearing my StrideMax Aero-Flux shoes. I bought them on January 10, 2023. They cost me $140.00. I paid that premium because I was told they were high-performance. I had only put about 140 miles on them. That\u2019s not a lot of wear.\n\nI was running at a steady pace. My watch says I was going 11.2 mph. I was on the path in Union Square Park. The ground was dry. I felt my left foot hit the pavement, and then it just gave way. It wasn't a slip on the ground. It was the shoe. The midsole on my left shoe was caving in. You could see it later, a 3mm difference in height. That\u2019s not normal. That\u2019s a defect.\n\nI felt my ankle roll inward violently. I didn't cut across the path. I was running straight. The shoe forced my ankle into that position. It was like the ground tilted underneath me because the shoe wasn't flat. I hit the pavement hard. My knee popped. I know now it\u2019s a torn ACL.\n\nI called StrideMax within 24 hours. I reported it immediately. They are trying to say it\u2019s \"normal wear,\" but I know that\u2019s a lie. They\u2019ve had other complaints, haven\u2019t they? Twelve of them in the last year? They\u2019re just classifying them as wear to save themselves from a recall. They haven\u2019t recalled the Aero-Flux since it came out in June 2022. They knew.\n\nThe pavement in the park is granite pavers. I\u2019m sure they\u2019ll say it was my fault for running on an incline, but the incline was tiny, 2.5 degrees. Anyone can run on that. It wasn't the ground. It was the shoe. The foam was unstable. It shifted my center of gravity. I was running straight, and the shoe made me roll. I need them to pay for my surgery, which is going to cost $45,000. I\u2019m not paying for their defective product.\n\n=== DOCUMENT 4: Statement of Marcus Vane, Head of Materials Engineering, StrideMax ===\n\n**STATEMENT OF WITNESS: MARCUS VANE**\n**TITLE:** Head of Materials Engineering, StrideMax\n**DATE:** March 20, 2023\n**INTERVIEWER:** Legal Counsel for Defense\n\nI am here to clarify the technical realities of the StrideMax Aero-Flux midsole technology and the circumstances of the incident involving Ms. Rostova.\n\nFirst, let\u2019s address the mileage. Ms. Rostova claims she had 140 miles on the shoes. In our engineering specs, the Aero-Flux midsole is rated for 500 miles before significant compression set occurs. 140 miles is well within the standard lifespan. It is statistically unlikely for a defect to manifest at that mileage. The foam is designed to be durable.\n\nRegarding the \"uneven compression\" and the 3mm deviation noted in the incident log: We inspected the production batch from Facility 4 in Oregon, manufactured in December 2022. The midsoles were symmetrical within manufacturing tolerances at the time of sale. Any perceived unevenness is due to natural wear patterns. Running is a dynamic activity. The foot strikes the ground in various ways. Over 140 miles, minor asymmetries in wear can occur. This does not affect structural integrity. It is not a \"catastrophic uneven compression.\" It is normal physics.\n\nMs. Rostova claims the shoe forced her ankle into inversion. This is not supported by biomechanics. The primary cause of the ankle roll was her running technique. She was running on a section of pavement with a 2.5-degree incline. She voluntarily cut across this slight incline. This caused a natural lateral shift in weight. This is a common cause of ankle rolls for runners, independent of the shoe's condition. The shoe was doing its job: providing cushioning. It did not \"shift her center of gravity\" in a way that caused the fall. Her body did.\n\nShe also mentions the pavement. She suggests there was a \"subtle, uneven edge\" or trip hazard. The pavement in Union Square Park is flat and uniform granite pavers. The coefficient of friction is 0.62 when dry, which is standard. Her foot struck the ground squarely. There was no external obstacle or surface irregularity contributing to the ankle inversion. The surveillance video confirms she was running straight, but the lateral weight shift due to the incline cut is the key.\n\nWe have not issued a recall for the Aero-Flux model since its release in June 2022 because there is no defect. We have received 12 similar complaints regarding midsole compression over the last 12 months. All were classified as 'normal wear.' This is consistent with our engineering data. The independent laboratory testing in 2022 confirmed the model met all ASTM F2413 standards for impact resistance. The product is safe. Ms. Rostova\u2019s injury was a result of her interaction with the terrain and her own running form, not a manufacturing defect.\n\n=== DOCUMENT 5: Statement of Dr. Aris Thorne, Independent Biomechanical Engineer ===\n\n**STATEMENT OF WITNESS: DR. ARIS THORNE**\n**TITLE:** Independent Biomechanical Engineer\n**DATE:** March 22, 2023\n**INTERVIEWER:** Legal Counsel for Plaintiff\n\nI have reviewed the physical evidence, the surveillance footage, and the medical records. I am providing my professional opinion on the mechanical causes of the injury.\n\nThe most critical evidence is the 3mm height deviation in the midsole of the left shoe. This is not negligible. The midsole foam in the left shoe had undergone catastrophic uneven compression, creating a 3mm height differential that mechanically forced the ankle into inversion. When the foot strikes the ground, the ankle relies on a stable platform. A 3mm drop on one side creates a significant torque.\n\nMs. Rostova states she had 140 miles on the shoes. At 140 miles, the specific foam density in the Aero-Flux model is at a critical threshold where minor manufacturing variances lead to rapid, uneven degradation. This is not \"normal wear\" as StrideMax claims. It is a failure of the material to maintain uniformity under expected load. The foam collapsed unevenly, shifting the center of gravity. This caused the runner's ankle to roll inward unexpectedly while maintaining a straight running path. The shoe was the primary agent of the inversion.\n\nStrideMax argues the incline caused the fall. The incline was 2.5 degrees. This is a minor gradient. Runners navigate such gradients routinely. The granite pavers had a subtle, uneven edge that, combined with the shoe's instability, created a trip hazard that initiated the fall. The surface was not \"flat and uniform\" in a way that would support the StrideMax narrative. The combination of the uneven pavement edge and the unstable midsole led to the loss of balance.\n\nThe surveillance video shows the foot striking the ground and immediately rolling inward. This is consistent with a mechanical failure of the shoe, not a voluntary cut across an incline. If it were a voluntary cut, we would see a different gait pattern. We see a sudden, unexpected collapse.\n\nThe fact that StrideMax has had 12 similar complaints and classified them as \"normal wear\" is concerning. It suggests a systemic issue with the foam density at this mileage threshold. The independent lab test in 2022 met ASTM F2413 standards, but that was for impact resistance, not for long-term compression symmetry. The product failed in its ability to maintain structural integrity over time. This is a defect.",
+ "n_words": 2049,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On March 12, 2023, at 7:15 AM, Elena Rostova fell on the sidewalk in Union Square Park, New York City.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "Elena Rostova was wearing a pair of StrideMax Aero-Flux running shoes, size 8.5, purchased on January 10, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The shoes had been worn for approximately 140 miles prior to the incident.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elena Rostova sustained a tear of the anterior cruciate ligament in her left knee, confirmed by MRI on March 14, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The incident occurred on a section of pavement with a measured incline of 2.5 degrees.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "StrideMax Aero-Flux shoes were sold for $140.00, which is 20% higher than the average price of comparable high-performance running shoes in the market.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Elena Rostova completed a pre-incident warm-up routine consisting of 10 minutes of dynamic stretching.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The left shoe exhibited a visible 3mm deviation in the height of the midsole relative to the right shoe at the time of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "StrideMax has a documented record of 12 similar complaints regarding midsole compression over the last 12 months, all classified as 'normal wear.'",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elena Rostova has a medical history of two minor ankle sprains in the previous five years, treated with physiotherapy.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The StrideMax Aero-Flux model was tested by an independent laboratory in 2022 and met all ASTM F2413 standards for impact resistance.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Elena Rostova's running speed at the time of the fall was recorded at 11.2 mph via her smartwatch GPS data.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The manufacturer's warranty for the StrideMax Aero-Flux covers manufacturing defects for a period of 18 months from the date of purchase.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elena Rostova reported the injury to StrideMax customer service within 24 hours of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The pavement surface in Union Square Park is made of granite pavers with a coefficient of friction of 0.62 when dry.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "StrideMax's production batch for the shoes worn by Elena Rostova was manufactured in Facility 4 in Oregon in December 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elena Rostova's estimated medical costs for surgery and rehabilitation are projected to be $45,000.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "StrideMax has not issued a recall for the Aero-Flux model since its release in June 2022.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The incident was captured by a surveillance camera located 15 feet from the fall site, with a resolution of 1080p.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Elena Rostova holds a valid New York City jogging permit, which requires annual medical clearance.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Dr. Aris Thorne, Independent Biomechanical Engineer stated that The midsole foam in the left shoe had undergone catastrophic uneven compression, creating a 3mm height differential that mechanically forced the ankle into inversion.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Vane, StrideMax Head of Materials Engineering stated that The midsoles were symmetrical within manufacturing tolerances at the time of sale, and any perceived unevenness was due to natural wear patterns that did not affect structural integrity.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Vane, StrideMax Head of Materials Engineering stated that The runner voluntarily cut across a slight incline in the pavement, causing a natural lateral shift in weight that led to the ankle roll, independent of the shoe's condition.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Dr. Aris Thorne, Independent Biomechanical Engineer stated that At 140 miles, the specific foam density in the Aero-Flux model is at a critical threshold where minor manufacturing variances lead to rapid, uneven degradation.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Vane, StrideMax Head of Materials Engineering stated that 140 miles is well within the standard lifespan for the Aero-Flux midsole, which is rated for 500 miles before significant compression set occurs, making a defect at this mileage statistically unlikely.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Jenkins, Consumer Safety Advocate stated that The granite pavers had a subtle, uneven edge that, combined with the shoe's instability, created a trip hazard that initiated the fall.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Vane, StrideMax Head of Materials Engineering stated that The pavement was flat and uniform, and the runner's foot struck the ground squarely without any external obstacle or surface irregularity contributing to the ankle inversion.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

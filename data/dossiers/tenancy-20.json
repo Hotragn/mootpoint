@@ -1,0 +1,184 @@
+{
+ "dossier_id": "tenancy-20",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vance v. Halloway Property Management: Heating and Eviction",
+ "premise": "A single mother in a cramped urban duplex claims the heating system has been malfunctioning for three months, while the landlord cites repeated ignored repair requests to justify immediate eviction.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Lease Agreement and Property Maintenance Records ===\n\n**EXHIBIT A: Residential Lease Agreement**\n**Date Executed:** March 1, 2023\n**Property:** Unit 2B, 404 Oak Street\n**Landlord:** Halloway Property Management\n**Tenant:** Elena Vance\n\n**1. Term and Rent**\nThis lease is for a term of twelve (12) months commencing March 1, 2023. The monthly rent is set at $1,250.00, due on the first day of each month.\n\n**2. Maintenance Responsibilities**\nThe Landlord is responsible for all major structural and system repairs, including but not limited to the central heating system, plumbing, and electrical infrastructure installed during the 2010 full renovation of the property. The property, a duplex built in 1995, was renovated in 2010 to include the current central heating unit.\n\n**3. Tenant Obligations**\nThe Tenant agrees to notify the Landlord in writing of any heating, plumbing, or electrical issues within twenty-four (24) hours of discovery. Failure to provide such notice may result in the Landlord\u2019s inability to prioritize repairs. The Tenant shall not store personal items, boxes, or other obstructions in the common hallway, as this constitutes a safety violation and obstructs emergency egress.\n\n**4. Default and Termination**\nIn the event of a material breach of this agreement, the Landlord may issue a thirty (30) day notice to vacate.\n\n***\n\n**EXHIBIT B: Halloway Property Management Maintenance Logs**\n**Property:** 404 Oak Street\n**Period:** January 2023 \u2013 May 2024\n\n*   **March 2023:** Entry logged regarding boiler replacement. Original schedule for March 2023 was delayed due to supply chain issues. Replacement completed in April 2023.\n*   **November 2023:** No repair requests logged for Unit 2B.\n*   **January 5, 2024:** Written repair request received from Unit 2B tenant regarding heating failure.\n*   **February 10, 2024:** Written repair request received from Unit 2B tenant regarding heating failure.\n*   **March 12, 2024:** Written repair request received from Unit 2B tenant regarding heating failure.\n*   **April 15, 2024:** 30-day notice to vacate prepared and mailed to Unit 2B tenant. Reason cited: Repeated non-compliance with lease terms regarding facility usage and safety.\n*   **April 16, 2024:** Certified mail receipt returned. Signed for by \"J. Smith\" at 404 Oak Street.\n\n***\n\n**EXHIBIT C: Municipal Code Violation Notice**\n**Issuing Authority:** Central Municipal Code Enforcement\n**Date Issued:** April 2, 2024\n**Subject Property:** Unit 2B, 404 Oak Street\n**Recipient:** Halloway Property Management\n\n**Violation:** Failure to maintain habitable premises.\n**Description:** Inspection conducted prior to this notice indicated that the premises did not meet minimum standards for habitability regarding heating functionality during the winter season. The property management company is required to remediate the issue to ensure the unit meets code requirements for habitable living conditions.\n\n***\n\n**EXHIBIT D: City Building Inspector Report**\n**Date of Inspection:** May 1, 2024\n**Inspector:** M. Thorne, City Building Inspector\n**Location:** Unit 2B, 404 Oak Street\n\n**Observations:**\nThe inspector entered Unit 2B at 10:15 AM. The outdoor temperature at the time of inspection was recorded at 55 degrees Fahrenheit. The indoor thermostat in the living room was set to 70 degrees Fahrenheit. The heating system was observed to be in an active cycle. No immediate hazards were noted in the hallway during this specific entry, though the hallway was not the primary focus of the heating inspection.\n\n=== DOCUMENT 2: Tenant Correspondence and Medical Records ===\n\n**EXHIBIT E: Email to Tenants' Union**\n**From:** Elena Vance (evance2b@email.com)\n**To:** Oak Street Tenants Union (help@oakstunion.org)\n**Date:** November 20, 2023\n**Subject:** Urgent: Heating Failure in Unit 2B\n\nDear Union Representatives,\n\nI am writing to request assistance regarding a severe heating failure in my apartment, Unit 2B at 404 Oak Street. It has been nearly a week since the heat stopped working, and the apartment is freezing. I have attempted to contact Halloway Property Management, but I have not received a satisfactory response. I am worried about the conditions, especially with my child at home. I am documenting the temperatures daily. If I do not hear from you by tomorrow, I will be forced to take further action. Please advise on my rights regarding habitable premises.\n\nSincerely,\nElena Vance\n\n***\n\n**EXHIBIT F: Medical Record Summary**\n**Patient:** Elena Vance\n**Date of Service:** December 20, 2023\n**Facility:** St. Mary's Hospital\n**Diagnosis:** Hypothermia-related complications\n**Treating Physician:** Dr. A. Reynolds\n\n**Clinical Notes:**\nPatient presented with signs of mild to moderate hypothermia. Patient reported prolonged exposure to cold indoor temperatures over the preceding weeks. Physical examination revealed shivering, pale skin, and mild confusion. Patient was treated with warm intravenous fluids and monitored for cardiac irregularities. Patient was discharged after 24 hours of observation with instructions to seek immediate care if symptoms recur. Patient confirmed living conditions contributed to the onset of symptoms.\n\n***\n\n**EXHIBIT G: Bank Statements (Excerpt)**\n**Account Holder:** Elena Vance\n**Period:** 2023 \u2013 2024\n\n**Income Verification:**\n*   **2023 Monthly Average Income:** $1,800.00\n*   **Note:** Local poverty line for a family of two is calculated at $1,250.00. The tenant's income represents 144% of this baseline.\n\n**Rent Payment History:**\n*   March 2023 \u2013 May 2024: Rent of $1,250.00 paid in full by the 5th day of each month.\n*   Late Fees: $0.00.\n*   Status: Current.\n\n=== DOCUMENT 3: Witness Statements ===\n\n**STATEMENT OF ELENA VANCE (Tenant)**\n**Date:** May 25, 2024\n**Recorded by:** Legal Aid Society\n\nMy name is Elena Vance, and I am the tenant of Unit 2B at 404 Oak Street. I have been a victim of gross negligence by Halloway Property Management. When the heating failed in November 2023, the landlord knew about the heating failure and failed to act, forcing me to endure cold conditions for months. The apartment was uninhabitable for three months, with temperatures regularly below 50 degrees, posing a direct health risk to my child. I went to the hospital in December because I was getting sick from the cold; this is not just a discomfort, it is a medical emergency caused by their inaction.\n\nRegarding the eviction, I am shocked by the claims of Halloway. I never received the 30-day notice to vacate. The signature \"J. Smith\" on their delivery record is not mine, and I was unaware of the eviction until the court filing arrived in my mailbox. It is a fraud to claim I received notice when I did not. Furthermore, their claim that I obstructed the hallway is absurd. My only \"breach\" was complaining about the lack of heat; I have never obstructed hallways or violated safety codes. They are trying to evict me for exercising my right to demand a livable home.\n\n**STATEMENT OF MARCUS HALLOWAY (Landlord's Representative)**\n**Date:** May 25, 2024\n**Recorded by:** Halloway Property Management Legal Counsel\n\nMy name is Marcus Halloway, and I represent Halloway Property Management. The tenant\u2019s claims are baseless and designed to delay a lawful eviction. We received the first valid repair request in January 2024, and we were acting within legal timelines despite supply chain delays. The tenant\u2019s own lease requires notice within 24 hours; she failed to provide proper notice in November, so we could not have acted then.\n\nRegarding the notice to vacate, the certified mail was properly delivered and signed for on April 16, 2024, satisfying all legal requirements for notice. The signature \"J. Smith\" is a valid receipt for the address, and we have fulfilled our legal duty. As for the alleged breach, the tenant consistently stored boxes and personal items in the common hallway, creating a fire hazard and violating the lease terms. This is a safety violation, not a trivial matter.\n\nFinally, regarding the heating, the heating system was operational, and the low temperatures were due to the tenant leaving windows open, which is a tenant-controlled issue. The inspector in May confirmed the thermostat was set to 70 degrees, proving the system works. The tenant\u2019s complaints about cold are a result of her own behavior, not landlord negligence.\n\n=== DOCUMENT 4: Legal Filings and Media Records ===\n\n**EXHIBIT H: Motion for Summary Judgment**\n**Filed by:** Halloway Property Management\n**Date Filed:** May 20, 2024\n**Court:** Central Municipal Court\n**Case No:** 24-CV-0892\n\n**Introduction**\nDefendant Halloway Property Management (\"Halloway\") moves for summary judgment in this eviction action. The undisputed facts demonstrate that Plaintiff Elena Vance (\"Vance\") failed to cure a material breach of the lease agreement. Specifically, Vance violated the lease terms by obstructing emergency egress in the common hallway.\n\n**Argument**\n1.  **Notice of Breach:** Halloway provided a 30-day notice to vacate on April 15, 2024, citing repeated non-compliance with lease terms. The notice was delivered via certified mail, signed for on April 16, 2024. This constitutes valid legal notice.\n2.  **Breach of Lease:** The lease explicitly prohibits storing personal items in the hallway to ensure safety. Halloway\u2019s maintenance logs and visual inspections confirm that Vance stored items in the hallway, creating a fire hazard.\n3.  **Repair Requests:** While Vance submitted repair requests in January, February, and March 2024, Halloway acted within legal timelines. The delay in initial response was due to the tenant\u2019s failure to notify Halloway within the 24-hour window required by the lease after the initial failure in November 2023.\n4.  **Habitability:** The heating system is functional. The May 1, 2024 inspection confirmed the thermostat was set to 70 degrees. Any previous cold temperatures were attributable to tenant-controlled factors, such as open windows, and do not constitute a failure to maintain habitable premises under the law.\n\n**Conclusion**\nBased on the above, Halloway requests that the Court grant summary judgment in its favor and order the eviction of Vance.\n\n***\n\n**EXHIBIT I: Court Hearing Schedule**\n**Case:** Vance v. Halloway Property Management\n**Court:** Central Municipal Court\n**Date:** June 10, 2024\n**Time:** 9:00 AM\n**Location:** Courtroom 4\n\n**Agenda:**\n1.  Review of Motion for Summary Judgment.\n2.  Presentation of evidence regarding heating repairs and lease compliance.\n3.  Witness testimony from Elena Vance and Marcus Halloway.\n4.  Ruling on eviction proceedings.\n\n***\n\n**EXHIBIT J: Local News Article**\n**Source:** The Oak Street Gazette\n**Date:** January 15, 2024\n**Headline:** Heating Failures Plague Oak Street District\n\n**Article Excerpt:**\nResidents in the Oak Street district are reporting a series of heating failures affecting 12 units in total. The incident has drawn attention to the aging infrastructure in several multi-unit buildings. Halloway Property Management has been contacted for comment but has not yet provided a detailed statement. Tenants are urging the city to inspect properties for code violations. One resident, who declined to be named, stated, \"We are freezing in our homes, and the landlords are slow to respond.\"\n\n***\n\n**EXHIBIT K: Witness Statement of Neighbor (Unit 2A)**\n**Recorded by:** Court Clerk\n**Date:** May 28, 2024\n\n**Statement:**\nMy name is [Redacted], and I reside in Unit 2A at 404 Oak Street. I am a neighbor to Elena Vance in Unit 2B. I am here to testify regarding the condition of the building. I can confirm that my heating system in Unit 2A functioned normally throughout the winter of 2023-2024. I did not experience any cold spells or heating failures in my unit during this period. I do not have direct knowledge of the interior temperatures in Unit 2B, but I can confirm that the building\u2019s main systems appeared to be functioning for my unit. I do not recall seeing any boxes or items obstructing the hallway from my perspective, though I do not enter the hallway daily.",
+ "n_words": 1852,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The tenant, Elena Vance, signed a lease agreement for Unit 2B at 404 Oak Street on March 1, 2023, for a monthly rent of $1,250.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Landlord's counsel submitted a log showing that Elena Vance submitted written repair requests on January 5, 2024, February 10, 2024, and March 12, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Elena Vance paid her rent in full by the 5th day of every month from March 2023 through May 2024 without late fees.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "A municipal code violation notice was issued to Halloway Property Management on April 2, 2024, for failing to maintain habitable premises in Unit 2B.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "Halloway Property Management sent a 30-day notice to vacate to Elena Vance on April 15, 2024, citing repeated non-compliance with lease terms regarding facility usage.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Elena Vance's medical records indicate she was diagnosed with hypothermia-related complications on December 20, 2023, and treated at St. Mary's Hospital.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The lease agreement signed on March 1, 2023, contains a clause requiring tenants to notify the landlord of any heating issues within 24 hours of discovery.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "On May 1, 2024, a city building inspector entered Unit 2B and recorded the thermostat setting as 70 degrees Fahrenheit while the outdoor temperature was 55 degrees Fahrenheit.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Elena Vance provided bank statements showing that her monthly income for 2023 was $1,800, which is 144% of the local poverty line for a family of two.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "Halloway Property Management's maintenance logs show that a boiler replacement was scheduled for March 2023 but was delayed due to supply chain issues until April 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Elena Vance's neighbor in Unit 2A reported that their heating system functioned normally throughout the winter of 2023-2024.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The 30-day notice to vacate sent on April 15, 2024, was delivered via certified mail, which was signed for by a person named 'J. Smith' at 404 Oak Street on April 16, 2024.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Elena Vance submitted a written request to the tenants' union for assistance on November 20, 2023, detailing the heating problems.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "Halloway Property Management's attorney filed a motion for summary judgment on May 20, 2024, arguing that the tenant failed to cure a material breach of the lease.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The duplex at 404 Oak Street was built in 1995 and underwent a full renovation in 2010, including the installation of the current central heating system.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "Elena Vance's lease agreement includes a clause stating that the landlord is responsible for all major structural and system repairs, including heating.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Halloway Property Management claims that Elena Vance stored personal items in the hallway, obstructing emergency egress, which is a safety violation under the lease.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "A local news article published on January 15, 2024, reported on a series of heating failures in the Oak Street district, affecting 12 units in total.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The court hearing regarding the eviction was scheduled for June 10, 2024, at 9:00 AM in Courtroom 4 of the Central Municipal Court.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Vance (Tenant) stated that The landlord knew about the heating failure in November 2023 and failed to act, forcing me to endure cold conditions for months.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Halloway (Landlord's Representative) stated that We received the first valid repair request in January 2024, and we were acting within legal timelines despite supply chain delays.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Vance (Tenant) stated that I never received the 30-day notice to vacate; the signature 'J. Smith' is not mine, and I was unaware of the eviction until the court filing.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Halloway (Landlord's Representative) stated that The certified mail was properly delivered and signed for on April 16, 2024, satisfying all legal requirements for notice.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Vance (Tenant) stated that My only 'breach' was complaining about the lack of heat; I have never obstructed hallways or violated safety codes.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Halloway (Landlord's Representative) stated that The tenant consistently stored boxes and personal items in the common hallway, creating a fire hazard and violating the lease terms.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Vance (Tenant) stated that The apartment was uninhabitable for three months, with temperatures regularly below 50 degrees, posing a health risk to my child.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Halloway (Landlord's Representative) stated that The heating system was operational, and the low temperatures were due to the tenant leaving windows open, which is a tenant-controlled issue.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 27,
+ "settled": []
+}

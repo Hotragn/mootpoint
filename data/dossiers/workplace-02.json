@@ -1,0 +1,190 @@
+{
+ "dossier_id": "workplace-02",
+ "split": "dev",
+ "domain": "workplace",
+ "title": "Hale v. Ironclad Structures - Crane Incident",
+ "premise": "An office worker on the top floor of a construction site alleges that a crane operator\u2019s negligent swing struck a structural support, causing a fall, but the crane operator disputes that the load was even near the designated exclusion zone.",
+ "side_A": {
+  "role": "a lawyer representing the injured worker",
+  "goal": "building a negligence claim against the employer"
+ },
+ "side_B": {
+  "role": "a claims investigator for the employer's insurer",
+  "goal": "assessing whether the worker's own conduct caused the injury"
+ },
+ "documents": "=== DOCUMENT 1: Incident Log and Site Security Records - October 14, 2023 ===\n\n**IRONCLAD STRUCTURES - SITE 44 LOG**\n**Date:** October 14, 2023\n**Time:** 14:02 - 14:10\n**Location:** Top Floor / Level 1 Staging Area\n**Recorder:** Automated Security System / Site Supervisor A. Rostova\n\n**Entry 14:02:**\nSecurity camera feed CAM-04 (Level 1 Staging Area) records the initiation of a lift operation. Load ID #892 is secured to Crane Unit 7. The load is confirmed to be a standard steel assembly weighing 120 kilograms. The lift commences from the Level 1 staging area.\n\n**Entry 14:02 - 14:10:**\nCrane Unit 7 control panel telemetry logs indicate continuous operation. No emergency stop commands were issued during this period. Wind speed sensors at the site perimeter record consistent readings of 25 km/h, well below the 40 km/h operational limit for crane use. The load remains within the crane\u2019s maximum capacity specifications.\n\n**Entry 14:05 - 14:07:**\nCamera feed CAM-12 (Top Floor Walkway) captures a sudden structural displacement. A structural support beam, previously rated to withstand static loads of up to 500 kilograms, fractures and falls. The beam descends directly onto the office area.\n\n**Entry 14:08:**\nMedical alert triggered by on-site personnel. Site Supervisor A. Rostova confirms immediate response to the top-floor office area.\n\n**Entry 14:15:**\nArea secured. Access restricted to emergency personnel and authorized investigators.\n\n**Appendix A: Crew Manifest - October 14, 2023 (14:00 Hour Shift)**\n**Crane Operator:** Marcus Vane (Class A Heavy Machinery License, Valid).\n**Spotter:** [NONE ASSIGNED]\n*Note: Site regulations mandate that all crane operations within 50 meters of occupied office areas require a dedicated spotter. The manifest reflects no assignment for this shift.*\n\n**Appendix B: Equipment Maintenance Records**\n**Asset:** Crane Unit 7\n**Last Calibration (Load-Swinging Mechanisms):** August 1, 2023.\n**Status:** Operational per pre-shift checks.\n\n=== DOCUMENT 2: Witness Statement of Marcus Vane, Crane Operator ===\n\n**STATEMENT OF MARCUS VANE**\n**Date:** October 16, 2023\n**Recorded By:** Site Safety Officer J. Miller\n\nI was operating Crane Unit 7 during the 14:00 hour shift. I want to be clear that I have held a valid Class A heavy machinery license for over ten years and have no recorded violations in the past five years. I took my job seriously that morning. I completed my pre-shift safety checklist at 07:00, confirming all crane functions were operational. I did not see anything wrong with the crane that day.\n\nThe incident is being blamed on my operations, but that is factually incorrect. The load we were lifting was only 120 kilograms, well within the crane\u2019s maximum capacity. The wind was 25 km/h, which is well below the 40 km/h limit, so we were cleared to proceed. However, I must address the claims made by Sarah Hale regarding my visibility and the proximity of the load.\n\nSarah claims the swinging load passed directly over her head and entered the restricted zone. This is false. The distance from the crane's pivot point to the top-floor office area is 35 meters. The load remained at least 15 meters away from the top-floor structure at all times. It was nowhere near close enough to \"enter\" the zone in any meaningful sense that would suggest a direct threat from the load itself.\n\nShe also claims the operator had a clear view of the office area and should have seen the hazard. I cannot agree with that. The construction scaffolding erected for the HVAC installation blocked my view of the top-floor office area entirely. I could not see the desk where she was sitting, nor could I see the structural support beam. I was blind to that specific section of the top floor.\n\nRegarding the timing, Sarah says the beam fell immediately after the crane began its swing at 14:05. My log shows I did not initiate any significant movement until 14:07. The beam had already begun to crack before I initiated any movement at 14:07. I did not see the crack because, as stated, my view was blocked. I did not cause the beam to fail. The beam failed due to pre-existing fatigue, unrelated to any crane activity. I was simply performing a standard lift when the structure gave way. I did not swing the load into anything.\n\n=== DOCUMENT 3: Witness Statement of Sarah Hale, Injured Worker ===\n\n**STATEMENT OF SARAH HALE**\n**Date:** October 16, 2023\n**Recorded By:** Legal Representative D. Evans\n\nI was present in the top-floor office area on October 14, 2023, because I was required to supervise the installation of new HVAC ducts. This was not an optional presence; my supervision was mandated for the project. I was seated at my desk, which was located 12 meters from the edge of the top-floor walkway. I was working on the duct schematics when the incident occurred.\n\nThe office area where I was seated lacked physical barriers or warning signage indicating active crane operations overhead. There was nothing to alert me that a crane was operating within the exclusion zone. The top floor of the construction site is designated as a 'restricted zone' for non-essential personnel during active lifting operations, yet I was forced to be there for work reasons, and no one stopped me or provided safety measures.\n\nAt approximately 14:05, I heard a loud grinding sound. I looked up and saw the swinging load from Crane Unit 7 passing directly over my head. It was clearly entering the restricted zone. The load was not 15 meters away as Marcus Vane claims; it was right above us, swinging dangerously close to the structure.\n\nMarcus Vane claims the scaffolding blocked his view. That is a lie. From my vantage point, I could see the crane cab. The operator had a clear view of the office area and should have seen the hazard. He was careless. He did not check the spotter, because there was no spotter assigned to the crane operation for the 14:00 hour shift, which is a violation of site regulations.\n\nThe impact from the swinging load shattered the support beam. I saw the beam fracture and fall. It did not fail on its own due to \"pre-existing fatigue.\" The beam was struck by the load or the violent movement caused by the crane. The beam fell immediately after the crane began its swing at 14:05. It hit my desk, which was positioned directly beneath the path of the structural support that fell.\n\nI was struck by the falling debris. I suffered a fractured left femur. I have no prior injuries or medical conditions that might have predisposed me to fracture; I am a healthy individual. This was a direct result of the crane operation. Ironclad Structures failed to protect me from a known hazard.\n\n=== DOCUMENT 4: Medical Report - Sarah Hale ===\n\n**IRONCLAD STRUCTURES - OCCUPATIONAL HEALTH CLINIC**\n**Patient:** Sarah Hale\n**Date of Injury:** October 14, 2023\n**Date of Report:** October 15, 2023\n**Attending Physician:** Dr. Aris Thorne\n\n**History of Present Illness:**\nPatient presented to the on-site clinic at 14:20 on October 14, 2023, following an industrial accident on the top floor of the construction site. Patient reports being struck by falling structural debris while seated at a desk.\n\n**Physical Examination:**\nPalpation reveals significant swelling and deformity of the left thigh. Patient reports severe pain (10/10) in the left femur. Neurological check of the left lower extremity shows intact sensation and motor function below the injury site.\n\n**Imaging Results:**\nX-ray of the left femur confirms a transverse fracture of the mid-shaft of the left femur. No other fractures identified in the lower extremity. CT scan of the head and chest reveals no internal injuries or head trauma.\n\n**Medical History Review:**\nPatient states she has no prior injuries or medical conditions that might have predisposed her to fracture. Review of previous occupational health records confirms no history of osteoporosis, bone density issues, or prior femoral injuries.\n\n**Treatment Plan:**\nSurgical intervention required. Patient was transported to St. Jude\u2019s General Hospital at 15:15 for open reduction internal fixation (ORIF) of the left femur. Surgery was performed successfully. Patient is expected to be non-weight bearing on the left leg for 6-8 weeks.\n\n**Conclusion:**\nThe injury is consistent with a high-impact trauma from a falling heavy object. The fracture is acute and not related to pre-existing conditions.\n\n=== DOCUMENT 5: Email Correspondence - Site Management ===\n\n**From:** A. Rostova (Site Supervisor)\n**To:** M. Vane (Crane Operator), S. Hale (Project Manager)\n**Date:** October 13, 2023, 08:15 AM\n**Subject:** Walkway Inspection Complete - Top Floor\n\nMarcus, Sarah,\n\nJust confirming that the daily inspection of the top-floor walkway for structural integrity was conducted this morning at 08:00 AM as required by Ironclad Structures' safety protocol.\n\nThe walkway appears structurally sound. No visible cracks or stress points were noted in the support beams during the visual inspection. The area is cleared for occupancy for the HVAC installation team.\n\nPlease ensure all non-essential personnel remain clear of the active lifting zones during the afternoon shifts.\n\nRegards,\nA. Rostova\n\n**From:** S. Hale (Project Manager)\n**To:** A. Rostova (Site Supervisor)\n**Date:** October 13, 2023, 09:30 AM\n**Subject:** Re: Walkway Inspection Complete - Top Floor\n\nThanks, Anna.\n\nI need to flag a concern regarding the afternoon crane operations. The HVAC duct installation requires my presence in the top-floor office area to supervise the team. I understand the top floor is designated as a 'restricted zone' for non-essential personnel during active lifting operations, but my supervision is essential for the project timeline.\n\nCan we confirm that the crane operations will be scheduled to avoid the direct overhead path of the office area? I am not aware of any physical barriers or warning signage in the office area to indicate active crane operations overhead. If the crane is operating within 50 meters of the office, we need a dedicated spotter assigned, per site regulations.\n\nPlease confirm the safety plan for my presence in the zone.\n\nSarah\n\n**From:** A. Rostova (Site Supervisor)\n**To:** S. Hale (Project Manager)\n**Date:** October 13, 2023, 10:45 AM\n**Subject:** Re: Walkway Inspection Complete - Top Floor\n\nSarah,\n\nNoted. We have reviewed the crane schedule. The distance from the crane's pivot point to the top-floor office area is 35 meters. While this is within the 50-meter radius that typically triggers the spotter requirement, the load paths are calculated to remain outside the immediate overhead zone of the office desks.\n\nWe have confirmed that Marcus Vane is the operator for the 14:00 shift. He has a clean record and completed his pre-shift checks. We are proceeding with the plan. Please ensure you stay away from the edges of the walkway.\n\nRegards,\nA. Rostova",
+ "n_words": 1754,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "On October 14, 2023, at 14:02, security cameras recorded a load being lifted from the Level 1 staging area.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The injured worker, Sarah Hale, was seated at a desk located 12 meters from the edge of the top-floor walkway at the time of the incident.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "Site regulations mandate that all crane operations within 50 meters of occupied office areas require a dedicated spotter.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "No spotter was assigned to the crane operation for the 14:00 hour shift according to the daily crew manifest.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The crane used for the lift, Unit 7, was last calibrated for load-swinging mechanisms on August 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "The structural support that fractured was rated to withstand static loads of up to 500 kilograms.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "Sarah Hale suffered a fractured left femur requiring surgical intervention, documented in her medical report dated October 15, 2023.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The crane operator, Marcus Vane, held a valid Class A heavy machinery license with no recorded violations in the past five years.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The top floor of the construction site is designated as a 'restricted zone' for non-essential personnel during active lifting operations.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "Sarah Hale was present in the top-floor office area to supervise the installation of new HVAC ducts, which required her presence.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The load lifted at 14:02 weighed 120 kilograms, well within the crane's maximum capacity.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "Wind speeds at the site at 14:00 were recorded at 25 km/h, below the 40 km/h operational limit for crane use.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The office area where Sarah Hale was seated lacked physical barriers or warning signage indicating active crane operations overhead.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "Marcus Vane completed his pre-shift safety checklist at 07:00, confirming all crane functions were operational.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The distance from the crane's pivot point to the top-floor office area is 35 meters.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Ironclad Structures' safety protocol requires daily inspections of the top-floor walkway for structural integrity.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The last daily inspection of the top-floor walkway was conducted on October 13, 2023, at 08:00.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "Sarah Hale's desk was positioned directly beneath the path of the structural support that fell.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The crane's control panel logs show no emergency stop commands were issued during the 14:00-14:10 period.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "Sarah Hale did not report any prior injuries or medical conditions that might have predisposed her to fracture.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Sarah Hale (Injured Worker) stated that The swinging load passed directly over my head, clearly entering the restricted zone.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Vane (Crane Operator) stated that The load remained at least 15 meters away from the top-floor structure at all times.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Sarah Hale (Injured Worker) stated that The impact from the swinging load shattered the support beam.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Vane (Crane Operator) stated that The beam failed due to pre-existing fatigue, unrelated to any crane activity.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Sarah Hale (Injured Worker) stated that The operator had a clear view of the office area and should have seen the hazard.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Vane (Crane Operator) stated that Construction scaffolding blocked my view of the top-floor office area entirely.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Sarah Hale (Injured Worker) stated that The beam fell immediately after the crane began its swing at 14:05.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Vane (Crane Operator) stated that The beam had already begun to crack before I initiated any movement at 14:07.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

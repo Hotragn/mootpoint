@@ -1,0 +1,190 @@
+{
+ "dossier_id": "protest-03",
+ "split": "dev",
+ "domain": "protest",
+ "title": "The Kestrel Valley Standoff",
+ "premise": "In a rural mining town, local residents were tear-gassed while peacefully occupying the headquarters of an extraction company, resulting in a subsequent raid on the police station.",
+ "side_A": {
+  "role": "a researcher at a human-rights NGO",
+  "goal": "documenting possible excessive force by police against protesters"
+ },
+ "side_B": {
+  "role": "a public prosecutor",
+  "goal": "preparing criminal charges against protesters for rioting and property damage"
+ },
+ "documents": "=== DOCUMENT 1: Kestrel Valley Police Department Incident Log - October 14, 2023 ===\n\n**LOG ID:** KV-PD-2023-1014-004\n**LOCATION:** 400 Ore Road, Kestrel Valley (Helios Extraction Ltd Headquarters)\n**SHIFT:** Day Shift\n**SUPERVISOR:** Sgt. A. Thorne\n\n**09:00**\nPatrol unit 42 arrives at 400 Ore Road. Visual contact established with a gathering of approximately 45 individuals in the main parking lot of the Helios Extraction Ltd facility. The individuals appear to be residents of Kestrel Valley. No active violence observed at time of arrival.\n\n**09:15**\nCommand issues public statement regarding the status of the gathering. Statement confirms the assembly is unauthorized under current municipal codes.\n\n**09:30**\nOfficer J. Stone activates body camera. Footage captures 12 individuals seated in a circular formation on the pavement. The remaining members of the group are standing in the periphery. Sgt. Thorne notes that while the seated group is stationary, other members of the crowd are moving toward the building\u2019s exit path.\n\n**09:45**\nThree officers approach the perimeter of the gathering. Officers are equipped with handheld radios and less-lethal munitions. Standard Operating Procedure (SOP) Section 4.2 dictates that verbal warnings must be issued prior to the deployment of any less-lethal device.\n\n**09:52**\nSudden deployment of tear gas observed in the parking lot area. Officers report immediate respiratory distress among the crowd. Crowd begins to disperse.\n\n**10:00**\nHeadcount estimation indicates the number of individuals in the parking lot has decreased to approximately 30. Dispersal continues.\n\n**10:15**\nPatrol unit 12 reports a secondary gathering of approximately 50 residents forming near the Kestrel Valley Police Station.\n\n**10:20**\nSecurity camera footage from the Police Station lobby shows the front door being forced open. Impact is visible on the door frame.\n\n**10:30**\nOfficer J. Stone reports minor cuts to the hands of three officers resulting from contact with broken glass and debris during the dispersal.\n\n**11:00**\nSituation stabilized. Incident log closed.\n\n**Attachments:**\n- Body Camera Footage (Officer J. Stone)\n- Drone Audio Recording (Mill Roof)\n- Security Camera Footage (Police Station Lobby)\n\n***\n\n=== DOCUMENT 2: Witness Statements - October 14, 2023 ===\n\n**STATEMENT A: M. Ellis (Protest Organizer)**\nI was present at the gathering at 400 Ore Road starting at 09:00. We were there to protest the recent reports in The Valley Gazette regarding Helios Extraction Ltd increasing their water usage by 15% in the previous quarter. I was holding a sign that read 'Save Our Water'. The atmosphere was tense but peaceful. At 09:30, we were sitting in a circle, talking. We were not blocking anything.\n\nAt 09:45, three police officers walked up to us. They did not speak. They did not use loudspeakers. They simply stood there with their radios. Then, suddenly, tear gas was fired. It came from the direction of the parking lot, not from inside the building. No verbal warning was given; the tear gas was fired immediately after the officers arrived. I believe the tear gas was discharged by police officers standing in the parking lot. The crowd was seated peacefully and showed no signs of aggression or movement toward officers. This was a clear violation of our rights to peaceful assembly.\n\n**STATEMENT B: Officer J. Stone (Police Officer)**\nI arrived at the scene at 09:00. The crowd was large and agitated. By 09:30, while some protesters were sitting, the group was not peaceful. A subset of the crowd was actively blocking the exit path and shouting hostile slogans at the officers. This created a hazardous situation for our personnel.\n\nAt 09:45, we approached the group. We followed our standard operating procedure strictly. Three distinct verbal warnings were issued over the loudspeaker for 30 seconds before the tear gas was deployed. We warned them to disperse or face less-lethal intervention. The warnings were clear and audible. The tear gas was deployed at 09:52. I confirm that the tear gas was discharged from inside the headquarters building by security personnel to protect the facility. The police officers were not the source of the tear gas canisters seen in the footage. The crowd\u2019s reaction was violent, and we sustained injuries. Three officers, including myself, sustained minor cuts to their hands during the dispersal.\n\n**STATEMENT C: T. Riva (NGO Researcher)**\nI was monitoring the incident from a distance. I reviewed the timestamped video uploaded to social media at 09:52. The video clearly shows the first can of tear gas being discharged from a window of the headquarters. However, the audio and visual context suggest the discharge was initiated by police officers standing in the parking lot. The coordination between the police and the security team was immediate. The tear gas was discharged by police officers standing in the parking lot. This contradicts the official police narrative. The crowd was not aggressive; they were sitting down. The use of force was disproportionate and unprovoked.\n\n**STATEMENT D: Sec. K. Doe (Helios Security Chief)**\nHelios Extraction Ltd is committed to the safety of our facility. At the time of the incident, we had no employees present at the headquarters. Our security team was on duty to protect the building. At 09:52, we observed a threat to the integrity of the facility. The tear gas was discharged from inside the headquarters building by security personnel to protect the facility. We did not use police equipment. The police were separate from our security operations. The crowd\u2019s presence was unauthorized and threatening. We acted within our rights to secure the premises.\n\n**STATEMENT E: L. Parn (Medical Doctor at St. Jude\u2019s)**\nI treated 15 protesters at St. Jude\u2019s Clinic on October 14. Their medical records indicate respiratory irritation consistent with tear gas exposure. Upon examination, the patients described being seated and stationary when the gas was deployed. The crowd was seated peacefully and showed no signs of aggression or movement toward officers. There was no physical confrontation prior to the gas deployment. The injuries were solely due to inhalation and eye irritation.\n\n**STATEMENT F: Sgt. A. Thorne (Police Supervisor)**\nI supervised the operation at 400 Ore Road. The crowd was not peaceful. A subset of the crowd was actively blocking the exit path and shouting hostile slogans at the officers. This behavior necessitated a rapid response. We followed all protocols. The verbal warnings were issued. The tear gas was deployed to ensure safety. The crowd\u2019s behavior escalated, leading to injuries for our officers.\n\n**STATEMENT G: R. Oakes (Community Leader)**\nAt 10:15, approximately 50 residents gathered near the Police Station. We were not there to cause damage. At 10:20, the door was opened by a resident who had a key, as part of a planned, non-violent occupation. We wanted to speak to the commanders about the incident at Helios. The door was not broken. It was opened. The police claim that it was a violent breach is false.\n\n**STATEMENT H: Cpt. B. Vane (Police Commander)**\nAt 10:20, the front door of the Police Station was broken down by a mob using a vehicle bumper, constituting a violent breach. The security camera footage shows the impact. The crowd was aggressive. The door was forced open with significant force. This was not a peaceful entry. It was a violent act.\n\n***\n\n=== DOCUMENT 3: Medical Report - St. Jude\u2019s Clinic ===\n\n**PATIENT:** Multiple (15 individuals)\n**DATE:** October 14, 2023\n**TREATING PHYSICIAN:** Dr. L. Parn\n**DIAGNOSIS:** Respiratory Irritation\n**REPORT:**\nFifteen (15) patients were treated at St. Jude\u2019s Clinic on October 14, 2023. All patients presented with symptoms consistent with tear gas exposure, including coughing, wheezing, and eye irritation. Medical records indicate that 15 protesters were treated for respiratory irritation on October 14.\n\nUpon intake, patients reported being present at the Helios Extraction Ltd parking lot. Several patients stated they were seated on the pavement. No patients presented with lacerations, bruises, or other trauma indicative of physical assault by police or security personnel. The injuries were limited to respiratory and ocular irritation. The medical team notes that the patients appeared calm and cooperative upon arrival, despite the distress caused by the chemical exposure.\n\n***\n\n=== DOCUMENT 4: Official Correspondence and Public Records ===\n\n**EMAIL 1**\n**FROM:** KV Police Department Communications\n**TO:** Public\n**DATE:** October 14, 2023, 09:15\n**SUBJECT:** Public Statement on Gathering at 400 Ore Road\nThe Kestrel Valley Police Department issues this statement to inform the public that the gathering at 400 Ore Road, Kestrel Valley, is unauthorized. The assembly does not comply with local regulations. We urge all individuals to disperse peacefully.\n\n**EMAIL 2**\n**FROM:** Public Prosecutor\u2019s Office\n**TO:** Regional Court\n**DATE:** October 15, 2023\n**SUBJECT:** Summary of Incident - October 14, 2023\nThe public prosecutor\u2019s office releases this summary stating that the protest had been deemed a public nuisance by city ordinance. The gathering at 400 Ore Road was classified as a public nuisance. Legal proceedings are being considered.\n\n**EMAIL 3**\n**FROM:** Human Rights NGO\n**TO:** Regional Ombudsman\n**DATE:** October 15, 2023\n**SUBJECT:** Complaint Filing\nThe human-rights NGO filed a complaint with the regional ombudsman on October 15. The complaint alleges excessive use of force and violation of peaceful assembly rights. We request an immediate investigation.\n\n**EMAIL 4**\n**FROM:** Helios Extraction Ltd\n**TO:** Media\n**DATE:** October 14, 2023\n**SUBJECT:** Press Release\nThe Helios Extraction Ltd press release stated that they had no employees present at the headquarters at the time of the incident. Our security team was on duty to ensure the safety of the facility. We stand by our actions.\n\n**EMAIL 5**\n**FROM:** Regional Court Clerk\n**TO:** All Parties\n**DATE:** October 20, 2023\n**SUBJECT:** Hearing Schedule\nThe regional court scheduled a hearing for the incident on November 10, 2023. All parties are required to attend.\n\n***\n\n=== DOCUMENT 5: Technical Records and Media Reports ===\n\n**DRONE AUDIO LOG**\n**OPERATOR:** Anonymous (Mill Roof)\n**DATE:** October 14, 2023\n**TIME RANGE:** 09:00 - 11:00\n**DESCRIPTION:** A drone operator stationed on the roof of the adjacent mill recorded audio of the events from 09:00 to 11:00. The audio file captures the sounds of the crowd, police radios, and the discharge of tear gas. The file is submitted as evidence.\n\n**NEWS ARTICLE**\n**SOURCE:** The Valley Gazette\n**DATE:** October 10, 2023\n**HEADLINE:** Helios Extraction Water Usage Spike\nThe local newspaper, The Valley Gazette, reported that Helios Extraction Ltd had increased water usage by 15% in the previous quarter. The report details the environmental impact and the community\u2019s growing concern.\n\n**SECURITY CAMERA FOOTAGE**\n**LOCATION:** Kestrel Valley Police Station\n**DATE:** October 14, 2023\n**TIME:** 10:20\n**DESCRIPTION:** Security camera footage from the police station shows the front door being forced open at 10:20. The footage captures the impact on the door. The audio is not clear.\n\n**BODY CAMERA FOOTAGE**\n**OFFICER:** J. Stone\n**DATE:** October 14, 2023\n**TIME:** 09:30\n**DESCRIPTION:** Body camera footage from Officer J. Stone shows 12 protesters sitting in a circle on the pavement at 09:30. The footage continues until 10:00.\n\n**SOCIAL MEDIA VIDEO**\n**UPLOADED:** 09:52\n**DESCRIPTION:** A timestamped video uploaded to social media at 09:52 shows the first can of tear gas being discharged from a window of the headquarters. The video is 45 seconds long.\n\n**POLICE DEPARTMENT LOG**\n**DESCRIPTION:** The Kestrel Valley Police Department maintains a 24-hour log of all calls received. The log for October 14, 2023, includes entries for the incident at 400 Ore Road.\n\n**POLICE INJURY REPORT**\n**DATE:** October 14, 2023\n**DESCRIPTION:** The Kestrel Valley Police Department reported that three officers sustained minor cuts to their hands on October 14. The injuries were treated at the station.\n\n**SOP DOCUMENT**\n**TITLE:** Kestrel Valley Police Department Standard Operating Procedure\n**SECTION:** 4.2 - Use of Less-Lethal Munitions\n**DESCRIPTION:** The Kestrel Valley Police Department has a standard operating procedure that requires verbal warnings before use of less-lethal munitions. This procedure is mandatory for all officers.",
+ "n_words": 1932,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The headquarters building of Helios Extraction Ltd is located at 400 Ore Road in Kestrel Valley.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "At 09:00 on October 14, 2023, approximately 45 residents gathered in the parking lot of Helios Extraction Ltd.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "The Kestrel Valley Police Department issued a public statement at 09:15 stating that the gathering was unauthorized.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F4",
+   "text": "Body camera footage from Officer J. Stone shows 12 protesters sitting in a circle on the pavement at 09:30.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The local newspaper, The Valley Gazette, reported that Helios Extraction Ltd had increased water usage by 15% in the previous quarter.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F6",
+   "text": "At 09:45, three police officers approached the group with handheld radios.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "A timestamped video uploaded to social media at 09:52 shows the first can of tear gas being discharged from a window of the headquarters.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The Kestrel Valley Police Department maintains a 24-hour log of all calls received.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "Medical records from St. Jude\u2019s Clinic indicate that 15 protesters were treated for respiratory irritation on October 14.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The public prosecutor\u2019s office released a summary stating that the protest had been deemed a public nuisance by city ordinance.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "A drone operator stationed on the roof of the adjacent mill recorded audio of the events from 09:00 to 11:00.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "At 10:00, the number of protesters in the parking lot decreased to 30 due to the dispersal.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "A witness statement from M. Ellis, a resident, describes holding a sign that read 'Save Our Water'.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The Kestrel Valley Police Department has a standard operating procedure that requires verbal warnings before use of less-lethal munitions.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "At 10:15, a crowd of approximately 50 residents formed near the Kestrel Valley Police Station.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "Security camera footage from the police station shows the front door being forced open at 10:20.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F17",
+   "text": "The human-rights NGO filed a complaint with the regional ombudsman on October 15.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The Kestrel Valley Police Department reported that three officers sustained minor cuts to their hands on October 14.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The Helios Extraction Ltd press release stated that they had no employees present at the headquarters at the time of the incident.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The regional court scheduled a hearing for the incident on November 10, 2023.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "M. Ellis (Protest Organizer) stated that No verbal warning was given; the tear gas was fired immediately after the officers arrived.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Officer J. Stone (Police Officer) stated that Three distinct verbal warnings were issued over the loudspeaker for 30 seconds before the tear gas was deployed.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "T. Riva (NGO Researcher) stated that The tear gas was discharged by police officers standing in the parking lot.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Sec. K. Doe (Helios Security Chief) stated that The tear gas was discharged from inside the headquarters building by security personnel to protect the facility.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "L. Parn (Medical Doctor at St. Jude\u2019s) stated that The crowd was seated peacefully and showed no signs of aggression or movement toward officers.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Sgt. A. Thorne (Police Supervisor) stated that A subset of the crowd was actively blocking the exit path and shouting hostile slogans at the officers.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "R. Oakes (Community Leader) stated that The door was opened by a resident who had a key, as part of a planned, non-violent occupation.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Cpt. B. Vane (Police Commander) stated that The door was broken down by a mob using a vehicle bumper, constituting a violent breach.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 28,
+ "settled": []
+}

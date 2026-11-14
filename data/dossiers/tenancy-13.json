@@ -1,0 +1,172 @@
+{
+ "dossier_id": "tenancy-13",
+ "split": "test",
+ "domain": "tenancy",
+ "title": "Vela Art Co-op v. Ironworks Holdings: Hailstorm Structural Dispute",
+ "premise": "An artist in a converted warehouse space in Austin, Texas, disputes the legality of their eviction, citing the landlord's negligence in maintaining structural integrity during a severe hailstorm.",
+ "side_A": {
+  "role": "an organiser with a tenants' union",
+  "goal": "supporting the tenant against an unfair eviction"
+ },
+ "side_B": {
+  "role": "counsel for the landlord",
+  "goal": "justifying the eviction on grounds of lease violations"
+ },
+ "documents": "=== DOCUMENT 1: Incident and Maintenance Log \u2013 Ironworks Holdings Property Management ===\n\n**Property ID:** IH-204-A (Vela Art Co-op Unit)\n**Date Range:** January 1, 2024 \u2013 May 10, 2024\n**Log Type:** Automated Maintenance & Communication Record\n\n**[2024-01-15] 09:14 AM**\n*System Alert:* Receipt of external correspondence.\n*Sender:* R. Alvarez, Certified Roof Inspector (Alvarez & Co. Inspections)\n*Subject:* Routine Inspection Report \u2013 IH-204-A\n*Summary:* Letter attached. Inspector notes \"minor granule loss\" observed on the north-facing roof section. No immediate repair required per manufacturer guidelines. Status: Logged for future review.\n\n**[2024-02-01] 10:00 AM**\n*System Alert:* Lease Renewal Processing.\n*Action:* 2024 Lease Agreement finalized for Tenant: Vela Art Co-op.\n*Details:* Rent increased by 5% to align with Austin Consumer Price Index (CPI). New monthly rent: $4,725.00.\n*Note:* Lease includes standard \"holdover\" clause: Tenant may remain up to 30 days post-termination for a fee of $500/week.\n\n**[2024-03-01] 08:00 AM**\n*System Alert:* Lease Effective Date.\n*Action:* New lease term begins.\n*Clause Reference:* Section 4.2 (Landlord Obligations): Landlord responsible for maintaining roof membrane to manufacturer standards.\n*Clause Reference:* Section 9.1 (Tenant Insurance): Tenant policy covers interior damage up to $50,000, excluding structural failures.\n\n**[2024-04-01] 11:22 AM**\n*System Alert:* Fire Safety Compliance.\n*Action:* Fire sprinkler system inspection completed.\n*Certification:* Compliant. Inspector: J. Miller, State Fire Marshal\u2019s Office.\n\n**[2024-04-20] 14:45 PM**\n*System Alert:* Tenant Communication Received.\n*Sender:* E. Voss, Vela Art Co-op (Tenants' Union Organizer)\n*Subject:* Re: Ceiling Stains\n*Content:* \"We are seeing water spots again. It\u2019s getting worse. We need this looked at. The wear and tear is unacceptable.\"\n*Status:* Logged. No specific leak location identified in text. No emergency flag raised.\n\n**[2024-05-02] 18:30 PM**\n*System Alert:* Severe Weather Event.\n*Source:* National Weather Service (NWS) Alert.\n*Details:* Hailstorm confirmed in Austin area. Hailstones measured at 1.5 inches in diameter.\n*Action:* Emergency protocol initiated for all properties.\n\n**[2024-05-04] 09:15 AM**\n*System Alert:* Tenant Communication Received.\n*Sender:* E. Voss, Vela Art Co-op\n*Subject:* URGENT: Emergency Repair Quote Needed\n*Content:* \"Roof is compromised. We need an emergency repair quote immediately. The damage is extensive.\"\n*Status:* Forwarded to Vendor Contract Holder.\n\n**[2024-05-10] 10:00 AM**\n*System Alert:* Legal Notice Generated.\n*Action:* Eviction Notice served to Tenant.\n*Reason Cited:* \"Failure to pay rent.\"\n*Note:* Primary reason for notice is non-payment. No other reasons listed in the formal notice document.\n\n=== DOCUMENT 2: Witness Statement \u2013 Elena Voss ===\n\n**Statement of Elena Voss**\n**Role:** Tenants' Union Organizer, Vela Art Co-op\n**Date of Statement:** May 15, 2024\n\nI have been the union organizer for the Vela Art Co-op tenants for three years. I know this building, and I know that the landlord, Ironworks Holdings, has been cutting corners on maintenance for years. Their property management company is based in Dallas, Texas, and they manage 50 other units in the state. They treat this building like a distant asset, not a home for artists.\n\nThe situation on May 2 was catastrophic, but it was entirely preventable. We are not just talking about a few drops of water. We are talking about a $120,000 investment in artistic equipment that was stored in the affected ground-floor area. That equipment is our livelihood. It is destroyed.\n\nThe roof membrane was visibly cracked and deteriorating weeks before the storm, making it unable to withstand standard hail. I saw it. I saw the black spots on the north-facing roof section where the granules had completely washed away. It wasn't just \"minor granule loss\" as the inspector\u2019s letter might have vaguely suggested; it was structural decay. The landlord ignored our warnings.\n\nFurthermore, the landlord received specific written notice of a leaking roof section on April 20, 2024, and failed to act. I sent that email. I pointed out the stains. I told them it was a leak. They ignored it. They claimed it was just \"wear and tear,\" which is a lie. It was a breach of their contractual duty to maintain the roof to manufacturer standards.\n\nThe water entered through a pre-existing gap in the flashing, which was a known maintenance failure. I have photos of the gap from before the storm. It was wide enough to put a finger through. When the hail hit, the water didn't just drip; it poured through that gap because the flashing was already detached from the substrate.\n\nNow, they are trying to evict us. The eviction notice was served on May 10, 2024, citing \"failure to pay rent\" as the primary reason. This is a pretext. The \"failure to pay rent\" claim was a pretext, as the tenant had already disputed the rent due to uninhabitable conditions. We did not pay the April rent because the space was not fit for purpose. The gallery space is located on the ground floor, directly beneath the disputed roof section. If the ceiling is dripping on your $120,000 of equipment, you cannot be expected to pay full rent for a hazardous environment.\n\nWe paid the full rent of $4,500 for April 2024 on time, via wire transfer. Wait, I need to clarify the dates. The lease started March 1. The April rent was due on May 1. We disputed it. But the May 10 eviction notice claims non-payment. This is illegal. The dispute over conditions does not constitute a valid legal defense to non-payment under the lease? That is what they say, but it is morally bankrupt. We are being punished for demanding a safe space.\n\nThe storm was severe. The National Weather Service measured hailstones at 1.5 inches in diameter. Yes, it was a bad storm. But a properly maintained roof should have held. The membrane was not in good condition. It was failing. And they left us to the mercy of the storm.\n\n=== DOCUMENT 3: Witness Statement \u2013 Marcus Thorne ===\n\n**Statement of Marcus Thorne**\n**Role:** Landlord\u2019s Counsel, Ironworks Holdings\n**Date of Statement:** May 15, 2024\n\nI represent Ironworks Holdings in this dispute. My client has always adhered to the terms of the lease agreement dated March 1, 2023, and applicable building codes. The local building code requires a minimum roof slope of 2:12 for standing seam metal in the area, and our roof meets this specification. The building was last renovated in 2019, at which time a new HVAC system was installed, ensuring the structure was updated to modern standards. The building's structural engineer certified the load-bearing walls as sound in 2022, which confirms the integrity of the underlying structure.\n\nThe events of May 2, 2024, were an Act of God. The hailstorm was of extreme severity. The National Weather Service confirmed hailstones at 1.5 inches in diameter. This is not standard hail; this is severe weather that exceeds the design limits of many commercial roofing systems.\n\nThe roof membrane was in good condition and fully compliant with standards prior to the storm; the damage was solely due to the severity of the hail. We have a certified inspector who issued a warning letter on January 15, 2024. The letter noted \"minor granule loss\" on the north-facing roof section. This is a normal aging process for asphalt-based membranes. It does not indicate structural failure or a breach of the manufacturer\u2019s standards. The landlord\u2019s maintenance log shows a roof inspection was performed on December 1, 2023, which found the roof to be in acceptable condition.\n\nRegarding the notice of maintenance, no specific notice of a leak was received by the management company before the storm; the tenant only complained about general \"wear and tear.\" The email from Ms. Voss on April 20, 2024, did not specify a leak. It mentioned \"water spots\" and \"wear and tear.\" In the absence of a specific, verified report of a leak, our management team did not have the information to dispatch an emergency repair crew. The landlord's contract with the roof repair vendor includes a 48-hour response time for emergency calls, but this is triggered by a verified emergency, not a general complaint about stains.\n\nThe water entered through a puncture caused by a large hailstone that penetrated the intact membrane. The forensic analysis we have commissioned indicates that the entry point is a clean, circular puncture consistent with the impact of a 1.5-inch hailstone at high velocity. There is no evidence of a pre-existing gap in the flashing. The flashing was intact prior to the storm. The tenant\u2019s claim that the water entered through a pre-existing gap is unfounded and contradicted by the physical evidence of the impact site.\n\nFinally, regarding the eviction. The tenant\u2019s security deposit of $9,000 is held in a segregated interest-bearing account, as required by law. The tenant\u2019s rent was increased by 5% in the 2024 renewal, aligning with the Austin CPI, which is a standard market adjustment. The tenant failed to pay the full rent amount by the deadline, and the dispute over conditions does not constitute a valid legal defense to non-payment under the lease. The lease is clear: rent is due on the 1st. The tenant did not pay the full amount. The eviction notice served on May 10, 2024, is legally sound because the tenant is in breach of the primary financial obligation of the lease. The tenant\u2019s artistic equipment, valued at $120,000, is covered by their own insurance policy, which covers interior damage up to $50,000, excluding structural failures. The tenant is responsible for their own business assets.\n\n=== DOCUMENT 4: Email Correspondence \u2013 Vela Art Co-op to Ironworks Holdings ===\n\n**From:** elena.voss@velaartcoop.org\n**To:** management@ironworksholdings.com\n**Date:** May 4, 2024, 09:15 AM\n**Subject:** URGENT: Emergency Repair Quote Needed \u2013 IH-204-A\n\nTo the Property Management Team,\n\nI am writing to formally request an emergency repair quote for the roof damage sustained during the hailstorm on May 2, 2024.\n\nAs you are aware, the hailstorm was severe, with NWS reporting 1.5-inch hailstones. The impact has resulted in significant water ingress into the building. Specifically, the water is entering the ground floor gallery space, which is located directly beneath the north-facing roof section.\n\nThis area contains sensitive artistic equipment and artwork. We are facing immediate risk of further damage. We request that you contact your roof repair vendor immediately to provide a quote for emergency stabilization and repair.\n\nWe note that your contract with the roof repair vendor includes a 48-hour response time for emergency calls. Given the ongoing nature of the water damage, we consider this an emergency.\n\nWe also remind you that the lease agreement stipulates that the landlord is responsible for maintaining the roof membrane to manufacturer standards. The current state of the roof, following the storm, is a failure of that standard.\n\nWe expect a response within 24 hours.\n\nSincerely,\n\nElena Voss\nTenants' Union Organizer\nVela Art Co-op\n\n**---**\n\n**From:** management@ironworksholdings.com\n**To:** elena.voss@velaartcoop.org\n**Date:** May 4, 2024, 02:30 PM\n**Subject:** RE: URGENT: Emergency Repair Quote Needed \u2013 IH-204-A\n\nDear Ms. Voss,\n\nWe have received your email regarding the roof damage. Please be advised that we are currently reviewing the incident with our insurance carrier and the roof repair vendor.\n\nWe have noted your request for a quote. Please understand that emergency response protocols are activated based on verified structural emergencies. We are gathering data from the storm event and the condition of the roof prior to the event.\n\nRegarding the rent, please note that the April 2024 rent payment was not received in full. The lease requires timely payment of the full amount. The dispute over the condition of the roof does not relieve you of the obligation to pay rent. We will be sending a notice regarding the unpaid balance shortly.\n\nWe will follow up with the vendor\u2019s assessment once available.\n\nSincerely,\n\nIronworks Holdings Property Management\nDallas, TX",
+ "n_words": 1920,
+ "facts": [
+  {
+   "fact_id": "F1",
+   "text": "The lease agreement dated March 1, 2023, stipulates that the landlord is responsible for maintaining the roof membrane to manufacturer standards.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F2",
+   "text": "The tenant's insurance policy covers interior damage up to $50,000, excluding structural failures.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F3",
+   "text": "A certified inspector issued a warning letter on January 15, 2024, noting 'minor granule loss' on the north-facing roof section.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F5",
+   "text": "The local building code requires a minimum roof slope of 2:12 for standing seam metal in the area.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F7",
+   "text": "The tenant's gallery space is located on the ground floor, directly beneath the disputed roof section.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F8",
+   "text": "The landlord's maintenance log shows a roof inspection was performed on December 1, 2023.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F9",
+   "text": "The tenant's rent was increased by 5% in the 2024 renewal, aligning with the Austin CPI.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F10",
+   "text": "The eviction notice was served on May 10, 2024, citing 'failure to pay rent' as the primary reason.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F11",
+   "text": "The tenant's security deposit of $9,000 is held in a segregated interest-bearing account.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F12",
+   "text": "The hailstorm occurred on May 2, 2024, with hailstones measured at 1.5 inches in diameter by the National Weather Service.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F13",
+   "text": "The landlord's contract with the roof repair vendor includes a 48-hour response time for emergency calls.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F14",
+   "text": "The tenant's artistic equipment, valued at $120,000, was stored in the affected ground-floor area.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F15",
+   "text": "The building's fire sprinkler system was inspected and certified compliant on April 1, 2024.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "F16",
+   "text": "The landlord's property management company is based in Dallas, Texas, and manages 50 other units in the state.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F18",
+   "text": "The lease contains a 'holdover' clause allowing the tenant to remain for up to 30 days after termination for a fee of $500/week.",
+   "favors": "B",
+   "contested": false
+  },
+  {
+   "fact_id": "F19",
+   "text": "The tenant's email to the landlord on May 4, 2024, requested an emergency repair quote.",
+   "favors": "A",
+   "contested": false
+  },
+  {
+   "fact_id": "F20",
+   "text": "The building's structural engineer certified the load-bearing walls as sound in 2022.",
+   "favors": "N",
+   "contested": false
+  },
+  {
+   "fact_id": "C1a",
+   "text": "Elena Voss, Tenants' Union Organizer stated that The roof membrane was visibly cracked and deteriorating weeks before the storm, making it unable to withstand standard hail.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C1b",
+   "text": "Marcus Thorne, Landlord's Counsel stated that The roof membrane was in good condition and fully compliant with standards prior to the storm; the damage was solely due to the severity of the hail.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C2a",
+   "text": "Elena Voss, Tenants' Union Organizer stated that The landlord received specific written notice of a leaking roof section on April 20, 2024, and failed to act.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C2b",
+   "text": "Marcus Thorne, Landlord's Counsel stated that No specific notice of a leak was received by the management company before the storm; the tenant only complained about general 'wear and tear'.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C3a",
+   "text": "Elena Voss, Tenants' Union Organizer stated that The water entered through a pre-existing gap in the flashing, which was a known maintenance failure.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C3b",
+   "text": "Marcus Thorne, Landlord's Counsel stated that The water entered through a puncture caused by a large hailstone that penetrated the intact membrane.",
+   "favors": "B",
+   "contested": true
+  },
+  {
+   "fact_id": "C4a",
+   "text": "Elena Voss, Tenants' Union Organizer stated that The 'failure to pay rent' claim was a pretext, as the tenant had already disputed the rent due to uninhabitable conditions.",
+   "favors": "A",
+   "contested": true
+  },
+  {
+   "fact_id": "C4b",
+   "text": "Marcus Thorne, Landlord's Counsel stated that The tenant failed to pay the full rent amount by the deadline, and the dispute over conditions does not constitute a valid legal defense to non-payment under the lease.",
+   "favors": "B",
+   "contested": true
+  }
+ ],
+ "n_items_spec": 28,
+ "n_items_verified": 25,
+ "settled": []
+}
