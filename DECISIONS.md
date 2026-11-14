@@ -124,3 +124,13 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Evidence: 2,736 test descriptions (76 dossiers × 3 models × 12 framings incl. DA/DB). After the first pass 60 were excluded (glm-53-flash 5xx). The planned retry recovered 52. A third pass, run before any test label existed, recovered 4 more gemma empty outputs. 4 remain excluded, all gemma-4-31b-it (N1 ×3 of 76, P2 ×1); no cell is over 4% excluded, under the 10% failure line. Spend for test generation: about 11 credits.
 - Mechanism: Excluded rows are empty outputs or exhausted 5xx retries; they do not depend on content, so retrying them adds no selection.
 - Residue: Three gemma N1 descriptions are missing, so those 3 cells drop out of every N1 analysis.
+
+## D21 (Sat 09:05): Test results from both frozen analyses; 5 of 6 confirmatory predictions held
+- Evidence: hashes checked before running (analyze.py 8135fa2c…, readers.py 1f1af820…). 76 dossiers, 221 complete cells (7 excluded: 3 missing gemma N1, 1 missing gemma P2, 3 B descriptions with no valid labels), 4,486 N1 claims, 327 unwarranted (7.3%). `analysis/results/test/`.
+  - F1: H1a +0.145 [0.100, 0.191], Holm p 0.0003, supported. H2 −0.048 [−0.073, −0.024] and H3 −0.091 [−0.123, −0.061], not supported (both point the wrong way; TOST not equivalent because the effect is outside the margin in the negative direction).
+  - F2: R1 +0.125 [0.071, 0.178], Holm p 0.0003, supported. **R2 +0.035 [0.012, 0.059], Holm p 0.003, supported, against my prediction.** R3 −0.021 [−0.041, 0.002], not supported.
+  - Side-taking-only OPP − SC −0.054 [−0.080, −0.029], as predicted.
+  - Descriptive AUROC: counting SAME 0.654, OPP 0.656, SC 0.704, DIV 0.746; strong reader none 0.828, +SC 0.862, +A/B 0.863, +P 0.884, +debate 0.865; with-file 0.866; weak reader 0.668 / 0.648.
+  - Validation: judge2 κ 0.81; reader ordering holds on judge2 and agreed labels; presence agreement 0.73 (κ 0.36). H1b DiD +0.030 [0.007, 0.052].
+- Claim: R2 failed as a prediction and is reported as such. The R2 gain is matched or exceeded by every other two-description context (SC 0.862, DIV 0.884), so it reflects more context, not opposition (R3 and the descriptive comparisons). The paper says this without upgrading any descriptive comparison to confirmatory.
+- Residue: Nothing was changed after seeing test. The context-generic reading is post hoc interpretation of descriptive numbers.

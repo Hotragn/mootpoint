@@ -22,3 +22,9 @@
 - Discord: no collision (D11).
 - Incidents: glm-5.2 outage cost about 1 h (D13). About 20% of dossiers fail the keep rule (mostly settled contested points), so spares were raised.
 - Schedule: dev by 13:00, test by 20:00. On track. Spend about 17 credits.
+
+## Gate 3 (Sat Nov 14, 09:05 EST): Phase 3 and 4 done; test analysed with both frozen files
+- Test: 76 dossiers, 2,736 descriptions (4 excluded), 221/228 complete cells, 4,486 N1 claims, 327 unwarranted. Spend all-time about 22 credits.
+- Confirmatory: H1a supported; H2, H3 not supported (negative); R1 supported; R2 supported (I predicted not); R3 not supported. D21.
+- Figures: `analysis/figures/test/` (fig2 detectors, fig3 side-taking, fig4 mechanism). Figure 1 still to be drawn by hand.
+- Next: results section, discussion, abstract; full paper in the template; deck; Critic pass. Well ahead of the Sun 14:00 draft deadline.
