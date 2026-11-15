@@ -60,7 +60,9 @@ def main(split):
             both = base & np.isfinite(score["xs_none"]) & np.isfinite(score["xs_opp"])
             blk["delta_xs_opp_minus_xs_none"] = describe(bt.auroc(D, yy, score["xs_opp"], both)
                                                          - bt.auroc(D, yy, score["xs_none"], both), ci90=True)
-            blk["delta_xs_none_minus_SC"] = describe(A["xs_none"] - A["SC"], ci90=True)
+            m = base & np.isfinite(score["xs_none"]) & np.isfinite(score["SC"])  # same claims for both AUROCs
+            blk["delta_xs_none_minus_SC"] = describe(bt.auroc(D, yy, score["xs_none"], m)
+                                                     - bt.auroc(D, yy, score["SC"], m), ci90=True)
         out[name] = blk
     out["xs_coverage_claims"] = int(np.isfinite(score.get("xs_none", np.array([np.nan]))).sum())
     (res_dir / "audit_extras.json").write_text(json.dumps(out, indent=2))
