@@ -5,7 +5,7 @@
 | ProjectTitle* | Common Ground Is Not Neutral Ground: Opposed AI Advocates Disagree by Silence |
 | PDF File* | `Pettugani_MootPoint_AI-Epistemics-2026.pdf` |
 | InterestedInPublishing* | Your call (recommended: yes) |
-| Tracks | Track 1 (claims, honesty benchmarks and what keeps them meaningful). Optional second tick: Track 2 (verification tools). |
+| Tracks | Track 1: Model Epistemics & Decision-Making Evals (primary: MootPoint benchmark of requester-induced side-taking). Track 2: Trust Infrastructure (the reading detector vs consensus filters). |
 | Presentation (URL) | leave blank, or a video link if you record one |
 | Code (URL) | leave blank unless you make the repo public (your decision; I took no outward action) |
 | Slideshow File | `Pettugani_MootPoint_AI-Epistemics-2026_slides.pdf` |
