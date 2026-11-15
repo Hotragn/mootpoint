@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1062px" height="365px" viewBox="0 0 1062 365" style="background:#ffffff">
+<!-- Exported from fig1_method.drawio (viewer.diagrams.net Graph.getSvg), cleaned of dark-mode styles -->
+<style>
+.t{display:flex;justify-content:flex-start;height:1px;font-family:Helvetica,Arial,sans-serif;color:#222222}
+.c{align-items:center}.s{align-items:flex-start}
+.i{display:inline-block;white-space:normal}
+.h{font-size:13px;white-space:nowrap}.b{font-size:11px}.m{font-size:10px;color:#666666}
+.g{color:#666666}
+</style>
+<rect fill="#ffffff" width="100%" height="100%"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:1px;padding-top:12px;margin-left:2px"><div class="i h"><b>1. Case file with known moot points</b></div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:1px;padding-top:12px;margin-left:312px"><div class="i h"><b>2. Same file, different requesters</b></div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:1px;padding-top:12px;margin-left:662px"><div class="i h"><b>3. Flag side-taking claims in N1 without the file</b></div></div></foreignObject>
+
+<rect x="0" y="34" width="270" height="330" rx="10.8" ry="10.8" fill="#ffffff" stroke="#555555" stroke-width="1.5"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t s" style="width:243px;padding-top:51px;margin-left:16px"><div class="i b">Police log · witness statements · medical report · emails<br/><span class="g">(3–5 documents, ~1,700 words)</span></div></div></foreignObject>
+<rect x="14.5" y="100.5" width="242" height="70" rx="5.6" ry="5.6" fill="#eef4fa" stroke="#0072b2"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:232px;padding-top:135px;margin-left:24px"><div class="i b"><b>Verified facts</b> (median 27)<br/>e.g. "Dispersal order issued 14:02"</div></div></foreignObject>
+<rect x="14.5" y="182.5" width="242" height="88" rx="7.04" ry="7.04" fill="#fbefe8" stroke="#d55e00"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:232px;padding-top:226px;margin-left:24px"><div class="i b"><b>Moot points</b> (median 3)<br/>Witness A: "they threw bottles first"<br/>Witness B: "the crowd was seated"<br/><span class="g">Nothing else in the file settles it</span></div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t s" style="width:243px;padding-top:289px;margin-left:16px"><div class="i b">Ground truth by construction: a claim that settles a moot point is <b>side-taking</b></div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t s" style="width:1px;padding-top:339px;margin-left:16px"><div class="i m" style="white-space:nowrap">100 files · 4 domains · 3 generator families</div></div></foreignObject>
+
+<rect x="310" y="42" width="300" height="40" rx="4" ry="4" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:290px;padding-top:62px;margin-left:320px"><div class="i b"><b>N1</b>  no requester: <i>the description we audit</i></div></div></foreignObject>
+<rect x="310.5" y="94.5" width="300" height="48" rx="4.8" ry="4.8" fill="#ffffff" stroke="#555555"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:290px;padding-top:118px;margin-left:320px"><div class="i b"><b>A, B</b>  opposed stakeholders<br/><span class="g">"I work as the prosecutor..." / "...NGO researcher"</span></div></div></foreignObject>
+<rect x="310.5" y="154.5" width="300" height="34" rx="3.4" ry="3.4" fill="#ffffff" stroke="#555555"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:290px;padding-top:171px;margin-left:320px"><div class="i b"><b>N2, N3</b>  neutral resamples</div></div></foreignObject>
+<rect x="310.5" y="200.5" width="300" height="34" rx="3.4" ry="3.4" fill="#ffffff" stroke="#555555"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:290px;padding-top:217px;margin-left:320px"><div class="i b"><b>P1, P2</b>  court clerk, journalist (no stake)</div></div></foreignObject>
+<rect x="310.5" y="246.5" width="300" height="34" rx="3.4" ry="3.4" fill="#ffffff" stroke="#555555"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:290px;padding-top:263px;margin-left:320px"><div class="i b"><b>A2</b>  side A again · <b>DA, DB</b>  instructed debate</div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t s" style="width:298px;padding-top:299px;margin-left:312px"><div class="i m">Every request ends: "Describe what the evidence in this file shows."<br/>Only the opening line changes.</div></div></foreignObject>
+
+<rect x="660" y="42" width="400" height="92" rx="5.52" ry="5.52" fill="#eef4fa" stroke="#0072b2" stroke-width="1.5"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:388px;padding-top:88px;margin-left:672px"><div class="i b"><b><span style="color:#0072B2">Counting</span></b>: keep a claim only if both descriptions in a pair repeat it<br/>Opposed pair (A, B): AUROC <b>0.66</b> · resamples: 0.70<br/><span class="g">Fails: each side stays silent on true facts that hurt it</span></div></div></foreignObject>
+<rect x="660" y="150" width="400" height="92" rx="5.52" ry="5.52" fill="#fbefe8" stroke="#d55e00" stroke-width="1.5"/>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t c" style="width:388px;padding-top:196px;margin-left:672px"><div class="i b"><b><span style="color:#D55E00">Reading</span></b>: a strong model reads N1 (plus any context) and rates each claim<br/>N1 alone: AUROC <b>0.83</b> · with A, B: 0.86 · with resamples: 0.86<br/><span class="g">Opposition adds no more than any other extra context</span></div></div></foreignObject>
+<foreignObject style="overflow:visible" width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml" class="t s" style="width:398px;padding-top:265px;margin-left:662px"><div class="i m">Labels: a judge <i>with</i> the file marks each N1 claim warranted or unwarranted (side-taking or invented); a second judge from another family agrees, κ = 0.81</div></div></foreignObject>
+
+<path d="M 272 160 L 296.82 160" fill="none" stroke="#555555" stroke-width="1.5"/><path d="M 304.32 160 L 296.82 163.75 L 296.82 156.25 Z" fill="#555555" stroke="#555555" stroke-width="1.5"/>
+<path d="M 612 88 L 646.82 88" fill="none" stroke="#0072b2" stroke-width="1.5"/><path d="M 654.32 88 L 646.82 91.75 L 646.82 84.25 Z" fill="#0072b2" stroke="#0072b2" stroke-width="1.5"/>
+<path d="M 612 196 L 646.82 196" fill="none" stroke="#d55e00" stroke-width="1.5"/><path d="M 654.32 196 L 646.82 199.75 L 646.82 192.25 Z" fill="#d55e00" stroke="#d55e00" stroke-width="1.5"/>
+</svg>
