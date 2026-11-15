@@ -32,3 +32,24 @@
 ## Audit (Sat Nov 14, 18:15 EST): `../claude/reviews/AUDIT-20261114-1811.md`
 - Fixed: run outputs tracked + pinned requirements (fresh clone reproduces test results byte for byte); README, DATA_LICENSES; 4 calibration fixes in drafts; number slots filled; combination score and trivial baselines added; AssertBench added; reference check (13/13 verified, `../claude/reviews/REFERENCE-CHECK.md`); blind human-label sheet.
 - Open: no paper/PDF/Figure 1/deck/submission; no commits 09:28–18:11; cross-family strong reader not run; human labels. Paper email confirmed by Hotragn: pettugani.h@northeastern.edu.
+
+## Gate 4 (Sat Nov 14, 20:00 EST): final audit and upgrade done; submission package ready (NOT submitted)
+- Report: `../claude/reviews/AUDIT-FINAL.md` (PASS/FAIL/FIXED with evidence). Naming: `../claude/brainstorm/NAMING.md`. References: `../claude/reviews/REFERENCE-CHECK.md` (19 verified, 0 hallucinated).
+- New title: **Common Ground Is Not Neutral Ground: Opposed AI Advocates Disagree by Silence**. Benchmark name: **MootPoint**.
+- New evidence (exploratory, after test):
+  - glm-5.2 cross-family reader 0.836 / 0.849 (rules out judge self-agreement);
+  - same-model file ceiling 0.909;
+  - contradiction counting 0.513 (chance), giving the "disagree by silence" mechanism;
+  - trivial baselines.
+- Paper: `paper/paper.md` → `submission/Pettugani_MootPoint_AI-Epistemics-2026.pdf` (12 pp; main text ends p8; abstract 242 words) and `.docx` (official template). Deck: `…_slides.pdf` (7 slides). Form answers: `submission/FORM-ANSWERS.md`.
+- Checks:
+  - `paper/check_numbers.py` 41/41 + 14/14;
+  - fresh clone byte-identical, 85 tests pass;
+  - secrets scan clean;
+  - Codex read-only review (1 bug fixed, 1 latent noted).
+- Spend about 25 credits in total. No money spent. Nothing posted or submitted.
+- **Needs Hotragn:**
+  1. dismiss the Microsoft Word dialog, then optionally re-export the PDF from the `.docx`;
+  2. optional human labels (`analysis/human_labels/`, 60–90 min);
+  3. submit via the form;
+  4. decide whether to make the repo public.
