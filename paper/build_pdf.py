@@ -37,6 +37,7 @@ p { margin: 0 0 6pt 0; text-align: justify; }
 ul { margin: 0 0 6pt 0; padding-left: 16pt; } li { margin-bottom: 3pt; text-align: justify; }
 figure { margin: 8pt 0 10pt 0; page-break-inside: avoid; text-align: center; }
 figure img { max-width: 100%; }
+.tcap { page-break-after: avoid; }
 figcaption, .tcap { font-size: 9pt; text-align: justify; line-height: 1.25; margin-top: 4pt; }
 table { border-collapse: collapse; margin: 3pt auto 10pt auto; font-size: 8.8pt; page-break-inside: avoid; }
 th, td { border-top: 1px solid #999; border-bottom: 1px solid #999; padding: 2.5pt 6pt; text-align: left; }
