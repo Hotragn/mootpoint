@@ -68,7 +68,7 @@ def fig_detectors(res, rd, extra, out):
     ax.set_ylim(y + 0.3, 0.6)
     ax.axvline(0.5, color=MUTED, lw=0.8, ls=":")
     ax.set_xlim(0.45, 1.0)
-    ax.set_xlabel("AUROC for unwarranted N1 claims\n(95% dossier-cluster bootstrap CI; 4,486 claims, 327 unwarranted)")
+    ax.set_xlabel(f"AUROC for unwarranted N1 claims (95% CI)\n{rd['n']['N1_claims']:,} claims, {rd['n']['N1_unwarranted']} unwarranted")
     ax.grid(axis="x", color="#e5e5e5", lw=0.6)
     ax.tick_params(axis="y", length=0)
     ax.spines["left"].set_visible(False)

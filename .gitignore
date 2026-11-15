@@ -7,3 +7,4 @@ __pycache__/
 !runs/dev/
 !runs/test/
 !runs/pilot/
+paper/build/

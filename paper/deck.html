@@ -1,0 +1,99 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Common Ground Is Not Neutral Ground (deck)</title>
+<style>
+@page { size: 13.333in 7.5in; margin: 0; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Charter, 'Iowan Old Style', 'Times New Roman', serif; color: #1a1a1a; font-variant-numeric: lining-nums; }
+.s { width: 13.333in; height: 7.5in; padding: 0.6in 0.8in; page-break-after: always; position: relative; overflow: hidden; }
+h1 { font-size: 40pt; margin: 0 0 0.2in 0; line-height: 1.1; }
+h2 { font-size: 30pt; margin: 0 0 0.25in 0; line-height: 1.15; }
+p, li { font-size: 19pt; line-height: 1.35; }
+ul { margin: 0.1in 0 0 0; padding-left: 0.35in; } li { margin-bottom: 0.12in; }
+.sub { font-size: 22pt; color: #444; margin: 0 0 0.4in 0; }
+.foot { position: absolute; bottom: 0.35in; left: 0.8in; right: 0.8in; font-size: 11pt; color: #777; display: flex; justify-content: space-between; }
+.big { font-size: 54pt; font-weight: bold; line-height: 1; }
+.blue { color: #0072B2; } .orange { color: #D55E00; } .gray { color: #666; }
+.row { display: flex; gap: 0.5in; align-items: center; }
+.col { flex: 1; }
+.stat { margin-bottom: 0.3in; } .stat .lab { font-size: 15pt; color: #555; margin-top: 4pt; }
+img { display: block; }
+.quote { border-left: 4px solid #D55E00; padding-left: 0.25in; font-size: 21pt; line-height: 1.4; margin: 0.2in 0 0.35in 0; }
+.note { font-size: 14pt; color: #555; }
+</style></head><body>
+
+<div class="s">
+  <div style="margin-top:1.4in">
+    <h1>Common Ground Is Not Neutral Ground</h1>
+    <p class="sub">Opposed AI advocates disagree by silence</p>
+    <p style="font-size:18pt">Hotragn Pettugani · Independent Researcher<br><span class="gray">AI x Epistemics Research Sprint, November 2026 · with Apart Research</span></p>
+    <p class="note" style="margin-top:0.5in">Benchmark: <b>MootPoint</b>, 100 case files whose contested ("moot") points are known by construction</p>
+  </div>
+</div>
+
+<div class="s">
+  <h2>The problem: the requester leaks into the "facts"</h2>
+  <div class="quote">Same protest video, same model. Prompted as a human-rights activist: <i>disproportionate force</i>. Prompted as a prosecutor: <i>an illegal mob committing arson</i>.<br><span class="note">Example from a visual investigator's talk at this sprint</span></div>
+  <p>A natural fix, borrowed from courts and Community Notes: <b>ask both opposed sides, keep only what both say.</b></p>
+  <p>It needs no labels and no access to the source. I tested it against ground truth.</p>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>2</span></div>
+</div>
+
+<div class="s">
+  <h2>Method: MootPoint and two kinds of detector</h2>
+  <img src="figures/fig1_method.png" style="width:11.7in;margin-top:0.15in">
+  <p class="note" style="margin-top:0.3in">3 generator families · 2,736 test descriptions · 4,486 neutral claims labelled (327 unwarranted) · hypotheses and analysis code frozen before the test split was judged</p>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>3</span></div>
+</div>
+
+<div class="s">
+  <h2>Result 1: who asks changes what the model asserts</h2>
+  <div class="row">
+    <div class="col"><img src="../analysis/figures/test/fig3_sidetaking.png" style="width:5.6in"></div>
+    <div class="col">
+      <div class="stat"><div class="big orange">+0.145</div><div class="lab">shift of side-taking toward the requester<br>95% CI [0.100, 0.191], Holm p = 0.0003</div></div>
+      <p>A stakeholder's description takes its own side on contested points more often than a neutral description of the same file.</p>
+    </div>
+  </div>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>4</span></div>
+</div>
+
+<div class="s">
+  <h2>Result 2: common ground is a <i>worse</i> filter than resampling</h2>
+  <div class="row">
+    <div class="col">
+      <div class="stat" style="margin-bottom:.15in"><div class="big blue" style="font-size:44pt">0.66</div><div class="lab">AUROC, agreement of opposed sides (A, B)</div></div>
+      <div class="stat" style="margin-bottom:.15in"><div class="big blue" style="font-size:44pt;opacity:.75">0.70</div><div class="lab">agreement of two neutral resamples</div></div>
+      <div class="stat" style="margin-bottom:.15in"><div class="big blue" style="font-size:44pt;opacity:.6">0.75</div><div class="lab">agreement of a clerk and a journalist</div></div>
+      <p class="note">Opposed − resamples: −0.048 [−0.073, −0.024]</p>
+    </div>
+    <div class="col"><img src="../analysis/figures/test/fig4_mechanism.png" style="width:6.4in"></div>
+  </div>
+  <p style="margin-top:0.05in;font-size:18pt"><b>Why:</b> advocates contradict 1.3% of true claims but <b>leave out</b> 39% (resamples: 29%). "Keep what both say" throws away truth. Counting contradictions instead: 0.51, chance.</p>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>5</span></div>
+</div>
+
+<div class="s">
+  <h2>What works: a strong model reading the neutral text</h2>
+  <div class="row">
+    <div class="col"><img src="../analysis/figures/test/fig2_detectors.png" style="width:5.6in"></div>
+    <div class="col">
+      <div class="stat"><div class="big orange">0.83–0.84</div><div class="lab">AUROC, strong reader on the neutral description alone<br>(qwen3.5-397b; glm-5.2 from another family)</div></div>
+      <div class="stat"><div class="big gray">0.91</div><div class="lab">same model reading the case file (ceiling)</div></div>
+      <p>Opposed descriptions add at most +0.035, no more than any two extra descriptions. A weaker reader: 0.67.</p>
+    </div>
+  </div>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>6</span></div>
+</div>
+
+<div class="s">
+  <h2>Takeaway</h2>
+  <ul>
+    <li><b>What opposed AI advocates both say is not a neutrality signal.</b> Bridging-style filters on AI outputs lose true facts and keep shared side-taking.</li>
+    <li><b>Use a strong reader instead:</b> flag claims in the description, send flagged claims back to the evidence. Flags add friction, not verdicts.</li>
+    <li><b>Rigour:</b> pre-registered and frozen (sha256), dev → test replication, 5 of 6 predictions held (one failed and is reported), second judge κ = 0.81, cross-family reader, trivial baselines.</li>
+    <li><b>Limits:</b> synthetic, model-written case files; model labels (human sheet prepared); one sample per framing.</li>
+  </ul>
+  <p class="note" style="margin-top:0.3in">MootPoint, code, outputs and frozen analysis: available on request · every number regenerates offline</p>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>7</span></div>
+</div>
+</body></html>

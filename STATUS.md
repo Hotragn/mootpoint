@@ -28,3 +28,7 @@
 - Confirmatory: H1a supported; H2, H3 not supported (negative); R1 supported; R2 supported (I predicted not); R3 not supported. D21.
 - Figures: `analysis/figures/test/` (fig2 detectors, fig3 side-taking, fig4 mechanism). Figure 1 still to be drawn by hand.
 - Next: results section, discussion, abstract; full paper in the template; deck; Critic pass. Well ahead of the Sun 14:00 draft deadline.
+
+## Audit (Sat Nov 14, 18:15 EST): `../claude/reviews/AUDIT-20261114-1811.md`
+- Fixed: run outputs tracked + pinned requirements (fresh clone reproduces test results byte for byte); README, DATA_LICENSES; 4 calibration fixes in drafts; number slots filled; combination score and trivial baselines added; AssertBench added; reference check (13/13 verified, `../claude/reviews/REFERENCE-CHECK.md`); blind human-label sheet.
+- Open: no paper/PDF/Figure 1/deck/submission; no commits 09:28–18:11; cross-family strong reader not run; human labels. Paper email confirmed by Hotragn: pettugani.h@northeastern.edu.
