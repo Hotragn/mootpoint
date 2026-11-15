@@ -1,0 +1,76 @@
+{
+  "note": "exploratory, after test; second matcher glm-5.2",
+  "n_claims": 4486,
+  "n_unwarranted": 327,
+  "auroc": {
+    "OPP": {
+      "estimate": 0.6206440033147229,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.5701468276296994,
+      "ci95_high": 0.6700018247718855
+    },
+    "SC": {
+      "estimate": 0.6510765128938164,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.5978453582565209,
+      "ci95_high": 0.7029244578163563
+    },
+    "DIV": {
+      "estimate": 0.685500954784326,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.6329261035830627,
+      "ci95_high": 0.7364880624260425
+    },
+    "SAME": {
+      "estimate": 0.6178476653923954,
+      "n_boot_valid": 10000,
+      "ci95_low": 0.5683796882195296,
+      "ci95_high": 0.6670917900657697
+    }
+  },
+  "delta": {
+    "OPP_SC": {
+      "estimate": -0.030432509579093492,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.05242509183578347,
+      "ci95_high": -0.00775489311022129,
+      "ci90_low": -0.04914760751876903,
+      "ci90_high": -0.01142137908700796
+    },
+    "OPP_DIV": {
+      "estimate": -0.06485695146960313,
+      "n_boot_valid": 10000,
+      "ci95_low": -0.08922526569935171,
+      "ci95_high": -0.04048296301556571,
+      "ci90_low": -0.0851898281283565,
+      "ci90_high": -0.04447030472942604
+    }
+  },
+  "rates": {
+    "OPP": {
+      "warranted_repeated_by_both": 0.7220485693676365,
+      "warranted_contradicted_by_either": 0.021639817263765328,
+      "unwarranted_repeated_by_both": 0.5198776758409785
+    },
+    "SC": {
+      "warranted_repeated_by_both": 0.8064438566963212,
+      "warranted_contradicted_by_either": 0.005770617937004088,
+      "unwarranted_repeated_by_both": 0.5321100917431193
+    },
+    "DIV": {
+      "warranted_repeated_by_both": 0.7961048328925222,
+      "warranted_contradicted_by_either": 0.005049290694878576,
+      "unwarranted_repeated_by_both": 0.4617737003058104
+    },
+    "SAME": {
+      "warranted_repeated_by_both": 0.7600384707862466,
+      "warranted_contradicted_by_either": 0.013705217600384708,
+      "unwarranted_repeated_by_both": 0.5535168195718655
+    }
+  },
+  "matcher_agreement": {
+    "n_cells": 31878,
+    "agreement": 0.8609072087332957,
+    "kappa": 0.6036878696527088
+  }
+}
