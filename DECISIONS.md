@@ -121,7 +121,7 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
 - Evidence: `analysis/FREEZE-READERS.md`; 85/85 tests pass across the project; dev check only; `runs/test` not opened. analyze.py is unchanged (8135fa2c…). Recorded before any test description was judged.
 
 ## D20 (Sat 08:10): Test descriptions final; one extra retry pass before judging
-- Evidence: 2,736 test descriptions (76 dossiers × 3 models × 12 framings incl. DA/DB). After the first pass 60 were excluded (glm-53-flash 5xx). The planned retry recovered 52. A third pass, run before any test label existed, recovered 4 more gemma empty outputs. 4 remain excluded, all gemma-4-31b-it (N1 ×3 of 76, P2 ×1); no cell is over 4% excluded, under the 10% failure line. Spend for test generation: about 11 credits.
+- Evidence: 2,280 test descriptions (76 dossiers × 3 models × 10 framings incl. DA/DB; corrected Sun Nov 15 from a miscount of 2,736). After the first pass 60 were excluded (glm-53-flash 5xx). The planned retry recovered 52. A third pass, run before any test label existed, recovered 4 more gemma empty outputs. 4 remain excluded, all gemma-4-31b-it (N1 ×3 of 76, P2 ×1); no cell is over 4% excluded, under the 10% failure line. Spend for test generation: about 11 credits.
 - Mechanism: Excluded rows are empty outputs or exhausted 5xx retries; they do not depend on content, so retrying them adds no selection.
 - Residue: Three gemma N1 descriptions are missing, so those 3 cells drop out of every N1 analysis.
 

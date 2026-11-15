@@ -4,7 +4,7 @@ Code, benchmark and data for "Common Ground Is Not Neutral Ground: Opposed AI Ad
 
 **Finding.** When the same evidence is described for opposed stakeholders, keeping only what both descriptions say is a *worse* detector of side-taking than plain resampling (AUROC 0.656 vs 0.704), because advocates disagree by silence: they omit true facts that hurt them instead of contradicting them. A strong model reading the neutral description alone does far better (0.83–0.84; ceiling with the file 0.91).
 
-**MootPoint** is the benchmark: 100 synthetic case files whose contested ("moot") points are known by construction, with 2,736 test descriptions under ten requester framings and 13,514 labelled claims.
+**MootPoint** is the benchmark: 100 synthetic case files whose contested ("moot") points are known by construction, with 2,280 test descriptions under ten requester framings and 13,514 labelled claims.
 
 ## Reproduce every number (offline, no API key)
 Run outputs (`runs/dev`, `runs/test`) are committed.
