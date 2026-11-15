@@ -91,7 +91,7 @@ Reader capability matters more than context. A weaker reader from another family
 
 ## 4.4 The reading result is not judge self-agreement
 The main reader is the same model as the labelling judge, so its AUROC could reflect shared habits rather than detection. Three checks argue against this.
-- **A reader from another family.** glm-5.2 reads the same inputs and reaches 0.836 [0.796, 0.870] on N1 alone and 0.849 [0.810, 0.884] with A and B (exploratory). Opposition adds +0.013 [−0.007, 0.035].
+- **A reader from another family.** glm-5.2 (GLM family, unlike the Qwen judge; it does share a family with one generator, glm-53-flash) reads the same inputs and reaches 0.836 [0.796, 0.870] on N1 alone and 0.849 [0.810, 0.884] with A and B (exploratory). Opposition adds +0.013 [−0.007, 0.035].
 - **Labels from another family.** The second judge agrees with the first on the outcome with κ = 0.81. On its labels, closed-book qwen readers score 0.874 to 0.909 and glm-5.2 scores 0.882 to 0.891; counting stays between 0.656 and 0.747.
 - **A same-model ceiling.** glm-5.2 reading the case file reaches 0.909 [0.878, 0.936]. Closed-book reading by the same model loses 0.074 [0.048, 0.102] of AUROC without the file and 0.060 with the opposed descriptions.
 
