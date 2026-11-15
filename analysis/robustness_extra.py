@@ -83,6 +83,8 @@ def main(run):
         m = (S["domain"] == dom).to_numpy()
         out["per_domain"][dom] = {d: dict(describe(bt.auroc(D, y, S[d].to_numpy(float), m & np.isfinite(S[d].to_numpy(float)))),
                                           n_pos=int(y[m].sum())) for d in dets}
+        out["per_domain"][dom]["OPP_minus_SC"] = describe(bt.auroc(D, y, S["OPP"].to_numpy(float), m)
+                                                          - bt.auroc(D, y, S["SC"].to_numpy(float), m))
     assert out["n_unwarranted"] > 0 and out["no_evaluative_words"]["SC"]["n"] > 0
     (res / "robustness_extra.json").write_text(json.dumps(out, indent=2))
     show = lambda b: {k: round(v["estimate"], 3) for k, v in b.items() if isinstance(v, dict) and "estimate" in v}
