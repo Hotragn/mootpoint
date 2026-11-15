@@ -44,15 +44,15 @@ def load_dossiers(split):
     return ds
 
 
-async def run(split, limit=None, models=GENERATORS):
+async def run(split, limit=None, models=GENERATORS, rep=0):
     llm = LLM(concurrency=24)
     ds = load_dossiers(split)[:limit]
-    out = ROOT / "runs" / split
+    out = ROOT / "runs" / (f"{split}_r{rep}" if rep else split)  # rep > 0: independent replicate, fresh draws
     out.mkdir(parents=True, exist_ok=True)
 
     async def one(d, m, f):
         try:
-            text = await llm.call(m, INSTR, prompt(d, f), temperature=0.7, max_tokens=900, sample=SAMPLE[f], tag=f"desc_{split}")
+            text = await llm.call(m, INSTR, prompt(d, f), temperature=0.7, max_tokens=900, sample=SAMPLE[f] + 10 * rep, tag=f"desc_{split}_r{rep}")
             n = len(text.split())
             assert n >= 60, f"description too short ({n} words)"
             return dict(dossier_id=d["dossier_id"], model=m, framing=f, text=text, n_words=n, excluded=False)
@@ -72,5 +72,6 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--split", required=True)
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--rep", type=int, default=0, help="replicate index; >0 writes runs/<split>_r<rep>")
     a = ap.parse_args()
-    asyncio.run(run(a.split, a.limit))
+    asyncio.run(run(a.split, a.limit, rep=a.rep))

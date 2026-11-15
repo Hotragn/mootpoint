@@ -206,13 +206,20 @@ async def retry_json(llm, model, instr, prompt, validate, max_tokens, tag):
     return None
 
 
+RUN = None  # --run: folder under runs/ (replicates); rows keep the dossier split
+
+
+def rundir(split):
+    return ROOT / "runs" / (RUN or split)
+
+
 def load(split):
     dossiers = {}
     for p in (ROOT / "data" / "dossiers").glob("*.json"):
         d = json.loads(p.read_text())
         dossiers[d["dossier_id"]] = d
-    descs = [json.loads(l) for l in open(ROOT / "runs" / split / "descriptions.jsonl")]
-    deb = ROOT / "runs" / split / "descriptions_debate.jsonl"
+    descs = [json.loads(l) for l in open(rundir(split) / "descriptions.jsonl")]
+    deb = rundir(split) / "descriptions_debate.jsonl"
     if deb.exists():
         descs += [json.loads(l) for l in open(deb)]
     cells = defaultdict(dict)
@@ -225,7 +232,7 @@ def load(split):
 
 def write(split, name, rows):
     assert rows, f"{name}: no rows produced"
-    with open(ROOT / "runs" / split / name, "w") as fh:
+    with open(rundir(split) / name, "w") as fh:
         for r in rows:
             fh.write(json.dumps(r) + "\n")
 
@@ -351,7 +358,7 @@ async def run(split, stages):
     if "labels" in stages:
         rows = await stage_labels(llm, split, dossiers, cells)
     else:
-        rows = [json.loads(l) for l in open(ROOT / "runs" / split / "claims.jsonl")]
+        rows = [json.loads(l) for l in open(rundir(split) / "claims.jsonl")]
     tasks = []
     if "presence" in stages:
         tasks.append(stage_presence(llm, split, cells, rows))
@@ -366,6 +373,8 @@ async def run(split, stages):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--split", required=True)
+    ap.add_argument("--run", help="folder under runs/ to read and write (default: the split)")
     ap.add_argument("--stages", default="labels,presence,verifiers")
     a = ap.parse_args()
+    RUN = a.run
     asyncio.run(run(a.split, set(a.stages.split(","))))
