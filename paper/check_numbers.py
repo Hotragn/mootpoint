@@ -20,6 +20,7 @@ sgn = lambda v: (f"+{v:.3f}" if v >= 0 else f"−{abs(v):.3f}")
 A = rd["descriptive"]["auroc"]
 both = lambda p, y: (sig[f"k_{p}"] == 2)[sig.y == y]
 rc = json.loads((ROOT / "analysis" / "results" / "test_r1" / "replicate_compare.json").read_text())
+an = json.loads((R / "ai_annotator.json").read_text())
 rr = rc["test_r1"]; rp = rr["tests"]
 contra = lambda p, y: (sig[f"contra_{p}"] > 0)[sig.y == y].mean()
 
@@ -60,6 +61,8 @@ CHECKS = {  # printed string -> source description
     sgn(rp["H1a"]["estimate"]): True, sgn(rp["R1"]["estimate"]): True, sgn(rp["R2"]["estimate"]) + " " + ci(rp["R2"]): True,
     f3(rr["auroc"]["OPP"]["estimate"]) + ", SC " + f3(rr["auroc"]["SC"]["estimate"]): True,
     "Same decision on all six tests": all(rc["same_decision"].values()),
+    # third-family AI annotator (analysis/ai_annotator.py)
+    f"{100 * an['judge']['agreement']:.0f}% of claims (κ {an['judge']['kappa']:.2f} [{an['judge']['kappa_ci95'][0]:.2f}, {an['judge']['kappa_ci95'][1]:.2f}])": True,
     f"rerun: {100 * rr['warranted_repeated_by_both']['OPP']:.0f}% and {100 * rr['warranted_repeated_by_both']['SC']:.0f}%": True,
 }
 DECK = ["0.66", "0.70", "0.75", "+0.145", "[0.100, 0.191]", "1.3%", "39%", "29%", "0.51", "0.83–0.84", "0.91", "+0.035", "0.67", "κ = 0.81"]

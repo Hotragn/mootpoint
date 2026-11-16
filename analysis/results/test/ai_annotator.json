@@ -1,0 +1,28 @@
+{
+  "note": "exploratory; Codex (GPT-6) AI annotator, not human labels",
+  "n": 99,
+  "abstained": 1,
+  "judge": {
+    "agreement": 0.8888888888888888,
+    "kappa": 0.7775280898876403,
+    "kappa_ci95": [
+      0.6458333333333333,
+      0.8990347660117775
+    ]
+  },
+  "judge2": {
+    "agreement": 0.8080808080808081,
+    "kappa": 0.6032482598607889
+  },
+  "judge_vs_judge2_same_items": {
+    "agreement": 0.8383838383838383,
+    "kappa": 0.6758084322554235
+  },
+  "ai_W_on_judge_label": {
+    "GOLD": 36,
+    "NEUTRAL_INFERENCE": 3,
+    "SIDE_TAKING": 5,
+    "SUPPORTED_OTHER": 8,
+    "UNSUPPORTED_FACT": 3
+  }
+}

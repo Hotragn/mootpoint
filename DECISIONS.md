@@ -143,3 +143,8 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
   - Two Codex CLI read-only reviews (`../claude/reviews/CODEX-JUDGE-REVIEW*.md`); wording fixes applied. Description count corrected from 2,736 to 2,280 (D20 fixed in place).
 - Claim: the paper now says the opposed pair is "no better than" resampling, not "worse". "Worse than the non-stakeholder pair" (H3) and the omission mechanism hold in both runs.
 - Residue: two runs are a small sample of run-to-run variance. No human labels yet. Spend about 40 credits in total; no money spent.
+
+## D23 (Sun 23:00): Validation sheet labelled by an AI annotator, reported as such
+- Evidence: Codex (GPT-6) labelled the 100-claim sheet (55 W, 44 U, 1 abstention); files hash-frozen before the key was opened (`verify_ai_labels.py` PASS). `analysis/ai_annotator.py` → `results/test/ai_annotator.json`: agreement with judge 89%, κ 0.78 [0.65, 0.90]; with judge2 81%, κ 0.60; judge vs judge2 on the same items κ 0.68.
+- Claim: one sentence in Section 4.4 says the sheet was labelled by a model, not by hand (Hotragn asked for a single sentence, no extra table row). The paper still says no human labels exist; the LLM Usage Statement names Codex.
+- Residue: the annotator saw structured contested/settled metadata and knew the 50/50 sampling; I (Claude) have now opened the key, so any later human labelling must be done without me showing it.

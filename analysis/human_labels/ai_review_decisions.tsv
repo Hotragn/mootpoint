@@ -1,0 +1,101 @@
+item	label	evidence	review_flag	rationale
+1	W	C3a		Accurately attributes the terrain explanation to Elias rather than adopting it.
+2	U	F11-F12; C1a-C1b		Recorded leg contact does not resolve the disputed baton-versus-shoulder account or establish the same participants.
+3	U	C1a-C1b; Document 1 inspection	inconsistent_source	The causal conclusion favors one disputed account; an intact spring in the manufacturer inspection does not establish user error.
+4	W	C4a-C4b		Both accounts explicitly disagree about a dog in the unit.
+5	W	C3a; Sarah Jenkins and Tommy O'Neal statements		Both witnesses describe not hearing warnings due to environmental noise; attribution preserves the dispute.
+6	U	C4a-C4b		Treats blueprint ambiguity as established although the foreman disputes it; potentially does not remove that presupposition.
+7	U	C1a-C1b; F13-F14		Injuries are documented but characterizing the gathering as peaceful adopts a contested account.
+8	W	F4		The injury record specifies second-degree burns and facial lacerations.
+9	W	C1b		Accurately reports the property manager's limited-damage account.
+10	W	F1; F6; F12; maintenance log	wording	Removal on March 12 precedes the March 13 written request; landlord is understood as commissioning removal by a technician.
+11	W	F13-F16; Document 1 telemetry section	wording	The file supplies collision-force and robot telemetry but no independent forklift speed measurement resolving 5 versus 12 mph.
+12	W	Omar Hassan statement	wording	He describes initial warmth followed by recognizing excessive heat at 07:45; gradual onset is a paraphrase, though he also calls the failure sudden.
+13	W	Case documents; F1; F10; F12; C1-C4		The case concerns these parties and maintenance, storm damage, and eviction.
+14	W	C3b		Correctly attributes the improper-thread-feeding explanation to Marcus.
+15	W	C3a; F8		Accurately attributes the marketing allegation and quotes the packaging age warning.
+16	U	C2a-C2b		Treats the disputed adequacy of the warning as resolved and adds a procedural-formality interpretation.
+17	U	C4a-C4b		Promotes the supervisor's disputed recollection of a complaint to an unqualified fact.
+18	U	C3a-C3b		Adopts the hailstone account despite the competing pre-existing-gap explanation.
+19	W	F2-F3		The stated 2.2-meter distance exceeds the case's 1.5-meter requirement.
+20	U	F7; case documents	outside_file	The case records BAC but supplies no driving-limit rule; this requires outside legal context beyond the file-only rubric.
+21	U	F9; C1a-C1b		Failure to recover projectiles does not directly contradict aggression or advancing toward an officer.
+22	W	Thomas Wright statement on May 2023 reports		Correctly attributes the company's denial and user-error characterization.
+23	U	F11-F12; Document 1 timeline	inconsistent_source	The gap contains a contact timestamp, but no exact removal window is established; the report places group removal at 11:30.
+24	W	David Miller press-conference statement		The company's public statement attributes invisible micro-fractures to degradation under sustained use.
+25	U	C3a-C3b		The label's visibility and damage are explicitly disputed.
+26	U	C1a-C1b		Selects manufacturing defect over the disputed improper-storage explanation.
+27	W	Manufacturer public statement; F6		The replacement program is explicitly described as precautionary and not an admission of fault.
+28	U	C1a-C1b; C2a-C2b; F14-F17		Leak evidence does not settle the broader disputed characterization of chronic neglect and deterioration.
+29	U	F18; C2a-C2b	wording	Stationarity is established; the added no-threat assessment is a witness interpretation rather than a settled fact.
+30	U	C2a-C2b		Rope placement is disputed; this adopts the manufacturer's version.
+31	U	F14; C2b		Objects can be thrown without subsequently being recovered; the official record itself reports debris injuries.
+32	W	C3a		Accurately attributes Chen's objection concerning long-term rehabilitation costs.
+33	W	C2b		Matches the hiker's admission about fatigue and not checking the visible lock indicator.
+34	W	F13; F15-F16		The footage and doorman record support two unrecognized people leaving with canvas frames on March 20.
+35	W	F4; F14		The authorization record gives Elena Ross and 14:28:00.
+36	U	C2a-C2b		Whether a specific pre-storm leak warning was received is contested.
+37	U	C1a-C1b		Ranks disputed accounts of who initiated violence without a settled resolution.
+38	W	C2b		Faithfully attributes Marcus's interpretation of the video.
+39	U	C2a-C2b; C3a-C3b		Adopts a disputed design-flaw and inadequate-feedback explanation as fact.
+40	U	C1a-C1b; C3a-C3b		Declares a disputed gate account true and assigns responsibility without resolution.
+41	W	C3b; Marcus Thorne statement		Reports the landlord counsel's hailstone explanation as his account.
+42	W	F20		The entire unusual cost-and-insurance statement is explicitly present in the case facts.
+43	W	F12		The notice was sent June 20, 2023.
+44	U	C3a-C3b		Gradual swelling and warning noises are expressly disputed by the supervisor.
+45	W	C2a-C2b		Accurately describes the competing causal accounts without choosing one.
+46	U	F11; C4a-C4b		An earlier water-heater service does not rule out later freezing of the water supply.
+47	U	C4a-C4b		The hedged conclusion still favors one account of de-escalation over another.
+48	W	F9-F10; retained-expert statement	wording	The company-retained expert explicitly compares 350 miles with the 400-mile average lifespan.
+49	U	F16; C4a-C4b		Adopts the immediate-deployment account; the record also describes repeated orders over 90 seconds.
+50	W	F3; F7; inspection account		The inspection supports the date, inspector, bathroom location, and observed dripping.
+51	U	F8-F9; medical report		Injuries are documented but police causation is not; the medical report suggests accidental sharp-edge contact.
+52	W	C3b		Correctly attributes the normal-wear interpretation to Lara Singh.
+53	W	C1b	wording	Read as reporting Dreyer's claimed defensive rationale, not independently endorsing the response as justified.
+54	U	C3a-C3b		Adopts one side's disputed judgment about manageability and emergency necessity.
+55	W	Environmental Inspection Report B heading		The commissioning party is explicitly Sterling Properties / Apex Living.
+56	U	C3a-C3b		Reasonableness and imminence of the perceived threat are contested.
+57	U	C1a; investigative report witness consensus		The 14 bystanders establish no contact before 14:35, not who initiated the confrontation.
+58	W	F6		Medical records document approximately three minutes unconscious.
+59	U	C1a-C1b		Compelling endorses a contested mechanical explanation instead of neutrally attributing it.
+60	W	F15		The body-camera record explicitly shows facing the crowd.
+61	U	F12; Marcus Thorne statement; C1a-C1b	wording	Video shows an unspecified deputy and activist; identifying them as Wright and Green is Thorne's belief, so contradiction is not established.
+62	W	Incident report section VIII		The report explicitly records release the following morning.
+63	W	Document 5 emails at 13:45 and 13:55		The chief explicitly requests locking the gate and maximum volume before the incident.
+64	U	C4a-C4b		Pre-existing manufacturing defects versus fall damage is disputed.
+65	U	C4a-C4b		The multi-batch material-sensitivity account is contested by the batch-specific explanation.
+66	W	F10; C2a-C2b		A complaint establishes awareness of the issue without settling who placed the obstruction.
+67	U	C2a-C2b		Ranks competing witness credibility; missing corroboration does not establish that warnings were not heard.
+68	W	C4a		Accurately attributes the software-miscalculation explanation to Chen.
+69	U	C2a-C2b		Likely misalignment favors the disputed hardware account over override suppression.
+70	W	F6		The medical record gives 14 protesters and the 19:20-20:00 interval.
+71	W	Document 2 medical report		The report specifies a minor forehead laceration approximately 1.5 cm long.
+72	U	F4; F6; lease and case documents		Hydraulic leaks and prior maintenance issues do not establish sole water-main causation or exoneration.
+73	W	F20		The replacement chair and March 20 date are recorded.
+74	W	C2b		Correctly attributes Jenkins's personal-item account.
+75	W	Officer Kaelen Thorne statement	limited_evidence	The SWAT command officer explicitly refers to the snipers; their presence is not independently itemized in the roster or disputed elsewhere shown.
+76	W	F2; F14-F15; hospital discharge summary		The observation and discharge record support asymptomatic monitoring and minor injury.
+77	U	Incident log; response statements	inconsistent_source	The log gives 14:20 activation after a 14:15 alarm; a witness gives 14:30 and also says immediate. A settled 15-minute lag is not established.
+78	W	C2b; F13; Sarah Jenkins statement		Her statement explicitly invokes the 1.2-second average to argue sufficient reaction time.
+79	W	C2a		Accurately reports Vance's denial of receiving the notice.
+80	W	F7; F13-F14; hospital report	wording	Landing locations and the three documented treatment cases support concentration among vulnerable people; this does not establish deliberate targeting.
+81	U	F10; C1a-C1b; C2a-C2b; C4a-C4b		Treats an alleged outage and disputed mold finding as resolving contested habitability.
+82		C1a-C1b; C4a-C4b	missing_context	Meta-claim about an unidentified description, not a standalone case claim. Several model descriptions exist; exact source is needed to assess the alleged bias.
+83	U	F8; F16; C3a-C3b		Video existence and the owner's 48-hour account do not establish normal use or settle the competing weakened-toy explanation.
+84	U	C1a-C1b; inspection narrative	inconsistent_source	Favors disputed user error; the inspection narrative does not itself establish the causal responsibility of the user.
+85	W	Hospital report Patients A-C		Two pregnant patients received emergency treatment and the elderly patient was admitted; all three received hospital treatment.
+86	W	C1b		Accurately attributes the dermatologist/eczema account to Vance.
+87	U	F20; C2a-C2b; C4a		Broad protocol compliance is not established and the worker's location is disputed.
+88	W	Document 5 Dr. Aris Thorne statement	inconsistent_source	Dr. Thorne's narrative explicitly suggests an uneven paver edge contributed; structured C4a attributes the same idea to Sarah Jenkins instead.
+89	W	F15		Matches the explicit body-camera observation including posture and lack of retreat.
+90	W	F4; F7; F9		All three participant counts are recorded.
+91	U	C1a-C1b		Adopts the disputed mold coverage and uninhabitability account as fact.
+92	W	F3; F15; board minutes; correspondence	wording	The order, board vote refusing installation, and continued defense of refusal support ongoing non-compliance without resolving motives or service disputes.
+93	W	F4		Both the clavicle fracture and lumbar sprain are documented.
+94	W	Document 1 physical inspection	inconsistent_source	The inspection narrative explicitly records an intact spring with no fracture; the structured accounts nonetheless leave spring failure contested.
+95	U	C1a-C1b; C2b		Failure alone does not establish inadequate robustness; intended load and misuse remain disputed.
+96	W	C1b		Accurately attributes the financial-difficulties explanation to David Sterling.
+97	W	Sarah Jenkins letter dated October 25	inconsistent_source	The letter literally references the November 20 invoice; the claim accurately reports an internally inconsistent chronology.
+98	W	F19		The recorded kitchen temperature of 21.5 Celsius supports ordinary room temperature.
+99	U	C2a-C2b; F20		Safe location is disputed and camera evidence records entry into the operational zone.
+100	U	F7-F8; F20; C1a-C1b		A disputed signature and denial do not establish that Sarah Jenkins committed forgery.
