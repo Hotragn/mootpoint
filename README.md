@@ -1,6 +1,6 @@
 # Common Ground Is Not Neutral Ground: Opposed AI Advocates Disagree by Silence
 
-**Hotragn Pettugani** · Independent Researcher · pettugani.h@northeastern.edu
+**Hotragn Pettugani** · Independent Researcher
 Apart Research · AI x Epistemics Research Sprint, November 2026
 
 [Paper (PDF)](submission/Pettugani_MootPoint_AI-Epistemics-2026.pdf) · [Slides](submission/Pettugani_MootPoint_AI-Epistemics-2026_slides.pdf) · [Pre-registration](PLAN.md) · [Decision log](DECISIONS.md)
