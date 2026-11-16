@@ -9,7 +9,7 @@
 | Presentation (URL) | leave blank, or a video link if you record one |
 | Code (URL) | https://github.com/Hotragn/mootpoint |
 | Slideshow File | `Pettugani_MootPoint_AI-Epistemics-2026_slides.pdf` |
-| Image File | `Pettugani_MootPoint_AI-Epistemics-2026_figure1.png` |
+| Image File | `Pettugani_MootPoint_AI-Epistemics-2026_cover.png` |
 | AdditionalLink | leave blank |
 | TeamName* | Hotragn Pettugani (solo) |
 | Location* | your location |
