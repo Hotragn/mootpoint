@@ -60,3 +60,6 @@
 - Checks: `check_numbers.py` 49/49 + 14/14. Abstract 249 words. Everything before References fits on 8 pages. `submission/` holds the rebuilt PDF, docx and slides, and FORM-ANSWERS carries the current abstract.
 - **Needs Hotragn:** optional human labels (`analysis/human_labels/label.html`, then save `my_labels.csv` there); submit via the form; decide whether to make the repo public.
 - Sun 23:00: validation sheet labelled by a model (Codex, GPT-6); κ 0.78 with the judge, reported as an AI check (D23). check_numbers 51/51 + 14/14; still 8 pages. Human labels still absent.
+
+## Mon Nov 16: SUBMITTED by Hotragn
+- Hotragn submitted the form himself (PDF, slides, cover image, repo https://github.com/Hotragn/mootpoint). Final commit before submission: 7a574b4.
