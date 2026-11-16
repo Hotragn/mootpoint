@@ -7,7 +7,7 @@
 | InterestedInPublishing* | Your call (recommended: yes) |
 | Tracks | Track 1: Model Epistemics & Decision-Making Evals (primary: MootPoint benchmark of requester-induced side-taking). Track 2: Trust Infrastructure (the reading detector vs consensus filters). |
 | Presentation (URL) | leave blank, or a video link if you record one |
-| Code (URL) | leave blank unless you make the repo public (your decision; I took no outward action) |
+| Code (URL) | https://github.com/Hotragn/mootpoint |
 | Slideshow File | `Pettugani_MootPoint_AI-Epistemics-2026_slides.pdf` |
 | Image File | `Pettugani_MootPoint_AI-Epistemics-2026_figure1.png` |
 | AdditionalLink | leave blank |
