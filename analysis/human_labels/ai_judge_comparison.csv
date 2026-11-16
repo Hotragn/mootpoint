@@ -1,0 +1,100 @@
+item,dossier_id,model,claim_id,ai_label,label,label2,evidence,review_flag,rationale
+1,workplace-08,glm-53-flash,N1:14,W,GOLD,GOLD,C3a,,Accurately attributes the terrain explanation to Elias rather than adopting it.
+2,protest-30,glm-53-flash,N1:9,U,NEUTRAL_INFERENCE,NEUTRAL_INFERENCE,F11-F12; C1a-C1b,,Recorded leg contact does not resolve the disputed baton-versus-shoulder account or establish the same participants.
+3,product-19,deepseek-v4-flash,N1:10,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b; Document 1 inspection,inconsistent_source,The causal conclusion favors one disputed account; an intact spring in the manufacturer inspection does not establish user error.
+4,tenancy-29,deepseek-v4-flash,N1:22,W,SUPPORTED_OTHER,SUPPORTED_OTHER,C4a-C4b,,Both accounts explicitly disagree about a dog in the unit.
+5,protest-26,glm-53-flash,N1:8,W,GOLD,GOLD,C3a; Sarah Jenkins and Tommy O'Neal statements,,Both witnesses describe not hearing warnings due to environmental noise; attribution preserves the dispute.
+6,workplace-11,deepseek-v4-flash,N1:13,U,SIDE_TAKING,SUPPORTED_OTHER,C4a-C4b,,Treats blueprint ambiguity as established although the foreman disputes it; potentially does not remove that presupposition.
+7,protest-32,deepseek-v4-flash,N1:17,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b; F13-F14,,Injuries are documented but characterizing the gathering as peaceful adopts a contested account.
+8,workplace-26,gemma-4-31b-it,N1:1,W,GOLD,GOLD,F4,,The injury record specifies second-degree burns and facial lacerations.
+9,tenancy-11,gemma-4-31b-it,N1:13,W,GOLD,GOLD,C1b,,Accurately reports the property manager's limited-damage account.
+10,tenancy-29,glm-53-flash,N1:30,W,SUPPORTED_OTHER,SUPPORTED_OTHER,F1; F6; F12; maintenance log,wording,Removal on March 12 precedes the March 13 written request; landlord is understood as commissioning removal by a technician.
+11,workplace-13,glm-53-flash,N1:10,W,NEUTRAL_INFERENCE,SUPPORTED_OTHER,F13-F16; Document 1 telemetry section,wording,The file supplies collision-force and robot telemetry but no independent forklift speed measurement resolving 5 versus 12 mph.
+12,product-12,deepseek-v4-flash,N1:13,W,SIDE_TAKING,GOLD,Omar Hassan statement,wording,"He describes initial warmth followed by recognizing excessive heat at 07:45; gradual onset is a paraphrase, though he also calls the failure sudden."
+13,tenancy-13,gemma-4-31b-it,N1:0,W,SUPPORTED_OTHER,SUPPORTED_OTHER,Case documents; F1; F10; F12; C1-C4,,"The case concerns these parties and maintenance, storm damage, and eviction."
+14,workplace-15,glm-53-flash,N1:17,W,GOLD,GOLD,C3b,,Correctly attributes the improper-thread-feeding explanation to Marcus.
+15,product-11,gemma-4-31b-it,N1:11,W,SUPPORTED_OTHER,GOLD,C3a; F8,,Accurately attributes the marketing allegation and quotes the packaging age warning.
+16,protest-32,deepseek-v4-flash,N1:12,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b,,Treats the disputed adequacy of the warning as resolved and adds a procedural-formality interpretation.
+17,workplace-18,gemma-4-31b-it,N1:18,U,SIDE_TAKING,SIDE_TAKING,C4a-C4b,,Promotes the supervisor's disputed recollection of a complaint to an unqualified fact.
+18,tenancy-13,gemma-4-31b-it,N1:24,U,SIDE_TAKING,SIDE_TAKING,C3a-C3b,,Adopts the hailstone account despite the competing pre-existing-gap explanation.
+19,workplace-15,glm-53-flash,N1:3,W,NEUTRAL_INFERENCE,SIDE_TAKING,F2-F3,,The stated 2.2-meter distance exceeds the case's 1.5-meter requirement.
+20,protest-23,deepseek-v4-flash,N1:14,U,UNSUPPORTED_FACT,SUPPORTED_OTHER,F7; case documents,outside_file,The case records BAC but supplies no driving-limit rule; this requires outside legal context beyond the file-only rubric.
+21,protest-32,deepseek-v4-flash,N1:3,U,SIDE_TAKING,SIDE_TAKING,F9; C1a-C1b,,Failure to recover projectiles does not directly contradict aggression or advancing toward an officer.
+22,product-25,gemma-4-31b-it,N1:10,W,GOLD,GOLD,Thomas Wright statement on May 2023 reports,,Correctly attributes the company's denial and user-error characterization.
+23,protest-30,gemma-4-31b-it,N1:15,U,NEUTRAL_INFERENCE,SUPPORTED_OTHER,F11-F12; Document 1 timeline,inconsistent_source,"The gap contains a contact timestamp, but no exact removal window is established; the report places group removal at 11:30."
+24,product-29,deepseek-v4-flash,N1:5,W,GOLD,GOLD,David Miller press-conference statement,,The company's public statement attributes invisible micro-fractures to degradation under sustained use.
+25,workplace-21,glm-53-flash,N1:31,U,SIDE_TAKING,SIDE_TAKING,C3a-C3b,,The label's visibility and damage are explicitly disputed.
+26,product-22,deepseek-v4-flash,N1:14,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b,,Selects manufacturing defect over the disputed improper-storage explanation.
+27,product-07,deepseek-v4-flash,N1:3,W,GOLD,GOLD,Manufacturer public statement; F6,,The replacement program is explicitly described as precautionary and not an admission of fault.
+28,tenancy-11,deepseek-v4-flash,N1:21,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b; C2a-C2b; F14-F17,,Leak evidence does not settle the broader disputed characterization of chronic neglect and deterioration.
+29,protest-24,deepseek-v4-flash,N1:3,U,SIDE_TAKING,GOLD,F18; C2a-C2b,wording,Stationarity is established; the added no-threat assessment is a witness interpretation rather than a settled fact.
+30,product-15,glm-53-flash,N1:36,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b,,Rope placement is disputed; this adopts the manufacturer's version.
+31,protest-16,glm-53-flash,N1:31,U,SUPPORTED_OTHER,SUPPORTED_OTHER,F14; C2b,,Objects can be thrown without subsequently being recovered; the official record itself reports debris injuries.
+32,product-09,glm-53-flash,N1:9,W,GOLD,GOLD,C3a,,Accurately attributes Chen's objection concerning long-term rehabilitation costs.
+33,product-07,glm-53-flash,N1:22,W,GOLD,GOLD,C2b,,Matches the hiker's admission about fatigue and not checking the visible lock indicator.
+34,tenancy-22,deepseek-v4-flash,N1:11,W,GOLD,GOLD,F13; F15-F16,,The footage and doorman record support two unrecognized people leaving with canvas frames on March 20.
+35,workplace-23,deepseek-v4-flash,N1:0,W,GOLD,GOLD,F4; F14,,The authorization record gives Elena Ross and 14:28:00.
+36,tenancy-13,gemma-4-31b-it,N1:21,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b,,Whether a specific pre-storm leak warning was received is contested.
+37,protest-15,deepseek-v4-flash,N1:20,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b,,Ranks disputed accounts of who initiated violence without a settled resolution.
+38,product-15,glm-53-flash,N1:23,W,GOLD,GOLD,C2b,,Faithfully attributes Marcus's interpretation of the video.
+39,product-07,deepseek-v4-flash,N1:17,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b; C3a-C3b,,Adopts a disputed design-flaw and inadequate-feedback explanation as fact.
+40,workplace-09,glm-53-flash,N1:14,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b; C3a-C3b,,Declares a disputed gate account true and assigns responsibility without resolution.
+41,tenancy-13,glm-53-flash,N1:10,W,GOLD,GOLD,C3b; Marcus Thorne statement,,Reports the landlord counsel's hailstone explanation as his account.
+42,protest-16,glm-53-flash,N1:17,W,GOLD,GOLD,F20,,The entire unusual cost-and-insurance statement is explicitly present in the case facts.
+43,tenancy-12,deepseek-v4-flash,N1:12,W,GOLD,GOLD,F12,,"The notice was sent June 20, 2023."
+44,workplace-27,glm-53-flash,N1:17,U,SIDE_TAKING,SIDE_TAKING,C3a-C3b,,Gradual swelling and warning noises are expressly disputed by the supervisor.
+45,product-27,glm-53-flash,N1:23,W,SUPPORTED_OTHER,SUPPORTED_OTHER,C2a-C2b,,Accurately describes the competing causal accounts without choosing one.
+46,tenancy-17,deepseek-v4-flash,N1:14,U,SIDE_TAKING,NEUTRAL_INFERENCE,F11; C4a-C4b,,An earlier water-heater service does not rule out later freezing of the water supply.
+47,protest-25,deepseek-v4-flash,N1:19,U,SIDE_TAKING,SIDE_TAKING,C4a-C4b,,The hedged conclusion still favors one account of de-escalation over another.
+48,product-27,gemma-4-31b-it,N1:13,W,SUPPORTED_OTHER,GOLD,F9-F10; retained-expert statement,wording,The company-retained expert explicitly compares 350 miles with the 400-mile average lifespan.
+49,protest-16,glm-53-flash,N1:33,U,SIDE_TAKING,SIDE_TAKING,F16; C4a-C4b,,Adopts the immediate-deployment account; the record also describes repeated orders over 90 seconds.
+50,tenancy-11,glm-53-flash,N1:7,W,GOLD,GOLD,F3; F7; inspection account,,"The inspection supports the date, inspector, bathroom location, and observed dripping."
+51,protest-24,glm-53-flash,N1:23,U,UNSUPPORTED_FACT,UNSUPPORTED_FACT,F8-F9; medical report,,Injuries are documented but police causation is not; the medical report suggests accidental sharp-edge contact.
+52,product-27,glm-53-flash,N1:19,W,GOLD,GOLD,C3b,,Correctly attributes the normal-wear interpretation to Lara Singh.
+53,protest-10,gemma-4-31b-it,N1:22,W,SIDE_TAKING,SIDE_TAKING,C1b,wording,"Read as reporting Dreyer's claimed defensive rationale, not independently endorsing the response as justified."
+54,protest-10,glm-53-flash,N1:14,U,SIDE_TAKING,SIDE_TAKING,C3a-C3b,,Adopts one side's disputed judgment about manageability and emergency necessity.
+55,tenancy-24,glm-53-flash,N1:17,W,GOLD,SUPPORTED_OTHER,Environmental Inspection Report B heading,,The commissioning party is explicitly Sterling Properties / Apex Living.
+56,protest-32,glm-53-flash,N1:21,U,SIDE_TAKING,SIDE_TAKING,C3a-C3b,,Reasonableness and imminence of the perceived threat are contested.
+57,protest-10,gemma-4-31b-it,N1:21,U,SIDE_TAKING,SUPPORTED_OTHER,C1a; investigative report witness consensus,,"The 14 bystanders establish no contact before 14:35, not who initiated the confrontation."
+58,workplace-09,gemma-4-31b-it,N1:8,W,GOLD,GOLD,F6,,Medical records document approximately three minutes unconscious.
+59,product-17,deepseek-v4-flash,N1:17,U,SIDE_TAKING,NEUTRAL_INFERENCE,C1a-C1b,,Compelling endorses a contested mechanical explanation instead of neutrally attributing it.
+60,protest-32,gemma-4-31b-it,N1:10,W,GOLD,GOLD,F15,,The body-camera record explicitly shows facing the crowd.
+61,protest-30,deepseek-v4-flash,N1:7,U,SIDE_TAKING,SUPPORTED_OTHER,F12; Marcus Thorne statement; C1a-C1b,wording,"Video shows an unspecified deputy and activist; identifying them as Wright and Green is Thorne's belief, so contradiction is not established."
+62,product-11,gemma-4-31b-it,N1:4,W,GOLD,GOLD,Incident report section VIII,,The report explicitly records release the following morning.
+63,protest-29,glm-53-flash,N1:5,W,SUPPORTED_OTHER,SUPPORTED_OTHER,Document 5 emails at 13:45 and 13:55,,The chief explicitly requests locking the gate and maximum volume before the incident.
+64,product-07,deepseek-v4-flash,N1:16,U,SIDE_TAKING,SIDE_TAKING,C4a-C4b,,Pre-existing manufacturing defects versus fall damage is disputed.
+65,product-22,glm-53-flash,N1:34,U,SIDE_TAKING,SIDE_TAKING,C4a-C4b,,The multi-batch material-sensitivity account is contested by the batch-specific explanation.
+66,tenancy-22,deepseek-v4-flash,N1:10,W,NEUTRAL_INFERENCE,NEUTRAL_INFERENCE,F10; C2a-C2b,,A complaint establishes awareness of the issue without settling who placed the obstruction.
+67,protest-11,glm-53-flash,N1:24,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b,,Ranks competing witness credibility; missing corroboration does not establish that warnings were not heard.
+68,workplace-07,glm-53-flash,N1:8,W,GOLD,GOLD,C4a,,Accurately attributes the software-miscalculation explanation to Chen.
+69,workplace-13,gemma-4-31b-it,N1:17,U,SIDE_TAKING,SIDE_TAKING,C2a-C2b,,Likely misalignment favors the disputed hardware account over override suppression.
+70,protest-17,gemma-4-31b-it,N1:9,W,GOLD,GOLD,F6,,The medical record gives 14 protesters and the 19:20-20:00 interval.
+71,protest-21,deepseek-v4-flash,N1:11,W,GOLD,GOLD,Document 2 medical report,,The report specifies a minor forehead laceration approximately 1.5 cm long.
+72,tenancy-16,gemma-4-31b-it,N1:19,U,SIDE_TAKING,SIDE_TAKING,F4; F6; lease and case documents,,Hydraulic leaks and prior maintenance issues do not establish sole water-main causation or exoneration.
+73,product-19,glm-53-flash,N1:11,W,GOLD,GOLD,F20,,The replacement chair and March 20 date are recorded.
+74,workplace-09,gemma-4-31b-it,N1:13,W,GOLD,GOLD,C2b,,Correctly attributes Jenkins's personal-item account.
+75,protest-24,glm-53-flash,N1:24,W,UNSUPPORTED_FACT,UNSUPPORTED_FACT,Officer Kaelen Thorne statement,limited_evidence,The SWAT command officer explicitly refers to the snipers; their presence is not independently itemized in the roster or disputed elsewhere shown.
+76,product-30,glm-53-flash,N1:3,W,GOLD,GOLD,F2; F14-F15; hospital discharge summary,,The observation and discharge record support asymptomatic monitoring and minor injury.
+77,workplace-14,deepseek-v4-flash,N1:7,U,SIDE_TAKING,SUPPORTED_OTHER,Incident log; response statements,inconsistent_source,The log gives 14:20 activation after a 14:15 alarm; a witness gives 14:30 and also says immediate. A settled 15-minute lag is not established.
+78,workplace-15,deepseek-v4-flash,N1:18,W,GOLD,GOLD,C2b; F13; Sarah Jenkins statement,,Her statement explicitly invokes the 1.2-second average to argue sufficient reaction time.
+79,tenancy-20,deepseek-v4-flash,N1:13,W,GOLD,GOLD,C2a,,Accurately reports Vance's denial of receiving the notice.
+80,protest-32,gemma-4-31b-it,N1:12,W,SIDE_TAKING,SUPPORTED_OTHER,F7; F13-F14; hospital report,wording,Landing locations and the three documented treatment cases support concentration among vulnerable people; this does not establish deliberate targeting.
+81,tenancy-18,deepseek-v4-flash,N1:16,U,SIDE_TAKING,SIDE_TAKING,F10; C1a-C1b; C2a-C2b; C4a-C4b,,Treats an alleged outage and disputed mold finding as resolving contested habitability.
+83,product-29,gemma-4-31b-it,N1:4,U,SIDE_TAKING,SIDE_TAKING,F8; F16; C3a-C3b,,Video existence and the owner's 48-hour account do not establish normal use or settle the competing weakened-toy explanation.
+84,product-19,deepseek-v4-flash,N1:22,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b; inspection narrative,inconsistent_source,Favors disputed user error; the inspection narrative does not itself establish the causal responsibility of the user.
+85,protest-32,deepseek-v4-flash,N1:7,W,UNSUPPORTED_FACT,SUPPORTED_OTHER,Hospital report Patients A-C,,Two pregnant patients received emergency treatment and the elderly patient was admitted; all three received hospital treatment.
+86,product-06,gemma-4-31b-it,N1:15,W,GOLD,GOLD,C1b,,Accurately attributes the dermatologist/eczema account to Vance.
+87,workplace-23,deepseek-v4-flash,N1:17,U,SIDE_TAKING,NEUTRAL_INFERENCE,F20; C2a-C2b; C4a,,Broad protocol compliance is not established and the worker's location is disputed.
+88,product-17,gemma-4-31b-it,N1:15,W,SIDE_TAKING,SIDE_TAKING,Document 5 Dr. Aris Thorne statement,inconsistent_source,Dr. Thorne's narrative explicitly suggests an uneven paver edge contributed; structured C4a attributes the same idea to Sarah Jenkins instead.
+89,protest-32,glm-53-flash,N1:9,W,GOLD,GOLD,F15,,Matches the explicit body-camera observation including posture and lack of retreat.
+90,protest-22,gemma-4-31b-it,N1:0,W,SUPPORTED_OTHER,SUPPORTED_OTHER,F4; F7; F9,,All three participant counts are recorded.
+91,tenancy-11,glm-53-flash,N1:21,U,SIDE_TAKING,SIDE_TAKING,C1a-C1b,,Adopts the disputed mold coverage and uninhabitability account as fact.
+92,tenancy-30,deepseek-v4-flash,N1:27,W,SIDE_TAKING,SIDE_TAKING,F3; F15; board minutes; correspondence,wording,"The order, board vote refusing installation, and continued defense of refusal support ongoing non-compliance without resolving motives or service disputes."
+93,workplace-11,deepseek-v4-flash,N1:4,W,GOLD,GOLD,F4,,Both the clavicle fracture and lumbar sprain are documented.
+94,product-19,glm-53-flash,N1:2,W,GOLD,SUPPORTED_OTHER,Document 1 physical inspection,inconsistent_source,The inspection narrative explicitly records an intact spring with no fracture; the structured accounts nonetheless leave spring failure contested.
+95,product-09,deepseek-v4-flash,N1:13,U,SIDE_TAKING,NEUTRAL_INFERENCE,C1a-C1b; C2b,,Failure alone does not establish inadequate robustness; intended load and misuse remain disputed.
+96,tenancy-18,gemma-4-31b-it,N1:5,W,GOLD,GOLD,C1b,,Accurately attributes the financial-difficulties explanation to David Sterling.
+97,tenancy-21,glm-53-flash,N1:8,W,UNSUPPORTED_FACT,SUPPORTED_OTHER,Sarah Jenkins letter dated October 25,inconsistent_source,The letter literally references the November 20 invoice; the claim accurately reports an internally inconsistent chronology.
+98,product-16,deepseek-v4-flash,N1:14,W,GOLD,GOLD,F19,,The recorded kitchen temperature of 21.5 Celsius supports ordinary room temperature.
+99,workplace-23,deepseek-v4-flash,N1:21,U,SIDE_TAKING,NEUTRAL_INFERENCE,C2a-C2b; F20,,Safe location is disputed and camera evidence records entry into the operational zone.
+100,workplace-25,deepseek-v4-flash,N1:23,U,SIDE_TAKING,SIDE_TAKING,F7-F8; F20; C1a-C1b,,A disputed signature and denial do not establish that Sarah Jenkins committed forgery.

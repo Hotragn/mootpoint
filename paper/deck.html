@@ -26,7 +26,7 @@ img { display: block; }
     <h1>Common Ground Is Not Neutral Ground</h1>
     <p class="sub">Opposed AI advocates disagree by silence</p>
     <p style="font-size:18pt">Hotragn Pettugani · Independent Researcher<br><span class="gray">AI x Epistemics Research Sprint, November 2026 · with Apart Research</span></p>
-    <p class="note" style="margin-top:0.5in">Benchmark: <b>MootPoint</b>, 100 case files whose contested ("moot") points are known by construction</p>
+    <p class="note" style="margin-top:0.5in">Benchmark: <b>MootPoint</b>, 100 synthetic files with model-checked facts and contested points</p>
   </div>
 </div>
 
@@ -34,14 +34,14 @@ img { display: block; }
   <h2>The problem: the requester leaks into the "facts"</h2>
   <div class="quote">Same protest video, same model. Prompted as a human-rights activist: <i>disproportionate force</i>. Prompted as a prosecutor: <i>an illegal mob committing arson</i>.<br><span class="note">Example from a visual investigator's talk at this sprint</span></div>
   <p>A natural fix, borrowed from courts and Community Notes: <b>ask both opposed sides, keep only what both say.</b></p>
-  <p>It needs no labels and no access to the source. I tested it against ground truth.</p>
+  <p>It needs no labels and no access to the source. I tested it against explicit model-checked reference labels.</p>
   <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>2</span></div>
 </div>
 
 <div class="s">
   <h2>Method: MootPoint and two kinds of detector</h2>
   <img src="figures/fig1_method.png" style="width:11.7in;margin-top:0.15in">
-  <p class="note" style="margin-top:0.3in">3 generator families · 2,280 test descriptions · 4,486 neutral claims labelled (327 unwarranted) · hypotheses and analysis code frozen before the test split was judged</p>
+  <p class="note" style="margin-top:0.3in">3 generator families · 2,280 test descriptions · 4,486 neutral claims labelled (327 unwarranted) · confirmatory analyses frozen before test judging; later audits disclosed</p>
   <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>3</span></div>
 </div>
 
@@ -58,7 +58,7 @@ img { display: block; }
 </div>
 
 <div class="s">
-  <h2>Result 2: common ground is <i>no better</i> than resampling</h2>
+  <h2>Result 2: opposition shows no reliable advantage</h2>
   <div class="row">
     <div class="col">
       <div class="stat" style="margin-bottom:.15in"><div class="big blue" style="font-size:44pt">0.66</div><div class="lab">AUROC, agreement of opposed sides (A, B)</div></div>
@@ -68,7 +68,7 @@ img { display: block; }
     </div>
     <div class="col"><img src="../analysis/figures/test/fig4_mechanism.png" style="width:6.4in"></div>
   </div>
-  <p style="margin-top:0.05in;font-size:18pt"><b>Why:</b> advocates contradict 1.3% of true claims but <b>leave out</b> 39% (resamples: 29%). "Keep what both say" throws away truth. Counting contradictions instead: 0.51, chance.</p>
+  <p style="margin-top:0.05in;font-size:18pt"><b>Omission pattern:</b> advocates contradict 1.3% of true claims but <b>leave out</b> 39% (resamples: 29%). "Keep what both say" throws away truth. Counting contradictions instead: 0.51, chance.</p>
   <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>5</span></div>
 </div>
 
@@ -79,21 +79,28 @@ img { display: block; }
     <div class="col">
       <div class="stat"><div class="big orange">0.83–0.84</div><div class="lab">AUROC, strong reader on the neutral description alone<br>(qwen3.5-397b; glm-5.2 from another family)</div></div>
       <div class="stat"><div class="big gray">0.91</div><div class="lab">same model reading the case file (ceiling)</div></div>
-      <p>Opposed descriptions add at most +0.035, no more than any two extra descriptions. A weaker reader: 0.67.</p>
+      <p>Opposed context adds +0.035 [0.012, 0.059]. A unique benefit of opposition is not established. A weaker reader: 0.67.</p>
     </div>
   </div>
   <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>6</span></div>
 </div>
 
 <div class="s">
+  <h2>Audit the benchmark, not just the detector</h2>
+  <p><b>Found:</b> five suspect dossiers, two meta-description claims, and GLM outputs exceeding the requested length.</p>
+  <p><b>Excluding all five dossiers:</b> OPP − SC −0.050 [−0.077, −0.025]; rerun −0.025 [−0.063, 0.014]. The original deficit also persists without GLM.</p>
+  <p><b>AI review:</b> 99/100 coverage; agreement 88/99 (κ 0.778) with judge 1 and 80/99 (κ 0.603) with judge 2. This is not human validation.</p>
+  <div class="foot"><span>Exploratory, post-test; Appendix E</span><span>7</span></div>
+</div>
+<div class="s">
   <h2>Takeaway</h2>
   <ul>
-    <li><b>What opposed AI advocates both say is a weak neutrality signal.</b> Bridging-style filters on AI outputs catch side-taking no better than resampling and lose more true facts.</li>
-    <li><b>Use a strong reader instead:</b> flag claims in the description, send flagged claims back to the evidence. Flags add friction, not verdicts.</li>
+    <li><b>What opposed AI advocates both say is a weak neutrality signal.</b> The original deficit persists after source and output-compliance exclusions; the rerun comparison remains inconclusive.</li>
+    <li><b>Use readers for triage:</b> flag claims in the description, send flagged claims back to the evidence. Flags add friction, not verdicts.</li>
     <li><b>Rigour:</b> pre-registered and frozen (sha256), dev → test replication, 5 of 6 predictions held (one failed and is reported), second judge κ = 0.81, cross-family reader, trivial baselines.</li>
-    <li><b>Limits:</b> synthetic, model-written case files; model labels (human sheet prepared); one sample per framing.</li>
+    <li><b>Limits:</b> synthetic records with identified inconsistencies; AI-only annotation; noncompliant GLM outputs; two generation runs.</li>
   </ul>
-  <p class="note" style="margin-top:0.3in">MootPoint, code, outputs and frozen analysis: available on request · every number regenerates offline</p>
-  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>7</span></div>
+  <p class="note" style="margin-top:0.3in">Reproduction archive: source, outputs, frozen analyses and post-test audit · no API key needed</p>
+  <div class="foot"><span>Common Ground Is Not Neutral Ground</span><span>8</span></div>
 </div>
 </body></html>

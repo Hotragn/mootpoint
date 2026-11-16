@@ -1,5 +1,7 @@
 # Model annotation of the 100-claim sheet
 
+**Historical freeze report.** Statements below about the unopened key describe the annotation stage. After freezing the annotations, the key was opened for the comparison documented in `../VALIDITY-AUDIT-PROTOCOL.md` and `../results/validity_audit/results.json`. The frozen labels were not revised; item 82 remains an abstention.
+
 All 100 sampled claims were reviewed by the Codex AI assistant (system identifies GPT-6; the exact backend snapshot is not exposed). There are **55 W, 44 U, and one abstention (item 82)**. These are judgments from one model annotator. No additional sample was labeled.
 
 ## Files

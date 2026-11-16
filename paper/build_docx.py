@@ -16,7 +16,7 @@ from docx.oxml.ns import qn
 from docx.shared import Inches, Pt
 
 HERE = Path(__file__).resolve().parent
-TEMPLATE = HERE.parents[1] / "claude" / "brainstorm" / "raw" / "template" / "apart_template.docx"
+TEMPLATE = HERE / "template" / "apart_template.docx"
 SRC, OUT = HERE / "paper.md", HERE / "build" / "paper.docx"
 INLINE = re.compile(r"(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)")
 
