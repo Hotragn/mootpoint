@@ -1,0 +1,7 @@
+dossier_id,model,reason
+product-18,gemma-4-31b-it,missing or excluded descriptions: N1; no labelled claims for: N1
+product-29,gemma-4-31b-it,missing or excluded descriptions: A; no labelled claims for: A; 22 N1 claim(s) lack presence rows for all 7 framings
+protest-14,gemma-4-31b-it,no labelled claims for: B
+protest-23,glm-53-flash,no labelled claims for: B
+protest-24,gemma-4-31b-it,"missing or excluded descriptions: A,A2; no labelled claims for: A; 21 N1 claim(s) lack presence rows for all 7 framings"
+tenancy-16,gemma-4-31b-it,missing or excluded descriptions: A2; 19 N1 claim(s) lack presence rows for all 7 framings

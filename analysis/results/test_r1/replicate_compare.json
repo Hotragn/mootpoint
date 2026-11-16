@@ -1,0 +1,197 @@
+{
+  "note": "exploratory, after test; independent regeneration of all test descriptions",
+  "test": {
+    "N1_claims": 4486,
+    "N1_unwarranted": 327,
+    "cells_complete": 221,
+    "auroc": {
+      "OPP": {
+        "estimate": 0.656,
+        "ci95_low": 0.606,
+        "ci95_high": 0.703
+      },
+      "SC": {
+        "estimate": 0.704,
+        "ci95_low": 0.657,
+        "ci95_high": 0.749
+      },
+      "DIV": {
+        "estimate": 0.746,
+        "ci95_low": 0.702,
+        "ci95_high": 0.79
+      },
+      "SAME": {
+        "estimate": 0.654,
+        "ci95_low": 0.603,
+        "ci95_high": 0.704
+      },
+      "v_closed_none": {
+        "estimate": 0.828,
+        "ci95_low": 0.785,
+        "ci95_high": 0.866
+      },
+      "v_closed": {
+        "estimate": 0.863,
+        "ci95_low": 0.827,
+        "ci95_high": 0.894
+      },
+      "v_closed_div": {
+        "estimate": 0.884,
+        "ci95_low": 0.849,
+        "ci95_high": 0.914
+      }
+    },
+    "tests": {
+      "H1a": {
+        "estimate": 0.145,
+        "ci95_low": 0.1,
+        "ci95_high": 0.191,
+        "supported": true
+      },
+      "H2": {
+        "estimate": -0.048,
+        "ci95_low": -0.073,
+        "ci95_high": -0.024,
+        "supported": false
+      },
+      "H3": {
+        "estimate": -0.091,
+        "ci95_low": -0.123,
+        "ci95_high": -0.061,
+        "supported": false
+      },
+      "R1": {
+        "estimate": 0.125,
+        "ci95_low": 0.071,
+        "ci95_high": 0.178,
+        "supported": true
+      },
+      "R2": {
+        "estimate": 0.035,
+        "ci95_low": 0.012,
+        "ci95_high": 0.059,
+        "supported": true
+      },
+      "R3": {
+        "estimate": -0.021,
+        "ci95_low": -0.041,
+        "ci95_high": 0.002,
+        "supported": false
+      }
+    },
+    "OPP_SC_side_taking_positives": {
+      "estimate": -0.054,
+      "ci95_low": -0.08,
+      "ci95_high": -0.029
+    },
+    "warranted_repeated_by_both": {
+      "OPP": 0.597,
+      "SC": 0.707
+    },
+    "unwarranted_repeated_by_both": {
+      "OPP": 115,
+      "SC": 116
+    }
+  },
+  "test_r1": {
+    "N1_claims": 4389,
+    "N1_unwarranted": 290,
+    "cells_complete": 222,
+    "auroc": {
+      "OPP": {
+        "estimate": 0.67,
+        "ci95_low": 0.626,
+        "ci95_high": 0.714
+      },
+      "SC": {
+        "estimate": 0.691,
+        "ci95_low": 0.637,
+        "ci95_high": 0.744
+      },
+      "DIV": {
+        "estimate": 0.746,
+        "ci95_low": 0.704,
+        "ci95_high": 0.785
+      },
+      "SAME": {
+        "estimate": 0.663,
+        "ci95_low": 0.618,
+        "ci95_high": 0.706
+      },
+      "v_closed_none": {
+        "estimate": 0.827,
+        "ci95_low": 0.786,
+        "ci95_high": 0.864
+      },
+      "v_closed": {
+        "estimate": 0.87,
+        "ci95_low": 0.838,
+        "ci95_high": 0.899
+      },
+      "v_closed_div": {
+        "estimate": 0.88,
+        "ci95_low": 0.833,
+        "ci95_high": 0.916
+      }
+    },
+    "tests": {
+      "H1a": {
+        "estimate": 0.137,
+        "ci95_low": 0.096,
+        "ci95_high": 0.176,
+        "supported": true
+      },
+      "H2": {
+        "estimate": -0.021,
+        "ci95_low": -0.055,
+        "ci95_high": 0.015,
+        "supported": false
+      },
+      "H3": {
+        "estimate": -0.076,
+        "ci95_low": -0.115,
+        "ci95_high": -0.039,
+        "supported": false
+      },
+      "R1": {
+        "estimate": 0.136,
+        "ci95_low": 0.079,
+        "ci95_high": 0.193,
+        "supported": true
+      },
+      "R2": {
+        "estimate": 0.042,
+        "ci95_low": 0.02,
+        "ci95_high": 0.069,
+        "supported": true
+      },
+      "R3": {
+        "estimate": -0.01,
+        "ci95_low": -0.042,
+        "ci95_high": 0.029,
+        "supported": false
+      }
+    },
+    "OPP_SC_side_taking_positives": {
+      "estimate": -0.026,
+      "ci95_low": -0.061,
+      "ci95_high": 0.01
+    },
+    "warranted_repeated_by_both": {
+      "OPP": 0.598,
+      "SC": 0.713
+    },
+    "unwarranted_repeated_by_both": {
+      "OPP": 90,
+      "SC": 110
+    }
+  },
+  "same_decision": {
+    "H1a": true,
+    "H2": true,
+    "H3": true,
+    "R1": true,
+    "R2": true,
+    "R3": true
+  }
+}

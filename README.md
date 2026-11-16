@@ -2,7 +2,7 @@
 
 Code, benchmark and data for "Common Ground Is Not Neutral Ground: Opposed AI Advocates Disagree by Silence" (Apart AI x Epistemics Research Sprint, Nov 2026). Author: Hotragn Pettugani, Independent Researcher (pettugani.h@northeastern.edu).
 
-**Finding.** When the same evidence is described for opposed stakeholders, keeping only what both descriptions say is a *worse* detector of side-taking than plain resampling (AUROC 0.656 vs 0.704), because advocates disagree by silence: they omit true facts that hurt them instead of contradicting them. A strong model reading the neutral description alone does far better (0.83–0.84; ceiling with the file 0.91).
+**Finding.** When the same evidence is described for opposed stakeholders, keeping only what both descriptions say is *no better* a detector of side-taking than plain resampling (AUROC 0.656 vs 0.704; an independent rerun gives 0.670 vs 0.691), because advocates disagree by silence: they omit true facts that hurt them instead of contradicting them. A strong model reading the neutral description alone does far better (0.83–0.84; ceiling with the file 0.91).
 
 **MootPoint** is the benchmark: 100 synthetic case files whose contested ("moot") points are known by construction, with 2,280 test descriptions under ten requester framings and 13,514 labelled claims.
 

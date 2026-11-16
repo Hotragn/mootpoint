@@ -53,3 +53,9 @@
   2. optional human labels (`analysis/human_labels/`, 60–90 min);
   3. submit via the form;
   4. decide whether to make the repo public.
+
+## Sun Nov 15, 19:40 EST: rerun added; submission package rebuilt (NOT submitted)
+- An independent rerun of every test description reproduces all six confirmatory decisions. OPP − SC shrinks to −0.021 [−0.055, 0.015], so the paper and deck now say "no better than resampling" (D22).
+- Added since Gate 4: second matcher, loaded-language, error-type, flag-budget and per-domain checks (Appendix D), and two Codex reviews.
+- Checks: `check_numbers.py` 49/49 + 14/14. Abstract 249 words. Everything before References fits on 8 pages. `submission/` holds the rebuilt PDF, docx and slides, and FORM-ANSWERS carries the current abstract.
+- **Needs Hotragn:** optional human labels (`analysis/human_labels/label.html`, then save `my_labels.csv` there); submit via the form; decide whether to make the repo public.

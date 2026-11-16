@@ -134,3 +134,12 @@ Format: Claim / Evidence / Mechanism / Alternative (and how ruled out) / Residue
   - Validation: judge2 κ 0.81; reader ordering holds on judge2 and agreed labels; presence agreement 0.73 (κ 0.36). H1b DiD +0.030 [0.007, 0.052].
 - Claim: R2 failed as a prediction and is reported as such. The R2 gain is matched or exceeded by every other two-description context (SC 0.862, DIV 0.884), so it reflects more context, not opposition (R3 and the descriptive comparisons). The paper says this without upgrading any descriptive comparison to confirmatory.
 - Residue: Nothing was changed after seeing test. The context-generic reading is post hoc interpretation of descriptive numbers.
+
+## D22 (Sun 19:40): Exploratory strengthening after test; independent rerun of every test description
+- Evidence (all exploratory, after test; analyze.py and readers.py unchanged):
+  - Second presence matcher glm-5.2 (`harness/presence2.py`, `analysis/matcher2.py`): OPP − SC −0.030 [−0.052, −0.008]; matcher κ 0.60.
+  - `analysis/robustness_extra.py`: no-evaluative-word subset, error type, flag budget, per domain (`results/test/robustness_extra.json`).
+  - Independent rerun `runs/test_r1` (fresh samples of all 2,280 descriptions, same judges; `analysis/replicate.py` → `results/test_r1/replicate_compare.json`). Same decision on all six confirmatory tests. H1a +0.137, H3 −0.076 [−0.115, −0.039], R1 +0.136, R2 +0.042 [0.020, 0.069]. **H2 (OPP − SC) −0.021 [−0.055, 0.015]: the interval now includes zero.** Warranted omission repeats exactly (opposed 60%, resamples 71%).
+  - Two Codex CLI read-only reviews (`../claude/reviews/CODEX-JUDGE-REVIEW*.md`); wording fixes applied. Description count corrected from 2,736 to 2,280 (D20 fixed in place).
+- Claim: the paper now says the opposed pair is "no better than" resampling, not "worse". "Worse than the non-stakeholder pair" (H3) and the omission mechanism hold in both runs.
+- Residue: two runs are a small sample of run-to-run variance. No human labels yet. Spend about 40 credits in total; no money spent.

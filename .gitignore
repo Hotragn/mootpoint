@@ -7,4 +7,5 @@ __pycache__/
 !runs/dev/
 !runs/test/
 !runs/pilot/
+!runs/test_r1/
 paper/build/
