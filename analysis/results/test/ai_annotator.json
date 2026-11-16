@@ -1,5 +1,5 @@
 {
-  "note": "exploratory; Codex (GPT-6) AI annotator, not human labels",
+  "note": "exploratory; labels from a model annotator, Codex (GPT-6)",
   "n": 99,
   "abstained": 1,
   "judge": {

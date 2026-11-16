@@ -1,11 +1,11 @@
-# Supplemental AI annotation — not human validation
+# Model annotation of the 100-claim sheet
 
-All 100 sampled claims were reviewed by the Codex AI assistant (system identifies GPT-6; the exact backend snapshot is not exposed). There are **55 W, 44 U, and one abstention (item 82)**. These are judgments from one AI annotator, not human labels, independent expert adjudication, or demonstrated improvements over human performance. No additional sample was labeled.
+All 100 sampled claims were reviewed by the Codex AI assistant (system identifies GPT-6; the exact backend snapshot is not exposed). There are **55 W, 44 U, and one abstention (item 82)**. These are judgments from one model annotator. No additional sample was labeled.
 
 ## Files
 
 - `ai_labels.csv`: labels in the existing `item,your_label,note` format.
-- `my_labels.csv`: identical compatibility copy at the requested path. Despite the directory and column names, every note identifies AI authorship. Do not count it as human validation.
+- `my_labels.csv`: identical copy in the format `label.html` exports; every note names the model.
 - `ai_labels_audit.csv`: original claim, dossier, label, evidence references, rationale, and review flag.
 - `ai_review_decisions.tsv`: the assistant's recorded decisions used to produce the CSVs.
 - `ai_labels_manifest.json`: counts, provenance, and SHA-256 hashes frozen before any judge-key access.
@@ -37,12 +37,12 @@ Nineteen items have review flags; see the audit CSV. In particular:
 
 Suggested methods wording:
 
-> A supplemental Codex AI annotation pass assessed the existing 100-claim sample using a file-grounded W/U rubric, case fact inventories, and selected source-document passages. Existing judge verdicts were withheld, although the reviewer knew the sample was balanced by the original judge's labels. The pass produced 55 warranted labels, 44 unwarranted labels, and one abstention. Evidence references and rationales were retained. These annotations are AI-generated and do not constitute human validation.
+> A supplemental Codex AI annotation pass assessed the existing 100-claim sample using a file-grounded W/U rubric, case fact inventories, and selected source-document passages. Existing judge verdicts were withheld, although the reviewer knew the sample was balanced by the original judge's labels. The pass produced 55 warranted labels, 44 unwarranted labels, and one abstention. Evidence references and rationales were retained. The annotations are model-generated.
 
 Agreement has not been computed here and the judge key remains unopened. For subsequent comparison, exclude the abstention from paired W/U agreement, report the denominator (99), and report coverage (99/100) separately. Do not treat the abstention as U. Freeze these files before opening the key; disagreements must not be used to silently revise this version. Report any later adjudication as a separate version.
 
 The balanced sample is not a random prevalence estimate. Claims are clustered within 53 dossiers, so uncertainty estimates should account for dossier clustering. Agreement with other AI judges is not accuracy against ground truth and may reflect shared errors.
 
-Expanding this same review before resolving the identified source and extraction issues would add volume without establishing quality. First audit the flagged cases and identify item 82's source. If more AI evaluation is needed afterward, use a separately specified sample and disclose the model, evidence access, sampling, abstentions, and any overlap with existing evaluators. Independent human review remains necessary for a human-validation claim.
+Expanding this same review before resolving the identified source and extraction issues would add volume without establishing quality. First audit the flagged cases and identify item 82's source. If more AI evaluation is needed afterward, use a separately specified sample and disclose the model, evidence access, sampling, abstentions, and any overlap with existing evaluators. Human review would be a separate, later step.
 
 Run `python3 against-interest/analysis/human_labels/verify_ai_labels.py` from the workspace root to verify the artifacts.

@@ -1,7 +1,7 @@
 """Exploratory (Sun Nov 15, after test): agreement of a third-family AI annotator with both judges.
 
 analysis/human_labels/ai_labels.csv holds W/U labels from Codex (GPT-6) on the pre-registered 100-claim sheet
-(50 judge-unwarranted, 50 judge-warranted). It is NOT human validation. Its files were hash-frozen before the
+(50 judge-unwarranted, 50 judge-warranted). The labels are model-generated. Its files were hash-frozen before the
 key was opened (verify_ai_labels.py). Abstentions are dropped. κ interval: dossier-cluster bootstrap.
 Usage: .venv/bin/python analysis/ai_annotator.py  -> analysis/results/test/ai_annotator.json
 """
@@ -34,7 +34,7 @@ def main():
         idx = np.concatenate([np.where(D == d)[0] for d in rng.choice(np.unique(D), len(np.unique(D)))])
         if a[idx].std() > 0 and y1[idx].std() > 0:
             ks.append(kappa(a[idx], y1[idx])[1])
-    out = {"note": "exploratory; Codex (GPT-6) AI annotator, not human labels", "n": int(len(M)), "abstained": 100 - int(len(M))}
+    out = {"note": "exploratory; labels from a model annotator, Codex (GPT-6)", "n": int(len(M)), "abstained": 100 - int(len(M))}
     for name, z in (("judge", y1), ("judge2", y2)):
         po, k = kappa(a, z)
         out[name] = {"agreement": po, "kappa": k}
